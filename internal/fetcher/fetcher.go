@@ -1,6 +1,6 @@
 package fetcher
 
-type fether interface {
+type Fether interface {
 	FetchContents(jobTitle string, criteria map[string]interface{}) []string
 }
 
