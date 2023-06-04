@@ -11,7 +11,7 @@ func NewTextOnlyCrawler() *TextOnlyCrawler {
 		return chromedp.Text("html", dest, chromedp.ByQuery)
 	}
 
-	return &TextOnlyCrawler{crawlerFunction: generateCrawlerFunction(actionGenerator)}
+	return &TextOnlyCrawler{crawlerFunction: generateCrawlerFunction(actionGenerator, false)}
 }
 
 func (toc *TextOnlyCrawler) FetchOnePage(url string) (string, error) {

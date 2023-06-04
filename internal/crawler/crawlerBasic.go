@@ -7,7 +7,7 @@ import (
 	"time"
 )
 
-func generateCrawlerFunction(actionGenerator func(*string) chromedp.Action) func(string) (string, error) {
+func generateCrawlerFunction(actionGenerator func(*string) chromedp.Action, guiEnable bool) func(string) (string, error) {
 	return func(url string) (string, error) {
 
 		headers := map[string]interface{}{
@@ -18,6 +18,9 @@ func generateCrawlerFunction(actionGenerator func(*string) chromedp.Action) func
 		}
 
 		opts := chromedp.DefaultExecAllocatorOptions[:]
+		if guiEnable {
+			opts = append(opts, chromedp.Flag("headless", false))
+		}
 		ctx, cancel := chromedp.NewExecAllocator(context.Background(), opts...)
 		defer cancel()
 		ctx, cancel = context.WithTimeout(ctx, 30*time.Second)

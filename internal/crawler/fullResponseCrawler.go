@@ -11,7 +11,7 @@ func NewFullResponseCrawler() *FullResponseCrawler {
 		return chromedp.OuterHTML("html", dest, chromedp.ByQuery)
 	}
 	return &FullResponseCrawler{
-		crawlerFunction: generateCrawlerFunction(actionGenerator),
+		crawlerFunction: generateCrawlerFunction(actionGenerator, false),
 	}
 }
 
