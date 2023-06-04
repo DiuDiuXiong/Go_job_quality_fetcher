@@ -121,4 +121,6 @@ func generateCrawlerFunction(actionGenerator func(*string) chromedp.Action, guiE
 
 	log.Printf("Window size: %+v", size)
 	log.Printf("User agent: %s", userAgent)
+
+	ToDo: check for indeed us/gb, which will block, and its verified not related to IP. Potentially js check
 */
