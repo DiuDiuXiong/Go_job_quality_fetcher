@@ -7,18 +7,18 @@ import (
 )
 
 type TextCrawler struct {
-	ctx     *context.Context
-	cancel  *context.CancelFunc
-	timeout time.Duration
+	timeout    time.Duration
+	chromeExec *ChromeExecutor
 }
 
-func NewTextCrawler(timeout time.Duration) *TextCrawler {
-	ctx, cancel := newContext()
-	return &TextCrawler{ctx: ctx, cancel: cancel, timeout: timeout}
+func NewTextCrawler(timeout time.Duration, chromeExecutor *ChromeExecutor) *TextCrawler {
+	return &TextCrawler{timeout: timeout, chromeExec: chromeExecutor}
 }
 
 func (cl *TextCrawler) FetchOnePage(url string) (string, error) {
-	ctx, cancel := context.WithTimeout(*cl.ctx, cl.timeout)
+	ctx, cancel := cl.chromeExec.NewContext()
+	defer cancel()
+	ctx, cancel = context.WithTimeout(ctx, cl.timeout)
 	defer cancel()
 	var res string
 	var action chromedp.Action = chromedp.Text("html", &res, chromedp.ByQuery)

@@ -17,9 +17,25 @@ func crawWithAction(ctx context.Context, url string, extractAction *chromedp.Act
 	return err
 }
 
-func newContext() (*context.Context, *context.CancelFunc) {
+type ChromeExecutor struct {
+	ExecContext context.Context
+	CancelFunc  context.CancelFunc
+}
+
+func NewChromeExecutor() *ChromeExecutor {
 	opts := append(chromedp.DefaultExecAllocatorOptions[:], chromedp.Flag("headless", false))
-	ctx, cancel := chromedp.NewExecAllocator(context.Background(), opts...)
-	ctx, cancel = chromedp.NewContext(ctx)
-	return &ctx, &cancel
+	execCtx, execCancel := chromedp.NewExecAllocator(context.Background(), opts...)
+
+	return &ChromeExecutor{
+		ExecContext: execCtx,
+		CancelFunc:  execCancel,
+	}
+}
+
+func (c *ChromeExecutor) NewContext() (context.Context, context.CancelFunc) {
+	return chromedp.NewContext(c.ExecContext)
+}
+
+func (c *ChromeExecutor) ShutDown() {
+	c.CancelFunc()
 }
