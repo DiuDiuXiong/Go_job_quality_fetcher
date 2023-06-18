@@ -95,6 +95,7 @@ func (fetcher *IndeedFetcher) FetchTargetJobUrls(fc *FetchCriteria) ([]string, e
 }
 
 func (fetcher *IndeedFetcher) FetchContents(fc *FetchCriteria) ([]string, error) {
+	// ToDo: Parallel fetch here
 	urls, err := fetcher.FetchTargetJobUrls(fc)
 	if err != nil {
 		return nil, err
