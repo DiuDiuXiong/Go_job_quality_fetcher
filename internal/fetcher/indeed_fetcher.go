@@ -15,7 +15,7 @@ type IndeedFetcher struct {
 	countryCode *map[string]string
 }
 
-func NewIndeedFetcher(timeout time.Duration, chromeExecutor *crawler.ChromeExecutor) *IndeedFetcher {
+func NewIndeedFetcher(timeout time.Duration, chromeExecutor *crawler.ChromeExecutor) Fetcher {
 	return &IndeedFetcher{
 		// ToDo: potential modification here since operations from a single crawler is not parallelizable as needs to navigate to some urls and each crawler only have one tab(new context), maybe include multiple crawler
 		htmlCrawler: crawler.NewHTMLCrawler(timeout, chromeExecutor),
