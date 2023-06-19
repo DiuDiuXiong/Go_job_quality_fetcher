@@ -49,7 +49,7 @@ func extractViewJobJk(html *string) []string { //Need this ID for indeed query: 
 	return res
 }
 
-func extractJobDescriptionUrls(html *string) []string { // urls pointing to actual job description
+func (*IndeedFetcher) extractJobDescriptionUrls(html *string) []string { // urls pointing to actual job description
 	res := extractViewJobJk(html)
 	for idx, jk := range res {
 		res[idx] = "https://au.indeed.com/viewjob?jk=" + jk
@@ -57,7 +57,7 @@ func extractJobDescriptionUrls(html *string) []string { // urls pointing to actu
 	return res
 }
 
-func extractTotalJobCounts(html *string) int {
+func (*IndeedFetcher) extractTotalJobCounts(html *string) int {
 	re := regexp.MustCompile(`<div\s+class="jobsearch-JobCountAndSortPane-jobCount[^>]+><span>(\d+) jobs</span>`)
 	matches := re.FindStringSubmatch(*html)
 	if len(matches) == 0 {
@@ -78,8 +78,8 @@ func (fetcher *IndeedFetcher) FetchTargetJobUrls(fc *FetchCriteria) ([]string, e
 		return nil, err
 	}
 
-	jobFoundCount := extractTotalJobCounts(&html)
-	jobDescriptionUrls := extractJobDescriptionUrls(&html)
+	jobFoundCount := fetcher.extractTotalJobCounts(&html)
+	jobDescriptionUrls := fetcher.extractJobDescriptionUrls(&html)
 
 	pageNumber := 1
 	for len(jobDescriptionUrls) < jobFoundCount && pageNumber <= 3 { //ToDo: More adaptive way to detect stopping point instead of magic number way
@@ -88,7 +88,7 @@ func (fetcher *IndeedFetcher) FetchTargetJobUrls(fc *FetchCriteria) ([]string, e
 		if err != nil {
 			return nil, err
 		}
-		jobDescriptionUrls = append(jobDescriptionUrls, extractJobDescriptionUrls(&html)...)
+		jobDescriptionUrls = append(jobDescriptionUrls, fetcher.extractJobDescriptionUrls(&html)...)
 		pageNumber += 1
 	}
 	return jobDescriptionUrls, nil

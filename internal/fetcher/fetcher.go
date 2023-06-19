@@ -10,4 +10,7 @@ type FetchCriteria struct {
 type Fetcher interface {
 	FetchContents(criteria *FetchCriteria) ([]string, error)              // get all contents based on search criteria
 	FetchCriteriaToUrl(fc *FetchCriteria, pageNumber int) (string, error) // transfer to query urls (first three page)
+	extractJobDescriptionUrls(html *string) []string                      // extract link to actual jobs based on a search page results
+	extractTotalJobCounts(html *string) int                               // extract number job gets based on a sort
+	FetchTargetJobUrls(fc *FetchCriteria) ([]string, error)               // wrapper for extractJobDescriptionUrls to define stop condition (we might interested in jobs more than one page)
 }
