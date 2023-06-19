@@ -11,7 +11,7 @@ type TextCrawler struct {
 	chromeExec *ChromeExecutor
 }
 
-func NewTextCrawler(timeout time.Duration, chromeExecutor *ChromeExecutor) *TextCrawler {
+func NewTextCrawler(timeout time.Duration, chromeExecutor *ChromeExecutor) Crawler {
 	return &TextCrawler{timeout: timeout, chromeExec: chromeExecutor}
 }
 
