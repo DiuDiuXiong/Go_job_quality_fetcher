@@ -95,19 +95,11 @@ func (fetcher *IndeedFetcher) FetchTargetJobUrls(fc *FetchCriteria) ([]string, e
 }
 
 func (fetcher *IndeedFetcher) FetchContents(fc *FetchCriteria) ([]string, error) {
-	// ToDo: Parallel fetch here
+
 	urls, err := fetcher.FetchTargetJobUrls(fc)
 	if err != nil {
 		return nil, err
 	}
-
-	res := make([]string, len(urls))
-	for idx, url := range urls {
-		text, err := fetcher.textCrawler.FetchOnePage(url)
-		if err != nil {
-			return nil, err
-		}
-		res[idx] = text
-	}
-	return res, nil
+	// ToDo: Parallel fetch here
+	return fetcher.textCrawler.FetchManyPages(urls)
 }
