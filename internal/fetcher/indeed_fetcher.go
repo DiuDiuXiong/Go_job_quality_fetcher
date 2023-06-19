@@ -26,7 +26,7 @@ func NewIndeedFetcher(timeout time.Duration, chromeExecutor *crawler.ChromeExecu
 	}
 }
 
-//ToDo: Add test cases
+//ToDo: Add test cases (To examine all possible corner cases)
 func (fetcher *IndeedFetcher) FetchCriteriaToUrl(fc *FetchCriteria, pageNumber int) (string, error) {
 	if len(fc.Description) == 0 || len(fc.JobTitle) == 0 || fc.Duration <= 0 || len(fc.Country) == 0 {
 		return "", fmt.Errorf("one of fetch criteria is missing or invalid: expect description, job title and country be non-empty and duration be greater than 0")
@@ -39,7 +39,8 @@ func (fetcher *IndeedFetcher) FetchCriteriaToUrl(fc *FetchCriteria, pageNumber i
 		(*fetcher.countryCode)[fc.Country], jobString, fc.Country, pageNumber*10, fc.Duration), nil
 }
 
-func extractViewJobJk(html *string) []string { //Need this ID for indeed query: https://au.indeed.com/viewjob?jk=<jkID>
+//ToDo: Add test cases
+func extractIndeedJobJk(html *string) []string { //Need this ID for indeed query: https://au.indeed.com/viewjob?jk=<jkID>
 	regex := regexp.MustCompile(`/viewjob\?jk=(.*?)&`)
 	matches := regex.FindAllStringSubmatch(*html, -1)
 	res := make([]string, len(matches))
@@ -49,14 +50,16 @@ func extractViewJobJk(html *string) []string { //Need this ID for indeed query: 
 	return res
 }
 
+//ToDo: Add test cases
 func (*IndeedFetcher) extractJobDescriptionUrls(html *string) []string { // urls pointing to actual job description
-	res := extractViewJobJk(html)
+	res := extractIndeedJobJk(html)
 	for idx, jk := range res {
 		res[idx] = "https://au.indeed.com/viewjob?jk=" + jk
 	}
 	return res
 }
 
+//ToDo: Add test cases
 func (*IndeedFetcher) extractTotalJobCounts(html *string) int {
 	re := regexp.MustCompile(`<div\s+class="jobsearch-JobCountAndSortPane-jobCount[^>]+><span>(\d+) jobs</span>`)
 	matches := re.FindStringSubmatch(*html)
@@ -67,6 +70,7 @@ func (*IndeedFetcher) extractTotalJobCounts(html *string) int {
 	return count
 }
 
+// ToDo: Add test cases to avoid duplicates
 func (fetcher *IndeedFetcher) FetchTargetJobUrls(fc *FetchCriteria) ([]string, error) {
 	url, err := fetcher.FetchCriteriaToUrl(fc, 0)
 	if err != nil {
