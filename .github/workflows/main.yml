@@ -1,0 +1,29 @@
+name: Main CI check
+
+on:
+  pull_request:
+    types: [opened, synchronize, reopened]
+    branches:
+      - main
+      
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    
+    steps:
+    - name: go env 1.18
+      uses: actions/setup-go@v2
+      with:
+        go-version: 1.18
+
+    - name: branch
+      uses: actions/checkout@v2
+      
+    - name: assert required test file exists
+      run: |
+        if [ -z "$(ls -A ./tests)" ]; then
+           echo "Test directory is empty"
+           exit 1
+        else
+           echo "Test directory is not empty"
+        fi
