@@ -21,7 +21,7 @@ jobs:
       
     - name: assert required test file exists
       run: |
-        if [ -z "$(ls -A ./tests)" ]; then
+        if [ -z "$(ls -A ./test)" ]; then
            echo "Test directory is empty"
            exit 1
         else
