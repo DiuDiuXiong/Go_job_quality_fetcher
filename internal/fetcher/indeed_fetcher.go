@@ -40,7 +40,7 @@ func (fetcher *IndeedFetcher) FetchCriteriaToUrl(fc *FetchCriteria, pageNumber i
 }
 
 //ToDo: Add test cases
-func extractIndeedJobJk(html *string) []string { //Need this ID for indeed query: https://au.indeed.com/viewjob?jk=<jkID>
+func ExtractIndeedJobJk(html *string) []string { //Need this ID for indeed query: https://au.indeed.com/viewjob?jk=<jkID>
 	regex := regexp.MustCompile(`/viewjob\?jk=(.*?)&`)
 	matches := regex.FindAllStringSubmatch(*html, -1)
 	res := make([]string, len(matches))
@@ -51,8 +51,8 @@ func extractIndeedJobJk(html *string) []string { //Need this ID for indeed query
 }
 
 //ToDo: Add test cases
-func (*IndeedFetcher) extractJobDescriptionUrls(html *string) []string { // urls pointing to actual job description
-	res := extractIndeedJobJk(html)
+func (*IndeedFetcher) ExtractJobDescriptionUrls(html *string) []string { // urls pointing to actual job description
+	res := ExtractIndeedJobJk(html)
 	for idx, jk := range res {
 		res[idx] = "https://au.indeed.com/viewjob?jk=" + jk
 	}
@@ -60,7 +60,7 @@ func (*IndeedFetcher) extractJobDescriptionUrls(html *string) []string { // urls
 }
 
 //ToDo: Add test cases
-func (*IndeedFetcher) extractTotalJobCounts(html *string) int {
+func (*IndeedFetcher) ExtractTotalJobCounts(html *string) int {
 	re := regexp.MustCompile(`<div\s+class="jobsearch-JobCountAndSortPane-jobCount[^>]+><span>(\d+) jobs</span>`)
 	matches := re.FindStringSubmatch(*html)
 	if len(matches) == 0 {
@@ -82,8 +82,8 @@ func (fetcher *IndeedFetcher) FetchTargetJobUrls(fc *FetchCriteria) ([]string, e
 		return nil, err
 	}
 
-	jobFoundCount := fetcher.extractTotalJobCounts(&html)
-	jobDescriptionUrls := fetcher.extractJobDescriptionUrls(&html)
+	jobFoundCount := fetcher.ExtractTotalJobCounts(&html)
+	jobDescriptionUrls := fetcher.ExtractJobDescriptionUrls(&html)
 
 	pageNumber := 1
 	for len(jobDescriptionUrls) < jobFoundCount && pageNumber <= 3 { //ToDo: More adaptive way to detect stopping point instead of magic number way
@@ -92,7 +92,7 @@ func (fetcher *IndeedFetcher) FetchTargetJobUrls(fc *FetchCriteria) ([]string, e
 		if err != nil {
 			return nil, err
 		}
-		jobDescriptionUrls = append(jobDescriptionUrls, fetcher.extractJobDescriptionUrls(&html)...)
+		jobDescriptionUrls = append(jobDescriptionUrls, fetcher.ExtractJobDescriptionUrls(&html)...)
 		pageNumber += 1
 	}
 	return jobDescriptionUrls, nil
