@@ -26,7 +26,7 @@ func NewSeekFetcher(timeout time.Duration, chromeExecutor *crawler.ChromeExecuto
 }
 
 //ToDo: Add test cases
-func extractSeekJobId(html *string) []string {
+func ExtractSeekJobId(html *string) []string {
 	regex := regexp.MustCompile(`data-job-id="(.*?)"`)
 	matches := regex.FindAllStringSubmatch(*html, -1)
 	res := make([]string, len(matches))
@@ -61,8 +61,8 @@ func (fetcher *SeekFetcher) FetchCriteriaToUrl(fc *FetchCriteria, pageNumber int
 }
 
 //ToDo: Add test cases
-func (*SeekFetcher) extractJobDescriptionUrls(html *string) []string {
-	res := extractSeekJobId(html)
+func (*SeekFetcher) ExtractJobDescriptionUrls(html *string) []string {
+	res := ExtractSeekJobId(html)
 	for idx, id := range res {
 		res[idx] = "https://www.seek.com.au/job/" + id
 	}
@@ -70,7 +70,7 @@ func (*SeekFetcher) extractJobDescriptionUrls(html *string) []string {
 }
 
 //ToDo: Add test cases
-func (*SeekFetcher) extractTotalJobCounts(html *string) int {
+func (*SeekFetcher) ExtractTotalJobCounts(html *string) int {
 	re := regexp.MustCompile(`<span\sdata-automation="totalJobsCount">(.*?)</span>`)
 	matches := re.FindStringSubmatch(*html)
 	if len(matches) == 0 {
@@ -93,8 +93,8 @@ func (fetcher *SeekFetcher) FetchTargetJobUrls(fc *FetchCriteria) ([]string, err
 		return nil, err
 	}
 
-	jobFoundCount := fetcher.extractTotalJobCounts(&html)
-	jobDescriptionUrls := fetcher.extractJobDescriptionUrls(&html)
+	jobFoundCount := fetcher.ExtractTotalJobCounts(&html)
+	jobDescriptionUrls := fetcher.ExtractJobDescriptionUrls(&html)
 
 	pageNumber := 2
 	for len(jobDescriptionUrls) < jobFoundCount && pageNumber <= 3 { //ToDo: More adaptive way to detect stopping point instead of magic number way
@@ -104,7 +104,7 @@ func (fetcher *SeekFetcher) FetchTargetJobUrls(fc *FetchCriteria) ([]string, err
 		if err != nil {
 			return nil, err
 		}
-		jobDescriptionUrls = append(jobDescriptionUrls, fetcher.extractJobDescriptionUrls(&html)...)
+		jobDescriptionUrls = append(jobDescriptionUrls, fetcher.ExtractJobDescriptionUrls(&html)...)
 		pageNumber += 1
 	}
 	return jobDescriptionUrls, nil
