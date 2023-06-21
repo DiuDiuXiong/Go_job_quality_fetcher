@@ -1,3 +1,3 @@
 # Test Structure
 
-... More structure about test comming soon
+... More structure about test coming soon
