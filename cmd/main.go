@@ -35,12 +35,12 @@ func main() {
 
 	//fmt.Println(htmlF.FetchOnePage("https://www.seek.com.au/Tax-jobs"))
 	seek := fetcher.NewSeekFetcher(duration, chromeExecutor)
-	jobURLs, _ := seek.FetchTargetJobUrls(&fetcher.FetchCriteria{
+	jobContents, _ := seek.FetchContents(&fetcher.FetchCriteria{
 		JobTitle:    "SRE",
 		Duration:    50,
 		Description: "-",
 		Country:     "Australia",
 	})
-	fmt.Println(jobURLs)
+	fmt.Println(jobContents)
 
 }

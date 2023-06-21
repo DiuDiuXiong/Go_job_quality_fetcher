@@ -36,8 +36,13 @@ func extractSeekJobId(html *string) []string {
 	return res
 }
 
-func (*SeekFetcher) FetchContents(criteria *FetchCriteria) ([]string, error) {
-	return nil, nil
+func (fetcher *SeekFetcher) FetchContents(criteria *FetchCriteria) ([]string, error) {
+	urls, err := fetcher.FetchTargetJobUrls(criteria)
+	if err != nil {
+		return nil, err
+	}
+
+	return fetcher.textCrawler.FetchManyPages(urls)
 }
 
 //ToDo: Add test cases
