@@ -121,7 +121,7 @@ func TestSeekExtractSeekJobId(t *testing.T) {
 	htmlStr := string(html)
 
 	ids := fetcher.ExtractSeekJobId(&htmlStr)
-	if len(ids) > 1 || len(ids) < 10 {
+	if len(ids) > 25 || len(ids) < 10 {
 		t.Errorf("Extract Seek Job ID failed, with %d results, please refer to /internal/crawler/html_test.go to see if the link it outdated, or if Job ID number changed.", len(ids))
 	}
 }
