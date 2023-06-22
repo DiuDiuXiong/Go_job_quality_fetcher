@@ -5,12 +5,12 @@ on:
     types: [opened, synchronize, reopened]
     branches:
       - main
-      
+
 jobs:
   build:
     name: Main CI check
     runs-on: ubuntu-latest
-    
+
     steps:
     - name: go env 1.18
       uses: actions/setup-go@v2
@@ -19,7 +19,7 @@ jobs:
 
     - name: branch
       uses: actions/checkout@v2
-      
+
     - name: assert required test file exists
       run: |
         if [ -z "$(ls -A ./test)" ]; then
@@ -28,3 +28,6 @@ jobs:
         else
            echo "Test directory is not empty"
         fi
+
+    - name: run fetcher tests
+      run: go test ./internal/fetcher/...
