@@ -1,8 +1,8 @@
 package fetcher
 
 import (
-	"example.com/m/v2/internal/crawler"
 	"fmt"
+	"github.com/DiuDiuXiong/Go_job_quality_fetcher/internal/crawler"
 	"regexp"
 	"strconv"
 	"strings"
