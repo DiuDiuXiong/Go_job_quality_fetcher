@@ -26,7 +26,6 @@ func NewIndeedFetcher(timeout time.Duration, chromeExecutor *crawler.ChromeExecu
 	}
 }
 
-//ToDo: Add test cases (To examine all possible corner cases)
 func (fetcher *IndeedFetcher) FetchCriteriaToUrl(fc *FetchCriteria, pageNumber int) (string, error) {
 	if len(fc.Description) == 0 || len(fc.JobTitle) == 0 || fc.Duration <= 0 || len(fc.Country) == 0 {
 		return "", fmt.Errorf("one of fetch criteria is missing or invalid: expect description, job title and country be non-empty and duration be greater than 0")
