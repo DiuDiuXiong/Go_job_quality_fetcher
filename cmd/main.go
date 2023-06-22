@@ -1,9 +1,9 @@
 package main
 
 import (
-	"example.com/m/v2/internal/crawler"
-	"example.com/m/v2/internal/fetcher"
 	"fmt"
+	"github.com/DiuDiuXiong/Go_job_quality_fetcher/internal/crawler"
+	"github.com/DiuDiuXiong/Go_job_quality_fetcher/internal/fetcher"
 	"time"
 )
 

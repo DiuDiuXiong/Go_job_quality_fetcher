@@ -1,7 +1,7 @@
 package crawler
 
 import (
-	"example.com/m/v2/internal/crawler"
+	"github.com/DiuDiuXiong/Go_job_quality_fetcher/internal/crawler"
 	"strings"
 	"testing"
 	"time"

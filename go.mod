@@ -1,4 +1,4 @@
-module example.com/m/v2
+module github.com/DiuDiuXiong/Go_job_quality_fetcher
 
 go 1.18
 
