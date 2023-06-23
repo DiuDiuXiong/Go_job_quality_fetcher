@@ -24,8 +24,24 @@ func NewLinkedinFetcher(timeout time.Duration, chromeExecutor *crawler.ChromeExe
 	}
 }
 
-func (*LinkedinFetcher) FetchContents(criteria *FetchCriteria) ([]string, error) {
-	return nil, nil
+func (fetcher *LinkedinFetcher) FetchContents(criteria *FetchCriteria) ([]string, error) {
+	urls, err := fetcher.FetchTargetJobUrls(criteria)
+	if err != nil {
+		return nil, err
+	}
+	res := make([]string, len(urls))
+	for idx, url := range urls {
+		text, err := fetcher.textCrawler.FetchOnePage(url)
+		if err != nil {
+			res[idx] = err.Error()
+		} else {
+			res[idx] = text
+		}
+		time.Sleep(time.Millisecond * 50)
+	}
+
+	return res, nil
+
 }
 
 func (fetcher *LinkedinFetcher) FetchCriteriaToUrl(fc *FetchCriteria, startNumber int) (string, error) { // LinkedIn use a scroll approach for more jobs, each time load 25 jobs
