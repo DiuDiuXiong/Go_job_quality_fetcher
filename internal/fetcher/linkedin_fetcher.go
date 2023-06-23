@@ -1,7 +1,9 @@
 package fetcher
 
 import (
+	"fmt"
 	"github.com/DiuDiuXiong/Go_job_quality_fetcher/internal/crawler"
+	"net/url"
 	"time"
 )
 
@@ -12,7 +14,7 @@ type LinkedinFetcher struct {
 }
 
 func NewLinkedinFetcher(timeout time.Duration, chromeExecutor *crawler.ChromeExecutor) Fetcher {
-	return &SeekFetcher{
+	return &LinkedinFetcher{
 		htmlCrawler: crawler.NewHTMLCrawler(timeout, chromeExecutor),
 		textCrawler: crawler.NewTextCrawler(timeout, chromeExecutor),
 		countryCode: &map[string]string{
@@ -25,8 +27,22 @@ func (*LinkedinFetcher) FetchContents(criteria *FetchCriteria) ([]string, error)
 	return nil, nil
 }
 
-func (*LinkedinFetcher) FetchCriteriaToUrl(fc *FetchCriteria, pageNumber int) (string, error) {
-	return "", nil
+func (fetcher *LinkedinFetcher) FetchCriteriaToUrl(fc *FetchCriteria, startNumber int) (string, error) { // LinkedIn use a scroll approach for more jobs, each time load 25 jobs
+	if len(fc.Description) == 0 || len(fc.JobTitle) == 0 || fc.Duration <= 0 || len(fc.Country) == 0 {
+		return "", fmt.Errorf("one of fetch criteria is missing or invalid: expect description, job title and country be non-empty and duration be greater than 0")
+	}
+
+	if _, exist := (*fetcher.countryCode)[fc.Country]; !exist {
+		return "", fmt.Errorf("country: %s not supported", fc.Country)
+	}
+
+	dayToSec := func(d int) int { return d * 86400 }
+
+	jobTitleEncoded := url.QueryEscape(fc.JobTitle)
+	countryEncoded := url.QueryEscape(fc.Country)
+
+	return fmt.Sprintf("https://%s.linkedin.com/jobs/api/seeMoreJobPostings/search?keywords=%s&location=%s&start=%d&f_TPR=r%d",
+		(*fetcher.countryCode)[fc.Country], jobTitleEncoded, countryEncoded, startNumber, dayToSec(fc.Duration)), nil
 }
 
 func (*LinkedinFetcher) ExtractJobDescriptionUrls(html *string) []string {
