@@ -4,6 +4,7 @@ import (
 	"fmt"
 	"github.com/DiuDiuXiong/Go_job_quality_fetcher/internal/crawler"
 	"net/url"
+	"regexp"
 	"time"
 )
 
@@ -46,7 +47,17 @@ func (fetcher *LinkedinFetcher) FetchCriteriaToUrl(fc *FetchCriteria, startNumbe
 }
 
 func (*LinkedinFetcher) ExtractJobDescriptionUrls(html *string) []string {
-	return nil
+	re := regexp.MustCompile(`<a class="base-card__full-link absolute top-0 right-0 bottom-0 left-0 p-0 z-\[2\]" href="(.*?)"`)
+	matches := re.FindAllStringSubmatch(*html, -1)
+
+	var results []string
+	for _, match := range matches {
+		if len(match) >= 2 {
+			results = append(results, match[1])
+		}
+	}
+
+	return results
 }
 
 func (*LinkedinFetcher) ExtractTotalJobCounts(html *string) int { // No much value here since we query the api, when we reach a startNumber exceed maximum jobs, it will just return empty page so we know we reach limit
