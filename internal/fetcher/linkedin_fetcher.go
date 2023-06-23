@@ -64,6 +64,28 @@ func (*LinkedinFetcher) ExtractTotalJobCounts(html *string) int { // No much val
 	return 0
 }
 
-func (*LinkedinFetcher) FetchTargetJobUrls(fc *FetchCriteria) ([]string, error) {
-	return nil, nil
+func (fetcher *LinkedinFetcher) FetchTargetJobUrls(fc *FetchCriteria) ([]string, error) {
+
+	url1, err1 := fetcher.FetchCriteriaToUrl(fc, 0)
+	url2, err2 := fetcher.FetchCriteriaToUrl(fc, 25)
+	url3, err3 := fetcher.FetchCriteriaToUrl(fc, 50)
+	if err1 != nil {
+		return nil, err1
+	} else if err2 != nil {
+		return nil, err2
+	} else if err3 != nil {
+		return nil, err3
+	}
+
+	pages, err := fetcher.htmlCrawler.FetchManyPages([]string{url1, url2, url3})
+	if err != nil {
+		return nil, err
+	}
+
+	urls := make([]string, 0)
+	for _, p := range pages {
+		urls = append(urls, fetcher.ExtractJobDescriptionUrls(&p)...)
+	}
+	return urls[:65], nil
+
 }
