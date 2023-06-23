@@ -48,9 +48,11 @@ func (fetcher *LinkedinFetcher) FetchCriteriaToUrl(fc *FetchCriteria, startNumbe
 func (*LinkedinFetcher) ExtractJobDescriptionUrls(html *string) []string {
 	return nil
 }
-func (*LinkedinFetcher) ExtractTotalJobCounts(html *string) int {
+
+func (*LinkedinFetcher) ExtractTotalJobCounts(html *string) int { // No much value here since we query the api, when we reach a startNumber exceed maximum jobs, it will just return empty page so we know we reach limit
 	return 0
 }
+
 func (*LinkedinFetcher) FetchTargetJobUrls(fc *FetchCriteria) ([]string, error) {
 	return nil, nil
 }
