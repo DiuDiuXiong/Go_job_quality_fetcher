@@ -25,7 +25,6 @@ func NewSeekFetcher(timeout time.Duration, chromeExecutor *crawler.ChromeExecuto
 	}
 }
 
-//ToDo: Add test cases
 func ExtractSeekJobId(html *string) []string {
 	regex := regexp.MustCompile(`data-job-id="(.*?)"`)
 	matches := regex.FindAllStringSubmatch(*html, -1)
@@ -45,7 +44,6 @@ func (fetcher *SeekFetcher) FetchContents(criteria *FetchCriteria) ([]string, er
 	return fetcher.textCrawler.FetchManyPages(urls)
 }
 
-//ToDo: Add test cases
 func (fetcher *SeekFetcher) FetchCriteriaToUrl(fc *FetchCriteria, pageNumber int) (string, error) {
 	if len(fc.Description) == 0 || len(fc.JobTitle) == 0 || fc.Duration <= 0 || len(fc.Country) == 0 {
 		return "", fmt.Errorf("one of fetch criteria is missing or invalid: expect description, job title and country be non-empty and duration be greater than 0")
@@ -60,7 +58,6 @@ func (fetcher *SeekFetcher) FetchCriteriaToUrl(fc *FetchCriteria, pageNumber int
 		(*fetcher.countryCode)[fc.Country], jobString, countryString, fc.Duration, pageNumber), nil
 }
 
-//ToDo: Add test cases
 func (*SeekFetcher) ExtractJobDescriptionUrls(html *string) []string {
 	res := ExtractSeekJobId(html)
 	for idx, id := range res {
@@ -69,7 +66,6 @@ func (*SeekFetcher) ExtractJobDescriptionUrls(html *string) []string {
 	return res
 }
 
-//ToDo: Add test cases
 func (*SeekFetcher) ExtractTotalJobCounts(html *string) int {
 	re := regexp.MustCompile(`<span\sdata-automation="totalJobsCount">(.*?)</span>`)
 	matches := re.FindStringSubmatch(*html)
@@ -80,7 +76,6 @@ func (*SeekFetcher) ExtractTotalJobCounts(html *string) int {
 	return count
 }
 
-// ToDo: Add test cases to avoid duplicates
 func (fetcher *SeekFetcher) FetchTargetJobUrls(fc *FetchCriteria) ([]string, error) {
 	url, err := fetcher.FetchCriteriaToUrl(fc, 1)
 	fmt.Println(url)
