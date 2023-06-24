@@ -34,6 +34,11 @@ func TestFetchJobDescriptionURLFormat(t *testing.T) {
 			urls:            "https://au.indeed.com/viewjob?jk=87d5a9a8a5cd6a3f",
 			notFoundMessage: []string{"The page you requested could not be found.", "We can’t find this page"},
 		},
+		{
+			target:          "Linkedin",
+			urls:            "https://au.linkedin.com/jobs/view/senior-site-reliability-engineer-at-oracle-3637027331",
+			notFoundMessage: []string{"Page not found", "we can’t seem to find the page you’re looking for"},
+		},
 	}
 
 	for _, tt := range tests {

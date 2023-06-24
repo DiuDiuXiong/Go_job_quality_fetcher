@@ -1,0 +1,3099 @@
+<html><head></head><body><li>
+        
+
+    
+
+    
+    
+    
+      <div class="base-card relative w-full hover:no-underline focus:no-underline base-card--link base-search-card base-search-card--link job-search-card" data-entity-urn="urn:li:jobPosting:3637027331" data-search-id="pSNOx5leY8uR5pLqtBvrEQ==" data-tracking-id="V8w1Xo+aGVwY13XSUTt53A==" data-column="1" data-row="1">
+        
+
+        <a class="base-card__full-link absolute top-0 right-0 bottom-0 left-0 p-0 z-[2]" href="https://au.linkedin.com/jobs/view/senior-site-reliability-engineer-at-oracle-3637027331?refId=pSNOx5leY8uR5pLqtBvrEQ%3D%3D&amp;trackingId=V8w1Xo%2BaGVwY13XSUTt53A%3D%3D&amp;position=1&amp;pageNum=0&amp;trk=public_jobs_jserp-result_search-card" data-tracking-control-name="public_jobs_jserp-result_search-card" data-tracking-client-ingraph="" data-tracking-will-navigate="">
+          
+          <span class="sr-only">
+              
+        
+        Senior Site Reliability Engineer
+      
+      
+          </span>
+        </a>
+
+      
+        
+    <div class="search-entity-media">
+        
+      <img class="artdeco-entity-image artdeco-entity-image--square-4
+          " data-delayed-url="https://media.licdn.com/dms/image/D4E0BAQHYCgYovUuPtQ/company-logo_100_100/0/1665755678671?e=2147483647&amp;v=beta&amp;t=BBjGBVZ-kcxvjwTFPVNymoU4ilfvgMSDDovXm5R2lS4" data-ghost-classes="artdeco-entity-image--ghost" data-ghost-url="https://static.licdn.com/aero-v1/sc/h/9a9u41thxt325ucfh5z8ga4m8" alt="">
+  
+    </div>
+  
+
+        <div class="base-search-card__info">
+          <h3 class="base-search-card__title">
+            
+        Senior Site Reliability Engineer
+      
+          </h3>
+
+            <h4 class="base-search-card__subtitle">
+              
+          <a class="hidden-nested-link" data-tracking-client-ingraph="" data-tracking-control-name="public_jobs_jserp-result_job-search-card-subtitle" data-tracking-will-navigate="" href="https://www.linkedin.com/company/oracle?trk=public_jobs_jserp-result_job-search-card-subtitle">
+            Oracle
+          </a>
+      
+            </h4>
+
+<!---->
+            <div class="base-search-card__metadata">
+              
+          <span class="job-search-card__location">
+            Melbourne, Victoria, Australia
+          </span>
+
+<!---->
+          <div class="job-search-card__benefits">
+            
+              
+    
+    
+    
+    
+
+    <div class="result-benefits">
+      <icon class="result-benefits__icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/1pwj7aot6lxrfhr9sdta6cnxw" data-svg-class-name="result-benefits__icon-svg"></icon>
+      <span class="result-benefits__text">
+         Actively Hiring
+<!---->      </span>
+    </div>
+  
+          
+          </div>
+
+<!---->
+          <time class="job-search-card__listdate" datetime="2023-06-21">
+            
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+
+      2 days ago
+  
+          </time>
+
+<!---->      
+            </div>
+        </div>
+<!---->      
+    
+      </div>
+  
+  
+  
+  
+      </li>
+      <li>
+        
+
+    
+
+    
+    
+    
+      <div class="base-card relative w-full hover:no-underline focus:no-underline base-card--link base-search-card base-search-card--link job-search-card" data-entity-urn="urn:li:jobPosting:3641791966" data-search-id="pSNOx5leY8uR5pLqtBvrEQ==" data-tracking-id="lp16paOuhvylU69SehPmgA==" data-column="1" data-row="2">
+        
+
+        <a class="base-card__full-link absolute top-0 right-0 bottom-0 left-0 p-0 z-[2]" href="https://au.linkedin.com/jobs/view/senior-engineer-site-reliability-engineering-sre-at-osl-3641791966?refId=pSNOx5leY8uR5pLqtBvrEQ%3D%3D&amp;trackingId=lp16paOuhvylU69SehPmgA%3D%3D&amp;position=2&amp;pageNum=0&amp;trk=public_jobs_jserp-result_search-card" data-tracking-control-name="public_jobs_jserp-result_search-card" data-tracking-client-ingraph="" data-tracking-will-navigate="">
+          
+          <span class="sr-only">
+              
+        
+        Senior Engineer, Site Reliability Engineering (SRE)
+      
+      
+          </span>
+        </a>
+
+      
+        
+    <div class="search-entity-media">
+        
+      <img class="artdeco-entity-image artdeco-entity-image--square-4
+          " data-delayed-url="https://media.licdn.com/dms/image/C4D0BAQFfDoLowr9dZA/company-logo_100_100/0/1654855442398?e=2147483647&amp;v=beta&amp;t=VxpITDInX74gALr5beYJcVZhbHq7EXc2wG_XsTLG2BE" data-ghost-classes="artdeco-entity-image--ghost" data-ghost-url="https://static.licdn.com/aero-v1/sc/h/9a9u41thxt325ucfh5z8ga4m8" alt="">
+  
+    </div>
+  
+
+        <div class="base-search-card__info">
+          <h3 class="base-search-card__title">
+            
+        Senior Engineer, Site Reliability Engineering (SRE)
+      
+          </h3>
+
+            <h4 class="base-search-card__subtitle">
+              
+          <a class="hidden-nested-link" data-tracking-client-ingraph="" data-tracking-control-name="public_jobs_jserp-result_job-search-card-subtitle" data-tracking-will-navigate="" href="https://hk.linkedin.com/company/osldotcom?trk=public_jobs_jserp-result_job-search-card-subtitle">
+            OSL
+          </a>
+      
+            </h4>
+
+<!---->
+            <div class="base-search-card__metadata">
+              
+          <span class="job-search-card__location">
+            Sydney, New South Wales, Australia
+          </span>
+
+<!---->
+          <div class="job-search-card__benefits">
+            
+              
+    
+    
+    
+    
+
+    <div class="result-benefits">
+      <icon class="result-benefits__icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/ee2elqv6ktdjhlrxiyhac6py6" data-svg-class-name="result-benefits__icon-svg"></icon>
+      <span class="result-benefits__text">
+         Be an early applicant
+<!---->      </span>
+    </div>
+  
+          
+          </div>
+
+<!---->
+          <time class="job-search-card__listdate" datetime="2023-05-28">
+            
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+
+      3 weeks ago
+  
+          </time>
+
+<!---->      
+            </div>
+        </div>
+<!---->      
+    
+      </div>
+  
+  
+  
+  
+      </li>
+      <li>
+        
+
+    
+
+    
+    
+    
+      <div class="base-card relative w-full hover:no-underline focus:no-underline base-card--link base-search-card base-search-card--link job-search-card" data-entity-urn="urn:li:jobPosting:3534645609" data-search-id="pSNOx5leY8uR5pLqtBvrEQ==" data-tracking-id="D514uTsntleUHmgub1V2MA==" data-column="1" data-row="3">
+        
+
+        <a class="base-card__full-link absolute top-0 right-0 bottom-0 left-0 p-0 z-[2]" href="https://au.linkedin.com/jobs/view/site-reliability-engineer-at-datacom-3534645609?refId=pSNOx5leY8uR5pLqtBvrEQ%3D%3D&amp;trackingId=D514uTsntleUHmgub1V2MA%3D%3D&amp;position=3&amp;pageNum=0&amp;trk=public_jobs_jserp-result_search-card" data-tracking-control-name="public_jobs_jserp-result_search-card" data-tracking-client-ingraph="" data-tracking-will-navigate="">
+          
+          <span class="sr-only">
+              
+        
+        Site Reliability Engineer
+      
+      
+          </span>
+        </a>
+
+      
+        
+    <div class="search-entity-media">
+        
+      <img class="artdeco-entity-image artdeco-entity-image--square-4
+          " data-delayed-url="https://media.licdn.com/dms/image/D560BAQGp_oR-uHeDNw/company-logo_100_100/0/1685580964285?e=2147483647&amp;v=beta&amp;t=ag2CpNUkcmncghd6R3EikadA0px17JYoTDr6SkTxZc8" data-ghost-classes="artdeco-entity-image--ghost" data-ghost-url="https://static.licdn.com/aero-v1/sc/h/9a9u41thxt325ucfh5z8ga4m8" alt="">
+  
+    </div>
+  
+
+        <div class="base-search-card__info">
+          <h3 class="base-search-card__title">
+            
+        Site Reliability Engineer
+      
+          </h3>
+
+            <h4 class="base-search-card__subtitle">
+              
+          <a class="hidden-nested-link" data-tracking-client-ingraph="" data-tracking-control-name="public_jobs_jserp-result_job-search-card-subtitle" data-tracking-will-navigate="" href="https://nz.linkedin.com/company/datacom?trk=public_jobs_jserp-result_job-search-card-subtitle">
+            Datacom
+          </a>
+      
+            </h4>
+
+<!---->
+            <div class="base-search-card__metadata">
+              
+          <span class="job-search-card__location">
+            Melbourne, Victoria, Australia
+          </span>
+
+<!---->
+          <div class="job-search-card__benefits">
+            
+              
+    
+    
+    
+    
+
+    <div class="result-benefits">
+      <icon class="result-benefits__icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/1pwj7aot6lxrfhr9sdta6cnxw" data-svg-class-name="result-benefits__icon-svg"></icon>
+      <span class="result-benefits__text">
+         Actively Hiring
+<!---->      </span>
+    </div>
+  
+          
+          </div>
+
+<!---->
+          <time class="job-search-card__listdate" datetime="2023-06-13">
+            
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+
+      1 week ago
+  
+          </time>
+
+<!---->      
+            </div>
+        </div>
+<!---->      
+    
+      </div>
+  
+  
+  
+  
+      </li>
+      <li>
+        
+
+    
+
+    
+    
+    
+      <div class="base-card relative w-full hover:no-underline focus:no-underline base-card--link base-search-card base-search-card--link job-search-card" data-entity-urn="urn:li:jobPosting:3635199437" data-search-id="pSNOx5leY8uR5pLqtBvrEQ==" data-tracking-id="OkxTVHfn3PN75sjCykKOIQ==" data-column="1" data-row="4">
+        
+
+        <a class="base-card__full-link absolute top-0 right-0 bottom-0 left-0 p-0 z-[2]" href="https://au.linkedin.com/jobs/view/devops-engineer-sre-site-reliability-engineer-at-capgemini-engineering-3635199437?refId=pSNOx5leY8uR5pLqtBvrEQ%3D%3D&amp;trackingId=OkxTVHfn3PN75sjCykKOIQ%3D%3D&amp;position=4&amp;pageNum=0&amp;trk=public_jobs_jserp-result_search-card" data-tracking-control-name="public_jobs_jserp-result_search-card" data-tracking-client-ingraph="" data-tracking-will-navigate="">
+          
+          <span class="sr-only">
+              
+        
+        DevOps Engineer / SRE (Site Reliability Engineer)
+      
+      
+          </span>
+        </a>
+
+      
+        
+    <div class="search-entity-media">
+        
+      <img class="artdeco-entity-image artdeco-entity-image--square-4
+          " data-delayed-url="https://media.licdn.com/dms/image/C4E0BAQGf5YDRAgF5ow/company-logo_100_100/0/1675696304352?e=2147483647&amp;v=beta&amp;t=iZEDwsUk2pbwAYrZQc20Iw64qRgXp34dwj58vRtythQ" data-ghost-classes="artdeco-entity-image--ghost" data-ghost-url="https://static.licdn.com/aero-v1/sc/h/9a9u41thxt325ucfh5z8ga4m8" alt="">
+  
+    </div>
+  
+
+        <div class="base-search-card__info">
+          <h3 class="base-search-card__title">
+            
+        DevOps Engineer / SRE (Site Reliability Engineer)
+      
+          </h3>
+
+            <h4 class="base-search-card__subtitle">
+              
+          <a class="hidden-nested-link" data-tracking-client-ingraph="" data-tracking-control-name="public_jobs_jserp-result_job-search-card-subtitle" data-tracking-will-navigate="" href="https://fr.linkedin.com/company/capgemini-engineering?trk=public_jobs_jserp-result_job-search-card-subtitle">
+            Capgemini Engineering
+          </a>
+      
+            </h4>
+
+<!---->
+            <div class="base-search-card__metadata">
+              
+          <span class="job-search-card__location">
+            Perth, Western Australia, Australia
+          </span>
+
+          <span class="job-search-card__salary-info">
+            A$120,000.00
+            -
+            A$150,000.00
+          </span>
+
+          <div class="job-search-card__benefits">
+            
+              
+    
+    
+    
+    
+
+    <div class="result-benefits">
+      <icon class="result-benefits__icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/1pwj7aot6lxrfhr9sdta6cnxw" data-svg-class-name="result-benefits__icon-svg"></icon>
+      <span class="result-benefits__text">
+         Actively Hiring
+<!---->      </span>
+    </div>
+  
+          
+          </div>
+
+<!---->
+          <time class="job-search-card__listdate" datetime="2023-06-20">
+            
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+
+      3 days ago
+  
+          </time>
+
+<!---->      
+            </div>
+        </div>
+<!---->      
+    
+      </div>
+  
+  
+  
+  
+      </li>
+      <li>
+        
+
+    
+
+    
+    
+    
+      <div class="base-card relative w-full hover:no-underline focus:no-underline base-card--link base-search-card base-search-card--link job-search-card" data-entity-urn="urn:li:jobPosting:3631702257" data-search-id="pSNOx5leY8uR5pLqtBvrEQ==" data-tracking-id="qOoeUbmmMOiyEMgBGPn9CQ==" data-column="1" data-row="5">
+        
+
+        <a class="base-card__full-link absolute top-0 right-0 bottom-0 left-0 p-0 z-[2]" href="https://au.linkedin.com/jobs/view/platform-sre-at-talent-realised-pty-ltd-3631702257?refId=pSNOx5leY8uR5pLqtBvrEQ%3D%3D&amp;trackingId=qOoeUbmmMOiyEMgBGPn9CQ%3D%3D&amp;position=5&amp;pageNum=0&amp;trk=public_jobs_jserp-result_search-card" data-tracking-control-name="public_jobs_jserp-result_search-card" data-tracking-client-ingraph="" data-tracking-will-navigate="">
+          
+          <span class="sr-only">
+              
+        
+        Platform SRE
+      
+      
+          </span>
+        </a>
+
+      
+        
+    <div class="search-entity-media">
+        
+      <img class="artdeco-entity-image artdeco-entity-image--square-4
+          " data-delayed-url="https://media.licdn.com/dms/image/C4D0BAQHVlgw1ZMvZ8Q/company-logo_100_100/0/1519899270612?e=2147483647&amp;v=beta&amp;t=GBzP67bWmnhw5HrTmBB4QGKTPdWnRY160ENwoWNYa5Q" data-ghost-classes="artdeco-entity-image--ghost" data-ghost-url="https://static.licdn.com/aero-v1/sc/h/9a9u41thxt325ucfh5z8ga4m8" alt="">
+  
+    </div>
+  
+
+        <div class="base-search-card__info">
+          <h3 class="base-search-card__title">
+            
+        Platform SRE
+      
+          </h3>
+
+            <h4 class="base-search-card__subtitle">
+              
+          <a class="hidden-nested-link" data-tracking-client-ingraph="" data-tracking-control-name="public_jobs_jserp-result_job-search-card-subtitle" data-tracking-will-navigate="" href="https://au.linkedin.com/company/talentrealised-pty-ltd?trk=public_jobs_jserp-result_job-search-card-subtitle">
+            Talent.Realised Pty Ltd 
+          </a>
+      
+            </h4>
+
+<!---->
+            <div class="base-search-card__metadata">
+              
+          <span class="job-search-card__location">
+            Australia
+          </span>
+
+          <span class="job-search-card__salary-info">
+            A$100,000.00
+            -
+            A$160,000.00
+          </span>
+
+          <div class="job-search-card__benefits">
+            
+              
+    
+    
+    
+    
+
+    <div class="result-benefits">
+      <icon class="result-benefits__icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/1pwj7aot6lxrfhr9sdta6cnxw" data-svg-class-name="result-benefits__icon-svg"></icon>
+      <span class="result-benefits__text">
+         Actively Hiring
+<!---->      </span>
+    </div>
+  
+          
+          </div>
+
+<!---->
+          <time class="job-search-card__listdate" datetime="2023-06-15">
+            
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+
+      1 week ago
+  
+          </time>
+
+<!---->      
+            </div>
+        </div>
+<!---->      
+    
+      </div>
+  
+  
+  
+  
+      </li>
+      <li>
+        
+
+    
+
+    
+    
+    
+      <div class="base-card relative w-full hover:no-underline focus:no-underline base-card--link base-search-card base-search-card--link job-search-card" data-entity-urn="urn:li:jobPosting:3590914518" data-search-id="pSNOx5leY8uR5pLqtBvrEQ==" data-tracking-id="AMW7GE85u6VTku6fnlWbTA==" data-column="1" data-row="6">
+        
+
+        <a class="base-card__full-link absolute top-0 right-0 bottom-0 left-0 p-0 z-[2]" href="https://au.linkedin.com/jobs/view/site-reliability-engineer-at-lab-group-3590914518?refId=pSNOx5leY8uR5pLqtBvrEQ%3D%3D&amp;trackingId=AMW7GE85u6VTku6fnlWbTA%3D%3D&amp;position=6&amp;pageNum=0&amp;trk=public_jobs_jserp-result_search-card" data-tracking-control-name="public_jobs_jserp-result_search-card" data-tracking-client-ingraph="" data-tracking-will-navigate="">
+          
+          <span class="sr-only">
+              
+        
+        Site Reliability Engineer
+      
+      
+          </span>
+        </a>
+
+      
+        
+    <div class="search-entity-media">
+        
+      <img class="artdeco-entity-image artdeco-entity-image--square-4
+          " data-delayed-url="https://media.licdn.com/dms/image/C4D0BAQGKOb9bPz-iqg/company-logo_100_100/0/1617140877244?e=2147483647&amp;v=beta&amp;t=HYCGzQnk-iBRxGD6XrLRvEaikYfUvwaTqwifTr3FAOE" data-ghost-classes="artdeco-entity-image--ghost" data-ghost-url="https://static.licdn.com/aero-v1/sc/h/9a9u41thxt325ucfh5z8ga4m8" alt="">
+  
+    </div>
+  
+
+        <div class="base-search-card__info">
+          <h3 class="base-search-card__title">
+            
+        Site Reliability Engineer
+      
+          </h3>
+
+            <h4 class="base-search-card__subtitle">
+              
+          <a class="hidden-nested-link" data-tracking-client-ingraph="" data-tracking-control-name="public_jobs_jserp-result_job-search-card-subtitle" data-tracking-will-navigate="" href="https://au.linkedin.com/company/lab-group-2?trk=public_jobs_jserp-result_job-search-card-subtitle">
+            LAB Group
+          </a>
+      
+            </h4>
+
+<!---->
+            <div class="base-search-card__metadata">
+              
+          <span class="job-search-card__location">
+            Sydney, New South Wales, Australia
+          </span>
+
+<!---->
+          <div class="job-search-card__benefits">
+            
+              
+    
+    
+    
+    
+
+    <div class="result-benefits">
+      <icon class="result-benefits__icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/1pwj7aot6lxrfhr9sdta6cnxw" data-svg-class-name="result-benefits__icon-svg"></icon>
+      <span class="result-benefits__text">
+         Actively Hiring
+<!---->      </span>
+    </div>
+  
+          
+          </div>
+
+<!---->
+          <time class="job-search-card__listdate" datetime="2023-05-03">
+            
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+
+      1 month ago
+  
+          </time>
+
+<!---->      
+            </div>
+        </div>
+<!---->      
+    
+      </div>
+  
+  
+  
+  
+      </li>
+      <li>
+        
+
+    
+
+    
+    
+    
+      <div class="base-card relative w-full hover:no-underline focus:no-underline base-card--link base-search-card base-search-card--link job-search-card" data-entity-urn="urn:li:jobPosting:3587021794" data-search-id="pSNOx5leY8uR5pLqtBvrEQ==" data-tracking-id="TqfakOShJRYBBw3uOaVsOQ==" data-column="1" data-row="7">
+        
+
+        <a class="base-card__full-link absolute top-0 right-0 bottom-0 left-0 p-0 z-[2]" href="https://au.linkedin.com/jobs/view/sre-manager-at-alation-3587021794?refId=pSNOx5leY8uR5pLqtBvrEQ%3D%3D&amp;trackingId=TqfakOShJRYBBw3uOaVsOQ%3D%3D&amp;position=7&amp;pageNum=0&amp;trk=public_jobs_jserp-result_search-card" data-tracking-control-name="public_jobs_jserp-result_search-card" data-tracking-client-ingraph="" data-tracking-will-navigate="">
+          
+          <span class="sr-only">
+              
+        
+        SRE Manager
+      
+      
+          </span>
+        </a>
+
+      
+        
+    <div class="search-entity-media">
+        
+      <img class="artdeco-entity-image artdeco-entity-image--square-4
+          " data-delayed-url="https://media.licdn.com/dms/image/C560BAQH7g8MTOR5ahQ/company-logo_100_100/0/1622815194282?e=2147483647&amp;v=beta&amp;t=OwIj2hMuL7SBRw671H-nkqZFLgGMWBUIWV5sueLe_b8" data-ghost-classes="artdeco-entity-image--ghost" data-ghost-url="https://static.licdn.com/aero-v1/sc/h/9a9u41thxt325ucfh5z8ga4m8" alt="">
+  
+    </div>
+  
+
+        <div class="base-search-card__info">
+          <h3 class="base-search-card__title">
+            
+        SRE Manager
+      
+          </h3>
+
+            <h4 class="base-search-card__subtitle">
+              
+          <a class="hidden-nested-link" data-tracking-client-ingraph="" data-tracking-control-name="public_jobs_jserp-result_job-search-card-subtitle" data-tracking-will-navigate="" href="https://www.linkedin.com/company/alation?trk=public_jobs_jserp-result_job-search-card-subtitle">
+            Alation
+          </a>
+      
+            </h4>
+
+<!---->
+            <div class="base-search-card__metadata">
+              
+          <span class="job-search-card__location">
+            Bangalore, New South Wales, Australia
+          </span>
+
+<!---->
+          <div class="job-search-card__benefits">
+            
+              
+    
+    
+    
+    
+
+    <div class="result-benefits">
+      <icon class="result-benefits__icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/1pwj7aot6lxrfhr9sdta6cnxw" data-svg-class-name="result-benefits__icon-svg"></icon>
+      <span class="result-benefits__text">
+         Actively Hiring
+<!---->      </span>
+    </div>
+  
+          
+          </div>
+
+<!---->
+          <time class="job-search-card__listdate" datetime="2023-06-08">
+            
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+
+      2 weeks ago
+  
+          </time>
+
+<!---->      
+            </div>
+        </div>
+<!---->      
+    
+      </div>
+  
+  
+  
+  
+      </li>
+      <li>
+        
+
+    
+
+    
+    
+    
+      <div class="base-card relative w-full hover:no-underline focus:no-underline base-card--link base-search-card base-search-card--link job-search-card" data-entity-urn="urn:li:jobPosting:3622017576" data-search-id="pSNOx5leY8uR5pLqtBvrEQ==" data-tracking-id="yhbENUiQuXyMsAYc3vaeXQ==" data-column="1" data-row="8">
+        
+
+        <a class="base-card__full-link absolute top-0 right-0 bottom-0 left-0 p-0 z-[2]" href="https://au.linkedin.com/jobs/view/linux-site-reliability-engineer-at-netsuite-3622017576?refId=pSNOx5leY8uR5pLqtBvrEQ%3D%3D&amp;trackingId=yhbENUiQuXyMsAYc3vaeXQ%3D%3D&amp;position=8&amp;pageNum=0&amp;trk=public_jobs_jserp-result_search-card" data-tracking-control-name="public_jobs_jserp-result_search-card" data-tracking-client-ingraph="" data-tracking-will-navigate="">
+          
+          <span class="sr-only">
+              
+        
+        Linux Site Reliability Engineer
+      
+      
+          </span>
+        </a>
+
+      
+        
+    <div class="search-entity-media">
+        
+      <img class="artdeco-entity-image artdeco-entity-image--square-4
+          " data-delayed-url="https://media.licdn.com/dms/image/C510BAQELqXUJwyU77Q/company-logo_100_100/0/1565297644216?e=2147483647&amp;v=beta&amp;t=f044Ql2yD6F2uDDG_eoK-slMc1Rm75Gmxzk_izSp5ss" data-ghost-classes="artdeco-entity-image--ghost" data-ghost-url="https://static.licdn.com/aero-v1/sc/h/9a9u41thxt325ucfh5z8ga4m8" alt="">
+  
+    </div>
+  
+
+        <div class="base-search-card__info">
+          <h3 class="base-search-card__title">
+            
+        Linux Site Reliability Engineer
+      
+          </h3>
+
+            <h4 class="base-search-card__subtitle">
+              
+          <a class="hidden-nested-link" data-tracking-client-ingraph="" data-tracking-control-name="public_jobs_jserp-result_job-search-card-subtitle" data-tracking-will-navigate="" href="https://www.linkedin.com/company/netsuite?trk=public_jobs_jserp-result_job-search-card-subtitle">
+            NetSuite
+          </a>
+      
+            </h4>
+
+<!---->
+            <div class="base-search-card__metadata">
+              
+          <span class="job-search-card__location">
+            Sydney, New South Wales, Australia
+          </span>
+
+<!---->
+          <div class="job-search-card__benefits">
+            
+              
+    
+    
+    
+    
+
+    <div class="result-benefits">
+      <icon class="result-benefits__icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/1pwj7aot6lxrfhr9sdta6cnxw" data-svg-class-name="result-benefits__icon-svg"></icon>
+      <span class="result-benefits__text">
+         Actively Hiring
+<!---->      </span>
+    </div>
+  
+          
+          </div>
+
+<!---->
+          <time class="job-search-card__listdate" datetime="2023-06-05">
+            
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+
+      2 weeks ago
+  
+          </time>
+
+<!---->      
+            </div>
+        </div>
+<!---->      
+    
+      </div>
+  
+  
+  
+  
+      </li>
+      <li>
+        
+
+    
+
+    
+    
+    
+      <div class="base-card relative w-full hover:no-underline focus:no-underline base-card--link base-search-card base-search-card--link job-search-card" data-entity-urn="urn:li:jobPosting:3639659699" data-search-id="pSNOx5leY8uR5pLqtBvrEQ==" data-tracking-id="cGZHB6GLqW84vwVo0AJiNA==" data-column="1" data-row="9">
+        
+
+        <a class="base-card__full-link absolute top-0 right-0 bottom-0 left-0 p-0 z-[2]" href="https://au.linkedin.com/jobs/view/site-reliability-engineer-at-tribus-technology-3639659699?refId=pSNOx5leY8uR5pLqtBvrEQ%3D%3D&amp;trackingId=cGZHB6GLqW84vwVo0AJiNA%3D%3D&amp;position=9&amp;pageNum=0&amp;trk=public_jobs_jserp-result_search-card" data-tracking-control-name="public_jobs_jserp-result_search-card" data-tracking-client-ingraph="" data-tracking-will-navigate="">
+          
+          <span class="sr-only">
+              
+        
+        Site Reliability Engineer
+      
+      
+          </span>
+        </a>
+
+      
+        
+    <div class="search-entity-media">
+        
+      <img class="artdeco-entity-image artdeco-entity-image--square-4
+          " data-delayed-url="https://media.licdn.com/dms/image/C560BAQHIhd5Z1B6AIg/company-logo_100_100/0/1636608474806?e=2147483647&amp;v=beta&amp;t=p5P5DL_YLmWtN1LhPaLz8lfzMG5OZKqLayCjTx4s_m4" data-ghost-classes="artdeco-entity-image--ghost" data-ghost-url="https://static.licdn.com/aero-v1/sc/h/9a9u41thxt325ucfh5z8ga4m8" alt="">
+  
+    </div>
+  
+
+        <div class="base-search-card__info">
+          <h3 class="base-search-card__title">
+            
+        Site Reliability Engineer
+      
+          </h3>
+
+            <h4 class="base-search-card__subtitle">
+              
+          <a class="hidden-nested-link" data-tracking-client-ingraph="" data-tracking-control-name="public_jobs_jserp-result_job-search-card-subtitle" data-tracking-will-navigate="" href="https://au.linkedin.com/company/tribus-technology?trk=public_jobs_jserp-result_job-search-card-subtitle">
+            Tribus Technology
+          </a>
+      
+            </h4>
+
+<!---->
+            <div class="base-search-card__metadata">
+              
+          <span class="job-search-card__location">
+            Sydney, New South Wales, Australia
+          </span>
+
+          <span class="job-search-card__salary-info">
+            A$150,000.00
+            -
+            A$180,000.00
+          </span>
+
+          <div class="job-search-card__benefits">
+            
+              
+    
+    
+    
+    
+
+    <div class="result-benefits">
+      <icon class="result-benefits__icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/1pwj7aot6lxrfhr9sdta6cnxw" data-svg-class-name="result-benefits__icon-svg"></icon>
+      <span class="result-benefits__text">
+         Actively Hiring
+<!---->      </span>
+    </div>
+  
+          
+          </div>
+
+<!---->
+          <time class="job-search-card__listdate" datetime="2023-06-19">
+            
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+
+      5 days ago
+  
+          </time>
+
+<!---->      
+            </div>
+        </div>
+<!---->      
+    
+      </div>
+  
+  
+  
+  
+      </li>
+      <li>
+        
+
+    
+
+    
+    
+    
+      <div class="base-card relative w-full hover:no-underline focus:no-underline base-card--link base-search-card base-search-card--link job-search-card" data-entity-urn="urn:li:jobPosting:3619632562" data-search-id="pSNOx5leY8uR5pLqtBvrEQ==" data-tracking-id="O4oKKV4FjQEMS7aAm2sOtg==" data-column="1" data-row="10">
+        
+
+        <a class="base-card__full-link absolute top-0 right-0 bottom-0 left-0 p-0 z-[2]" href="https://au.linkedin.com/jobs/view/site-reliability-engineers-mid-to-senior-aws-k8-s-at-talent-realised-pty-ltd-3619632562?refId=pSNOx5leY8uR5pLqtBvrEQ%3D%3D&amp;trackingId=O4oKKV4FjQEMS7aAm2sOtg%3D%3D&amp;position=10&amp;pageNum=0&amp;trk=public_jobs_jserp-result_search-card" data-tracking-control-name="public_jobs_jserp-result_search-card" data-tracking-client-ingraph="" data-tracking-will-navigate="">
+          
+          <span class="sr-only">
+              
+        
+        Site Reliability Engineers - Mid to Senior - AWS / K8's
+      
+      
+          </span>
+        </a>
+
+      
+        
+    <div class="search-entity-media">
+        
+      <img class="artdeco-entity-image artdeco-entity-image--square-4
+          " data-delayed-url="https://media.licdn.com/dms/image/C4D0BAQHVlgw1ZMvZ8Q/company-logo_100_100/0/1519899270612?e=2147483647&amp;v=beta&amp;t=GBzP67bWmnhw5HrTmBB4QGKTPdWnRY160ENwoWNYa5Q" data-ghost-classes="artdeco-entity-image--ghost" data-ghost-url="https://static.licdn.com/aero-v1/sc/h/9a9u41thxt325ucfh5z8ga4m8" alt="">
+  
+    </div>
+  
+
+        <div class="base-search-card__info">
+          <h3 class="base-search-card__title">
+            
+        Site Reliability Engineers - Mid to Senior - AWS / K8's
+      
+          </h3>
+
+            <h4 class="base-search-card__subtitle">
+              
+          <a class="hidden-nested-link" data-tracking-client-ingraph="" data-tracking-control-name="public_jobs_jserp-result_job-search-card-subtitle" data-tracking-will-navigate="" href="https://au.linkedin.com/company/talentrealised-pty-ltd?trk=public_jobs_jserp-result_job-search-card-subtitle">
+            Talent.Realised Pty Ltd 
+          </a>
+      
+            </h4>
+
+<!---->
+            <div class="base-search-card__metadata">
+              
+          <span class="job-search-card__location">
+            North Sydney, New South Wales, Australia
+          </span>
+
+<!---->
+          <div class="job-search-card__benefits">
+            
+              
+    
+    
+    
+    
+
+    <div class="result-benefits">
+      <icon class="result-benefits__icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/ee2elqv6ktdjhlrxiyhac6py6" data-svg-class-name="result-benefits__icon-svg"></icon>
+      <span class="result-benefits__text">
+         Be an early applicant
+<!---->      </span>
+    </div>
+  
+          
+          </div>
+
+<!---->
+          <time class="job-search-card__listdate" datetime="2023-05-30">
+            
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+
+      3 weeks ago
+  
+          </time>
+
+<!---->      
+            </div>
+        </div>
+<!---->      
+    
+      </div>
+  
+  
+  
+  
+      </li>
+      <li>
+        
+
+    
+
+    
+    
+    
+      <div class="base-card relative w-full hover:no-underline focus:no-underline base-card--link base-search-card base-search-card--link job-search-card" data-entity-urn="urn:li:jobPosting:3534511993" data-search-id="pSNOx5leY8uR5pLqtBvrEQ==" data-tracking-id="4Hs/JBZTa4On0zCEGwHcSw==" data-column="1" data-row="11">
+        
+
+        <a class="base-card__full-link absolute top-0 right-0 bottom-0 left-0 p-0 z-[2]" href="https://au.linkedin.com/jobs/view/%C2%A0java-site-reliability-engineering-sre-at-ibu-consulting-3534511993?refId=pSNOx5leY8uR5pLqtBvrEQ%3D%3D&amp;trackingId=4Hs%2FJBZTa4On0zCEGwHcSw%3D%3D&amp;position=11&amp;pageNum=0&amp;trk=public_jobs_jserp-result_search-card" data-tracking-control-name="public_jobs_jserp-result_search-card" data-tracking-client-ingraph="" data-tracking-will-navigate="">
+          
+          <span class="sr-only">
+              
+        
+        &nbsp;Java Site Reliability Engineering (SRE)
+      
+      
+          </span>
+        </a>
+
+      
+        
+    <div class="search-entity-media">
+        
+      <img class="artdeco-entity-image artdeco-entity-image--square-4
+          " data-delayed-url="https://media.licdn.com/dms/image/C4D0BAQExvJJV2cttiQ/company-logo_100_100/0/1677507725575?e=2147483647&amp;v=beta&amp;t=de90Frnpe-VPE03fVNXxit55fvM-G13llVpXObTnihM" data-ghost-classes="artdeco-entity-image--ghost" data-ghost-url="https://static.licdn.com/aero-v1/sc/h/9a9u41thxt325ucfh5z8ga4m8" alt="">
+  
+    </div>
+  
+
+        <div class="base-search-card__info">
+          <h3 class="base-search-card__title">
+            
+        &nbsp;Java Site Reliability Engineering (SRE)
+      
+          </h3>
+
+            <h4 class="base-search-card__subtitle">
+              
+          <a class="hidden-nested-link" data-tracking-client-ingraph="" data-tracking-control-name="public_jobs_jserp-result_job-search-card-subtitle" data-tracking-will-navigate="" href="https://uk.linkedin.com/company/ibuconsulting?trk=public_jobs_jserp-result_job-search-card-subtitle">
+            IBU Consulting
+          </a>
+      
+            </h4>
+
+<!---->
+            <div class="base-search-card__metadata">
+              
+          <span class="job-search-card__location">
+            Australia
+          </span>
+
+<!---->
+          <div class="job-search-card__benefits">
+            
+              
+    
+    
+    
+    
+
+    <div class="result-benefits">
+      <icon class="result-benefits__icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/1pwj7aot6lxrfhr9sdta6cnxw" data-svg-class-name="result-benefits__icon-svg"></icon>
+      <span class="result-benefits__text">
+         Actively Hiring
+<!---->      </span>
+    </div>
+  
+          
+          </div>
+
+<!---->
+          <time class="job-search-card__listdate" datetime="2023-03-22">
+            
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+
+      3 months ago
+  
+          </time>
+
+<!---->      
+            </div>
+        </div>
+<!---->      
+    
+      </div>
+  
+  
+  
+  
+      </li>
+      <li>
+        
+
+    
+
+    
+    
+    
+      <div class="base-card relative w-full hover:no-underline focus:no-underline base-card--link base-search-card base-search-card--link job-search-card" data-entity-urn="urn:li:jobPosting:3626570751" data-search-id="pSNOx5leY8uR5pLqtBvrEQ==" data-tracking-id="SdLmWFHAt1f7I+dIzU/8cw==" data-column="1" data-row="12">
+        
+
+        <a class="base-card__full-link absolute top-0 right-0 bottom-0 left-0 p-0 z-[2]" href="https://au.linkedin.com/jobs/view/site-reliability-engineer-sre-dss-at-sony-india-software-centre-3626570751?refId=pSNOx5leY8uR5pLqtBvrEQ%3D%3D&amp;trackingId=SdLmWFHAt1f7I%2BdIzU%2F8cw%3D%3D&amp;position=12&amp;pageNum=0&amp;trk=public_jobs_jserp-result_search-card" data-tracking-control-name="public_jobs_jserp-result_search-card" data-tracking-client-ingraph="" data-tracking-will-navigate="">
+          
+          <span class="sr-only">
+              
+        
+        Site Reliability Engineer (SRE) - DSS
+      
+      
+          </span>
+        </a>
+
+      
+        
+    <div class="search-entity-media">
+        
+      <img class="artdeco-entity-image artdeco-entity-image--square-4
+          " data-delayed-url="https://media.licdn.com/dms/image/C560BAQHgk2dYJXIB4w/company-logo_100_100/0/1519877186557?e=2147483647&amp;v=beta&amp;t=bgE35BzXu9YAi0k5_JS8wY7WkyOiegBsPIdIJyLYBMw" data-ghost-classes="artdeco-entity-image--ghost" data-ghost-url="https://static.licdn.com/aero-v1/sc/h/9a9u41thxt325ucfh5z8ga4m8" alt="">
+  
+    </div>
+  
+
+        <div class="base-search-card__info">
+          <h3 class="base-search-card__title">
+            
+        Site Reliability Engineer (SRE) - DSS
+      
+          </h3>
+
+            <h4 class="base-search-card__subtitle">
+              
+          <a class="hidden-nested-link" data-tracking-client-ingraph="" data-tracking-control-name="public_jobs_jserp-result_job-search-card-subtitle" data-tracking-will-navigate="" href="https://in.linkedin.com/company/sonyindiasoftwarecentre?trk=public_jobs_jserp-result_job-search-card-subtitle">
+            Sony India Software Centre
+          </a>
+      
+            </h4>
+
+<!---->
+            <div class="base-search-card__metadata">
+              
+          <span class="job-search-card__location">
+            Bangalore, New South Wales, Australia
+          </span>
+
+<!---->
+          <div class="job-search-card__benefits">
+            
+              
+    
+    
+    
+    
+
+    <div class="result-benefits">
+      <icon class="result-benefits__icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/ee2elqv6ktdjhlrxiyhac6py6" data-svg-class-name="result-benefits__icon-svg"></icon>
+      <span class="result-benefits__text">
+         Be an early applicant
+<!---->      </span>
+    </div>
+  
+          
+          </div>
+
+<!---->
+          <time class="job-search-card__listdate" datetime="2023-05-14">
+            
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+
+      1 month ago
+  
+          </time>
+
+<!---->      
+            </div>
+        </div>
+<!---->      
+    
+      </div>
+  
+  
+  
+  
+      </li>
+      <li>
+        
+
+    
+
+    
+    
+    
+      <div class="base-card relative w-full hover:no-underline focus:no-underline base-card--link base-search-card base-search-card--link job-search-card" data-entity-urn="urn:li:jobPosting:3626175398" data-search-id="pSNOx5leY8uR5pLqtBvrEQ==" data-tracking-id="TPO+4PopyQrwbeIUfvQdCA==" data-column="1" data-row="13">
+        
+
+        <a class="base-card__full-link absolute top-0 right-0 bottom-0 left-0 p-0 z-[2]" href="https://au.linkedin.com/jobs/view/devops-engineer-at-leap-dev-3626175398?refId=pSNOx5leY8uR5pLqtBvrEQ%3D%3D&amp;trackingId=TPO%2B4PopyQrwbeIUfvQdCA%3D%3D&amp;position=13&amp;pageNum=0&amp;trk=public_jobs_jserp-result_search-card" data-tracking-control-name="public_jobs_jserp-result_search-card" data-tracking-client-ingraph="" data-tracking-will-navigate="">
+          
+          <span class="sr-only">
+              
+        
+        DevOps Engineer
+      
+      
+          </span>
+        </a>
+
+      
+        
+    <div class="search-entity-media">
+        
+      <img class="artdeco-entity-image artdeco-entity-image--square-4
+          " data-delayed-url="https://media.licdn.com/dms/image/C4E0BAQEo51yJIQO6Lg/company-logo_100_100/0/1519868400825?e=2147483647&amp;v=beta&amp;t=-9sTqsMo37U_7L0vzZ0s9LjjEmuWhB1x36KuocOu1qI" data-ghost-classes="artdeco-entity-image--ghost" data-ghost-url="https://static.licdn.com/aero-v1/sc/h/9a9u41thxt325ucfh5z8ga4m8" alt="">
+  
+    </div>
+  
+
+        <div class="base-search-card__info">
+          <h3 class="base-search-card__title">
+            
+        DevOps Engineer
+      
+          </h3>
+
+            <h4 class="base-search-card__subtitle">
+              
+          <a class="hidden-nested-link" data-tracking-client-ingraph="" data-tracking-control-name="public_jobs_jserp-result_job-search-card-subtitle" data-tracking-will-navigate="" href="https://au.linkedin.com/company/leap-development?trk=public_jobs_jserp-result_job-search-card-subtitle">
+            LEAP Dev
+          </a>
+      
+            </h4>
+
+<!---->
+            <div class="base-search-card__metadata">
+              
+          <span class="job-search-card__location">
+            Sydney, New South Wales, Australia
+          </span>
+
+<!---->
+          <div class="job-search-card__benefits">
+            
+              
+    
+    
+    
+    
+
+    <div class="result-benefits">
+      <icon class="result-benefits__icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/1pwj7aot6lxrfhr9sdta6cnxw" data-svg-class-name="result-benefits__icon-svg"></icon>
+      <span class="result-benefits__text">
+         Actively Hiring
+<!---->      </span>
+    </div>
+  
+          
+          </div>
+
+<!---->
+          <time class="job-search-card__listdate" datetime="2023-06-08">
+            
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+
+      2 weeks ago
+  
+          </time>
+
+<!---->      
+            </div>
+        </div>
+<!---->      
+    
+      </div>
+  
+  
+  
+  
+      </li>
+      <li>
+        
+
+    
+
+    
+    
+    
+      <div class="base-card relative w-full hover:no-underline focus:no-underline base-card--link base-search-card base-search-card--link job-search-card" data-entity-urn="urn:li:jobPosting:3632044811" data-search-id="pSNOx5leY8uR5pLqtBvrEQ==" data-tracking-id="10Ao0rVsoC4LTGNG8O8tVg==" data-column="1" data-row="14">
+        
+
+        <a class="base-card__full-link absolute top-0 right-0 bottom-0 left-0 p-0 z-[2]" href="https://au.linkedin.com/jobs/view/manager-technology-operations-at-afterpay-3632044811?refId=pSNOx5leY8uR5pLqtBvrEQ%3D%3D&amp;trackingId=10Ao0rVsoC4LTGNG8O8tVg%3D%3D&amp;position=14&amp;pageNum=0&amp;trk=public_jobs_jserp-result_search-card" data-tracking-control-name="public_jobs_jserp-result_search-card" data-tracking-client-ingraph="" data-tracking-will-navigate="">
+          
+          <span class="sr-only">
+              
+        
+        Manager, Technology Operations
+      
+      
+          </span>
+        </a>
+
+      
+        
+    <div class="search-entity-media">
+        
+      <img class="artdeco-entity-image artdeco-entity-image--square-4
+          " data-delayed-url="https://media.licdn.com/dms/image/C560BAQEa5I9rfFfNfg/company-logo_100_100/0/1625636420922?e=2147483647&amp;v=beta&amp;t=8ugkjeK4bGo4wZT0cMtUzusF8NBCz4njEkt48XmSk04" data-ghost-classes="artdeco-entity-image--ghost" data-ghost-url="https://static.licdn.com/aero-v1/sc/h/9a9u41thxt325ucfh5z8ga4m8" alt="">
+  
+    </div>
+  
+
+        <div class="base-search-card__info">
+          <h3 class="base-search-card__title">
+            
+        Manager, Technology Operations
+      
+          </h3>
+
+            <h4 class="base-search-card__subtitle">
+              
+          <a class="hidden-nested-link" data-tracking-client-ingraph="" data-tracking-control-name="public_jobs_jserp-result_job-search-card-subtitle" data-tracking-will-navigate="" href="https://au.linkedin.com/company/afterpay-com-au?trk=public_jobs_jserp-result_job-search-card-subtitle">
+            Afterpay
+          </a>
+      
+            </h4>
+
+<!---->
+            <div class="base-search-card__metadata">
+              
+          <span class="job-search-card__location">
+            Melbourne, Victoria, Australia
+          </span>
+
+<!---->
+          <div class="job-search-card__benefits">
+            
+              
+    
+    
+    
+    
+
+    <div class="result-benefits">
+      <icon class="result-benefits__icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/1pwj7aot6lxrfhr9sdta6cnxw" data-svg-class-name="result-benefits__icon-svg"></icon>
+      <span class="result-benefits__text">
+         Actively Hiring
+<!---->      </span>
+    </div>
+  
+          
+          </div>
+
+<!---->
+          <time class="job-search-card__listdate" datetime="2023-06-09">
+            
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+
+      2 weeks ago
+  
+          </time>
+
+<!---->      
+            </div>
+        </div>
+<!---->      
+    
+      </div>
+  
+  
+  
+  
+      </li>
+      <li>
+        
+
+    
+
+    
+    
+    
+      <div class="base-card relative w-full hover:no-underline focus:no-underline base-card--link base-search-card base-search-card--link job-search-card" data-entity-urn="urn:li:jobPosting:3637021828" data-search-id="pSNOx5leY8uR5pLqtBvrEQ==" data-tracking-id="UcynQMMvYdrOQ5EJXaieHQ==" data-column="1" data-row="15">
+        
+
+        <a class="base-card__full-link absolute top-0 right-0 bottom-0 left-0 p-0 z-[2]" href="https://au.linkedin.com/jobs/view/principal-devops-engineer-at-nearmap-3637021828?refId=pSNOx5leY8uR5pLqtBvrEQ%3D%3D&amp;trackingId=UcynQMMvYdrOQ5EJXaieHQ%3D%3D&amp;position=15&amp;pageNum=0&amp;trk=public_jobs_jserp-result_search-card" data-tracking-control-name="public_jobs_jserp-result_search-card" data-tracking-client-ingraph="" data-tracking-will-navigate="">
+          
+          <span class="sr-only">
+              
+        
+        Principal DevOps Engineer
+      
+      
+          </span>
+        </a>
+
+      
+        
+    <div class="search-entity-media">
+        
+      <img class="artdeco-entity-image artdeco-entity-image--square-4
+          " data-delayed-url="https://media.licdn.com/dms/image/C560BAQFAAWmRs5mrlw/company-logo_100_100/0/1519890368698?e=2147483647&amp;v=beta&amp;t=RQUMzI9ttr1S70sujcDWVU0aie0NqRYyAnbFceb7NPo" data-ghost-classes="artdeco-entity-image--ghost" data-ghost-url="https://static.licdn.com/aero-v1/sc/h/9a9u41thxt325ucfh5z8ga4m8" alt="">
+  
+    </div>
+  
+
+        <div class="base-search-card__info">
+          <h3 class="base-search-card__title">
+            
+        Principal DevOps Engineer
+      
+          </h3>
+
+            <h4 class="base-search-card__subtitle">
+              
+          <a class="hidden-nested-link" data-tracking-client-ingraph="" data-tracking-control-name="public_jobs_jserp-result_job-search-card-subtitle" data-tracking-will-navigate="" href="https://au.linkedin.com/company/nearmap-com?trk=public_jobs_jserp-result_job-search-card-subtitle">
+            Nearmap
+          </a>
+      
+            </h4>
+
+<!---->
+            <div class="base-search-card__metadata">
+              
+          <span class="job-search-card__location">
+            Barangaroo, New South Wales, Australia
+          </span>
+
+<!---->
+          <div class="job-search-card__benefits">
+            
+              
+    
+    
+    
+    
+
+    <div class="result-benefits">
+      <icon class="result-benefits__icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/ee2elqv6ktdjhlrxiyhac6py6" data-svg-class-name="result-benefits__icon-svg"></icon>
+      <span class="result-benefits__text">
+         Be an early applicant
+<!---->      </span>
+    </div>
+  
+          
+          </div>
+
+<!---->
+          <time class="job-search-card__listdate" datetime="2023-06-21">
+            
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+
+      2 days ago
+  
+          </time>
+
+<!---->      
+            </div>
+        </div>
+<!---->      
+    
+      </div>
+  
+  
+  
+  
+      </li>
+      <li>
+        
+
+    
+
+    
+    
+    
+      <div class="base-card relative w-full hover:no-underline focus:no-underline base-card--link base-search-card base-search-card--link job-search-card" data-entity-urn="urn:li:jobPosting:3637024336" data-search-id="pSNOx5leY8uR5pLqtBvrEQ==" data-tracking-id="IJ47RI5y+BCBk81ZPOjp0g==" data-column="1" data-row="16">
+        
+
+        <a class="base-card__full-link absolute top-0 right-0 bottom-0 left-0 p-0 z-[2]" href="https://au.linkedin.com/jobs/view/principal-devops-engineer-at-nearmap-3637024336?refId=pSNOx5leY8uR5pLqtBvrEQ%3D%3D&amp;trackingId=IJ47RI5y%2BBCBk81ZPOjp0g%3D%3D&amp;position=16&amp;pageNum=0&amp;trk=public_jobs_jserp-result_search-card" data-tracking-control-name="public_jobs_jserp-result_search-card" data-tracking-client-ingraph="" data-tracking-will-navigate="">
+          
+          <span class="sr-only">
+              
+        
+        Principal DevOps Engineer
+      
+      
+          </span>
+        </a>
+
+      
+        
+    <div class="search-entity-media">
+        
+      <img class="artdeco-entity-image artdeco-entity-image--square-4
+          " data-delayed-url="https://media.licdn.com/dms/image/C560BAQFAAWmRs5mrlw/company-logo_100_100/0/1519890368698?e=2147483647&amp;v=beta&amp;t=RQUMzI9ttr1S70sujcDWVU0aie0NqRYyAnbFceb7NPo" data-ghost-classes="artdeco-entity-image--ghost" data-ghost-url="https://static.licdn.com/aero-v1/sc/h/9a9u41thxt325ucfh5z8ga4m8" alt="">
+  
+    </div>
+  
+
+        <div class="base-search-card__info">
+          <h3 class="base-search-card__title">
+            
+        Principal DevOps Engineer
+      
+          </h3>
+
+            <h4 class="base-search-card__subtitle">
+              
+          <a class="hidden-nested-link" data-tracking-client-ingraph="" data-tracking-control-name="public_jobs_jserp-result_job-search-card-subtitle" data-tracking-will-navigate="" href="https://au.linkedin.com/company/nearmap-com?trk=public_jobs_jserp-result_job-search-card-subtitle">
+            Nearmap
+          </a>
+      
+            </h4>
+
+<!---->
+            <div class="base-search-card__metadata">
+              
+          <span class="job-search-card__location">
+            Barangaroo, New South Wales, Australia
+          </span>
+
+<!---->
+          <div class="job-search-card__benefits">
+            
+              
+    
+    
+    
+    
+
+    <div class="result-benefits">
+      <icon class="result-benefits__icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/ee2elqv6ktdjhlrxiyhac6py6" data-svg-class-name="result-benefits__icon-svg"></icon>
+      <span class="result-benefits__text">
+         Be an early applicant
+<!---->      </span>
+    </div>
+  
+          
+          </div>
+
+<!---->
+          <time class="job-search-card__listdate" datetime="2023-06-21">
+            
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+
+      2 days ago
+  
+          </time>
+
+<!---->      
+            </div>
+        </div>
+<!---->      
+    
+      </div>
+  
+  
+  
+  
+      </li>
+      <li>
+        
+
+    
+
+    
+    
+    
+      <div class="base-card relative w-full hover:no-underline focus:no-underline base-card--link base-search-card base-search-card--link job-search-card" data-entity-urn="urn:li:jobPosting:3567036677" data-search-id="pSNOx5leY8uR5pLqtBvrEQ==" data-tracking-id="DTxE/uiuKaTE9f0NTrJB5g==" data-column="1" data-row="17">
+        
+
+        <a class="base-card__full-link absolute top-0 right-0 bottom-0 left-0 p-0 z-[2]" href="https://au.linkedin.com/jobs/view/engineering-manager-site-reliability-at-google-3567036677?refId=pSNOx5leY8uR5pLqtBvrEQ%3D%3D&amp;trackingId=DTxE%2FuiuKaTE9f0NTrJB5g%3D%3D&amp;position=17&amp;pageNum=0&amp;trk=public_jobs_jserp-result_search-card" data-tracking-control-name="public_jobs_jserp-result_search-card" data-tracking-client-ingraph="" data-tracking-will-navigate="">
+          
+          <span class="sr-only">
+              
+        
+        Engineering Manager, Site Reliability
+      
+      
+          </span>
+        </a>
+
+      
+        
+    <div class="search-entity-media">
+        
+      <img class="artdeco-entity-image artdeco-entity-image--square-4
+          " data-delayed-url="https://media.licdn.com/dms/image/C4D0BAQHiNSL4Or29cg/company-logo_100_100/0/1519856215226?e=2147483647&amp;v=beta&amp;t=gBMr6FAdaUYVRZBRGsJwOgBtU7-kojeyhVAGmR6-Hd4" data-ghost-classes="artdeco-entity-image--ghost" data-ghost-url="https://static.licdn.com/aero-v1/sc/h/9a9u41thxt325ucfh5z8ga4m8" alt="">
+  
+    </div>
+  
+
+        <div class="base-search-card__info">
+          <h3 class="base-search-card__title">
+            
+        Engineering Manager, Site Reliability
+      
+          </h3>
+
+            <h4 class="base-search-card__subtitle">
+              
+          <a class="hidden-nested-link" data-tracking-client-ingraph="" data-tracking-control-name="public_jobs_jserp-result_job-search-card-subtitle" data-tracking-will-navigate="" href="https://www.linkedin.com/company/google?trk=public_jobs_jserp-result_job-search-card-subtitle">
+            Google
+          </a>
+      
+            </h4>
+
+<!---->
+            <div class="base-search-card__metadata">
+              
+          <span class="job-search-card__location">
+            Sydney, New South Wales, Australia
+          </span>
+
+<!---->
+          <div class="job-search-card__benefits">
+            
+              
+    
+    
+    
+    
+
+    <div class="result-benefits">
+      <icon class="result-benefits__icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/1pwj7aot6lxrfhr9sdta6cnxw" data-svg-class-name="result-benefits__icon-svg"></icon>
+      <span class="result-benefits__text">
+         Actively Hiring
+<!---->      </span>
+    </div>
+  
+          
+          </div>
+
+<!---->
+          <time class="job-search-card__listdate" datetime="2023-06-19">
+            
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+
+      4 days ago
+  
+          </time>
+
+<!---->      
+            </div>
+        </div>
+<!---->      
+    
+      </div>
+  
+  
+  
+  
+      </li>
+      <li>
+        
+
+    
+
+    
+    
+    
+      <div class="base-card relative w-full hover:no-underline focus:no-underline base-card--link base-search-card base-search-card--link job-search-card" data-entity-urn="urn:li:jobPosting:3619529973" data-search-id="pSNOx5leY8uR5pLqtBvrEQ==" data-tracking-id="jQCB7aCy1k2ReQCb0BtNJA==" data-column="1" data-row="18">
+        
+
+        <a class="base-card__full-link absolute top-0 right-0 bottom-0 left-0 p-0 z-[2]" href="https://au.linkedin.com/jobs/view/site-reliability-engineer-observability-platform-at-gitlab-3619529973?refId=pSNOx5leY8uR5pLqtBvrEQ%3D%3D&amp;trackingId=jQCB7aCy1k2ReQCb0BtNJA%3D%3D&amp;position=18&amp;pageNum=0&amp;trk=public_jobs_jserp-result_search-card" data-tracking-control-name="public_jobs_jserp-result_search-card" data-tracking-client-ingraph="" data-tracking-will-navigate="">
+          
+          <span class="sr-only">
+              
+        
+        Site Reliability Engineer, Observability Platform
+      
+      
+          </span>
+        </a>
+
+      
+        
+    <div class="search-entity-media">
+        
+      <img class="artdeco-entity-image artdeco-entity-image--square-4
+          " data-delayed-url="https://media.licdn.com/dms/image/C4E0BAQFseuCCBupBOQ/company-logo_100_100/0/1651058101845?e=2147483647&amp;v=beta&amp;t=NJZ63HBDgRVqb_33JyVbbopB8MvCrbkN3iRmOwtd8Co" data-ghost-classes="artdeco-entity-image--ghost" data-ghost-url="https://static.licdn.com/aero-v1/sc/h/9a9u41thxt325ucfh5z8ga4m8" alt="">
+  
+    </div>
+  
+
+        <div class="base-search-card__info">
+          <h3 class="base-search-card__title">
+            
+        Site Reliability Engineer, Observability Platform
+      
+          </h3>
+
+            <h4 class="base-search-card__subtitle">
+              
+          <a class="hidden-nested-link" data-tracking-client-ingraph="" data-tracking-control-name="public_jobs_jserp-result_job-search-card-subtitle" data-tracking-will-navigate="" href="https://www.linkedin.com/company/gitlab-com?trk=public_jobs_jserp-result_job-search-card-subtitle">
+            GitLab
+          </a>
+      
+            </h4>
+
+<!---->
+            <div class="base-search-card__metadata">
+              
+          <span class="job-search-card__location">
+            Australia
+          </span>
+
+<!---->
+          <div class="job-search-card__benefits">
+            
+              
+    
+    
+    
+    
+
+    <div class="result-benefits">
+      <icon class="result-benefits__icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/1pwj7aot6lxrfhr9sdta6cnxw" data-svg-class-name="result-benefits__icon-svg"></icon>
+      <span class="result-benefits__text">
+         Actively Hiring
+<!---->      </span>
+    </div>
+  
+          
+          </div>
+
+<!---->
+          <time class="job-search-card__listdate" datetime="2023-06-01">
+            
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+
+      3 weeks ago
+  
+          </time>
+
+<!---->      
+            </div>
+        </div>
+<!---->      
+    
+      </div>
+  
+  
+  
+  
+      </li>
+      <li>
+        
+
+    
+
+    
+    
+    
+      <div class="base-card relative w-full hover:no-underline focus:no-underline base-card--link base-search-card base-search-card--link job-search-card" data-entity-urn="urn:li:jobPosting:3623771413" data-search-id="pSNOx5leY8uR5pLqtBvrEQ==" data-tracking-id="wbea2YaVW20KBeZWZC0IkQ==" data-column="1" data-row="19">
+        
+
+        <a class="base-card__full-link absolute top-0 right-0 bottom-0 left-0 p-0 z-[2]" href="https://au.linkedin.com/jobs/view/site-reliability-engineer-anzplus-at-anz-3623771413?refId=pSNOx5leY8uR5pLqtBvrEQ%3D%3D&amp;trackingId=wbea2YaVW20KBeZWZC0IkQ%3D%3D&amp;position=19&amp;pageNum=0&amp;trk=public_jobs_jserp-result_search-card" data-tracking-control-name="public_jobs_jserp-result_search-card" data-tracking-client-ingraph="" data-tracking-will-navigate="">
+          
+          <span class="sr-only">
+              
+        
+        Site Reliability Engineer - ANZPlus
+      
+      
+          </span>
+        </a>
+
+      
+        
+    <div class="search-entity-media">
+        
+      <img class="artdeco-entity-image artdeco-entity-image--square-4
+          " data-delayed-url="https://media.licdn.com/dms/image/D560BAQE_HWNBWzetkQ/company-logo_100_100/0/1686092010485?e=2147483647&amp;v=beta&amp;t=3EsQxLxtjV3zMC5r5RyVPJkAQMGEZ_BLNMFxM9crIGQ" data-ghost-classes="artdeco-entity-image--ghost" data-ghost-url="https://static.licdn.com/aero-v1/sc/h/9a9u41thxt325ucfh5z8ga4m8" alt="">
+  
+    </div>
+  
+
+        <div class="base-search-card__info">
+          <h3 class="base-search-card__title">
+            
+        Site Reliability Engineer - ANZPlus
+      
+          </h3>
+
+            <h4 class="base-search-card__subtitle">
+              
+          <a class="hidden-nested-link" data-tracking-client-ingraph="" data-tracking-control-name="public_jobs_jserp-result_job-search-card-subtitle" data-tracking-will-navigate="" href="https://au.linkedin.com/company/anz?trk=public_jobs_jserp-result_job-search-card-subtitle">
+            ANZ
+          </a>
+      
+            </h4>
+
+<!---->
+            <div class="base-search-card__metadata">
+              
+          <span class="job-search-card__location">
+            Melbourne, Victoria, Australia
+          </span>
+
+<!---->
+          <div class="job-search-card__benefits">
+            
+              
+    
+    
+    
+    
+
+    <div class="result-benefits">
+      <icon class="result-benefits__icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/ee2elqv6ktdjhlrxiyhac6py6" data-svg-class-name="result-benefits__icon-svg"></icon>
+      <span class="result-benefits__text">
+         Be an early applicant
+<!---->      </span>
+    </div>
+  
+          
+          </div>
+
+<!---->
+          <time class="job-search-card__listdate" datetime="2023-06-22">
+            
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+
+      1 day ago
+  
+          </time>
+
+<!---->      
+            </div>
+        </div>
+<!---->      
+    
+      </div>
+  
+  
+  
+  
+      </li>
+      <li>
+        
+
+    
+
+    
+    
+    
+      <div class="base-card relative w-full hover:no-underline focus:no-underline base-card--link base-search-card base-search-card--link job-search-card" data-entity-urn="urn:li:jobPosting:3576444041" data-search-id="pSNOx5leY8uR5pLqtBvrEQ==" data-tracking-id="pJkpwWFFmZTZ1CivBOA0dg==" data-column="1" data-row="20">
+        
+
+        <a class="base-card__full-link absolute top-0 right-0 bottom-0 left-0 p-0 z-[2]" href="https://au.linkedin.com/jobs/view/site-reliability-engineer-at-firesoft-people-3576444041?refId=pSNOx5leY8uR5pLqtBvrEQ%3D%3D&amp;trackingId=pJkpwWFFmZTZ1CivBOA0dg%3D%3D&amp;position=20&amp;pageNum=0&amp;trk=public_jobs_jserp-result_search-card" data-tracking-control-name="public_jobs_jserp-result_search-card" data-tracking-client-ingraph="" data-tracking-will-navigate="">
+          
+          <span class="sr-only">
+              
+        
+        Site Reliability Engineer
+      
+      
+          </span>
+        </a>
+
+      
+        
+    <div class="search-entity-media">
+        
+      <img class="artdeco-entity-image artdeco-entity-image--square-4
+          " data-delayed-url="https://media.licdn.com/dms/image/C560BAQGFk5kUTxVU1g/company-logo_100_100/0/1677113018375?e=2147483647&amp;v=beta&amp;t=lVM_SM_gd5n5e9k8vJ-KbmcCwosazao4OGRsNQamVFU" data-ghost-classes="artdeco-entity-image--ghost" data-ghost-url="https://static.licdn.com/aero-v1/sc/h/9a9u41thxt325ucfh5z8ga4m8" alt="">
+  
+    </div>
+  
+
+        <div class="base-search-card__info">
+          <h3 class="base-search-card__title">
+            
+        Site Reliability Engineer
+      
+          </h3>
+
+            <h4 class="base-search-card__subtitle">
+              
+          <a class="hidden-nested-link" data-tracking-client-ingraph="" data-tracking-control-name="public_jobs_jserp-result_job-search-card-subtitle" data-tracking-will-navigate="" href="https://au.linkedin.com/company/firesoft-people?trk=public_jobs_jserp-result_job-search-card-subtitle">
+            Firesoft People
+          </a>
+      
+            </h4>
+
+<!---->
+            <div class="base-search-card__metadata">
+              
+          <span class="job-search-card__location">
+            Melbourne, Victoria, Australia
+          </span>
+
+<!---->
+          <div class="job-search-card__benefits">
+            
+              
+    
+    
+    
+    
+
+    <div class="result-benefits">
+      <icon class="result-benefits__icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/ee2elqv6ktdjhlrxiyhac6py6" data-svg-class-name="result-benefits__icon-svg"></icon>
+      <span class="result-benefits__text">
+         Be an early applicant
+<!---->      </span>
+    </div>
+  
+          
+          </div>
+
+<!---->
+          <time class="job-search-card__listdate" datetime="2023-03-29">
+            
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+
+      2 months ago
+  
+          </time>
+
+<!---->      
+            </div>
+        </div>
+<!---->      
+    
+      </div>
+  
+  
+  
+  
+      </li>
+      <li>
+        
+
+    
+
+    
+    
+    
+      <div class="base-card relative w-full hover:no-underline focus:no-underline base-card--link base-search-card base-search-card--link job-search-card" data-entity-urn="urn:li:jobPosting:3618271966" data-search-id="pSNOx5leY8uR5pLqtBvrEQ==" data-tracking-id="8uMnaXlBqnfOJxz+pWmAfA==" data-column="1" data-row="21">
+        
+
+        <a class="base-card__full-link absolute top-0 right-0 bottom-0 left-0 p-0 z-[2]" href="https://au.linkedin.com/jobs/view/100%25-remote-aus-sr-sysops-site-reliability-engineer-at-cayuse-3618271966?refId=pSNOx5leY8uR5pLqtBvrEQ%3D%3D&amp;trackingId=8uMnaXlBqnfOJxz%2BpWmAfA%3D%3D&amp;position=21&amp;pageNum=0&amp;trk=public_jobs_jserp-result_search-card" data-tracking-control-name="public_jobs_jserp-result_search-card" data-tracking-client-ingraph="" data-tracking-will-navigate="">
+          
+          <span class="sr-only">
+              
+        
+        100% Remote (AUS) Sr. SysOps Site Reliability Engineer
+      
+      
+          </span>
+        </a>
+
+      
+        
+    <div class="search-entity-media">
+        
+      <img class="artdeco-entity-image artdeco-entity-image--square-4
+          " data-delayed-url="https://media.licdn.com/dms/image/C560BAQE8zshmQ_clwA/company-logo_100_100/0/1657648711476?e=2147483647&amp;v=beta&amp;t=9q02tPU-EPfb_tlk6csCWnaLu1s8hNwYO8fMEVDQLwE" data-ghost-classes="artdeco-entity-image--ghost" data-ghost-url="https://static.licdn.com/aero-v1/sc/h/9a9u41thxt325ucfh5z8ga4m8" alt="">
+  
+    </div>
+  
+
+        <div class="base-search-card__info">
+          <h3 class="base-search-card__title">
+            
+        100% Remote (AUS) Sr. SysOps Site Reliability Engineer
+      
+          </h3>
+
+            <h4 class="base-search-card__subtitle">
+              
+          <a class="hidden-nested-link" data-tracking-client-ingraph="" data-tracking-control-name="public_jobs_jserp-result_job-search-card-subtitle" data-tracking-will-navigate="" href="https://www.linkedin.com/company/cayuse?trk=public_jobs_jserp-result_job-search-card-subtitle">
+            Cayuse 
+          </a>
+      
+            </h4>
+
+<!---->
+            <div class="base-search-card__metadata">
+              
+          <span class="job-search-card__location">
+            Victoria, Australia
+          </span>
+
+<!---->
+<!---->
+<!---->
+          <time class="job-search-card__listdate" datetime="2023-06-16">
+            
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+
+      1 week ago
+  
+          </time>
+
+<!---->      
+            </div>
+        </div>
+<!---->      
+    
+      </div>
+  
+  
+  
+  
+      </li>
+      <li>
+        
+
+    
+
+    
+    
+    
+      <div class="base-card relative w-full hover:no-underline focus:no-underline base-card--link base-search-card base-search-card--link job-search-card" data-entity-urn="urn:li:jobPosting:3639748065" data-search-id="pSNOx5leY8uR5pLqtBvrEQ==" data-tracking-id="VHrGLOPXn1Phh6c32AiPTA==" data-column="1" data-row="22">
+        
+
+        <a class="base-card__full-link absolute top-0 right-0 bottom-0 left-0 p-0 z-[2]" href="https://au.linkedin.com/jobs/view/devops-engineer-sre-site-reliability-engineer-at-capgemini-3639748065?refId=pSNOx5leY8uR5pLqtBvrEQ%3D%3D&amp;trackingId=VHrGLOPXn1Phh6c32AiPTA%3D%3D&amp;position=22&amp;pageNum=0&amp;trk=public_jobs_jserp-result_search-card" data-tracking-control-name="public_jobs_jserp-result_search-card" data-tracking-client-ingraph="" data-tracking-will-navigate="">
+          
+          <span class="sr-only">
+              
+        
+        DevOps Engineer / SRE (Site Reliability Engineer)
+      
+      
+          </span>
+        </a>
+
+      
+        
+    <div class="search-entity-media">
+        
+      <img class="artdeco-entity-image artdeco-entity-image--square-4
+          " data-delayed-url="https://media.licdn.com/dms/image/D4D0BAQF5hBSjDxVf-g/company-logo_100_100/0/1685611903187?e=2147483647&amp;v=beta&amp;t=fvrISiNZL8yYM6ZAM83tLuwgFGIzRuAsjH0TVURwYws" data-ghost-classes="artdeco-entity-image--ghost" data-ghost-url="https://static.licdn.com/aero-v1/sc/h/9a9u41thxt325ucfh5z8ga4m8" alt="">
+  
+    </div>
+  
+
+        <div class="base-search-card__info">
+          <h3 class="base-search-card__title">
+            
+        DevOps Engineer / SRE (Site Reliability Engineer)
+      
+          </h3>
+
+            <h4 class="base-search-card__subtitle">
+              
+          <a class="hidden-nested-link" data-tracking-client-ingraph="" data-tracking-control-name="public_jobs_jserp-result_job-search-card-subtitle" data-tracking-will-navigate="" href="https://fr.linkedin.com/company/capgemini?trk=public_jobs_jserp-result_job-search-card-subtitle">
+            Capgemini
+          </a>
+      
+            </h4>
+
+<!---->
+            <div class="base-search-card__metadata">
+              
+          <span class="job-search-card__location">
+            Melbourne, Victoria, Australia
+          </span>
+
+<!---->
+          <div class="job-search-card__benefits">
+            
+              
+    
+    
+    
+    
+
+    <div class="result-benefits">
+      <icon class="result-benefits__icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/ee2elqv6ktdjhlrxiyhac6py6" data-svg-class-name="result-benefits__icon-svg"></icon>
+      <span class="result-benefits__text">
+         Be an early applicant
+<!---->      </span>
+    </div>
+  
+          
+          </div>
+
+<!---->
+          <time class="job-search-card__listdate" datetime="2023-06-19">
+            
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+
+      4 days ago
+  
+          </time>
+
+<!---->      
+            </div>
+        </div>
+<!---->      
+    
+      </div>
+  
+  
+  
+  
+      </li>
+      <li>
+        
+
+    
+
+    
+    
+    
+      <div class="base-card relative w-full hover:no-underline focus:no-underline base-card--link base-search-card base-search-card--link job-search-card" data-entity-urn="urn:li:jobPosting:3606684889" data-search-id="pSNOx5leY8uR5pLqtBvrEQ==" data-tracking-id="yNASHxzOi4hxqhWKFb8eWA==" data-column="1" data-row="23">
+        
+
+        <a class="base-card__full-link absolute top-0 right-0 bottom-0 left-0 p-0 z-[2]" href="https://au.linkedin.com/jobs/view/site-reliability-engineer-reliability-database-at-gitlab-3606684889?refId=pSNOx5leY8uR5pLqtBvrEQ%3D%3D&amp;trackingId=yNASHxzOi4hxqhWKFb8eWA%3D%3D&amp;position=23&amp;pageNum=0&amp;trk=public_jobs_jserp-result_search-card" data-tracking-control-name="public_jobs_jserp-result_search-card" data-tracking-client-ingraph="" data-tracking-will-navigate="">
+          
+          <span class="sr-only">
+              
+        
+        Site Reliability Engineer, Reliability/Database
+      
+      
+          </span>
+        </a>
+
+      
+        
+    <div class="search-entity-media">
+        
+      <img class="artdeco-entity-image artdeco-entity-image--square-4
+          " data-delayed-url="https://media.licdn.com/dms/image/C4E0BAQFseuCCBupBOQ/company-logo_100_100/0/1651058101845?e=2147483647&amp;v=beta&amp;t=NJZ63HBDgRVqb_33JyVbbopB8MvCrbkN3iRmOwtd8Co" data-ghost-classes="artdeco-entity-image--ghost" data-ghost-url="https://static.licdn.com/aero-v1/sc/h/9a9u41thxt325ucfh5z8ga4m8" alt="">
+  
+    </div>
+  
+
+        <div class="base-search-card__info">
+          <h3 class="base-search-card__title">
+            
+        Site Reliability Engineer, Reliability/Database
+      
+          </h3>
+
+            <h4 class="base-search-card__subtitle">
+              
+          <a class="hidden-nested-link" data-tracking-client-ingraph="" data-tracking-control-name="public_jobs_jserp-result_job-search-card-subtitle" data-tracking-will-navigate="" href="https://www.linkedin.com/company/gitlab-com?trk=public_jobs_jserp-result_job-search-card-subtitle">
+            GitLab
+          </a>
+      
+            </h4>
+
+<!---->
+            <div class="base-search-card__metadata">
+              
+          <span class="job-search-card__location">
+            Australia
+          </span>
+
+<!---->
+          <div class="job-search-card__benefits">
+            
+              
+    
+    
+    
+    
+
+    <div class="result-benefits">
+      <icon class="result-benefits__icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/1pwj7aot6lxrfhr9sdta6cnxw" data-svg-class-name="result-benefits__icon-svg"></icon>
+      <span class="result-benefits__text">
+         Actively Hiring
+<!---->      </span>
+    </div>
+  
+          
+          </div>
+
+<!---->
+          <time class="job-search-card__listdate" datetime="2023-06-10">
+            
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+
+      1 week ago
+  
+          </time>
+
+<!---->      
+            </div>
+        </div>
+<!---->      
+    
+      </div>
+  
+  
+  
+  
+      </li>
+      <li>
+        
+
+    
+
+    
+    
+    
+      <div class="base-card relative w-full hover:no-underline focus:no-underline base-card--link base-search-card base-search-card--link job-search-card" data-entity-urn="urn:li:jobPosting:3643378611" data-search-id="pSNOx5leY8uR5pLqtBvrEQ==" data-tracking-id="Y+7G7LvhpenuLDOdNg/KtA==" data-column="1" data-row="24">
+        
+
+        <a class="base-card__full-link absolute top-0 right-0 bottom-0 left-0 p-0 z-[2]" href="https://au.linkedin.com/jobs/view/software-engineer-node-aws-backend-focus-data-and-personalization-at-squiz-3643378611?refId=pSNOx5leY8uR5pLqtBvrEQ%3D%3D&amp;trackingId=Y%2B7G7LvhpenuLDOdNg%2FKtA%3D%3D&amp;position=24&amp;pageNum=0&amp;trk=public_jobs_jserp-result_search-card" data-tracking-control-name="public_jobs_jserp-result_search-card" data-tracking-client-ingraph="" data-tracking-will-navigate="">
+          
+          <span class="sr-only">
+              
+        
+        Software Engineer -Node/AWS (backend focus) - Data and Personalization
+      
+      
+          </span>
+        </a>
+
+      
+        
+    <div class="search-entity-media">
+        
+      <img class="artdeco-entity-image artdeco-entity-image--square-4
+          " data-delayed-url="https://media.licdn.com/dms/image/C560BAQFkBeZBNNs7qQ/company-logo_100_100/0/1678677025929?e=2147483647&amp;v=beta&amp;t=vBOlbKmJexHNBkaFrU3L3dSgL8FWfgyMKMyFhZgQouU" data-ghost-classes="artdeco-entity-image--ghost" data-ghost-url="https://static.licdn.com/aero-v1/sc/h/9a9u41thxt325ucfh5z8ga4m8" alt="">
+  
+    </div>
+  
+
+        <div class="base-search-card__info">
+          <h3 class="base-search-card__title">
+            
+        Software Engineer -Node/AWS (backend focus) - Data and Personalization
+      
+          </h3>
+
+            <h4 class="base-search-card__subtitle">
+              
+          <a class="hidden-nested-link" data-tracking-client-ingraph="" data-tracking-control-name="public_jobs_jserp-result_job-search-card-subtitle" data-tracking-will-navigate="" href="https://au.linkedin.com/company/squiz?trk=public_jobs_jserp-result_job-search-card-subtitle">
+            Squiz
+          </a>
+      
+            </h4>
+
+<!---->
+            <div class="base-search-card__metadata">
+              
+          <span class="job-search-card__location">
+            Sydney, New South Wales, Australia
+          </span>
+
+<!---->
+          <div class="job-search-card__benefits">
+            
+              
+    
+    
+    
+    
+
+    <div class="result-benefits">
+      <icon class="result-benefits__icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/ee2elqv6ktdjhlrxiyhac6py6" data-svg-class-name="result-benefits__icon-svg"></icon>
+      <span class="result-benefits__text">
+         Be an early applicant
+<!---->      </span>
+    </div>
+  
+          
+          </div>
+
+<!---->
+          <time class="job-search-card__listdate" datetime="2023-05-29">
+            
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+
+      3 weeks ago
+  
+          </time>
+
+<!---->      
+            </div>
+        </div>
+<!---->      
+    
+      </div>
+  
+  
+  
+  
+      </li>
+      <li>
+        
+
+    
+
+    
+    
+    
+      <div class="base-card relative w-full hover:no-underline focus:no-underline base-card--link base-search-card base-search-card--link job-search-card" data-entity-urn="urn:li:jobPosting:3630037554" data-search-id="pSNOx5leY8uR5pLqtBvrEQ==" data-tracking-id="v09dD4wsxu+/gpbqPk0mtQ==" data-column="1" data-row="25">
+        
+
+        <a class="base-card__full-link absolute top-0 right-0 bottom-0 left-0 p-0 z-[2]" href="https://au.linkedin.com/jobs/view/devops-sre-engineer-at-dxc-technology-3630037554?refId=pSNOx5leY8uR5pLqtBvrEQ%3D%3D&amp;trackingId=v09dD4wsxu%2B%2FgpbqPk0mtQ%3D%3D&amp;position=25&amp;pageNum=0&amp;trk=public_jobs_jserp-result_search-card" data-tracking-control-name="public_jobs_jserp-result_search-card" data-tracking-client-ingraph="" data-tracking-will-navigate="">
+          
+          <span class="sr-only">
+              
+        
+        DevOps SRE Engineer
+      
+      
+          </span>
+        </a>
+
+      
+        
+    <div class="search-entity-media">
+        
+      <img class="artdeco-entity-image artdeco-entity-image--square-4
+          " data-delayed-url="https://media.licdn.com/dms/image/C4D0BAQFt7orYWPc9MQ/company-logo_100_100/0/1623288155863?e=2147483647&amp;v=beta&amp;t=46lKezHoQqTz3PU2xAtmG3yfYCfGBva1U7higH4pHKY" data-ghost-classes="artdeco-entity-image--ghost" data-ghost-url="https://static.licdn.com/aero-v1/sc/h/9a9u41thxt325ucfh5z8ga4m8" alt="">
+  
+    </div>
+  
+
+        <div class="base-search-card__info">
+          <h3 class="base-search-card__title">
+            
+        DevOps SRE Engineer
+      
+          </h3>
+
+            <h4 class="base-search-card__subtitle">
+              
+          <a class="hidden-nested-link" data-tracking-client-ingraph="" data-tracking-control-name="public_jobs_jserp-result_job-search-card-subtitle" data-tracking-will-navigate="" href="https://www.linkedin.com/company/dxctechnology?trk=public_jobs_jserp-result_job-search-card-subtitle">
+            DXC Technology
+          </a>
+      
+            </h4>
+
+<!---->
+            <div class="base-search-card__metadata">
+              
+          <span class="job-search-card__location">
+            Macquarie Park, New South Wales, Australia
+          </span>
+
+<!---->
+          <div class="job-search-card__benefits">
+            
+              
+    
+    
+    
+    
+
+    <div class="result-benefits">
+      <icon class="result-benefits__icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/ee2elqv6ktdjhlrxiyhac6py6" data-svg-class-name="result-benefits__icon-svg"></icon>
+      <span class="result-benefits__text">
+         Be an early applicant
+<!---->      </span>
+    </div>
+  
+          
+          </div>
+
+<!---->
+          <time class="job-search-card__listdate" datetime="2023-06-07">
+            
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+
+      2 weeks ago
+  
+          </time>
+
+<!---->      
+            </div>
+        </div>
+<!---->      
+    
+      </div>
+  
+  
+  
+  
+      </li>
+  </body></html>
