@@ -36,11 +36,11 @@ func TestExtractor(t *testing.T) {
 			t.Errorf("Failed to load job description data, please run text crawler test first to generate the date")
 		}
 		dstr := string(data)
-		if c := strings.Count(dstr, tt.start); c != 2 {
+		if c := strings.Count(dstr, tt.start); c != 1 {
 			t.Errorf("The regrex for extract job description for %s is broke since found %d amounts of starting string.", tt.src, c)
 		}
 
-		if c := strings.Count(dstr, tt.end); c != 2 {
+		if c := strings.Count(dstr, tt.end); c != 1 {
 			t.Errorf("The regrex for extract job description for %s is broke since found %d amounts of ending string.", tt.src, c)
 		}
 	}
