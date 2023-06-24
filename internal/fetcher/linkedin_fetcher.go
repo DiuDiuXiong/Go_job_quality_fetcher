@@ -37,7 +37,7 @@ func (fetcher *LinkedinFetcher) FetchContents(criteria *FetchCriteria) ([]string
 		} else {
 			res[idx] = text
 		}
-		time.Sleep(time.Millisecond * 50)
+		time.Sleep(time.Millisecond * 500) // reasonably good time for next call
 	}
 
 	return res, nil
