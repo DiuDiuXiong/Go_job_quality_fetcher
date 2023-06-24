@@ -1,0 +1,249 @@
+Skip to main content
+LinkedIn
+Jobs
+Dismiss
+Dismiss
+Join now
+Sign in
+Site Reliability Engineer, Reliability/Database
+GitLab  Australia
+2 weeks ago  57 applicants
+  
+See who GitLab has hired for this role
+Apply
+Save
+The GitLab DevSecOps platform empowers 100,000+ organizations to deliver software faster and more efficiently. We are one of the world’s largest all-remote companies with 2,000+ team members and values that foster a culture where people embrace the belief that everyone can contribute. Learn more about Life at GitLab .
+
+Site Reliability Engineers (SREs) are responsible for keeping all user-facing services and other GitLab production systems running smoothly. SREs are a blend of pragmatic operators and software craftspeople that apply sound engineering principles, operational discipline, and mature automation to our environments and the GitLab codebase. We specialize in systems, whether it be networking, the Linux kernel, or some more specific interest in scaling, algorithms, or distributed systems.
+
+The Database Reliability Team 's mission is to build, run and own the entire lifecycle of the PostgreSQL database engine for GitLab.com. The team is focused on owning the reliability, scalability, performance & security of the database engine and its supporting services. The team should be seeking to build their services on top of Reliability::Foundations services and cloud vendor managed products, where appropriate, to reduce complexity, improve efficiency and deliver new capabilities quicker.
+
+GitLab.com is a unique site and it brings unique challenges–it’s the biggest GitLab instance in existence. In fact, it’s one of the largest single-tenancy open-source SaaS sites on the internet. The experience of our team feeds back into other engineering groups within the company, as well as to GitLab customers running self-managed installations
+
+As An SRE You Will
+
+Be on an on-call (PagerDuty) rotation to respond to incidents that impact GitLab.com availability, and provide support for service engineers with customer incidents.
+Use your on-call shift to prevent incidents from ever happening.
+Run our infrastructure with Chef, Ansible, Terraform, GitLab CI/CD, and Kubernetes.
+Build monitoring that alerts on symptoms rather than on outages.
+Document every action so your findings turn into repeatable actions and then into automation.
+Use the GitLab product to run GitLab.com as a first resort and improve the product as much as possible
+Improve operational processes (such as deployments and upgrades) to make them as boring as possible.
+Design, build and maintain core infrastructure that enables GitLab scaling to support hundreds of thousands of concurrent users.
+Debug production issues across services and levels of the stack.
+Plan the growth of GitLab’s infrastructure.
+
+You may be a fit to this role if you have some of these inclinations:
+
+Experience supporting PostgreSQL in large production environments.
+Experience with infrastructure automation and configuration management, using tools such as Chef, Ansible, Terraform, etc
+Think about systems: edge cases, failure modes, behaviors, specific implementations.
+Know your way around Linux and the Unix Shell.
+Have an urge to collaborate and communicate asynchronously.
+Have an urge to document all the things so you don’t need to learn the same thing twice.
+Have an enthusiastic, go-for-it attitude. When you see something broken, you can’t help but fix it.
+Have an urge for delivering quickly and effectively, and iterating fast.
+Share our values , and work in accordance with those values.
+Ability to use GitLab
+Bonus: Strong programming skills as a (former) backend engineer - Preferably with Ruby and/or Go
+
+Projects you could work on:
+
+Coding infrastructure automation with Chef , Ansible, Terraform, and GitLab CI/CD
+Improving our Prometheus Monitoring or building new metrics
+Helping release managers deploy and fix new versions of GitLab-EE.
+Plan, prepare for, and execute the migration of GitLab.com from virtual machines running on Google Cloud to cloud-native container-based deployments with Kubernetes using Google Kubernetes Engine.
+Develop a relationship with a product group , define their SLAs, share GitLab.com data on those SLAs and improve their reliability
+
+Senior Site Reliability Engineer Criteria
+
+Technical
+
+Deep knowledge in 2 areas of expertise and general knowledge of all areas of expertise. Capable of mentoring Junior in all areas and other SRE in their area of deep knowledge.
+Contributes small improvements to the GitLab codebase to resolve issues
+
+Execution
+
+Identifies significant projects that result in substantial cost savings or revenue
+Identifies changes for the product architecture from the reliability, performance and availability perspective with a data driven approach.
+Proactively work on the efficiency and capacity planning to set clear requirements and reduce the system resources usage to make GitLab cheaper to run for all our customers.
+Identify parts of the system that do not scale, provides immediate palliative measures and drives long term resolution of these incidents.
+Identify Service Level Indicators (SLIs) that will align the team to meet the availability and latency objectives.
+
+Collaboration And Communication
+
+Know a domain really well and radiate that knowledge
+Perform and run blameless RCAs on incidents and outages aggressively looking for answers that will prevent the incident from ever happening again.
+
+Influence And Maturity
+
+Lead Production SREs and Junior Production SREs by setting the example.
+Show ownership of a major part of the infrastructure.
+Trusted to de-escalate conflicts inside the team
+
+Performance Indicators
+
+Site Reliability Engineers Have The Following Job-family Performance Indicators
+
+GitLab.com Availability
+GitLab.com Performance
+Apdex and Error SLO per Service
+Mean Time to Detection
+Mean Time to Resolution
+Mean Time Between Failure
+Mean Time to Production
+Disaster Recovery Time to Recovery
+
+The base salary range for this role’s listed level is currently for residents of listed locations only. Grade level and salary ranges are determined through interviews and a review of education, experience, knowledge, skills, abilities of the applicant, equity with other team members, and alignment with market data. See more information on our benefits and equity . Sales roles are also eligible for incentive pay targeted at up to 100% of the offered base salary.
+
+Colorado/Washington pay range
+
+$103,600 — $199,800 USD
+
+California/New York/New Jersey pay range
+
+$103,600 — $222,000 USD
+
+Country Hiring Guidelines: GitLab hires new team members in countries around the world. All of our roles are remote, however some roles may carry specific location-based eligibility requirements. Our Talent Acquisition team can help answer any questions about location after starting the recruiting process.
+
+Privacy Policy: Please review our Recruitment Privacy Policy. Your privacy is important to us.
+
+GitLab is proud to be an equal opportunity workplace and is an affirmative action employer. GitLab’s policies and practices relating to recruitment, employment, career development and advancement, promotion, and retirement are based solely on merit, regardless of race, color, religion, ancestry, sex (including pregnancy, lactation, sexual orientation, gender identity, or gender expression), national origin, age, citizenship, marital status, mental or physical disability, genetic information (including family medical history), discharge status from the military, protected veteran status (which includes disabled veterans, recently separated veterans, active duty wartime or campaign badge veterans, and Armed Forces service medal veterans), or any other basis protected by law. GitLab will not tolerate discrimination or harassment based on any of these characteristics. See also GitLab’s EEO Policy and EEO is the Law . If you have a disability or special need that requires accommodation , please let us know during the recruiting process .
+Show more 
+Seniority level
+Mid-Senior level
+Employment type
+Full-time
+Job function
+Engineering and Information Technology
+Industries
+IT Services and IT Consulting and Software Development
+  
+
+Referrals increase your chances of interviewing at GitLab by 2x
+
+See who you know
+
+Get notified about new Site Reliability Engineer jobs in Australia.
+
+Sign in to create job alert
+Similar jobs
+Senior Site Reliability Engineer
+Senior Site Reliability Engineer
+Atlassian
+Sydney, New South Wales, Australia
+5 hours ago
+Site Reliability Engineer
+Site Reliability Engineer
+Datacom
+Melbourne, Victoria, Australia
+1 week ago
+Site Reliability Engineer
+Site Reliability Engineer
+Aeon Media Group Ltd
+Melbourne, Victoria, Australia
+2 weeks ago
+Site Reliability Engineer
+Site Reliability Engineer
+NetApp
+Canberra, Australian Capital Territory, Australia
+4 days ago
+Senior Site Reliability Engineer
+Senior Site Reliability Engineer
+Oracle
+Melbourne, Victoria, Australia
+3 days ago
+Site Reliability Engineer
+Site Reliability Engineer
+Tribus Technology
+Sydney, New South Wales, Australia
+5 days ago
+Show more jobs like this 
+People also viewed
+100% Remote (AUS) Sr. SysOps Site Reliability Engineer
+100% Remote (AUS) Sr. SysOps Site Reliability Engineer
+
+Cayuse
+
+Victoria, Australia
+1 week ago
+Site Reliability Engineer III, Securities Services Technology
+Site Reliability Engineer III, Securities Services Technology
+
+JPMorgan Chase & Co.
+
+Sydney, New South Wales, Australia
+2 weeks ago
+Reliability Engineer
+Reliability Engineer
+
+EGM Partners: Executive Search and Recruitment
+
+Adelaide, South Australia, Australia
+4 weeks ago
+Reliability Engineer
+Reliability Engineer
+
+Microsoft
+
+Sydney, New South Wales, Australia
+1 week ago
+Reliability Engineer
+Reliability Engineer
+
+ARMS Reliability
+
+Brisbane, Queensland, Australia
+1 month ago
+DevOps Engineer
+DevOps Engineer
+
+Collabera Digital
+
+Victoria, Australia
+2 days ago
+Senior Site Reliability Engineer
+Senior Site Reliability Engineer
+
+Atlassian
+
+Sydney, New South Wales, Australia
+5 hours ago
+Site Reliability Engineer I
+Site Reliability Engineer I
+
+Apptio
+
+Melbourne, Victoria, Australia
+2 days ago
+Senior Site Reliability Engineer
+Senior Site Reliability Engineer
+
+CMD Solutions
+
+Brisbane, Queensland, Australia
+2 weeks ago
+ENGINEERING - Site Reliability Engineer - Sydney
+ENGINEERING - Site Reliability Engineer - Sydney
+
+Macquarie Group
+
+Sydney, New South Wales, Australia
+2 weeks ago
+Looking for a job?
+
+Visit the Career Advice Hub to see tips on interviewing and resume writing.
+
+View Career Advice Hub
+LinkedIn
+© 2023
+About
+Accessibility
+User Agreement
+Privacy Policy
+Cookie Policy
+Copyright Policy
+Brand Policy
+Guest Controls
+Community Guidelines
+Language

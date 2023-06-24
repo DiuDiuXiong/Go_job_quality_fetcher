@@ -1,0 +1,215 @@
+Skip to main content
+LinkedIn
+Jobs
+Dismiss
+Dismiss
+Join now
+Sign in
+Site Reliability Engineer I
+Apptio  Sydney, New South Wales, Australia
+2 days ago  45 applicants
+  
+See who Apptio has hired for this role
+Apply
+Save
+Overview
+
+This position is open to fully-remote work from Australia
+
+In this role, you will be part of a team that develops and supports the Apptio Kubernetes Platform (AKP) where all Apptio applications are deployed. In a typical day you will interact with Github, Linux, Kubernetes, ArgoCD, Docker, Confluence, Jira, Slack, and AWS.
+
+You Are
+
+You are passionate about problem solving and reliability and have experience in SRE or an adjacent role. Your team can count on you to solve challenging problems across the entire Apptio Portfolio. You collaborate with other SREs, developers, and support teams to help provide value to the broader organization. You take responsibility when fixing problems in an automated code first way and are happy to step outside your comfort zone to develop your skillset.
+
+You Are Not
+
+A Kubernetes or cloud expert with many years of experience. This is an early-level position; we want you to help us, and we also want to help you grow.
+
+We Are
+
+The Platform and Site Reliability Engineering team - PRE - at Apptio is responsible for enhancing and maintaining our Kubernetes platform and driving the adoption of SRE best practices across our engineering teams. We are a distributed team working across three locations including the United States, Poland and Australia.
+
+Responsibilities
+
+Manage deployments of Apptio services to AKP
+Streamline the deployment process
+Improve observability of the services within your purview by reviewing KPI dashboards and alerting
+Author and maintain documentation of deployment and monitoring processes
+Use runbooks to troubleshoot and triage production issues
+Detect issues and handle Tier 1-2 troubleshooting
+Participate in online “swarm” collaboration sessions
+Collaborate with service developers
+Participate in on-call rotation
+Perform maintenance of the platform (patching, resets, upgrades, etc.)
+
+Qualifications
+
+1-2 years’ experience in an SRE or adjacent role
+Foundational understanding of at least one programming language and source control (Preferably Golang)
+Experience with distributed application deployment and management
+Experience with container technologies (e.g., Kubernetes, Docker)
+Experience with Infrastructure-as-code (IaC) concepts
+Experience with cloud provider services such as AWS, Azure, or Google Cloud Platform
+Familiarity with RESTful systems and their APIs
+Desire working with a remote team
+Fluent English language skills
+AU resident
+
+The Company
+
+Apptio is the leading technology spend and value management company for financial and operational decisions across Information Technology (IT), multi-cloud FinOps, and product development. Apptio's mission is to deliver business value with every technology investment. Powered by Apptio’s cloud platform and AI/ML data engine, Apptio’s SaaS applications translate technology spend into clear business outcomes and financial ROI. Apptio applications deliver six key capabilities: cost transparency, actionable insights, planning and forecasting, usage and consumption, value management, and showback/chargeback. As a trusted leader in FinOps and Technology Business Management (TBM) with thousands of customers worldwide, Apptio empowers leaders to cut costs and redirect investments to digital innovation. For more information, please visit www.apptio.com.
+
+Leaders In The Organization Consistently Showcase The Following Key Attributes And Look To Build Teams That Embrace These Qualities Every Day
+
+As an organization, Apptio has an established culture; it is open, transparent, and very customer focused.
+
+Growth Mindset
+Dealing with ambiguity and change
+Take ownership and has accountability
+Customer-focused
+Foster an inclusive environment
+
+Apptio, Inc. complies with applicable local and federal laws governing nondiscrimination in employment in every location in which the company has facilities.
+
+Apptio, Inc. provides equal employment opportunities (EEO) to all employees and applicants for employment without regard to race, color, religion, gender, sexual orientation, national origin, age, disability, genetic information, marital status, amnesty, or status as a covered veteran in accordance with applicable US federal, state, and local laws.
+
+Apptio Inc. is not open to 3rd party solicitation or resumes for our posted FTE positions. Resumes received from 3rd party agencies that are unsolicited will be considered complimentary.
+Show more 
+Seniority level
+Not Applicable
+Employment type
+Full-time
+Job function
+Engineering and Information Technology
+Industries
+Software Development
+  
+
+Referrals increase your chances of interviewing at Apptio by 2x
+
+See who you know
+
+Get notified about new Site Reliability Engineer jobs in Sydney, New South Wales, Australia.
+
+Sign in to create job alert
+Similar jobs
+Site Reliability Engineer
+Site Reliability Engineer
+Optus
+Macquarie Park, New South Wales, Australia
+2 days ago
+Senior Site Reliability Engineer
+Senior Site Reliability Engineer
+SafetyCulture
+Sydney, New South Wales, Australia
+2 weeks ago
+Senior Site Reliability Engineer
+Senior Site Reliability Engineer
+Atlassian
+Sydney, New South Wales, Australia
+5 hours ago
+Site Reliability Engineer, APAC
+Site Reliability Engineer, APAC
+Canonical
+Sydney, New South Wales, Australia
+2 weeks ago
+Site Reliability Engineer
+Site Reliability Engineer
+Ampersand International
+Sydney, New South Wales, Australia
+1 month ago
+Site Reliability Engineer
+Site Reliability Engineer
+Axon
+Sydney, New South Wales, Australia
+2 weeks ago
+Show more jobs like this 
+People also viewed
+DevOps Engineer
+DevOps Engineer
+
+LEAP Dev
+
+Sydney, New South Wales, Australia
+2 weeks ago
+DevOps Engineer
+DevOps Engineer
+
+ELMO Software
+
+Greater Sydney Area
+3 weeks ago
+Cloud Engineer
+Cloud Engineer
+
+Ensure Recruitment
+
+Sydney, New South Wales, Australia
+1 week ago
+DevOps Engineer
+DevOps Engineer
+
+Blackhawk Network Australia
+
+Sydney, New South Wales, Australia
+4 days ago
+Senior Systems Reliability Engineer
+Senior Systems Reliability Engineer
+
+Nutanix
+
+Sydney, New South Wales, Australia
+2 days ago
+DevOps Engineer
+DevOps Engineer
+
+swipejobs
+
+North Sydney, New South Wales, Australia
+2 weeks ago
+Cloud Engineer
+Cloud Engineer
+
+Hamilton Barnes 🌳
+
+Sydney, New South Wales, Australia
+2 weeks ago
+DevOps Engineer
+DevOps Engineer
+
+Animal Logic
+
+Sydney, New South Wales, Australia
+1 month ago
+DevOps Engineer
+DevOps Engineer
+
+The Recruitment Company Pty Ltd
+
+Greater Sydney Area
+2 days ago
+Cloud Engineer
+Cloud Engineer
+
+Kapital Consulting - Fintech Recruitment & Executive Search
+
+Sydney, New South Wales, Australia
+1 week ago
+Looking for a job?
+
+Visit the Career Advice Hub to see tips on interviewing and resume writing.
+
+View Career Advice Hub
+LinkedIn
+© 2023
+About
+Accessibility
+User Agreement
+Privacy Policy
+Cookie Policy
+Copyright Policy
+Brand Policy
+Guest Controls
+Community Guidelines
+Language

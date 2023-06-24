@@ -1,0 +1,248 @@
+Skip to main content
+LinkedIn
+Jobs
+Dismiss
+Dismiss
+Join now
+Sign in
+Lead Dev Ops Engineer
+ClickSend  Australia
+2 weeks ago  25 applicants
+  
+See who ClickSend has hired for this role
+Apply
+Save
+
+Direct message the job poster from ClickSend
+
+Merryn Hailes
+APAC Talent Partner - Sinch (ClickSend/MessageMedia) - Committed to the Candidate Experience - Experienced Tech and Retail Talent Specialist
+
+ClickSend is a global cloud based SAAS communications platform for businesses and developers that enables companies of all shapes and sizes to easily and cost effectively communicate with their customers and staff via multiple channels. ClickSend has SMS at its core and powers billions of messages annually but has expanded to become a true all-in-one multi-channel business communications platform offering SMS, MMS, RCS, Email, Voice, Fax and Post by dashboard, API, or hundreds of integrations.
+
+
+
+
+We’re a small team based in Perth, Western Australia, but we’re a global brand with offices in the US, UK, and Philippines. We’re creative problem solvers and we get stuff done but in a relaxed environment that’s not big on overly structured hierarchies. We’re part of Sinch, one of the biggest cloud communications companies on the planet based in Stockholm and have all the benefits of being part of a larger group but we retain our ‘start-up’ mentality. We maintain a spectacular work life balance and try to mix fun and music into our days.
+
+
+
+
+Reporting to the Head of Engineering the DevOps lead will provide subject matter expertise across technologies to ensure we meet customer requirements for rapid service delivery, reliability and innovation. You will be responsible for leading a strong team of DevOps Engineers who assist in maintaining a portfolio of software applications and continuous integration/deployment across the organisation.
+
+
+
+
+We are open to receiving applications from candidates based anywhere in Australia.
+
+
+
+
+Working closely with key stakeholders, product and engineering leaders to deliver complex and innovative solutions in alignment with ClickSend technology strategy and architecture.
+
+
+
+
+Key responsibilities:
+
+Lead, manage and grow a highly motivated team of 2-3 Devops Engineers
+Drive cultural shift towards DevOps and SRE delivery best practices, empowering the teams
+Responsible for your teams design and delivery of continuous integration/continuous delivery processes, practices and platforms
+Discover, prioritise and implement constant improvements to the ways of working and processes within the devops team across trhe product-engineering squads
+Developing impactful solutions that scale in production environments
+Responsible for managing and participating in DevOps on-call duties
+Execute projects within timeframes and communicate well with all stakeholders
+Design solution options and present them to your team
+Review all pull requests and provide constructive feedback
+Working in scrum teams, contributing to breaking down cards in grooming
+Partner with key stakeholders, as well as associate engineers, supporting them to improve and develop their skills
+Assist in incident support and work with the team to resolve issues in production environments
+
+
+
+
+To be successful you will have the following skills and attributes:
+
+3+ years technical and people leadership experience
+Bachelors Degree in either Computer Science, Cloud Computing, Mathematics, Computer Systems or equivalent
+6+ years experience working in a DevOps environment
+A passion and hunger to deliver solutions, courage, and foresight to challenge existing processes
+Advanced experience with AWS, EC2, ECS, Networking, Lambda and VPC
+Demonstrated Linux experience
+Demonstrated experience in automation
+Demonstrated experience with Docker
+Demonstrated experience in building and maintaining CI/CD Pipelines using CircleCI or similar
+A thorough understanding of microservice and distributed application architectures
+Demonstrated experience with serverless technologies
+Demonstrated experience across development knowledge, i.e., writing code, texts, packaging, using either Node JS/PHP
+
+
+
+
+We are committed to building an engaged and talented workforce that represents an environment that is inclusive, supports flexibility and welcomes diversity.
+
+
+
+
+Our values of Dream Big, Win Together, Keep it Simple and Make it Happen are the foundation for fostering an environment where diversity of thinking, skills and experiences are embraced, delivering innovation and better business results.
+
+
+
+
+We value our team by offering
+
+Flexible hybrid working arrangement
+Generous parental leave program: 26 weeks salary for primary care giver and 4 weeks salary for secondary care giver
+Access to Reward+ program
+A day off for your birthday
+Wellness programs
+Coaching and career development support, including access to a range of online professional development courses
+Access to our Employee Assistance Program
+Global mobility policy
+Monthly fitness reimbursement
+Volunteer leave
+Work from home set up reimbursement
+
+
+
+
+If you are looking for the next opportunity in your career and want to work for a certified “Great Place to Work” , growing tech company, then Apply Now.
+
+Show more 
+Seniority level
+Mid-Senior level
+Employment type
+Full-time
+Job function
+Research, Analyst, and Information Technology
+Industries
+Telecommunications
+  
+
+Referrals increase your chances of interviewing at ClickSend by 2x
+
+See who you know
+
+Get notified about new DevOps Engineer jobs in Australia.
+
+Sign in to create job alert
+Similar jobs
+Online Tutor
+Online Tutor
+Trivium Education
+India
+5 minutes ago
+GCP Engineer - Healthcare
+GCP Engineer - Healthcare
+RIIM
+New York, United States
+11 minutes ago
+Technische Mitarbeiter / Study Technician (m/w/d)
+Technische Mitarbeiter / Study Technician (m/w/d)
+Labcorp
+Petaling Jaya, Selangor, Malaysia
+1 minute ago
+Physician - CenterWell - Jacinto City, TX
+Physician - CenterWell - Jacinto City, TX
+CenterWell Senior Primary Care
+Houston, TX
+1 minute ago
+Gestionnaire Administration Des Ventes Front Office H/F
+Gestionnaire Administration Des Ventes Front Office H/F
+Capgemini Engineering
+Paris, Île-de-France, France
+12 minutes ago
+Operations Project Manager
+Operations Project Manager
+GCP
+Santiago Tianguistenco, México, Mexico
+2 minutes ago
+Show more jobs like this 
+People also viewed
+Virtual RAN Solutions Architect
+Virtual RAN Solutions Architect
+
+Intel Corporation
+
+Santa Clara, CA
+4 minutes ago
+Chefe de departamento comercial
+Chefe de departamento comercial
+
+Martin Baum Consulting
+
+São Paulo, São Paulo, Brazil
+16 minutes ago
+Pracownik Sklepu
+Pracownik Sklepu
+
+Action
+
+Zamość, Lubelskie, Poland
+1 minute ago
+Apprentice Business Developer
+Apprentice Business Developer
+
+Howdens
+
+Tansley, England, United Kingdom
+2 minutes ago
+Aviation Project Manager
+Aviation Project Manager
+
+Garver
+
+Tulsa, OK
+3 minutes ago
+IBM Benefits Advocate
+IBM Benefits Advocate
+
+IBM
+
+Raleigh, NC
+7 minutes ago
+Registered Nurse Home Health
+Registered Nurse Home Health
+
+CenterWell Senior Primary Care
+
+Omaha, NE
+1 minute ago
+Provider Contracting Executive
+Provider Contracting Executive
+
+Humana
+
+Brentwood, TN
+1 minute ago
+Project Manager Architecture EE H/F
+Project Manager Architecture EE H/F
+
+Capgemini Engineering
+
+Vélizy-Villacoublay, Île-de-France, France
+12 minutes ago
+Pracownik Sklepu
+Pracownik Sklepu
+
+Action
+
+Rawa Mazowiecka, Łódzkie, Poland
+1 minute ago
+Looking for a job?
+
+Visit the Career Advice Hub to see tips on interviewing and resume writing.
+
+View Career Advice Hub
+LinkedIn
+© 2023
+About
+Accessibility
+User Agreement
+Privacy Policy
+Cookie Policy
+Copyright Policy
+Brand Policy
+Guest Controls
+Community Guidelines
+Language

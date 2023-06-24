@@ -1,0 +1,217 @@
+Skip to main content
+LinkedIn
+Jobs
+Dismiss
+Dismiss
+Join now
+Sign in
+Site Reliability Engineer
+Tribus Technology  Sydney, New South Wales, Australia
+5 days ago  35 applicants
+  
+See who Tribus Technology has hired for this role
+Apply
+Save
+
+Direct message the job poster from Tribus Technology
+
+Greg Moore
+Founder | Tribus Technology | Helping organisations hire in Software Engineering & Data
+
+If you're looking to be part of an SRE team that thrives on project-based initiatives, then this opportunity is for you.
+
+
+
+
+Our client has cultivated a remarkable engineering culture over time, striking the perfect balance that has resulted in exceptional employee retention rates.
+
+
+
+
+Here's what you can expect:
+
+Outcome-oriented environment: They tackle project-based initiatives with a well-defined roadmap for the next 2 years, focusing on ensuring the reliability and performance of their systems.
+Hybrid work model: Enjoy the flexibility of remote work for most of the week, while having 1-2 office days dedicated to collaboration sessions.
+Equal opportunity: Regardless of your level of experience, they empower all team members to contribute and provide them with the best tools to succeed in maintaining a robust infrastructure.
+Emphasis on research and development: As a tech-focused company, they continuously innovate and improve their systems to stay ahead in today's competitive market.
+Supportive leadership: The leadership team encourages open communication, welcomes concerns, and values constructive feedback.
+
+
+
+
+The tech stack is ever-changing but it currently includes;
+
+Jenkins | Terraform | Ansible | Kubernetes | ArgoCD | Prometheus | Grafana | ELK | Node.JS | React | .Net | Kafka
+
+
+
+
+As an SRE, you'll join a team of 4 highly skilled engineers dedicated to ensuring the reliability and scalability of the systems for their global customer base.
+
+
+
+
+To succeed in this role you will need to be comfortable with at least 3 of the following;
+
+Jenkins or GitLab
+Terraform
+Ansible
+Kubernetes
+Grafana
+Prometheus
+
+
+
+
+Currently, they’re building on-prem but are about to start their cloud journey with AWS.
+
+They value your attitude and passion for growth over specific technology expertise. If you’re eager to learn and develop your skills, they will provide you with the tools and support to succeed.
+
+
+
+
+Please apply or email me directly for more information; greg.moore@tribustechnology.com
+
+
+
+
+If you don’t quite fit the requirements but are interested in having a conversation with one of our senior consultants please send your resume to careers@tribustechnology.com
+
+Show more 
+Seniority level
+Mid-Senior level
+Employment type
+Full-time
+Job function
+Engineering and Information Technology
+Industries
+Staffing and Recruiting
+  
+
+Referrals increase your chances of interviewing at Tribus Technology by 2x
+
+See who you know
+
+Get notified about new Site Reliability Engineer jobs in Sydney, New South Wales, Australia.
+
+Sign in to create job alert
+Similar jobs
+Site Reliability Engineer
+Site Reliability Engineer
+Ampersand International
+Sydney, New South Wales, Australia
+1 month ago
+Site Reliability Engineer
+Site Reliability Engineer
+Commonwealth Bank
+Sydney, New South Wales, Australia
+4 days ago
+Lead Site Reliability Engineer
+Lead Site Reliability Engineer
+4Twenty Consulting
+Sydney, New South Wales, Australia
+2 weeks ago
+Site Reliability Engineer
+Site Reliability Engineer
+Optus
+Macquarie Park, New South Wales, Australia
+2 days ago
+Site Reliability Engineer I
+Site Reliability Engineer I
+Apptio
+Sydney, New South Wales, Australia
+2 days ago
+Site Reliability Engineer
+Site Reliability Engineer
+Axon
+Sydney, New South Wales, Australia
+2 weeks ago
+Show more jobs like this 
+People also viewed
+DevOps Engineer
+DevOps Engineer
+
+Spring Professional
+
+Sydney, New South Wales, Australia
+3 weeks ago
+DevOps Engineer
+DevOps Engineer
+
+TEKsystems
+
+Sydney, New South Wales, Australia
+4 days ago
+Cloud Engineer
+Cloud Engineer
+
+Kapital Consulting - Fintech Recruitment & Executive Search
+
+Sydney, New South Wales, Australia
+1 week ago
+Systems Reliability Engineer
+Systems Reliability Engineer
+
+ThoughtSpot
+
+Sydney, New South Wales, Australia
+2 weeks ago
+DevOps Engineer
+DevOps Engineer
+
+Precision Sourcing
+
+Sydney, New South Wales, Australia
+3 days ago
+DevOps Engineer
+DevOps Engineer
+
+Horizon Consulting
+
+Sydney, New South Wales, Australia
+1 week ago
+DevOps Engineer
+DevOps Engineer
+
+Animal Logic
+
+Sydney, New South Wales, Australia
+1 month ago
+DevOps Engineer
+DevOps Engineer
+
+swipejobs
+
+North Sydney, New South Wales, Australia
+2 weeks ago
+DevOps Engineer
+DevOps Engineer
+
+ELMO Software
+
+Greater Sydney Area
+3 weeks ago
+Senior Site Reliability Engineer
+Senior Site Reliability Engineer
+
+Atlassian
+
+Sydney, New South Wales, Australia
+5 hours ago
+Looking for a job?
+
+Visit the Career Advice Hub to see tips on interviewing and resume writing.
+
+View Career Advice Hub
+LinkedIn
+© 2023
+About
+Accessibility
+User Agreement
+Privacy Policy
+Cookie Policy
+Copyright Policy
+Brand Policy
+Guest Controls
+Community Guidelines
+Language

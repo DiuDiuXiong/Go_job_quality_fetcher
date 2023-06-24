@@ -1,0 +1,92 @@
+Skip to main content
+Find jobs
+Company reviews
+Search Salary
+Upload your resume
+Sign in
+Employers / Post Job
+Start of main content
+What
+Where
+Find Jobs
+Systems Reliability Engineer
+ThoughtSpot
+Sydney NSW
+Remote
+Apply now
+Job details
+No matching job preferences
+Shift and Schedule
+On call
+
+We are looking for a well-rounded customer facing professional to join our Systems Reliability team. The right candidate for this role will be passionate about helping customers deploy/maintain/troubleshoot distributed services/applications in the cloud and on-premise infrastructure. You will be responsible for the big picture of how the services in the ThoughtSpot stack relate to each other and use a breadth of tools and approaches to solve a broad spectrum of problems. You are the ideal candidate if you take ownership of customer issues and see problems through to resolution.
+
+What You'll Do:
+
+Take a customer-first approach to troubleshoot, debug and diagnose product issues.
+Provide technical support in Japanese to customers based in Japan
+Ensure prompt and accurate updates, meet SLAs and provide timely resolution to customer issues.
+Create knowledge-base articles to document knowledge and help customers self service.
+Understand the requirements and nuances of data centers and public cloud (VMware, AWS, Azure, GCP) features.
+Maintain, monitor, and troubleshoot ThoughtSpot cloud infrastructure.
+Work with Engineering teams to define, and implement tools to enhance debuggability, supportability, availability, scalability, and performance.
+Be an expert in cloud and on-premise infrastructure by developing automation and best practices.
+Participate in on-call rotation for critical SRE systems, lead the incident review and root cause analysis.
+Understand cloud NetOps and SecOps aspects.
+
+What You'll Bring:
+
+Must be Fluent in Japanese and English
+B.S. degree in Computer Science or relevant industry experience.
+Relevant work experience troubleshooting Linux Systems.
+Experience in virtualization and Cloud technologies
+Experience in enterprise customer support, on-call rotation for critical SRE systems, leading incident review and root cause analysis.
+Ability to diagnose technical problems and work with Engineering on escalated issues.
+Strong problem solving skills, algorithmic thinking and a strong foundation in how systems should work.
+Understanding of tools & frameworks required to Operate and manage Cloud infrastructure.
+Strong customer service skills.
+Solid communication skills and ability to work independently.
+Ability to leverage automation, monitoring and data analysis to ensure high availability.
+Familiarity with programming languages like C/C++, Python, Go or Java.
+Exposure to infrastructure and service monitoring tools.
+
+What makes ThoughtSpot a great place to work?
+
+ThoughtSpot is the experience layer of the modern data stack, leading the industry with our AI-Powered Analytics and natural language search. We hire people with unique identities, backgrounds, and perspectives—this balance-for-the-better philosophy is key to our success. When paired with our culture of Selfless Excellence and our drive for continuous improvement (2% done), ThoughtSpot cultivates a respectful culture that pushes norms to create world-class products. If you're excited by the opportunity to work with some of the brightest minds in the business and make your mark on a truly innovative company, we invite you to read more about our mission, and apply to the role that's right for you.
+
+ThoughtSpot for All
+
+Building a diverse and inclusive team isn't just the right thing to do for our people, it's the right thing to do for our business. We know we can't solve complex data problems with a single perspective. It takes many voices, experiences, and areas of expertise to deliver the innovative solutions our customers need. At ThoughtSpot, we continually celebrate the diverse communities that individuals cultivate to empower every Spotter to bring their whole authentic self to work.
+
+We're committed to being real and continuously learning when it comes to equality, equity, and creating space for underrepresented groups to thrive.
+
+Research shows that in order to apply for a job, women feel they need to meet 100% of the criteria while men usually apply after meeting 60%. Regardless of how you identify, if you believe you can do the job and are a good match, we encourage you to apply.
+
+About ThoughtSpot
+
+The world's most innovative companies use AI-Powered Analytics from ThoughtSpot to empower every person in their organization, from C-suite executive to frontline employee, with the ability to ask and answer data questions, create and interact with data-driven insights, and use these insights to make informed decisions and take action. ThoughtSpot is simple enough for any business person to use, yet built to handle even the largest, most complex data, wherever it may reside. That's why customers like T-Mobile, BT, Snowflake, HubSpot, Exxon, Daimler, Medtronic, Hulu, Nasdaq, OpenTable, Huel, and Nationwide Building Society have turned to ThoughtSpot to transform their data driven decision-making cultures.
+
+
+
+
+
+To all recruitment agencies: ThoughtSpot does not accept agency resumes. Please do not forward resumes to our jobs alias, ThoughtSpot employees, or any other organization location. ThoughtSpot nor its employees are not responsible for any fees related to unsolicited resumes.
+
+Report job
+Hiring Lab
+Career Advice
+Browse Jobs
+Browse Companies
+Salaries
+Indeed Events
+Work at Indeed
+Countries
+About
+Help Centre
+ESG at Indeed
+© 2023 Indeed
+Accessibility at Indeed
+Privacy Centre
+Cookies
+Privacy
+Terms

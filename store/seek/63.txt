@@ -1,0 +1,145 @@
+DevOps Engineer
+Skip to content
+Jobs
+Courses
+Businesses for sale
+Volunteering
+SEEK
+Job search
+Profile
+Career advice
+Company reviews
+Sign in
+Employer site
+DevOps Engineer
+Indue Ltd
+3.6
+•
+20 reviews
+Toowong, Brisbane QLD
+Developers/Programmers (Information & Communication Technology)
+Full time
+Competitive Salary + annual bonus
+Posted 29d ago
+More jobs from this company
+Apply for DevOps Engineer at Indue Ltd
+Quick apply
+Save DevOps Engineer at Indue Ltd
+Save
+Share
+About Us
+
+IIndue offers a range of technology payment solutions, including market leading financial crime solutions, New Payments Platform, mobile payments and card programs in a B2B market
+
+Our competitive advantage is based on our commitment to consistently delivering real service, being flexible and innovative, and building strong partnerships with our clients. We value our people because we know our success depends on them. 
+
+Visit our website at www.indue.com.au for more information.
+
+What We Offer
+Work-life Balance: Flexible working arrangements, ability to work from home and meeting free Fridays.
+Career development: Learning & Development programs, study assistance, internal movements, and secondment opportunities. 
+Reward & Recognition: Excellent recognition programs appreciating employee’s contributions, service anniversaries and Annual Awards. 
+Culture: Collaborative and inclusive culture, approachable leadership team who provide monthly updates, and regular social celebrations.
+Wellness: Employee Assistance Program, discounted Health Insurance and ability to purchase additional leave.
+About the Role
+
+Reporting to the Technical Delivery Lead, the DevOps Engineer role is responsible for implementing, optimising, and maintaining Indue applications and services, both on-premises and in the cloud. Supporting a mix of project delivery and operations, the DevOps Engineer plays a key role in deployment and operation of infrastructure and applications to ensure the effective delivery of services to customers.
+
+The key focus for the DevOps Engineer is quality delivery of infrastructure systems and services, enabling critical business applications, both on-premise and in the cloud. With scope across the full technology stack, the role will work closely with key stakeholders across the business and other technology teams to build highly scalable, resilient, and secure systems for hybrid and multi cloud platforms. 
+
+Responsibilities for the role include: 
+
+Strive to improve systems while contributing to a culture which embraces contemporary practices and approaches such as Agile and DevOps.
+Evaluate, design and plan complex systems; and as appropriate recommend resource requirements to maintain or enhance service levels and/or system performance. 
+Contribute to development and maintenance of Infrastructure/DevOps Standards.  Implement solutions in-line with Indue standards, including completion of operationalisation activities.
+Participation in estimation, quotation, and customer tender processes.
+Embrace a customer centric approach to operational support and support tickets as per the SLAs. Actively monitor and respond to the alerts received.
+Develop and maintain resilient, recoverable, stable, and highly available infrastructure. Continually drive improvements in performance of infrastructure and systems. 
+Provide technical leadership to teams, identifying and managing risks associated with the scalability, availability, and performance of all infrastructure. Act as an escalation point for complex issues related to platform systems and services. 
+Ensure that operational infrastructure governance items are completed.
+Constantly review and enhance work processes, systems and policies and maintain awareness, understanding and compliance with the policies and procedures.
+About You
+
+You’d be a great match for us if you possess majority of the following skills and attributes:
+
+5+ years’ experience in a DevOps Engineer role or similar (Platform Engineer/SRE)
+In-depth knowledge of RedHat Linux and/or Microsoft Windows Server operating systems.
+Demonstrated experience using DevOps practices and tools to deliver and manage infrastructure.
+Demonstrated problem-solving and analytical skills.
+Demonstrated ability to develop written technical documentation.
+Demonstrated ability to work collaboratively as part of a team, or independently as needed.
+Strong communication and interpersonal skills.
+
+It would be a bonus to have some of the following skills and exposures in the mix:
+
+Relevant industry certifications (RedHat, Microsoft, Azure, Kubernetes).
+Experience with infrastructure-as-code and configuration management tools (Puppet, Terraform, Git) to provision both on-premises and cloud infrastructure and applications.
+Experience working in a complex environment supporting multiple parallel projects.
+Experience in the banking and payments industry.
+Sounds like you?
+
+Please use the 'Apply Now' button below to submit your Cover Letter and Resume, demonstrating your relevant experience for the role.
+
+No agency enquiries - only direct candidates with full working rights in Australia will be considered. Candidates may be requested to complete a criminal history check and provide their COVID-19 vaccination status as part of our recruitment process.
+
+Employer questions
+Your application will include the following questions:
+Which of the following statements best describes your right to work in Australia?
+What's your expected annual base salary?
+How much notice are you required to give your current employer?
+Which of the following statements best describes your Covid-19 vaccination status?
+Report this job advert
+Be careful
+Don’t provide your bank or credit card details when applying for jobs.
+Learn how to protect yourself
+Report this job ad 
+Upskill in kubernetes to better prepare for this job
+
+Getting Started with Google Kubernetes Engine
+
+Lumify Work
+
+1 day full-time
+
+Online
+
+Contact provider for next start date
+
+Job seekers
+Job search
+Profile
+Recommended jobs
+Saved searches
+Saved jobs
+Applied jobs
+Career advice
+Explore careers
+Company reviews
+Download apps
+SEEK sites
+Employers
+Register for free
+Post a job ad
+Products & prices
+Customer service
+Hiring advice
+Market insights
+Recruitment software partners
+About SEEK
+About SEEK
+Newsroom
+Investors
+Work for SEEK
+International partners
+Partner services
+Contact
+Help centre
+Contact us
+Product & tech blog
+SEEK videos
+Social
+Australia
+Privacy policy
+Terms & conditions
+Protect yourself online
+© SEEK. All rights reserved

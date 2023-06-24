@@ -78,7 +78,6 @@ func (*SeekFetcher) ExtractTotalJobCounts(html *string) int {
 
 func (fetcher *SeekFetcher) FetchTargetJobUrls(fc *FetchCriteria) ([]string, error) {
 	url, err := fetcher.FetchCriteriaToUrl(fc, 1)
-	fmt.Println(url)
 	if err != nil {
 		return nil, err
 	}

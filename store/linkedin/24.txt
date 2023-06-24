@@ -1,0 +1,303 @@
+Skip to main content
+LinkedIn
+Jobs
+Dismiss
+Dismiss
+Join now
+Sign in
+Senior Site Reliability Engineer
+Workforce Australia for Individuals  Sydney, New South Wales, Australia
+2 weeks ago   Be among the first 25 applicants
+  
+See who Workforce Australia for Individuals has hired for this role
+Apply
+Save
+Feedzai is the world’s first RiskOps platform for financial risk management, and the market leader in safeguarding global commerce with today’s most advanced cloud-based risk management platform, powered by machine learning and artificial intelligence. Feedzai is securing the transition to a cashless world while enabling digital trust in every transaction and payment type. The world’s largest banks, processors, and retailers trust Feedzai to protect trillions of dollars and manage risk while improving the customer experience for everyday users, without compromising privacy. Feedzai is a Series D company and has raised $282M to date. With a valuation of +$1.5B, the company's technology protects 900 million people in 190 countries.
+
+
+
+
+With Cloud at its core, the Engineering (Tech) Team is responsible for all Feedzai product development. Together with Product Management and Data Science, we build the next generation of tools to catch fraud in real-time with a machine learning first approach. Formed by engineers and managed by engineers, at Feedzai, you will find one of the most talented teams out there, from junior to senior engineers.
+
+
+
+
+We are fast-paced and provide a safe, open, and collaborative environment that encourages us to lean in, try new things and discover our potential with continuous learning for everyone.
+
+
+
+
+While building the best value for our customers, you will work with a wide range of technical challenges. Such as building distributed systems that need to operate 24/7 and ultra-low latencies, solving UI/UX problems to help fraud analysts to fight fraud more efficiently. In addition, designing extensive databases from relational, NoSQL and graphs, validate and develop new data science techniques and algorithms.
+
+
+
+
+You
+
+
+
+
+Feedzai SRE team is responsible for the overall cloud platform architecture that supports the cloud services provided to our customers. As part of this team you'll work with other Site Reliability Engineers with a deep understanding of Feedzai cloud products and environments in developing the automation, tooling, and platforms that support Feedzai cloud service, and by doing so, contributing to faster and more agile product delivery.
+
+
+
+
+Your Day To Day
+
+
+
+
+Build and maintain tools for deployment, monitoring, operations, and analytics;
+
+
+
+
+Provide support on cloud-ops ownership services, production monitoring, deployments, and maintenance of infrastructure.
+
+
+
+
+Develop and execute regional plan to migrate regional environments to the Next Gen architecture
+
+
+
+
+Take ownership of all customer environments in the region
+
+
+
+
+Own and automate/improve Service Catalog in the region
+
+
+
+
+Own and execute the improvement roadmap;
+
+
+
+
+Participate in incident response, root cause investigation, and resolution;
+
+
+
+
+Maintain and develop our infrastructure as code (IaC) to manage and operate end-to-end lifecycle operations (monitoring, alerting, security, cost optimization, configuration, backup, etc.) in production environments;
+
+
+
+
+Utilize your experience and problem-solving skills to help prevent and investigate production issues;
+
+
+
+
+Communicate with team members, stakeholders and customers in a globally distributed and asynchronous environment;
+
+
+
+
+You Have & You Know-How
+
+
+
+
+A bachelor's degree in Computer Science, Information Systems, or the equivalent combination of education, experience, and training that provides the required knowledge, skills, and abilities;
+
+
+
+
+5+ years of experience with AWS or Azure;
+
+
+
+
+Experience with Automation, Infrastructure-as-Code, Terraform, Ansible, Runbooks and Troubleshooting guides;
+
+
+
+
+Experience with Virtualization, Container Technologies and Orchestration (Docker, Kubernetes);
+
+
+
+
+Programming skills (Go, Python, or similar languages);
+
+
+
+
+Experience with CI/CD pipelines; Experience with monitoring, troubleshooting and guiding on incidents;
+
+
+
+
+Self-driven & motivated, with a strong work ethic and a passion for problem-solving;
+
+
+
+
+Experience working for an anti-financial crime ML driven software company - mandatory
+
+
+
+
+Preferred Qualifications And Skills
+
+
+
+
+Excellent communication skills both written and verbal;
+
+
+
+
+Kubernetes, Cloud, and Hashicorp certifications or equivalent are valued;
+
+
+
+
+Experience with GCP is a plus;
+
+
+
+
+The Product Team builds our product to disrupt the financial crime industry from a data-led approach. We partner with our clients using a holistic lens and have result-driven solutions to manage financial risk with a cloud-first platform and a world-class UX interface. Being part of this team, you have a voice in planning, strategizing, and challenging the status quo. Your thoughts and ideas are valued. Our fast-paced and open environment encourages us to lean in, try new things, and discover our potential. We define and act on what could be in tomorrow's world, not on what is today. Join Us!
+Show more 
+Seniority level
+Mid-Senior level
+Employment type
+Full-time
+Job function
+Engineering and Information Technology
+Industries
+Government Administration
+  
+
+Referrals increase your chances of interviewing at Workforce Australia for Individuals by 2x
+
+See who you know
+
+Get notified about new Senior Site Reliability Engineer jobs in Sydney, New South Wales, Australia.
+
+Sign in to create job alert
+Similar jobs
+Senior Site Reliability Engineer
+Senior Site Reliability Engineer
+Feedzai
+Sydney, New South Wales, Australia
+1 week ago
+Senior Site Reliability Engineer
+Senior Site Reliability Engineer
+Atlassian
+Sydney, New South Wales, Australia
+5 hours ago
+Senior Site Reliability Engineer
+Senior Site Reliability Engineer
+CMD Solutions
+Sydney, New South Wales, Australia
+2 weeks ago
+Senior Site Reliability Engineer
+Senior Site Reliability Engineer
+SafetyCulture
+Sydney, New South Wales, Australia
+2 weeks ago
+Senior Site Reliability Engineer
+Senior Site Reliability Engineer
+Cboe Global Markets
+Sydney, New South Wales, Australia
+1 week ago
+Senior Site Reliability Engineer
+Senior Site Reliability Engineer
+Macquarie Group
+Sydney, New South Wales, Australia
+2 weeks ago
+Show more jobs like this 
+People also viewed
+Senior Software Reliability Engineer (open to remote across ANZ)
+Senior Software Reliability Engineer (open to remote across ANZ)
+
+Canva
+
+Sydney, New South Wales, Australia
+3 hours ago
+Senior DevOps Engineer
+Senior DevOps Engineer
+
+Airwallex
+
+Sydney, New South Wales, Australia
+2 weeks ago
+Database Reliability Engineer
+Database Reliability Engineer
+
+Cover Genius
+
+Sydney, New South Wales, Australia
+2 weeks ago
+Senior DevOps Engineer
+Senior DevOps Engineer
+
+TheDriveGroup.
+
+Sydney, New South Wales, Australia
+1 week ago
+Systems Reliability Engineer
+Systems Reliability Engineer
+
+ThoughtSpot
+
+Sydney, New South Wales, Australia
+2 weeks ago
+Senior DevOps Engineer
+Senior DevOps Engineer
+
+Bunnings
+
+Sydney, New South Wales, Australia
+2 weeks ago
+Senior DevOps Engineer
+Senior DevOps Engineer
+
+Qcells North America
+
+Sydney, New South Wales, Australia
+2 weeks ago
+Senior Workplace Engineer
+Senior Workplace Engineer
+
+Scentre Group (Owner and Operator of Westfield in Aus and NZ)
+
+Sydney, New South Wales, Australia
+2 weeks ago
+Senior DevOps Engineer
+Senior DevOps Engineer
+
+Shine Solutions Group
+
+Sydney, New South Wales, Australia
+4 days ago
+Senior Machine Learning Engineer
+Senior Machine Learning Engineer
+
+Woolworths Group
+
+Sydney, New South Wales, Australia
+2 weeks ago
+Looking for a job?
+
+Visit the Career Advice Hub to see tips on interviewing and resume writing.
+
+View Career Advice Hub
+LinkedIn
+© 2023
+About
+Accessibility
+User Agreement
+Privacy Policy
+Cookie Policy
+Copyright Policy
+Brand Policy
+Guest Controls
+Community Guidelines
+Language

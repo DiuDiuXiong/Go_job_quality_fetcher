@@ -1,0 +1,176 @@
+Skip to main content
+LinkedIn
+Jobs
+Dismiss
+Dismiss
+Join now
+Sign in
+DevOps Engineer
+CryptoRecruit  Australia
+6 days ago  82 applicants
+  
+See who CryptoRecruit has hired for this role
+Apply
+Save
+About The Role
+
+The company is looking for a highly reliable and autonomous DevOps Engineer who will be involved in many different phases of the software application lifecycle including Web Apps and Web Services, Games as well as blockchains & NFT's in the near future.
+
+Responsibilities
+
+Work in a fast-paced DevSecOps environment and deliver our products to market quickly and efficiently
+Implement and maintain CI/CD pipeline for deployment and test automation
+Monitor application health and performance and be proactive in anticipating production issues such as outages, slowness, processing delays, errors, and failures, and take corrective action to prevent them
+Provide continued improvement to the platform infrastructure through automation and standardization
+
+Requirements
+
+Hands-on experience with AWS services (Lambda, ECS, EC2, ALB, ASGs, CW, RDS, SNS, VPC, SG, IAM, SQL/NoSQL, etc but you don't need to know all!)
+Hands-on experience with Infra as Code (CloudFormation, Pulumi, CDK, or Terraform)
+Hands-on experience with Docker
+Experience with monitoring and reliability (this role is more SRE than Sys engineering)
+Ability to build complete CI/CD workflows - GitLab is preferred
+Familiarity with GitOps and DevSecOps
+Basic knowledge in any programming languages: Shell, Bash, Typescript, Go, Python, etc
+Basic knowledge of popular public & enterprise blockchains, cryptocurrency, smart contracts (Solidity), and NFTs.
+Make sure to follow us here to get our most live jobs https://www.linkedin.com/company/cryptorecruit
+
+Cryptorecruit are the worlds leading specialist recruiter for the blockchain/Cryptocurrency industry. We recruit positions from CEO,CTO, Project Manager, Solidity developer, frontend and Backend Blockchain developers to marketing/sales and customer service roles. Please browse our website and at www.cryptorecruit.com to search all our job vacancies.
+Show more 
+Seniority level
+Entry level
+Employment type
+Full-time
+Job function
+Engineering
+Industries
+Human Resources Services
+  
+
+Referrals increase your chances of interviewing at CryptoRecruit by 2x
+
+See who you know
+
+Get notified about new DevOps Engineer jobs in Australia.
+
+Sign in to create job alert
+Similar jobs
+DevOps Engineer
+DevOps Engineer
+Discovered People
+Sydney, New South Wales, Australia
+2 days ago
+DevOps Engineer
+DevOps Engineer
+Opus Recruitment Solutions
+Melbourne, Victoria, Australia
+3 days ago
+DevOps Engineer
+DevOps Engineer
+Bizessence Pty Ltd
+Melbourne, Victoria, Australia
+4 days ago
+DevOps Engineer
+DevOps Engineer
+Talenza
+Sydney, New South Wales, Australia
+5 days ago
+DevOps Engineer
+DevOps Engineer
+Elite IT Recruitment
+Melbourne, Victoria, Australia
+2 days ago
+DevOps Engineer
+DevOps Engineer
+BLACKROC™ Group
+Brisbane, Queensland, Australia
+5 days ago
+Show more jobs like this 
+People also viewed
+DevOps Engineer
+DevOps Engineer
+
+Ampstek
+
+Melbourne, Victoria, Australia
+1 day ago
+DevOps Engineer
+DevOps Engineer
+
+Collabera Digital
+
+Victoria, Australia
+2 days ago
+DevOps Engineer
+DevOps Engineer
+
+Precision Sourcing
+
+Sydney, New South Wales, Australia
+3 days ago
+DevOps Engineer
+DevOps Engineer
+
+ELMO Software
+
+Greater Sydney Area
+3 weeks ago
+DevOps Engineer
+DevOps Engineer
+
+Tata Consultancy Services
+
+Sydney, New South Wales, Australia
+4 days ago
+DevOps Engineer
+DevOps Engineer
+
+Accenture Australia
+
+Canberra, Australian Capital Territory, Australia
+2 weeks ago
+DevOps Engineer
+DevOps Engineer
+
+Animal Logic
+
+Sydney, New South Wales, Australia
+1 month ago
+DevOps Engineer
+DevOps Engineer
+
+AIA Australia
+
+Melbourne, Victoria, Australia
+3 weeks ago
+DevOps Engineer
+DevOps Engineer
+
+swipejobs
+
+North Sydney, New South Wales, Australia
+2 weeks ago
+DevOps Engineer
+DevOps Engineer
+
+mx51
+
+Sydney, New South Wales, Australia
+2 weeks ago
+Looking for a job?
+
+Visit the Career Advice Hub to see tips on interviewing and resume writing.
+
+View Career Advice Hub
+LinkedIn
+© 2023
+About
+Accessibility
+User Agreement
+Privacy Policy
+Cookie Policy
+Copyright Policy
+Brand Policy
+Guest Controls
+Community Guidelines
+Language
