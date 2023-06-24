@@ -43,6 +43,11 @@ func TestFetchOnePage(t *testing.T) {
 			fileName: "IndeedSearch.txt",
 			target:   "Indeed",
 		},
+		{
+			url:      "https://au.linkedin.com/jobs/api/seeMoreJobPostings/search?keywords=SRE&location=Australia&start=0&f_TPR=r36000000",
+			fileName: "LinkedInSearch.txt",
+			target:   "LinkedIn",
+		},
 	}
 
 	for _, tt := range targets {
