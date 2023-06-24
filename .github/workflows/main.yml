@@ -31,3 +31,6 @@ jobs:
 
     - name: run fetcher tests
       run: go test ./test/internal/fetcher/...
+
+    - name: run extractor tests
+      run: go test ./test/internal/extractor
