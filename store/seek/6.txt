@@ -1,0 +1,144 @@
+Senior DevOps Engineer - (SRE /Docker /Kubernetes /OpenShift)
+Skip to content
+Jobs
+Courses
+Businesses for sale
+Volunteering
+SEEK
+Job search
+Profile
+Career advice
+Company reviews
+Sign in
+Employer site
+Senior DevOps Engineer - (SRE /Docker /Kubernetes /OpenShift)
+Capgemini Australia Pty Ltd
+2.9
+•
+73 reviews
+Sydney NSW
+Engineering - Software (Information & Communication Technology)
+Full time
+As per the market standards
+Posted 5d ago
+More jobs from this company
+Apply for Senior DevOps Engineer - (SRE /Docker /Kubernetes /OpenShift) at Capgemini Australia Pty Ltd
+Apply
+Save Senior DevOps Engineer - (SRE /Docker /Kubernetes /OpenShift) at Capgemini Australia Pty Ltd
+Save
+Share
+Capgemini is a global leader in partnering with companies to transform and manage their businesses by harnessing the power of technology. Recognized by Ethisphere as one of the World's Most Ethical Companies for the last ten years in a row, we are a diverse, values-driven organization of over 325,000 team members in more than 50 countries.
+  
+Now is the time to join our Australian and New Zealand businesses as we rapidly expand - purposefully investing in specific technology capabilities whilst designing and driving integrated strategies and solutions across our business lines.
+  
+This is an opportunity to be at the forefront of finding new ways technology can help us reimagine what’s possible, and collect unique career experiences with global clients and game-changing tech projects.
+  
+Let's talk about the team:
+Capgemini Engineering is an integral part of the Capgemini Group, a global leader in partnering with companies to transform and manage their business by harnessing the power of technology. The Group is guided every day by its purpose of unleashing human energy through technology for an inclusive and sustainable future. It is a responsible and diverse organization of 270,000 team members in nearly 50 countries. With its strong 50-year heritage and deep industry expertise, Capgemini is trusted by its clients to address the entire breadth of their business needs, from strategy and design to operations, fueled by the fast-evolving and innovative world of cloud, data, AI, connectivity, software, digital engineering, and platforms. The Group reported in 2020 global revenues of €16 billion.
+  
+Our Offer:
+At Capgemini, we see things differently.
+  
+Vision – The business value of technology comes from and through people.
+  
+Your career matters to you and is important to us too. Because your goals and needs are constantly
+evolving, we offer visibility, leeway, and support to help you grow and progress in your career.
+  
+We promote a culture of diversity. We believe working with talented individuals from different backgrounds and points of view is a strategic advantage and an ongoing opportunity. Diversity enriches our creative solutions and adds value to our clients.
+  
+Our Shared values have been at the heart of the group since our formation. They are honesty, boldness, trust, freedom, team spirit, modesty, and fun. These values influence the way we meet client needs while respecting the regulatory requirements of each country in which we operate, and the way we promote ethically sound practices within Capgemini and in our partnerships.
+  
+Capgemini is committed to building a workforce of employees with diverse backgrounds and work experiences.
+  
+Let’s talk about the role and responsibilities:
+  
+We are looking for a Containerization/ DevOps Engineer with extensive experience in deploying, testing, and troubleshooting containerized applications in OpenShift or Kubernetes environments. The successful candidate will also have expertise in working with Kea DHCP Server, migration from VM to containerized solutions, and MariaDB admin skills. Telco or Enterprise experience is required, as well as experience working in an Agile environment.
+  
+Key Responsibilities:
+
+Work with the development team to design, develop, test, and deploy containerized applications in OpenShift or Kubernetes environments.
+Deploy, manage and troubleshoot Kea DHCP Server and related services in a containerized environment.
+Migrate legacy applications from VM to containerized solutions.
+Administer and maintain MariaDB databases in a containerized environment.
+Collaborate with cross-functional teams to deliver projects on time and within budget.
+Communicate project status, issues, and risks to stakeholders.
+Implement and adhere to Agile methodologies for project delivery.
+  
+Required Qualifications and Skills:
+
+Bachelor's or Master's degree in Computer Science or a related field.
+5+ years of experience in containerization technologies such as Docker, Kubernetes, OpenShift, and Helm.
+Hands-on experience in deploying, testing, and troubleshooting containerized applications in production environments.
+Strong understanding of Kea DHCP Server and its services, as well as experience migrating legacy applications to containerized solutions.
+Experience in administering and maintaining MariaDB databases in a containerized environment.
+Telco or Enterprise experience is required.
+Excellent project management skills and experience working in an Agile environment.
+Strong analytical and problem-solving skills.
+Excellent written and verbal communication skills.
+Ability to work independently as well as in a team environment.
+  
+About Capgemini
+  
+At Capgemini, we are more than just a business, we are a diverse global collective of strategic and technological experts who are passionate about finding ways technology can help our clients, our people and our communities get the future they want.
+  
+Our people are the key to making this vision a reality, which is why we have been recognized by the Australian Workplace Equality Index as LGTBQ+ ‘Employer of the Year’ and ‘Inclusion of Trans and Gender Diverse Employees’ for the past two years. We believe in creating a safe, flexible, and inclusive culture where everyone can bring their authentic selves to work, contributing to our inclusive culture and truly belonging, and our staff-led community groups are a testament to this commitment. We are committed to being active allies for everyone.
+  
+We believe by combining the power of the latest technology with our human energy, we can drive sustainable thinking into our operations and the work we do with clients. It's why we are committing to becoming a carbon-neutral business by 2025 and net zero by 2030.
+  
+Empower yourself with the knowledge and skills you need to succeed with our access to premier learning platforms, sought-after certifications and boundless development opportunities. You’ll be encouraged to gain at least 40 hours of training each year.
+For over 50 years our values and ethics have been at the heart of our identity. From our approach to ethics to the way we interact with one another, honesty, boldness, trust, freedom, team spirit, modesty, and fun guide and inspire all we do and have led to us being recognized as one of the World’s Most Ethical Companies by the Ethisphere Institute 10 years in a row.
+Our Commitment to Diversity & Inclusion
+Don’t meet every single requirement for this role? Studies have shown women and people from diverse minority backgrounds are less likely to apply for jobs unless they meet every single requirement. At Capgemini, we are dedicated to building a diverse, inclusive, and authentic workplace, so if you’re excited about this role but your experience doesn’t align perfectly, we encourage you to apply and tell us what you can bring to the role.
+We understand for some people, a standard hiring process can come with challenges. If you are living with a disability, are gender diverse or neurodivergent and we can provide support with access requirements or by making an adjustment to our hiring process, please contact us at talentacquisitionaunz@capgemini.com / aunz@capgemini.com
+  
+Information Security and Compliance
+Capgemini Australia has developed and manages, process-orientated Management Systems compliant with the requirements of ISO9001, ISO27001 and ISO14001. We are committed to delivering security solutions and services through state-of-the-art processes and continual improvement frameworks in line with industry best practices as well as contractual, statutory, and regulatory requirements.
+Report this job advert
+Be careful
+Don’t provide your bank or credit card details when applying for jobs.
+Learn how to protect yourself
+Report this job ad 
+Salary lookup
+What can I earn as a DevOps Engineer?
+
+Find out the average salary for a DevOps Engineer across Australia
+
+See more detailed salary information
+Job seekers
+Job search
+Profile
+Recommended jobs
+Saved searches
+Saved jobs
+Applied jobs
+Career advice
+Explore careers
+Company reviews
+Download apps
+SEEK sites
+Employers
+Register for free
+Post a job ad
+Products & prices
+Customer service
+Hiring advice
+Market insights
+Recruitment software partners
+About SEEK
+About SEEK
+Newsroom
+Investors
+Work for SEEK
+International partners
+Partner services
+Contact
+Help centre
+Contact us
+Product & tech blog
+SEEK videos
+Social
+Australia
+Privacy policy
+Terms & conditions
+Protect yourself online
+© SEEK. All rights reserved

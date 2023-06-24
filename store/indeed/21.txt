@@ -1,0 +1,120 @@
+Skip to main content
+Find jobs
+Company reviews
+Search Salary
+Upload your resume
+Sign in
+Employers / Post Job
+Start of main content
+What
+Where
+Find Jobs
+Senior/Staff Machine Learning Engineer
+Rokt
+Sydney NSW
+$207,500 - $287,500 a year - Full-time
+You must create an Indeed account before continuing to the company website to apply
+Apply on company site
+Senior/Staff Machine Learning Engineer
+Rokt - Sydney NSW
+Job
+Company
+Job details
+No matching job preferences
+Salary
+$207,500 - $287,500 a year
+Job Type
+Full-time
+Shift and Schedule
+On call
+
+Company Description
+
+Jobs for Humanity is dedicated to building an inclusive and just employment ecosystem. Therefore, we have dedicated this job posting to individuals coming from the following communities: Refugee, Neurodivergent, Single Parent, Blind or Low Vision, Deaf or hard of hearding, Black, Hispanic, Asian, Military Veterans, the Elderly, the LGBTQ, and Justice Impacted individuals. If you identify with any of the following communities do not hesitate to register.
+
+Company Name: Rokt
+
+
+
+Job Description
+
+About Rokt
+
+Rokt is the global leader in eCommerce technology, helping companies seize the full potential of every transaction moment to grow revenue and acquire new customers at scale. Live Nation, AMC Theatres, PayPal, Uber, Hulu, Staples, Lands’ End, and HelloFresh are among the more than 2,500 leading global businesses and advertisers that use Rokt's solutions to drive more value through every transaction by offering highly relevant messages to their customers at the moment they are most likely to convert.
+
+With our December 2022 secondary transaction, Rokt’s valuation increased to $2.4 Billion. We are expanding rapidly and globally – operating in 14 countries across North America, Europe and the Asia-Pacific region with the largest office in Sydney and a major R&D hub in NYC. With 50% annual growth and vibrant company culture, Rokt has been listed in ‘Great Places to Work’ in the US and Australia. Our award-winning culture is guided by our eight core values: smart with humility, own the outcomes, force for good, conquer new frontiers, enjoy the ride, raise the bar, communicate with impact, and disagree then commit. These values help us attract, engage, and develop the right talent around the globe and ensure we foster an environment that helps us all do our best work. Keen to join a fast-growing company and a vibrant culture? Learn more at rokt.com.
+
+The Rokt engineering team builds best-in-class eCommerce technology that provides personalised and relevant experiences for customers globally and empowers marketers with sophisticated, AI-driven tooling to better understand consumers. Our bespoke platform handles millions of transactions per day and considers billions of data points which gives engineers the opportunity to build technology at scale, collaborate across teams and gain exposure to a wide range of technology. We are expanding rapidly in our major R&D centres in NYC and Sydney. We are passionate about using intelligent systems to improve the transaction moment for retailers everywhere. Come join us and build the future!
+
+
+
+
+About The Role
+
+As a Senior/Staff Machine Learning Engineer, you are someone who has significant expertise in both machine learning and software engineering. You will be working with our engineering and product teams to design, build and productionise proprietary machine learning models to solve different business challenges including smart bidding, lookalike modelling, forecasting, etc.
+
+
+
+
+Responsibilities
+Collaborate closely with product managers and other engineers to understand business priorities, frame machine learning problems, and architect machine learning solutions.
+Build and productionise machine learning models including data preparation/processing pipelines, machine learning orchestrations, improvements of services performance and reliability and etc.
+Contribute and maintain the high quality of the code base with tests that provide a high level of functional coverage as well as non-functional aspects with load testing, unit testing, integration testing, etc.
+Keep track of emerging tech and trends, research the state-of-art deep learning models, prototype new modelling ideas, and conduct offline and online experiments.
+Share your knowledge by giving brown bags, tech talks, and evangelising appropriate tech and engineering best practices.
+Mentor other team members, facilitate within/across team workshops and lead the agile development.
+
+Requirements
+
+Bachelor’s degree in Computer Science, a similar technical field of study or equivalent practical experience.
+3+ years of industry experience in building production-grade machine learning systems with all aspects of model training, tuning, deploying, serving and monitoring.
+5+ years of industry experience in software engineering roles and development experience in Python, SQL, Go, and/or other programming languages.
+Strong understanding of software engineering, system design, data engineering and/or cloud architecture.
+Knowledge in at least one of the following areas - Bayesian methods, Econometrics, Reinforcement learning, Gradient boosting machine, Natural language processing, Computer vision, etc.
+Be motivated, and self-driven in a fast (we truly mean fast) paced environment with a proven track record demonstrating impact across several teams and/or organisations.
+Ability to communicate and collaborate effectively with business stakeholders and manage tasks in a timely manner.
+At Rokt we encourage autonomy; teams have complete ownership of their systems including building, running and monitoring. As such, you may be required to be on-call and respond to systems alerts should they arise.
+Ideas, opinions, and the ability to share them through respectful proposals, presentations, and team-wide discussions, An eagerness to work and learn in the open and share your learnings with your teammates.
+Experience in DevOps, MLOps and SRE is a massive plus.
+Experience with Kubernetes, Kubeflow, TFX and Feature Store in a production environment is a massive plus.
+
+Benefits
+
+Work with the greatest talent in town. Our recruitment process is tough but diligent. We’re constantly aiming to implement our value of “raise the bar” and setting high standards for our Rokt’stars. This is essential in our high-performing, high-grow culture where we strive to bring in the brightest and best talent. Our teams thrive by challenging the status quo and we encourage all of our teams to unleash their desire to achieve something bigger.
+Join a community. At Rokt we’re a community of curious explorers. We’re not afraid of venturing into uncharted territories. We work together as one single, aligned team. We value diversity and transparency which is why we support a number of internal employee resource groups including an EDI steering committee, Rainbow Rokt which empowers our LGBTQIA+ Rokt’stars, Womxn who Rokt promotes gender equality in tech, and more.
+Accelerate your career. We want you to unleash your full potential. This is why we have an annual ‘Level Up’ allowance of $5,000 that gives Rokt’stars the ability to take courses, attend events, go to training, and more to help our great employees become even better leaders.
+Take a break. When you work hard, we know you also need to rest. We offer generous time off and parental leave policies, as well as mental health and wellness days for all employees. We even incentivise individuals to utilise their PTO with “High 5” days, an additional 5 days of PTO when you’ve used 75% of your allotted annual paid leave. We also offer a paid Rokt’star Sabbatical for employees who have been with us for 5 years or more.
+Stay happy and healthy. Enjoy catered lunch every day and healthy snacks in the office. Plus join the gym on us! Rokt offers a monthly allowance to use on a gym membership or online fitness classes. We also provide all Rokt'stars access to free 1:1 coaching, therapy and digital mental wellness resources.
+Become a shareholder. All Rokt’stars have stock options. If we succeed, everyone is rewarded.
+See the world! We want our Rokt’stars to enjoy the ride. As we aim to bring meaning and fun to our everyday work, we host global all-staff events in amazing locations (Phuket, Thailand in January 2020, Hawaii in May 2022, and Whistler in 2023). As we strive to build a community of curious explorers, we also offer generous relocation packages for those interested in moving to another Rokt office. We have bustling offices in great cities including New York, Sydney, London, Singapore, and Tokyo.
+We believe we’re better together. We love spending time together and are in the office most days (most teams are in the office 3-4 days per week). We also get that you need to balance your life and your commitments so you have the flexibility to manage your own hours and can spend up to a week of every quarter working from anywhere.
+We believe in equality. Rokt is an Equal Opportunity Employer and we know our collective strength comes from how different we all are. We encourage you to apply for one of our open roles—irrespective of socio-economic status or background, age, gender identity, race, religion, sexual orientation, colour, pregnancy, carer/family responsibilities, national and social origin, political opinion, marital, veteran, or disability status.
+
+
+
+
+
+
+Salary Range - $207,500 - $287,500 AUD per year plus equity
+
+
+#LI-Hybrid
+
+Report job
+Hiring Lab
+Career Advice
+Browse Jobs
+Browse Companies
+Salaries
+Indeed Events
+Work at Indeed
+Countries
+About
+Help Centre
+ESG at Indeed
+© 2023 Indeed
+Accessibility at Indeed
+Privacy Centre
+Cookies
+Privacy
+Terms

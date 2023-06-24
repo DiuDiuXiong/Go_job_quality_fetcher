@@ -1,0 +1,69 @@
+Skip to main content
+Find jobs
+Company reviews
+Search Salary
+Upload your resume
+Sign in
+Employers / Post Job
+Start of main content
+What
+Where
+Find Jobs
+Site Reliability Engineer-Cloud Infrastructure
+TikTok
+(part of ByteDance)
+Sydney NSW
+You must create an Indeed account before continuing to the company website to apply
+Apply on company site
+Site Reliability Engineer-Cloud Infrastructure
+TikTok - Sydney NSW
+Job
+Company
+Responsibilities
+TikTok is the leading destination for short-form mobile video. Our mission is to inspire creativity and bring joy. TikTok has global offices including Los Angeles, New York, London, Paris, Berlin, Dubai, Singapore, Jakarta, Seoul and Tokyo.
+
+Why Join Us
+At TikTok, our people are humble, intelligent, compassionate and creative. We create to inspire - for you, for us, and for more than 1 billion users on our platform. We lead with curiosity and aim for the highest, never shying away from taking calculated risks and embracing ambiguity as it comes. Here, the opportunities are limitless for those who dare to pursue bold ideas that exist just beyond the boundary of possibility. Join us and make impact happen with a career at TikTok.
+
+Team Introduction
+The team is responsible for infrastructure systems, including Storage/Computing/DB. We aim to be the leading SRE team across the industry. In the SRE team, you will have the opportunity to manage the complex challenges of scale, while using expertise in coding, algorithms, complexity analysis, and large-scale system design. We embrace a culture of diversity, intellectual curiosity, openness, and problem-solving. We also encourage ownership, self-governance and independence to work on various projects, and an environment that provides the support and mentorship needed to learn and grow as an engineer.
+
+Responsibilities
+
+Reliability: Ensuring the reliability and efficiency of our core infrastructure, focusing on system capacity and stability; setting up reliability standards and recovery SOP.
+Reliability: Troubleshooting and locating technical issues, bottleneck analysis, managing system high availability architecture transformation and upgrading.
+Efficiency: Building automated operation solutions for large-scale systems; partnering with system development teams for system iteration.
+Efficiency: Designing and implementing software platforms and monitoring frameworks for efficient, automated, and intelligent service-oriented architecture (SOA) governance.
+Cost: There are millions of CPUs. We should build delivery standards, and monitor and budget systems to optimize the cost of the company.
+Compliance: Designing and setting up new IDC; designing and implementing a data protection plan to meet the standard requirement.
+Qualifications
+Requirements
+
+Bachelor's / Master's Degree in Computer Science or related major, with at least 3 years of relevant experience;
+Solid basic knowledge of computer software, understanding of Linux operating system, storage, network IO and other related principles.
+Familiar with one or more programming languages, such as Python, Go, and Java. Knowledge of design patterns and coding principles is necessary.
+Preference will be given to those who have one of the following:
+
+Experience with storage, and relevant system experience with the following: KV, Table, Graph, Redis, MySQL, MongoDB, MQ, and Kafka.
+Experience with computing & big data, and system experience with the following: Kubernetes, Docker/Containers, AIops, Spark, Flink, Function as a service, RPC Framework, and Service Mesh.
+TikTok is committed to creating an inclusive space where employees are valued for their skills, experiences, and unique perspectives. Our platform connects people from across the globe and so does our workplace. At TikTok, our mission is to inspire creativity and bring joy. To achieve that goal, we are committed to celebrating our diverse voices and to creating an environment that reflects the many communities we reach. We are passionate about this and hope you are too.
+
+In the spirit of reconciliation, TikTok acknowledges the Traditional Custodians of country throughout Australia and their connections to land, sea and community. We pay our respect to their Elders past and present and extend that respect to all Aboriginal and Torres Strait Islander peoples today. #LI-Hybrid
+Report job
+Hiring Lab
+Career Advice
+Browse Jobs
+Browse Companies
+Salaries
+Indeed Events
+Work at Indeed
+Countries
+About
+Help Centre
+ESG at Indeed
+© 2023 Indeed
+Accessibility at Indeed
+Privacy Centre
+Cookies
+Privacy
+Terms

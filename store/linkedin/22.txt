@@ -1,0 +1,255 @@
+Skip to main content
+LinkedIn
+Jobs
+Dismiss
+Dismiss
+Join now
+Sign in
+Cloud/DevOps Engineering - Team Lead (AWS)
+Squiz  Melbourne, Victoria, Australia
+2 weeks ago  42 applicants
+  
+See who Squiz has hired for this role
+Apply
+Save
+
+We are looking for a Team Lead for our Cloud Engineering team with experience as a cloud/devops engineer (either looking for a step up or an experienced team lead looking for your next challenge), You have previously spent time building AWS architectures that are deployed utilising solid coding and testing practices, that lean into best practice CI/CD, This is a hands on role, thus will suit someone with solid technical ability willing to get in and roll up the sleeves and actually play a part in building solutions.
+
+
+
+We're location-flexible! This role is open to all candidates on the east coast of Australia.
+
+
+
+Ideally you will have
+
+
+
+
+Excellent knowledge around infrastructure, infrastructure-as-code and current tooling to support the management and orchestration of AWS architecture
+Excellent knowledge of DevOps/cloud engineering principles and practices that support best practice CI/CD
+Excellent team working and communication skills
+Excellent organisational and time management skills
+Experience in a SaaS based environment - managing costings within multi tenant environments
+Experience/exposure to or even an understanding of observability and monitoring (not looking for an SRE
+Conversant on Agile principles, have previously worked in a Scrum team
+A can do attitude and an understanding that this is a journey and we are at the early stages
+
+Nice to have
+
+
+
+Exposure/understanding of container technologies
+Experience exposure to Database platforms
+Experience/exposure to serverless services
+Team lead experience or a desire to be
+
+What you would be doing:
+
+
+
+Lead and build a team of cloud engineers, providing technical guidance, mentorship, work allocation, define processes, initiative and epic/story refinement.
+Work across Squiz Product Engineering teams to guide and mentor cloud best practices, drive adoption of service oriented architecture.
+Develop high-quality standards for CI/CD, container and artefact management, security and code quality compliance scanning, for the deployment of our products to SaaS environments
+Provide a great developer experience to product teams, through both technology and relationship building
+Lead the team on discussions on roadmap, architecture, and strategy.
+Participate in agile ceremonies including standups, sprint refinements, planning, reviews, and showcases
+Contribute to the team's (and your own) continuous growth and improvement by bringing new ideas to the table
+We are a global company so there will be a need for some 'out of hours' meeting with your counterpart in the UK
+
+Who you would be working with:
+
+
+
+This is a unique opportunity to lead a team that is transforming our company's approach to Cloud Engineering, reducing complexity with a strong focus on developer and customer enablement by embracing self service practices, and standardised development and deployment models.
+
+
+
+Who we are:
+
+
+
+Squiz helps complex, service-led organisations harness the power of digital, improving the services they offer online.
+
+
+
+Founded in 1998, Squiz grew during the rise of the internet. Since then, we have evolved from a simple web content management system into a full digital experience platform (DXP), helping customers make the shift from being content managers to experience creators.
+
+
+
+The Squiz DXP brings together content, search, data and applications in one place. To get the most out of the platform, customers can collaborate with our digital experts to design solutions and adapt as demands change.
+
+
+
+We are headquartered in Australia, with teams and customers across the globe, and offices in New Zealand, the United States, the United Kingdom and Poland.
+
+
+
+Right now, we are on a very exciting journey. We are transforming into a SaaS organisation, and we're looking for great people to be a part of this reinvention.
+
+
+
+Why work for Squiz?
+
+
+
+You'll work with some of the most intelligent and down to earth people you've ever meet. We are made up of a diverse range of passionate professionals who love challenging the status quo. Every day is different, but what is constant is we all love what we do.
+
+
+
+We have a lived commitment to flexibility, we know the success of our people is dependent on them having a balanced life. You will be offered flexibility as to where and how you work every day. We want you to be able to work in a way that drives productivity, efficiency and outcomes; along with connection and collaboration.
+
+
+
+We celebrate diversity and unite on the elements of our company DNA, starting every customer conversation with "why?" to really understand their needs, working hard to find a way to overcome every challenge, and fighting for better outcomes with the work we do. We also check our egos at door, we don't take ourselves too seriously and we have fun along the way.
+
+
+
+We are a 2023 Circle Back Initiative Employer - we commit to respond to every applicant.
+
+
+
+
+
+
+
+
+
+Show more 
+Seniority level
+Mid-Senior level
+Employment type
+Full-time
+Job function
+Information Technology
+Industries
+Software Development
+  
+
+Referrals increase your chances of interviewing at Squiz by 2x
+
+See who you know
+
+Get notified about new Engineering Team Lead jobs in Melbourne, Victoria, Australia.
+
+Sign in to create job alert
+Similar jobs
+Software Engineering Team Lead
+Software Engineering Team Lead
+The Salvation Army Australia
+Blackburn, Victoria, Australia
+4 weeks ago
+Cloud Engineering Lead
+Cloud Engineering Lead
+AustralianSuper
+Melbourne, Victoria, Australia
+2 days ago
+Software Engineering Team Lead
+Software Engineering Team Lead
+Dye & Durham Corporation
+Melbourne, Victoria, Australia
+3 days ago
+Engineering Graduates
+Engineering Graduates
+Danfoss
+Rowville, Victoria, Australia
+1 week ago
+Lead DevOps Consultant
+Lead DevOps Consultant
+Trust In SODA
+Docklands, Victoria, Australia
+2 weeks ago
+DevOps Lead - Cloud Managed Services
+DevOps Lead - Cloud Managed Services
+Deloitte
+Melbourne, Victoria, Australia
+2 days ago
+Show more jobs like this 
+People also viewed
+Engineering Delivery Lead
+Engineering Delivery Lead
+
+Littlepay
+
+Melbourne, Victoria, Australia
+2 weeks ago
+DevOps Engineer
+DevOps Engineer
+
+Collabera Digital
+
+Melbourne, Victoria, Australia
+2 days ago
+Cloud Engineer
+Cloud Engineer
+
+Aware Super
+
+Melbourne, Victoria, Australia
+2 weeks ago
+DevOps Engineer
+DevOps Engineer
+
+Opus Recruitment Solutions
+
+Melbourne, Victoria, Australia
+3 weeks ago
+Service Scheduler
+Service Scheduler
+
+Hays
+
+Mulgrave, Victoria, Australia
+2 days ago
+NBN On the Day Scheduler
+NBN On the Day Scheduler
+
+Service Stream
+
+Melbourne, Victoria, Australia
+2 weeks ago
+DevOps Engineer
+DevOps Engineer
+
+Evolution
+
+Melbourne, Victoria, Australia
+1 week ago
+Development Team Lead
+Development Team Lead
+
+Magentus
+
+Melbourne, Victoria, Australia
+1 week ago
+Concrete Repair Specialist
+Concrete Repair Specialist
+
+TRS Resourcing
+
+Melbourne, Victoria, Australia
+1 week ago
+Software Engineer I - Cloud Platform
+Software Engineer I - Cloud Platform
+
+Five9
+
+Melbourne, Victoria, Australia
+2 days ago
+Looking for a job?
+
+Visit the Career Advice Hub to see tips on interviewing and resume writing.
+
+View Career Advice Hub
+LinkedIn
+© 2023
+About
+Accessibility
+User Agreement
+Privacy Policy
+Cookie Policy
+Copyright Policy
+Brand Policy
+Guest Controls
+Community Guidelines
+Language

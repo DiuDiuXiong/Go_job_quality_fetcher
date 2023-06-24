@@ -1,0 +1,235 @@
+Skip to main content
+LinkedIn
+Jobs
+Dismiss
+Dismiss
+Join now
+Sign in
+Senior Site Reliability Engineer
+Atlassian  Sydney, New South Wales, Australia
+5 hours ago   Be among the first 25 applicants
+  
+See who Atlassian has hired for this role
+Apply
+Save
+Working at Atlassian
+
+
+
+
+Atlassian can hire people in any country where we have a legal entity. Assuming you have eligible working rights and a sufficient time zone overlap with your team, you can choose to work remotely or from an office (unless it’s necessary for your role to be performed in the office). Interviews and onboarding are conducted virtually, a part of being a distributed-first company.
+
+
+
+
+We are looking for a Senior engineer who is passionate about scaling Cloud services to join our growing Confluence SRE team. Confluence SRE team owns the infrastructure, tooling and automation that Confluence Cloud runs on (compute, databases, queues and caches) and has a deep understanding of how Confluence Cloud uses infrastructure to meet customer reliability expectations.
+
+
+
+
+The ideal candidate is a technical leader who is aware of current industry trends (particularly those related to reliability). You have experience mentoring and growing team members and love to share your knowledge with others. We'd love it if you brought a deep understanding of modern Cloud infrastructure, programming expertise, operational experience and a desire to change the status quo. We're looking for an engineer who can analyse and help improve our services and processes to get us to an even higher level of reliability, performance, scalability, and cost efficiency. You will report directly to the Engineering Manager.
+
+
+
+
+On Your First Day, We'll Expect You To Have
+
+
+
+
+3+ years experience operating high-availability, fault-tolerant, scalable, distributed software in production: building monitoring, tweaking dashboards, defining alerts, writing runbooks, etc.
+3+ years of hands on experience with public cloud offerings (AWS components like EC2, CloudFormation, RDS / Aurora, Caches, SQS - or equivalents, e.g. in GCP / Azure).
+Familiarity with Unix / Linux operating systems.
+Strong engagement to debug, improve code, and automate routine tasks.
+Strong backend engineering experience in one or more prominent languages such as Java, Go or Python.
+Excellent communication skills in written and verbal forms, and an ability to communicate complex technical issues to a range of technical and non-technical audiences (management, peers, clients).
+An ability and desire to mentor and coach engineers.
+
+
+
+
+It would be great, but not mandatory if you had:
+
+
+
+
+Experience in microservice architecture.
+Experience building web-services and clients using REST/GraphQL.
+
+
+
+
+Compensation
+
+
+
+
+At Atlassian, we tie our base pay ranges to role and level. In the United States, that means your base pay ranges will fall into one of three geographic pay zones depending on your location. Our current base pay ranges for new hires in each zone are:
+
+
+
+
+Our Perks & Benefits
+
+
+
+
+To support you at work and play, our perks and benefits include ample time off, an annual education budget, paid volunteer days, and so much more.
+
+
+
+
+About Atlassian
+
+
+
+
+The world’s best teams work better together with Atlassian. From medicine and space travel, to disaster response and pizza deliveries, Atlassian software products help teams all over the planet. At Atlassian, we're motivated by a common goal: to unleash the potential of every team .
+
+
+
+
+We believe that the unique contributions of all Atlassians create our success. To ensure that our products and culture continue to incorporate everyone's perspectives and experience, we never discriminate based on race, religion, national origin, gender identity or expression, sexual orientation, age, or marital, veteran, or disability status. All your information will be kept confidential according to EEO guidelines.
+
+
+
+
+To learn more about our culture and hiring process, explore our Candidate Resource Hub .
+Show more 
+Seniority level
+Mid-Senior level
+Employment type
+Full-time
+Job function
+Engineering and Information Technology
+Industries
+Software Development
+  
+
+Referrals increase your chances of interviewing at Atlassian by 2x
+
+See who you know
+
+Get notified about new Senior Site Reliability Engineer jobs in Sydney, New South Wales, Australia.
+
+Sign in to create job alert
+Similar jobs
+Senior Site Reliability Engineer
+Senior Site Reliability Engineer
+SafetyCulture
+Sydney, New South Wales, Australia
+2 weeks ago
+Senior Site Reliability Engineer
+Senior Site Reliability Engineer
+Cboe Global Markets
+Sydney, New South Wales, Australia
+1 week ago
+Senior Site Reliability Engineer
+Senior Site Reliability Engineer
+CMD Solutions
+Sydney, New South Wales, Australia
+2 weeks ago
+Senior Site Reliability Engineer
+Senior Site Reliability Engineer
+Feedzai
+Sydney, New South Wales, Australia
+1 week ago
+Senior Site Reliability Engineer
+Senior Site Reliability Engineer
+Macquarie Group
+Sydney, New South Wales, Australia
+2 weeks ago
+Site Reliability Engineer I
+Site Reliability Engineer I
+Apptio
+Sydney, New South Wales, Australia
+2 days ago
+Show more jobs like this 
+People also viewed
+Senior Backend Engineer (Remote)
+Senior Backend Engineer (Remote)
+
+DuckDuckGo
+
+Sydney, New South Wales, Australia
+4 days ago
+Senior Full Stack Engineer
+Senior Full Stack Engineer
+
+PropertyMe
+
+Sydney, New South Wales, Australia
+2 days ago
+Senior Software Engineer
+Senior Software Engineer
+
+Rokt
+
+Sydney, New South Wales, Australia
+3 weeks ago
+Senior DevOps Engineer
+Senior DevOps Engineer
+
+Airwallex
+
+Sydney, New South Wales, Australia
+2 weeks ago
+Senior Software Engineer
+Senior Software Engineer
+
+Dovetail
+
+Sydney, New South Wales, Australia
+6 days ago
+Senior DevOps Engineer
+Senior DevOps Engineer
+
+TheDriveGroup.
+
+Sydney, New South Wales, Australia
+1 week ago
+Senior DevOps Engineer
+Senior DevOps Engineer
+
+tekFinder
+
+Sydney, New South Wales, Australia
+2 weeks ago
+Senior Fullstack Software Engineer (Remote)
+Senior Fullstack Software Engineer (Remote)
+
+Reejig
+
+Sydney, New South Wales, Australia
+1 day ago
+Senior Software Engineer
+Senior Software Engineer
+
+WiseTech Global
+
+Sydney, New South Wales, Australia
+3 weeks ago
+Site Reliability Engineer
+Site Reliability Engineer
+
+Commonwealth Bank
+
+Sydney, New South Wales, Australia
+4 days ago
+Looking for a job?
+
+Visit the Career Advice Hub to see tips on interviewing and resume writing.
+
+View Career Advice Hub
+LinkedIn
+© 2023
+About
+Accessibility
+User Agreement
+Privacy Policy
+Cookie Policy
+Copyright Policy
+Brand Policy
+Guest Controls
+Community Guidelines
+Language

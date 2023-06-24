@@ -1,0 +1,138 @@
+Site Reliability Engineer
+Skip to content
+Jobs
+Courses
+Businesses for sale
+Volunteering
+SEEK
+Job search
+Profile
+Career advice
+Company reviews
+Sign in
+Employer site
+Site Reliability Engineer
+Racing & Wagering Western Australia
+Osborne Park, Perth WA
+Engineering - Software (Information & Communication Technology)
+Full time
+$95,000 - $110,000
+Posted 2d ago
+More jobs from this company
+Apply for Site Reliability Engineer at Racing & Wagering Western Australia
+Apply
+Save Site Reliability Engineer at Racing & Wagering Western Australia
+Save
+Share
+
+Company Description
+
+Who Are We?
+
+The racing world is not just exciting, it brings communities together across the state. Racing and Wagering Western Australia (RWWA) is at the centre of this world and more than 24,000 people choose to join us in our quest to forge a sustainable future for racing in WA. 
+
+As well as controlling thoroughbred, harness and greyhound racing in Western Australia, RWWA operates the TAB which has more than 300 off-course retail outlets, a call centre and online betting services. Our motto is Better Your Bet because increasing profits through Western Australia’s own TAB means better returns for the local racing sector and state-wide communities.  
+
+Our business is unique, which means we can offer careers which are interesting, challenging and diverse. Our values are important to us so, to be successful, you’ll have to share them. We Respect one another, are Accountable for our goals, Connecting with everyone and bringing Excellence to achieve great outcomes. We work hard but have fun while we’re doing it. Whatever your passion, our success is a team sport.
+
+Job Description
+
+The Opportunity 
+
+As our Site Reliability Engineer (SRE), you will be proactively supporting RWWA's technical systems and processes to establish and maintain operational excellence. This involves continuously monitoring, improving, and automating systems to minimize the risk of downtime and ensure the smooth operation of business-critical services.
+
+You will be working closely with our SRE under our Technology & Transformation division. Some of the duties & tasks include but are not limited to: 
+
+Develop and improve dashboards, monitoring, and alerting to visualize system health and identify issues before they impact the business.
+Provide technical solutions to problems using automated scripts, tools, and applications.
+Reduce the duration and severity of incidents by developing and improving playbooks.
+Drive efficiency and effectiveness by automating manual tasks within the SRE team.
+Collaborate with all areas of the wider business to minimise the impact of operational changes and ensure successful implementation.
+Act as a central point of contact for engineering squads on operational matters, helping to identify, remediate, and prioritize production issues.
+Manage the life cycle of production defects and incidents, delivering timely and accurate communication to the wider business.
+Provide regular on-call and after-hours support on a rotating basis.
+Ownership of the Incident Management process for RWWA, including:
+Responding to, triaging, and investigating incidents within agreed SLAs.
+Communicating with the wider business and external partners
+Leading the business during P1/P2 investigation and remediation, escalating and engaging SMEs when necessary.
+Conducting post-mortems via Major Incident Reviews. (MIRs)
+Creating the necessary documentation post MIR and managing remediation action lifecycle.
+
+Qualifications
+
+About You
+
+Thorough understanding of tools and technologies such as source control, Continuous Integration (CI), Infrastructure as Code (IaC), deployment automation, and container concepts.
+Extensive experience and familiarity with Amazon Web Services (AWS).
+Proven analytical and problem-solving skills.
+Experience working with networking components and related architectures, with a strong understanding of them.
+Experience in software application analysis, design, development, and deployment, using any of the following languages: C#, .Net, Python, and JavaScript.
+Experience in writing ad hoc scripts and tools, utilising HTML, JavaScript, Bash, PowerShell, AWS CLI, Python, SQL, and Lambda, among others.
+
+Additional Information
+
+The Rewards
+
+Work at an organisation that is innovative, rewarding and inclusive.
+Hybrid work arrangements available
+Remote applicants in Australia are encouraged to apply
+Leave loading paid on your annual leave
+Extensive wellness programs to support you inside and out 
+
+Next Steps 
+
+Along with your CV, please provide a cover letter telling us why you’re a perfect fit for the role.
+
+Need more information about us or the position?
+
+Visit our Careers website at Careers at RWWA (smartrecruiters.com) or reach out to us at TalentAcquisition@rwwa.com.au.
+
+Report this job advert
+Be careful
+Don’t provide your bank or credit card details when applying for jobs.
+Learn how to protect yourself
+Report this job ad 
+Computer Science courses
+Courses that get you job-ready
+Industry recognised providers
+Explore courses
+Benefits of study
+Study & career advice
+Job seekers
+Job search
+Profile
+Recommended jobs
+Saved searches
+Saved jobs
+Applied jobs
+Career advice
+Explore careers
+Company reviews
+Download apps
+SEEK sites
+Employers
+Register for free
+Post a job ad
+Products & prices
+Customer service
+Hiring advice
+Market insights
+Recruitment software partners
+About SEEK
+About SEEK
+Newsroom
+Investors
+Work for SEEK
+International partners
+Partner services
+Contact
+Help centre
+Contact us
+Product & tech blog
+SEEK videos
+Social
+Australia
+Privacy policy
+Terms & conditions
+Protect yourself online
+© SEEK. All rights reserved

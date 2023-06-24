@@ -2,6 +2,8 @@ package crawler
 
 import (
 	"github.com/DiuDiuXiong/Go_job_quality_fetcher/internal/crawler"
+	"io/ioutil"
+	"path"
 	"strings"
 	"testing"
 	"time"
@@ -15,6 +17,12 @@ func setupText() {
 	if text_cl == nil {
 		text_cl = crawler.NewTextCrawler(30*time.Second, crawler.NewChromeExecutor())
 	}
+}
+
+func WriteTextToTmp(html *string, fileName string) error {
+	newPath := path.Join("../extractor", "tmp", fileName)
+	err := ioutil.WriteFile(newPath, []byte(*html), 0644)
+	return err
 }
 
 func TestFetchJobDescriptionURLFormat(t *testing.T) {
@@ -52,5 +60,9 @@ func TestFetchJobDescriptionURLFormat(t *testing.T) {
 				t.Errorf("Seems the fetch url format is broken, please check if job deprecated or job link format deprecated")
 			}
 		}
+		if err := WriteTextToTmp(&pageText, tt.target+".txt"); err != nil {
+			t.Errorf("Failed to export %s fetch one job description page result to fetcher folder", tt.target)
+		}
+
 	}
 }

@@ -1,0 +1,242 @@
+Skip to main content
+LinkedIn
+Jobs
+Dismiss
+Dismiss
+Join now
+Sign in
+Software Engineer -Node/AWS (backend focus) - Data and Personalization
+Squiz  Sydney, New South Wales, Australia
+3 weeks ago   Be among the first 25 applicants
+  
+See who Squiz has hired for this role
+Apply
+Save
+The Squiz product team is working to deliver a cloud-based Digital Experience Platform (DXP). A core capability of our DXP is personalisation through customer profiling, provided by our Customer Data Platform (CDP).
+
+
+
+
+We're seeking a Software Engineer to join our Data and Personalisation team on a permanent basis, with a focus on improving personalisation capability across the entire DXP.
+
+
+
+
+You’ll be working alongside other developers who have built the Squiz DXP’s data services, customer profiling, and personalisation capability. You’ll be helping to build new data ingestion and real-time customer profiling services using first party data collected directly by the DXP and through our integrations platform. You will also work collaboratively with some great engineers in other areas such as our Platform and SRE teams to make sure our CDP performs and scales well.
+
+
+
+
+What will I do?
+
+
+
+
+Modernise personalisation and customer profiling in our DXP
+Build new personalisation and data collection features
+Work across both backend and frontend code bases
+Participate in agile ceremonies including standups, sprint planning, and showcases
+Write and maintain technical software documentation
+
+
+
+
+What do I need?
+
+
+
+
+Commercial experience building software with AWS services
+Commercial experience building and maintaining JavaScript applications
+Experience working with JS frameworks like React and NodeJS
+Exposure to building either dedicated-backend or public APIs
+Experience working with CDK or CloudFormation would be highly beneficial
+Experience working with TypeScript would be highly beneficial
+Experience working with key-value databases would be highly beneficial
+Experience working with Cloudflare workers and storage would be highly beneficial
+Experience working with relational databases would be beneficial
+Experience working with design systems and component libraries would be beneficial
+Experience building and maintaining PHP applications would be beneficial
+Location
+
+
+
+
+This position is open to candidates in the eastern states of Australia, although Sydney is preferred
+
+
+
+
+Who we are:
+
+
+
+
+Squiz helps complex, service-led organisations harness the power of digital, improving the services they offer online.
+
+
+
+
+Founded in 1998, Squiz grew during the rise of the internet. Since then, we have evolved from a simple web content management system into a full digital experience platform (DXP), helping customers make the shift from being content managers to experience creators.
+
+
+
+
+The Squiz DXP brings together content, search, data and applications in one place. To get the most out of the platform, customers can collaborate with our digital experts to design solutions and adapt as demands change.
+
+
+
+
+We are headquartered in Australia, with teams and customers across the globe, and offices in New Zealand, the United States, the United Kingdom and Poland.
+
+
+
+
+We celebrate diversity and unite on the elements of our company DNA, starting every customer conversation with “why?” to really understand their needs, working hard to find a way to overcome every challenge, and fighting for better outcomes with the work we do. We also check our egos at door, we don’t take ourselves too seriously and we have fun along the way.
+
+
+
+
+We are a 2023 Circle Back Initiative Employer – we commit to respond to every applicant.
+
+
+
+
+Show more 
+Seniority level
+Mid-Senior level
+Employment type
+Full-time
+Job function
+Information Technology
+Industries
+Technology, Information and Internet
+  
+
+Referrals increase your chances of interviewing at Squiz by 2x
+
+See who you know
+
+Get notified about new Software Engineer jobs in Sydney, New South Wales, Australia.
+
+Sign in to create job alert
+Similar jobs
+Backend / DevOps Engineer (Node)
+Backend / DevOps Engineer (Node)
+Rocket Lab Pty Ltd
+Surry Hills, New South Wales, Australia
+1 month ago
+Software Engineer
+Software Engineer
+V2 Digital
+Sydney, New South Wales, Australia
+2 days ago
+Software Engineer - Backend
+Software Engineer - Backend
+Constantinople
+Sydney, New South Wales, Australia
+1 month ago
+Software Engineer
+Software Engineer
+SIM Planet
+Mascot, New South Wales, Australia
+3 weeks ago
+Software Engineer
+Software Engineer
+Casa Systems, Inc.
+Lane Cove West, New South Wales, Australia
+2 days ago
+Software Engineer
+Software Engineer
+Dovetail
+Sydney, New South Wales, Australia
+6 days ago
+Show more jobs like this 
+People also viewed
+Software Engineer
+Software Engineer
+
+Morgan McKinley
+
+Greater Sydney Area
+2 weeks ago
+Software Engineer
+Software Engineer
+
+NSW Department of Customer Service
+
+Sydney, New South Wales, Australia
+2 weeks ago
+Software Engineer
+Software Engineer
+
+Cox Purtell Staffing Services
+
+Sydney, New South Wales, Australia
+1 week ago
+Software Engineer
+Software Engineer
+
+Client Server
+
+Sydney, New South Wales, Australia
+3 days ago
+C# Software Engineer
+C# Software Engineer
+
+WiseTech Global
+
+Greater Sydney Area
+3 weeks ago
+Software Engineer - .Net / TypeScript
+Software Engineer - .Net / TypeScript
+
+Latitude IT
+
+Sydney, New South Wales, Australia
+4 days ago
+Full Stack Software Engineer (React)
+Full Stack Software Engineer (React)
+
+hipages Group
+
+Sydney, New South Wales, Australia
+2 days ago
+Software Engineer
+Software Engineer
+
+Snap Inc.
+
+Sydney, New South Wales, Australia
+1 week ago
+Software Engineer (Automation)
+Software Engineer (Automation)
+
+LEAP Dev
+
+Sydney, New South Wales, Australia
+3 days ago
+Software Engineer, Technical Infrastructure
+Software Engineer, Technical Infrastructure
+
+Google
+
+Sydney, New South Wales, Australia
+4 days ago
+Looking for a job?
+
+Visit the Career Advice Hub to see tips on interviewing and resume writing.
+
+View Career Advice Hub
+LinkedIn
+© 2023
+About
+Accessibility
+User Agreement
+Privacy Policy
+Cookie Policy
+Copyright Policy
+Brand Policy
+Guest Controls
+Community Guidelines
+Language

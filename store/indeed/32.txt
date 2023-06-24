@@ -1,0 +1,98 @@
+Skip to main content
+Find jobs
+Company reviews
+Search Salary
+Upload your resume
+Sign in
+Employers / Post Job
+Start of main content
+What
+Where
+Find Jobs
+Site Reliability Engineer - Australia
+Reveal-Brainspace
+Sydney NSW
+Full-time
+You must create an Indeed account before continuing to the company website to apply
+Apply on company site
+Job details
+No matching job preferences
+Job Type
+Full-time
+
+Job Description
+
+Position: Site Reliability Engineer
+
+Reports to: Director, Software Development
+
+Location: Sydney Australia
+
+
+Job Overview
+
+Join an innovative and fast-paced team-building software and infrastructure that allows litigation professionals to filter millions of documents down to those most essential to their case using advanced techniques and artificial intelligence. You’ll be managing and developing infrastructure that addresses complex challenges such as data visualization, machine learning, distributed systems, large databases, and large-scale data processing.
+
+We are primarily looking for engineers to help us develop our SaaS infrastructure capabilities. This person will assist us in building the next generation of our multi-tenant, scalable infrastructure. If you don’t know it “all,” you won’t be alone! We are seeking generalists that can bring experience and diverse knowledge to our team, not just hyper-focused specialists. Our hiring staff is not focused on playing “technology experience bingo,” but we want to find the best complements for our team.
+
+As far as the process itself, we don’t want to check the boxes to be able to say that we have the most (or even the snazziest) features. Rather, we are thoughtful about our design and focused on ensuring that our clients have software that is both useful and useable. You won’t be buried in a dark corner – you’ll have the opportunity to actively shape the software and architecture while working as an integral part of a dynamic team of individuals who are focused on learning every day and having a lot of fun.
+
+To be successful, you should be able to contribute to all phases of the architecture lifecycle, including specification, design, implementation, and maintenance. You must be willing to learn about the e-discovery industry and quickly integrate new technologies into your repertoire.
+
+Responsibilities & Duties
+Ensuring the reliability, availability, and performance of systems and services by implementing monitoring, incident response, and post-incident analysis (Blameless Retrospective).
+Collaborating with development and operations teams to design, implement, and maintain scalable infrastructure and services that meet performance and capacity requirements.
+Developing and maintaining automation tools, scripts, and frameworks to streamline operational tasks, deployment processes, and monitoring systems.
+Responding to and resolving incidents, performing root cause analysis, and implementing preventive measures to minimize the impact of future incidents.
+Setting up and maintaining monitoring and alerting systems to detect and respond to performance issues, anomalies, and service disruptions.
+Identifying performance bottlenecks, conducting performance tests, and implementing optimizations to improve system performance and efficiency.
+Analyzing usage patterns, forecasting resource requirements, and collaborating with teams to ensure adequate capacity for current and future needs.
+Implementing and maintaining security measures, vulnerability management, and compliance requirements to protect systems and data.
+Collaborating with cross-functional teams, including developers, operations, and other stakeholders, to promote a culture of reliability and effective communication.
+Creating and maintaining documentation, runbooks, and knowledge base articles to ensure the availability of up-to-date information for troubleshooting and incident response.
+Identifying areas for improvement, post-incident reviews, and driving initiatives to enhance system reliability, performance, and operational efficiency.
+Characteristics
+As a SRE, you will play a crucial role in ensuring the reliability and availability of our systems and services. Your technical expertise and problem-solving skills will be essential in maintaining and improving our infrastructure and applications.
+Our team is composed of highly skilled individuals who are passionate about their work and committed to achieving our goals. We believe in collaboration, knowledge sharing, and continuous improvement, and we expect our team culture to be welcoming and supportive.
+Good writing and communication skills.
+An instinctive understanding of networking and fundamental computer science concepts with a focus on Infrastructure As Code (IAC).
+An eagerness to learn, explore and introduce new technologies.
+Driven to build modern systems that are scalable, flexible, and elastic.
+Experience & Education
+4-10 years of experience with infrastructure automation on a DevOps/ DevSecOps/SRE Team.
+BS or MS in Computer Science or equivalent coursework.
+Experience with container templatization/orchestration frameworks such as Docker, Kubernetes, Helm, ArgoCD, etc.
+Experience with CI/CD tools such as GitHub Actions.
+Experience maintaining and developing production Infrastructure as Code deployments, primarily using Terraform.
+Experience in a scripting language, preferably Python, but PowerShell or Bash also works. Experience with Linux and Windows architectures.
+Experience working with AWS.
+Experience deploying and maintaining Kubernetes clusters.
+Experience with version control systems like Git.
+
+
+This job description reflects the present requirements of the position. As duties and responsibilities change and develop, the job description will be reviewed and subject to amendment.
+
+Hiring Policy
+
+This job description reflects the present requirements of the position. As duties and responsibilities change and develop, the job description will be reviewed and subject to amendment.
+
+Reveal is an equal-opportunity employer. We celebrate diversity and are committed to creating an inclusive environment for all employees. Reveal does not discriminate in employment on the basis of race, color, religion, sex (including pregnancy and gender identity), national origin, political affiliation, sexual orientation, marital status, disability, genetic information, age, membership in an employee organization, retaliation, parental status, military service, or other non-merit factor.
+
+Report job
+Hiring Lab
+Career Advice
+Browse Jobs
+Browse Companies
+Salaries
+Indeed Events
+Work at Indeed
+Countries
+About
+Help Centre
+ESG at Indeed
+© 2023 Indeed
+Accessibility at Indeed
+Privacy Centre
+Cookies
+Privacy
+Terms
