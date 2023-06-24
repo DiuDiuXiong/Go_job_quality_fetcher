@@ -38,7 +38,6 @@ func (fetcher *IndeedFetcher) FetchCriteriaToUrl(fc *FetchCriteria, pageNumber i
 		(*fetcher.countryCode)[fc.Country], jobString, fc.Country, pageNumber*10, fc.Duration), nil
 }
 
-//ToDo: Add test cases
 func ExtractIndeedJobJk(html *string) []string { //Need this ID for indeed query: https://au.indeed.com/viewjob?jk=<jkID>
 	regex := regexp.MustCompile(`/viewjob\?jk=(.*?)&`)
 	matches := regex.FindAllStringSubmatch(*html, -1)
@@ -49,7 +48,6 @@ func ExtractIndeedJobJk(html *string) []string { //Need this ID for indeed query
 	return res
 }
 
-//ToDo: Add test cases
 func (*IndeedFetcher) ExtractJobDescriptionUrls(html *string) []string { // urls pointing to actual job description
 	res := ExtractIndeedJobJk(html)
 	for idx, jk := range res {
@@ -58,7 +56,6 @@ func (*IndeedFetcher) ExtractJobDescriptionUrls(html *string) []string { // urls
 	return res
 }
 
-//ToDo: Add test cases
 func (*IndeedFetcher) ExtractTotalJobCounts(html *string) int {
 	re := regexp.MustCompile(`<div\s+class="jobsearch-JobCountAndSortPane-jobCount[^>]+><span>(\d+) jobs</span>`)
 	matches := re.FindStringSubmatch(*html)
@@ -69,7 +66,6 @@ func (*IndeedFetcher) ExtractTotalJobCounts(html *string) int {
 	return count
 }
 
-// ToDo: Add test cases to avoid duplicates
 func (fetcher *IndeedFetcher) FetchTargetJobUrls(fc *FetchCriteria) ([]string, error) {
 	url, err := fetcher.FetchCriteriaToUrl(fc, 0)
 	if err != nil {
