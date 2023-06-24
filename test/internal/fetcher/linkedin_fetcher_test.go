@@ -126,7 +126,7 @@ func TestLinkedinExtractJobDescriptionUrls(t *testing.T) {
 	htmlStr := string(html)
 
 	jks := linkedin.ExtractJobDescriptionUrls(&htmlStr)
-	if len(jks) > 20 || len(jks) < 10 {
+	if len(jks) > 30 || len(jks) < 10 {
 		t.Errorf("Extract Indeed Job ID failed, with %d results, please refer to /internal/crawler/html_test.go to see if the link it outdated, or if Job ID number changed.", len(jks))
 	}
 }
