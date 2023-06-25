@@ -1,113 +1,75 @@
-Skip to main content
-Find jobs
-Company reviews
-Search Salary
-Upload your resume
-Sign in
-Employers / Post Job
-Start of main content
-What
-Where
-Find Jobs
-Senior Site Reliability Engineer
-Feedzai
+ENGINEERING - Site Reliability Engineer
+Macquarie Group Limited
 Sydney NSW
+Hybrid remote
+Full-time, Permanent
 You must create an Indeed account before continuing to the company website to apply
 Apply on company site
+Job details
+No matching job preferences
+Job Type
+Full-time
+Permanent
 
-Feedzai is the world's first RiskOps platform for financial risk management, and the market leader in safeguarding global commerce with today's most advanced cloud-based risk management platform, powered by machine learning and artificial intelligence. Feedzai is securing the transition to a cashless world while enabling digital trust in every transaction and payment type. The world's largest banks, processors, and retailers trust Feedzai to protect trillions of dollars and manage risk while improving the customer experience for everyday users, without compromising privacy. Feedzai is a Series D company and has raised $282M to date. With a valuation of +$1.5B, the company's technology protects 900 million people in 190 countries.
+Join a high performing SRE Engineering team supporting our Commodities and Global Markets business group and work with a multitude of technology teams and business stakeholders to solve problems and deliver fit-for-purpose solutions.
 
-With Cloud at its core, the Engineering (Tech) Team is responsible for all Feedzai product development. Together with Product Management and Data Science, we build the next generation of tools to catch fraud in real-time with a machine learning first approach. Formed by engineers and managed by engineers, at Feedzai, you will find one of the most talented teams out there, from junior to senior engineers.
+At Macquarie, we are working to create lasting value for our communities, our clients and our people. We are a global financial services group operating in 34 markets and with 54 years of unbroken profitability. You’ll be part of a supportive team where everyone - no matter what role - contributes ideas and drive outcomes.
 
-We are fast-paced and provide a safe, open, and collaborative environment that encourages us to lean in, try new things and discover our potential with continuous learning for everyone.
+What role will you play?
 
-While building the best value for our customers, you will work with a wide range of technical challenges. Such as building distributed systems that need to operate 24/7 and ultra-low latencies, solving UI/UX problems to help fraud analysts to fight fraud more efficiently. In addition, designing extensive databases from relational, NoSQL and graphs, validate and develop new data science techniques and algorithms.
+You will be responsible for building out, automating, and supporting our critical systems. You will combine problem solving skills with software and systems engineering to take a proactive approach in building fault-tolerant systems, improving observability/monitoring/alerting capabilities, automating tasks and build tools.
 
+In the SRE team you will have the opportunity to impact the Commodities and Global Markets division within Macquarie front to back, building relationships with a motivated and agile global technology community.
 
+What you offer
 
+3+ years of experience in Unix/Linux and Bash
+3+ Software development experience using Python, Java, C++ or similar
+Experience with Git, CI/CD tooling (e.g. Jenkins)
+Hands on experience with Cloud technologies (e.g. AWS, GCP, etc.)
+Knowledge of good software design and application architectural practices
 
-You:
+We love hearing from anyone inspired to build a better future with us, if you're excited about the role or working at Macquarie we encourage you to apply.
 
-Feedzai SRE team is responsible for the overall cloud platform architecture that supports the cloud services provided to our customers. As part of this team you'll work with other Site Reliability Engineers with a deep understanding of Feedzai cloud products and environments in developing the automation, tooling, and platforms that support Feedzai cloud service, and by doing so, contributing to faster and more agile product delivery.
+Benefits
 
+Hybrid and flexible working arrangements
+Wellbeing and service bonus leave
+Up to 20 weeks paid parental leave as well as benefits to support you as you transition to life as a working parent
+Paid volunteer leave and donation matching
+Range of benefits to support your physical, psychological and financial wellbeing
 
+About the Corporate Operations Group
 
+The Corporate Operations Group brings together specialist support services in Digital Transformation & Data, Technology, Operations, Human Resources, Business Services, Business Improvement & Strategy, and the Macquarie Group Foundation. We deliver service excellence to ensure Macquarie is open for business, deliver on transformational change, invest in our people and have deep relationships with our customers.
 
-Your Day to Day:
+Our commitment to Diversity and Inclusion
 
-Build and maintain tools for deployment, monitoring, operations, and analytics;
-Provide support on cloud-ops ownership services, production monitoring, deployments, and maintenance of infrastructure.
-Develop and execute regional plan to migrate regional environments to the Next Gen architecture
-Take ownership of all customer environments in the region
-Own and automate/improve Service Catalog in the region
-Own and execute the improvement roadmap;
-Participate in incident response, root cause investigation, and resolution;
-Maintain and develop our infrastructure as code (IaC) to manage and operate end-to-end lifecycle operations (monitoring, alerting, security, cost optimization, configuration, backup, etc.) in production environments;
-Utilize your experience and problem-solving skills to help prevent and investigate production issues;
-Communicate with team members, stakeholders and customers in a globally distributed and asynchronous environment;
+The diversity of our people is one of our greatest strengths, and in combination with our inclusive environment, it enables us to deliver innovative and sustainable outcomes for our people, clients, shareholders and communities. From day one, you'll be encouraged to be yourself and supported to perform at your best. If our purpose of ‘empowering people to innovate and invest for a better future’ is as inspiring to you as it is to us, please apply. With the right technology, support and resources, our people can work in a range of flexible ways.
 
-
-
-You Have & You Know-How:
-
-A bachelor's degree in Computer Science, Information Systems, or the equivalent combination of education, experience, and training that provides the required knowledge, skills, and abilities;
-5+ years of experience with AWS or Azure;
-Experience with Automation, Infrastructure-as-Code, Terraform, Ansible, Runbooks and Troubleshooting guides;
-Experience with Virtualization, Container Technologies and Orchestration (Docker, Kubernetes);
-Programming skills (Go, Python, or similar languages);
-Experience with CI/CD pipelines; Experience with monitoring, troubleshooting and guiding on incidents;
-Self-driven & motivated, with a strong work ethic and a passion for problem-solving;
-Experience working for an anti-financial crime ML driven software company - mandatory
-
-
-
-Preferred Qualifications and Skills:
-
-Excellent communication skills both written and verbal;
-Kubernetes, Cloud, and Hashicorp certifications or equivalent are valued;
-Experience with GCP is a plus;
-
-
-
-The Product Team builds our product to disrupt the financial crime industry from a data-led approach. We partner with our clients using a holistic lens and have result-driven solutions to manage financial risk with a cloud-first platform and a world-class UX interface. Being part of this team, you have a voice in planning, strategizing, and challenging the status quo. Your thoughts and ideas are valued. Our fast-paced and open environment encourages us to lean in, try new things, and discover our potential. We define and act on what could be in tomorrow's world, not on what is today. Join Us!
+We are committed to providing a working environment that embraces and values diversity and inclusion. We encourage candidates to speak with a member of our recruitment team if you require adjustments to our recruitment process to support you, and the type of working arrangements that would help you thrive.
 
 
 
 
-#LI-MG1
+About Macquarie
+
+A career at Macquarie means you’ll have the opportunity to develop and utilise new skills, explore interesting fields and do challenging work that will impact the lives of people around the world—whether it’s accelerating the green energy transition, helping sustain global food supplies, financing social housing projects or investing in essential infrastructure. At Macquarie, we’re empowering people to innovate and invest for a better future.
+
+Our size and international presence means your work can take you anywhere—across business groups, disciplines, sectors and borders. With 19,200+ employees and offices in 34 markets around the world, we’re a truly global organisation.
+
+You’ll be supported by a diverse team where the unique perspectives, ideas and experiences that all of our people bring are valued. You’ll be empowered to address unmet needs in our communities whilst advising and investing alongside our clients and partners. Working with us, you’ll have the opportunity to make a difference.
+
+Macquarie is a global financial group providing clients with asset management, retail and business banking, wealth management, leasing and asset financing, market access, commodity trading, renewables development, specialist advisory, capital raising and principal investment.
 
 
 
 
-Your First 30-Days at Feedzai:
-
-You will be immersed in our brand with training, connections, and one-on-one time with your manager. You may shadow your colleagues virtually or onsite at an office depending on where you work as you are supported through your Feedzai journey. In addition, you will have access to a ton of information to give you history, context, and all the knowledge you can handle about Feedzai and the team. Finally, you will start working on projects and collaborating on work currently being done. We can't wait to have you join the team!
-
-Life at Feedzai Instagram
-
-Feedzai Culture
-
-Feedzai is an Equal Opportunity Employer and we value diversity at our company. We do not discriminate on the basis of race, religion, color, national origin, gender, sexual orientation, age, marital status, veteran status, or disability status.
-
-Feedzai does not accept unsolicited resumes from recruiters or employment agencies.
-
-Feedzai will use the personal data you provide us with by filling out this form for reviewing your application and to potentially negotiate a contract with you. Your personal data will be retained by Feedzai for 24 months following your application. Please see our Privacy Notice available at https://feedzai.com/about-us/privacy/ for more information on how we process your personal data.
-
-Report job
-Hiring Lab
-Career Advice
-Browse Jobs
-Browse Companies
-Salaries
-Indeed Events
-Work at Indeed
-Countries
-About
-Help Centre
-ESG at Indeed
-© 2023 Indeed
-Accessibility at Indeed
-Privacy Centre
-Cookies
-Privacy
-Terms
+Job no: COG-961153
+Work type: Permanent - Full time
+Location: Sydney
+Category: Technology
+Group: Corporate Operations Group
+Division: Technology
+Recruiter: Michael Macalua
+Opening Date: 24/5/2023

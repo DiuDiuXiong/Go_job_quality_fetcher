@@ -1,212 +1,92 @@
-Skip to main content
-LinkedIn
-Jobs
-Dismiss
-Dismiss
-Join now
-Sign in
-Site Reliability Engineer, Observability Platform
-GitLab  Australia
-3 weeks ago  39 applicants
+
+Platform Engineer
+Optus  Macquarie Park, New South Wales, Australia
+3 days ago   Be among the first 25 applicants
   
-See who GitLab has hired for this role
+See who Optus has hired for this role
 Apply
 Save
-The GitLab DevSecOps platform empowers 100,000+ organizations to deliver software faster and more efficiently. We are one of the world’s largest all-remote companies with 2,000+ team members and values that foster a culture where people embrace the belief that everyone can contribute. Learn more about Life at GitLab .
+About The Opportunity
 
-Site Reliability Engineers (SREs) are responsible for keeping all user-facing services and other GitLab production systems running smoothly. SREs are a blend of pragmatic operators and software craftspeople that apply sound engineering principles, operational discipline, and mature automation to our operating environments and the GitLab codebase. SREs specialize in systems (operating systems, storage subsystems, networking), while implementing best practices for availability, reliability and scalability, with varied interests in algorithms and distributed systems.
 
-The Observability Team 's mission is to Build, Run and Own the entire lifecycle of the suite of services that enable observability of the GitLab SaaS environments. These services allow Infrastructure, Development & Product teams to observe running products and contribute to our overall reliability and scalability goals. In this role, you will maintain metrics and logs platforms for GitLab SaaS and you will be responsible for Prometheus, Thanos, Grafana, and Logging .
 
-GitLab.com is a unique site and brings with it unique challenges: it is the largest GitLab instance in existence (and in fact, one of the largest single-tenancy open-source SaaS sites on the Internet). The team’s experience feeds back into other Engineering groups within the company, as well as to GitLab customers running self-managed installations.
 
-As An SRE You Will
+We're seeking a Platform Engineer to join Optus’ newest engineering function, the Tech Foundations Tribe!
 
-Be on an on-call (PagerDuty) rotation to respond to incidents that impact GitLab.com availability, and provide support for service engineers with customer incidents.
-Use your on-call shift to prevent incidents from ever happening.
-Run our infrastructure with Chef, Ansible, Terraform, GitLab CI/CD, and Kubernetes.
-Build monitoring that alerts on symptoms rather than on outages.
-Document every action so your findings turn into repeatable actions and then into automation.
-Use the GitLab product to run GitLab.com as a first resort and improve the product as much as possible
-Improve operational processes (such as deployments and upgrades) to make them as boring as possible.
-Design, build and maintain core infrastructure that enables GitLab scaling to support hundreds of thousands of concurrent users.
-Debug production issues across services and levels of the stack.
-Plan the growth of GitLab’s infrastructure.
 
-You may be a fit to this role if you have some of these inclinations:
 
-Experience with Kubernetes deployment and management
-Experience with Elastic Cloud, Loki, Fluentd, Promtail or other logging systems tools
-Experience with Promethus and/or Thanos deployment management
-Think about systems: edge cases, failure modes, behaviors, specific implementations.
-Experience with or exposure to Bigquery and general cloud providers such as GCP and AWS
-Know your way around Linux and the Unix Shell.
-Know what is the use of configuration management systems like Terraform, Chef and/or Ansible.
-Have an urge to collaborate and communicate asynchronously.
-Have an urge to document all the things so you don’t need to learn the same thing twice.
-Have an enthusiastic, go-for-it attitude. When you see something broken, you can’t help but fix it.
-Have an urge for delivering quickly and effectively, and iterating fast.
-Share our values , and work in accordance with those values.
-Ability to use GitLab
 
-Projects you could work on:
+As a Platform Engineer within the Tribe, you will work within one of our autonomous squads that build, run and own technical products which our feature teams rely upon to provide innovative experiences for our external customers. You will be empowered to apply your software or systems engineering background to ensure our products are simple to consume and scale in the face of their growing popularity with our internal customers, while helping embed practices like SRE to ensure a healthy balance between innovation and operational excellence.
 
-Coding infrastructure automation with Chef , Ansible, Terraform, and GitLab CI/CD
-Improving our Prometheus Monitoring or building new metrics
-Helping release managers deploy and fix new versions of GitLab-EE.
-Plan, prepare for, and execute the migration of GitLab.com from virtual machines running on Google Cloud to cloud-native container-based deployments with Kubernetes using Google Kubernetes Engine.
-Develop a relationship with a product group , define their SLAs, share GitLab.com data on those SLAs and improve their reliability
 
-The base salary range for this role’s listed level is currently for residents of listed locations only. Grade level and salary ranges are determined through interviews and a review of education, experience, knowledge, skills, abilities of the applicant, equity with other team members, and alignment with market data. See more information on our benefits and equity . Sales roles are also eligible for incentive pay targeted at up to 100% of the offered base salary.
 
-Colorado/Washington pay range
 
-$124,300 — $239,700 USD
+Our platform engineers are customer focused, passionate about product-thinking, and love to apply engineering to ensure these achievements are long-lasting. They use their experience and appetite for continuously learning to answer open questions like-
 
-California/New York/New Jersey pay range
 
-$124,300 — $266,400 USD
 
-Country Hiring Guidelines: GitLab hires new team members in countries around the world. All of our roles are remote, however some roles may carry specific location-based eligibility requirements. Our Talent Acquisition team can help answer any questions about location after starting the recruiting process.
 
-Privacy Policy: Please review our Recruitment Privacy Policy. Your privacy is important to us.
+How can we make the experience of our engineers awesome on Day 1, and equally awesome on Day 1000?
+How can we make it easy for developers to securely build and deploy APIs?
+How can we embed security through our software development lifecycle, without loading teams up with more processes and meetings?
 
-GitLab is proud to be an equal opportunity workplace and is an affirmative action employer. GitLab’s policies and practices relating to recruitment, employment, career development and advancement, promotion, and retirement are based solely on merit, regardless of race, color, religion, ancestry, sex (including pregnancy, lactation, sexual orientation, gender identity, or gender expression), national origin, age, citizenship, marital status, mental or physical disability, genetic information (including family medical history), discharge status from the military, protected veteran status (which includes disabled veterans, recently separated veterans, active duty wartime or campaign badge veterans, and Armed Forces service medal veterans), or any other basis protected by law. GitLab will not tolerate discrimination or harassment based on any of these characteristics. See also GitLab’s EEO Policy and EEO is the Law . If you have a disability or special need that requires accommodation , please let us know during the recruiting process .
+
+
+
+If you are inspired to build sustainable solutions to these questions, have a passion for engineering excellence and are experienced in product development, we invite you to join our dedicated team in revolutionising engineering at Optus.
+
+
+
+
+Key Responsibilities
+
+
+
+
+Building and operating scalable, reliable, and secure technical products that meet business requirements and maximise the productivity of our feature teams.
+Working with internal customers – developers, builder teams, and engineering leaders - to continuously improve their user experience.
+Identifying opportunities to simplify processes by adopting modern practices and technologies.
+
+
+
+
+These skills will rocket you to Success!
+
+
+
+
+Experience working in platform engineering teams and developing technical products to solve business problems and challenges.
+Hands-on experience in software development, with a strong background in one or more programming languages such as Python, Java, or Go.
+A passion for building and supporting interfaces (APIs, Portals, documentation) which encourage and promote self-service.
+Expertise working with cloud and/or container platforms.
+Strong interpersonal skills to navigate complex technical environments with ease.
+
+
+
+
+We're a highly collaborative workplace, and offer a range of perks such as
+
+
+
+
+Hybrid working (2 days remote).
+Discounts on products and services.
+Ongoing mentoring and accredited training through university partnerships.
+Onsite facilities at Macquarie Park include a GP, gym, mini-mart, cafes, restaurants, post shop, and chill-out zones.
+Private bus service to and from Campus to Epping and Wynyard stations, and discounted car parking onsite.
+
+
+
+
+Curious about our culture? Go behind the scenes with our people by searching #OptusLife on LinkedIn.
 Show more 
 Seniority level
-Mid-Senior level
+Entry level
 Employment type
 Full-time
 Job function
 Engineering and Information Technology
 Industries
-IT Services and IT Consulting and Software Development
+Telecommunications
   
 
-Referrals increase your chances of interviewing at GitLab by 2x
-
-See who you know
-
-Get notified about new Site Reliability Engineer jobs in Australia.
-
-Sign in to create job alert
-Similar jobs
-Senior Site Reliability Engineer
-Senior Site Reliability Engineer
-Atlassian
-Sydney, New South Wales, Australia
-5 hours ago
-Site Reliability Engineer
-Site Reliability Engineer
-Optus
-Macquarie Park, New South Wales, Australia
-2 days ago
-Site Reliability Engineer
-Site Reliability Engineer
-Datacom
-Melbourne, Victoria, Australia
-1 week ago
-Site Reliability Engineer
-Site Reliability Engineer
-Smarsh
-Bangalore, New South Wales, Australia
-1 day ago
-Site Reliability Engineer
-Site Reliability Engineer
-Aeon Media Group Ltd
-Melbourne, Victoria, Australia
-2 weeks ago
-Site Reliability Engineer
-Site Reliability Engineer
-Tribus Technology
-Sydney, New South Wales, Australia
-5 days ago
-Show more jobs like this 
-People also viewed
-Senior Site Reliability Engineer
-Senior Site Reliability Engineer
-
-Cboe Global Markets
-
-Sydney, New South Wales, Australia
-1 week ago
-Linux Site Reliability Engineer
-Linux Site Reliability Engineer
-
-NetSuite
-
-Sydney, New South Wales, Australia
-2 weeks ago
-Site Reliability Engineer II
-Site Reliability Engineer II
-
-Ping Identity
-
-Australia
-1 day ago
-100% Remote (AUS) Sr. SysOps Site Reliability Engineer
-100% Remote (AUS) Sr. SysOps Site Reliability Engineer
-
-Cayuse
-
-Victoria, Australia
-1 week ago
-Site Reliability Engineer, Reliability/Database
-Site Reliability Engineer, Reliability/Database
-
-GitLab
-
-Australia
-2 weeks ago
-Site Reliability Engineer III, Securities Services Technology
-Site Reliability Engineer III, Securities Services Technology
-
-JPMorgan Chase & Co.
-
-Sydney, New South Wales, Australia
-2 weeks ago
-DevOps Engineer
-DevOps Engineer
-
-Collabera Digital
-
-Victoria, Australia
-2 days ago
-Senior Site Reliability Engineer
-Senior Site Reliability Engineer
-
-Atlassian
-
-Sydney, New South Wales, Australia
-5 hours ago
-Site Reliability Engineer I
-Site Reliability Engineer I
-
-Apptio
-
-Sydney, New South Wales, Australia
-2 days ago
-ENGINEERING - Site Reliability Engineer - Sydney
-ENGINEERING - Site Reliability Engineer - Sydney
-
-Macquarie Group
-
-Sydney, New South Wales, Australia
-2 weeks ago
-Looking for a job?
-
-Visit the Career Advice Hub to see tips on interviewing and resume writing.
-
-View Career Advice Hub
-LinkedIn
-© 2023
-About
-Accessibility
-User Agreement
-Privacy Policy
-Cookie Policy
-Copyright Policy
-Brand Policy
-Guest Controls
-Community Guidelines
-Language

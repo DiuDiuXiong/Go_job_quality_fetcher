@@ -1,86 +1,56 @@
-Skip to main content
-Find jobs
-Company reviews
-Search Salary
-Upload your resume
-Sign in
-Employers / Post Job
-Start of main content
-What
-Where
-Find Jobs
-Site Reliability Engineer - SRE Engineer
-Macquarie Group
-Melbourne VIC 3000
-Full-time, Permanent
+Cloud Engineer
+Aware Super
+Australia
+Remote
 You must create an Indeed account before continuing to the company website to apply
 Apply on company site
-Job details
-No matching job preferences
-Job Type
-Full-time
-Permanent
-We're seeking a Site Reliability Engineer with a passion for software reliability. We aim to provide the most reliable products and service in financial industry.
 
-In this role you will be responsible for:
-Application of Observability principles within our infrastructure, environments and software
-Application of best practice SLI's, SLO's, metrics, and error budgets
-Develop and implement comprehensive monitoring, logging and alerting technologies
-Establish and implement strategies for canary releases, feature toggling and rollback back practices
-Collaboration with feature teams to ensure reliability practices are integrated into development
-Implement continuous learning through blameless postmortems
-Participate in improving incident management and application of best practices.
-Establishing Release Engineering best practices
-Developing reliability software patterns and practices (e.g. circuit breaker, retry etc).
-Help achieve the goal of 'push on green' for deployments
-Skills required:
-Strong experience in software engineering
-Strong experience in SLO, metrics, logging, and tracing
-Proven record of accomplishment in automating toil
-Excellent understanding of modern software development practices, tools and technologies
-A passion for getting things done, balancing short- and long-term needs
-Influencing software engineers on reliability
-Influence and technical leadership capabilities to drive change in environments, manage stakeholders and get alignment cross functionally
-Strong DevOps fundamentals with preference for Java, Golang, Microservices and other cloud technologies
-What is in it for you:
-This is an opportunity to play a pivotal role in shaping Engineering for Macquarie Bank
-Enjoy the satisfaction of making a difference and being part of a team that drives positive change in the bank and the industry
-Be part of a forward-thinking organisation that embraces new technologies and modern engineering practices
-Be part of a team that deeply values diversity and creates space for you to be your best, in a modern & inclusive environment with a strong focus on employee experience
-Being hands-on with the latest cloud technologies including Google Cloud to tackle interesting banking and finance problems
-Ongoing professional development and free technical certification
-About the Corporate Operations Group
+Want to be a force for good?
 
-The Corporate Operations Group brings together specialist support services in Digital Transformation & Data, Technology, Operations, Human Resources, Business Services, Corporate Strategy & Solutions, and the Macquarie Group Foundation. We deliver service excellence to ensure Macquarie is open for business, deliver on transformational change, invest in our people and have deep relationships with our customers.
+At Aware Super we believe that we do well through doing good. Finding ways to support our communities is part of our DNA and we have a track record of being bold and breaking new ground. We have always believed that we have a responsibility to invest in ways that deliver strong returns for our members at the same time as improving our communities, building a more sustainable economy and supporting employment locally and globally.
 
-Our commitment to Diversity, Equity and Inclusio
+Aware Super is one of Australia’s largest industry funds providing superannuation, advice and retirement solutions to those who teach, nurse, care, respond and help others in our communities. We offer a truly collaborative workplace that responds to rapid change, without losing sight of what is most important to us: our members. To learn more visit: https://awaresuper.com.au/member
 
-About the Corporate Operations Group
 
-The Corporate Operations Group brings together specialist support services in Digital Transformation & Data, Technology, Operations, Human Resources, Business Services, Corporate Strategy & Solutions, and the Macquarie Group Foundation. We deliver service excellence to ensure Macquarie is open for business, deliver on transformational change, invest in our people and have deep relationships with our customers.
+Your new role
 
-Our commitment to Diversity, Equity and Inclusion
+As a Cloud Engineer at Aware Super, you will be responsible for the design and technical implementation of Azure cloud solutions, private cloud and 3rd party SaaS integration as well as the automation and the provisioning of Azure cloud services and deploying application configurations. This role reports to the Senior Systems Engineer Lead and has a focus on operational stability and project delivery including design, planning, build/implementation and operational transition.
 
-The diversity of our people is one of our greatest strengths. An inclusive and equitable environment enables us to deliver innovative and sustainable outcomes for our people, clients, shareholders and communities. From day one, you'll be encouraged to be yourself and supported to perform at your best. If our purpose of 'empowering people to innovate and invest for a better future' is as inspiring to you as it is to us, please apply. With the right technology, support and resources, our people can work in a range of flexible ways.
+**** Most of the Infrastructure team is based in Melbourne but we would be happy to consider suitable candidates from Sydney, Perth and Brisbane ****
 
-We are committed to providing a working environment that embraces and values diversity, equity and inclusion. We encourage candidates to speak with a member of our recruitment team if you require adjustments to our recruitment process to support you, and the type of working arrangements that would help you thrive.
+How do you exceed our expectations?
 
-<
-Report job
-Hiring Lab
-Career Advice
-Browse Jobs
-Browse Companies
-Salaries
-Indeed Events
-Work at Indeed
-Countries
-About
-Help Centre
-ESG at Indeed
-© 2023 Indeed
-Accessibility at Indeed
-Privacy Centre
-Cookies
-Privacy
-Terms
+You're the type of person who is deeply curious about the practices of DevOps, SRE and the role of Infrastructure Developers. You have a desire to know how things work, without getting overly academic or losing focus on the required business outcomes. You are great at generating ideas that are focused on solving problems and have an innate willingness to share information and collaborate in the pursuit of accelerating business outcomes for Aware Super.
+
+You will also have :
+
+Demonstrated experience in cloud networking/system administration, in Azure;
+Strong experience in system administration in Windows and Linux environments;
+Practical knowledge of provisioning and maintaining Azure cloud services using Terraform;
+Demonstrated experience in administering objects in Active Directory, Azure AD, ADFS and Exchange 2016 / Exchange On-line; and
+Knowledge of GitHub and Azure DevOps pipeline deployments
+
+
+Employee experience
+
+We understand that not everyone works in the same ways. We offer flexibility so that you can perform your role at your best, in line with needs of the business. Through hybrid working we balance the benefits of working remotely and together each week in the office to collaborate, connect and celebrate our success.
+
+We provide opportunities to contribute to (INV ONLY) ground-breaking investment deals, high-impact projects to scale our business and daily challenges that engage deep thinking and inspire innovation in all that we do.
+
+We love working at Aware Super because our hard work is well compensated by:
+
+A culture of career development, continuous learning and growth, supported by generous learning budgets
+Abundant well-being offerings like a health & fitness reimbursement, work from home technology reimbursement, discretionary well-being and volunteer leave days, salary continuance insurance and plenty of organisation-wide meeting-free zones
+Competitive remuneration packages and attractive benefits
+
+
+
+
+The Aware Super difference
+
+At Aware Super, we believe that diversity of thought, background and experience creates better outcomes for our members and communities and stronger inclusion and belonging for our people. We value a diverse workplace and strongly encourage women, Aboriginal & Torres Strait Islander people, people with cultural and linguistic diversity, LGBTQIA+ individuals, people with disabilities, and mature-age individuals to apply. We are proud to be consistently recognised as an Employer of Choice for Gender Equality and our CEO, Deanne Stewart, is a Pay Equity Ambassador. Our members are at the heart of everything we do, and we CARE deeply, DELIVER honourably, and LEAD bravely.
+
+
+
+Applicants must have the right to work in Australia and will be subject to police and bankruptcy checks.
+

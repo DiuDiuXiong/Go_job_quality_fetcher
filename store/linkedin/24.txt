@@ -1,303 +1,82 @@
-Skip to main content
-LinkedIn
-Jobs
-Dismiss
-Dismiss
-Join now
-Sign in
-Senior Site Reliability Engineer
-Workforce Australia for Individuals  Sydney, New South Wales, Australia
-2 weeks ago   Be among the first 25 applicants
+
+Site Reliability Engineer I
+Apptio  Melbourne, Victoria, Australia
+2 days ago  49 applicants
   
-See who Workforce Australia for Individuals has hired for this role
+See who Apptio has hired for this role
 Apply
 Save
-Feedzai is the world’s first RiskOps platform for financial risk management, and the market leader in safeguarding global commerce with today’s most advanced cloud-based risk management platform, powered by machine learning and artificial intelligence. Feedzai is securing the transition to a cashless world while enabling digital trust in every transaction and payment type. The world’s largest banks, processors, and retailers trust Feedzai to protect trillions of dollars and manage risk while improving the customer experience for everyday users, without compromising privacy. Feedzai is a Series D company and has raised $282M to date. With a valuation of +$1.5B, the company's technology protects 900 million people in 190 countries.
+Overview
 
+This position is open to fully-remote work from Australia
 
+In this role, you will be part of a team that develops and supports the Apptio Kubernetes Platform (AKP) where all Apptio applications are deployed. In a typical day you will interact with Github, Linux, Kubernetes, ArgoCD, Docker, Confluence, Jira, Slack, and AWS.
 
+You Are
 
-With Cloud at its core, the Engineering (Tech) Team is responsible for all Feedzai product development. Together with Product Management and Data Science, we build the next generation of tools to catch fraud in real-time with a machine learning first approach. Formed by engineers and managed by engineers, at Feedzai, you will find one of the most talented teams out there, from junior to senior engineers.
+You are passionate about problem solving and reliability and have experience in SRE or an adjacent role. Your team can count on you to solve challenging problems across the entire Apptio Portfolio. You collaborate with other SREs, developers, and support teams to help provide value to the broader organization. You take responsibility when fixing problems in an automated code first way and are happy to step outside your comfort zone to develop your skillset.
 
+You Are Not
 
+A Kubernetes or cloud expert with many years of experience. This is an early-level position; we want you to help us, and we also want to help you grow.
 
+We Are
 
-We are fast-paced and provide a safe, open, and collaborative environment that encourages us to lean in, try new things and discover our potential with continuous learning for everyone.
+The Platform and Site Reliability Engineering team - PRE - at Apptio is responsible for enhancing and maintaining our Kubernetes platform and driving the adoption of SRE best practices across our engineering teams. We are a distributed team working across three locations including the United States, Poland and Australia.
 
+Responsibilities
 
+Manage deployments of Apptio services to AKP
+Streamline the deployment process
+Improve observability of the services within your purview by reviewing KPI dashboards and alerting
+Author and maintain documentation of deployment and monitoring processes
+Use runbooks to troubleshoot and triage production issues
+Detect issues and handle Tier 1-2 troubleshooting
+Participate in online “swarm” collaboration sessions
+Collaborate with service developers
+Participate in on-call rotation
+Perform maintenance of the platform (patching, resets, upgrades, etc.)
 
+Qualifications
 
-While building the best value for our customers, you will work with a wide range of technical challenges. Such as building distributed systems that need to operate 24/7 and ultra-low latencies, solving UI/UX problems to help fraud analysts to fight fraud more efficiently. In addition, designing extensive databases from relational, NoSQL and graphs, validate and develop new data science techniques and algorithms.
+1-2 years’ experience in an SRE or adjacent role
+Foundational understanding of at least one programming language and source control (Preferably Golang)
+Experience with distributed application deployment and management
+Experience with container technologies (e.g., Kubernetes, Docker)
+Experience with Infrastructure-as-code (IaC) concepts
+Experience with cloud provider services such as AWS, Azure, or Google Cloud Platform
+Familiarity with RESTful systems and their APIs
+Desire working with a remote team
+Fluent English language skills
+AU resident
 
+The Company
 
+Apptio is the leading technology spend and value management company for financial and operational decisions across Information Technology (IT), multi-cloud FinOps, and product development. Apptio's mission is to deliver business value with every technology investment. Powered by Apptio’s cloud platform and AI/ML data engine, Apptio’s SaaS applications translate technology spend into clear business outcomes and financial ROI. Apptio applications deliver six key capabilities: cost transparency, actionable insights, planning and forecasting, usage and consumption, value management, and showback/chargeback. As a trusted leader in FinOps and Technology Business Management (TBM) with thousands of customers worldwide, Apptio empowers leaders to cut costs and redirect investments to digital innovation. For more information, please visit www.apptio.com.
 
+Leaders In The Organization Consistently Showcase The Following Key Attributes And Look To Build Teams That Embrace These Qualities Every Day
 
-You
+As an organization, Apptio has an established culture; it is open, transparent, and very customer focused.
 
+Growth Mindset
+Dealing with ambiguity and change
+Take ownership and has accountability
+Customer-focused
+Foster an inclusive environment
 
+Apptio, Inc. complies with applicable local and federal laws governing nondiscrimination in employment in every location in which the company has facilities.
 
+Apptio, Inc. provides equal employment opportunities (EEO) to all employees and applicants for employment without regard to race, color, religion, gender, sexual orientation, national origin, age, disability, genetic information, marital status, amnesty, or status as a covered veteran in accordance with applicable US federal, state, and local laws.
 
-Feedzai SRE team is responsible for the overall cloud platform architecture that supports the cloud services provided to our customers. As part of this team you'll work with other Site Reliability Engineers with a deep understanding of Feedzai cloud products and environments in developing the automation, tooling, and platforms that support Feedzai cloud service, and by doing so, contributing to faster and more agile product delivery.
-
-
-
-
-Your Day To Day
-
-
-
-
-Build and maintain tools for deployment, monitoring, operations, and analytics;
-
-
-
-
-Provide support on cloud-ops ownership services, production monitoring, deployments, and maintenance of infrastructure.
-
-
-
-
-Develop and execute regional plan to migrate regional environments to the Next Gen architecture
-
-
-
-
-Take ownership of all customer environments in the region
-
-
-
-
-Own and automate/improve Service Catalog in the region
-
-
-
-
-Own and execute the improvement roadmap;
-
-
-
-
-Participate in incident response, root cause investigation, and resolution;
-
-
-
-
-Maintain and develop our infrastructure as code (IaC) to manage and operate end-to-end lifecycle operations (monitoring, alerting, security, cost optimization, configuration, backup, etc.) in production environments;
-
-
-
-
-Utilize your experience and problem-solving skills to help prevent and investigate production issues;
-
-
-
-
-Communicate with team members, stakeholders and customers in a globally distributed and asynchronous environment;
-
-
-
-
-You Have & You Know-How
-
-
-
-
-A bachelor's degree in Computer Science, Information Systems, or the equivalent combination of education, experience, and training that provides the required knowledge, skills, and abilities;
-
-
-
-
-5+ years of experience with AWS or Azure;
-
-
-
-
-Experience with Automation, Infrastructure-as-Code, Terraform, Ansible, Runbooks and Troubleshooting guides;
-
-
-
-
-Experience with Virtualization, Container Technologies and Orchestration (Docker, Kubernetes);
-
-
-
-
-Programming skills (Go, Python, or similar languages);
-
-
-
-
-Experience with CI/CD pipelines; Experience with monitoring, troubleshooting and guiding on incidents;
-
-
-
-
-Self-driven & motivated, with a strong work ethic and a passion for problem-solving;
-
-
-
-
-Experience working for an anti-financial crime ML driven software company - mandatory
-
-
-
-
-Preferred Qualifications And Skills
-
-
-
-
-Excellent communication skills both written and verbal;
-
-
-
-
-Kubernetes, Cloud, and Hashicorp certifications or equivalent are valued;
-
-
-
-
-Experience with GCP is a plus;
-
-
-
-
-The Product Team builds our product to disrupt the financial crime industry from a data-led approach. We partner with our clients using a holistic lens and have result-driven solutions to manage financial risk with a cloud-first platform and a world-class UX interface. Being part of this team, you have a voice in planning, strategizing, and challenging the status quo. Your thoughts and ideas are valued. Our fast-paced and open environment encourages us to lean in, try new things, and discover our potential. We define and act on what could be in tomorrow's world, not on what is today. Join Us!
+Apptio Inc. is not open to 3rd party solicitation or resumes for our posted FTE positions. Resumes received from 3rd party agencies that are unsolicited will be considered complimentary.
 Show more 
 Seniority level
-Mid-Senior level
+Not Applicable
 Employment type
 Full-time
 Job function
 Engineering and Information Technology
 Industries
-Government Administration
+Software Development
   
 
-Referrals increase your chances of interviewing at Workforce Australia for Individuals by 2x
-
-See who you know
-
-Get notified about new Senior Site Reliability Engineer jobs in Sydney, New South Wales, Australia.
-
-Sign in to create job alert
-Similar jobs
-Senior Site Reliability Engineer
-Senior Site Reliability Engineer
-Feedzai
-Sydney, New South Wales, Australia
-1 week ago
-Senior Site Reliability Engineer
-Senior Site Reliability Engineer
-Atlassian
-Sydney, New South Wales, Australia
-5 hours ago
-Senior Site Reliability Engineer
-Senior Site Reliability Engineer
-CMD Solutions
-Sydney, New South Wales, Australia
-2 weeks ago
-Senior Site Reliability Engineer
-Senior Site Reliability Engineer
-SafetyCulture
-Sydney, New South Wales, Australia
-2 weeks ago
-Senior Site Reliability Engineer
-Senior Site Reliability Engineer
-Cboe Global Markets
-Sydney, New South Wales, Australia
-1 week ago
-Senior Site Reliability Engineer
-Senior Site Reliability Engineer
-Macquarie Group
-Sydney, New South Wales, Australia
-2 weeks ago
-Show more jobs like this 
-People also viewed
-Senior Software Reliability Engineer (open to remote across ANZ)
-Senior Software Reliability Engineer (open to remote across ANZ)
-
-Canva
-
-Sydney, New South Wales, Australia
-3 hours ago
-Senior DevOps Engineer
-Senior DevOps Engineer
-
-Airwallex
-
-Sydney, New South Wales, Australia
-2 weeks ago
-Database Reliability Engineer
-Database Reliability Engineer
-
-Cover Genius
-
-Sydney, New South Wales, Australia
-2 weeks ago
-Senior DevOps Engineer
-Senior DevOps Engineer
-
-TheDriveGroup.
-
-Sydney, New South Wales, Australia
-1 week ago
-Systems Reliability Engineer
-Systems Reliability Engineer
-
-ThoughtSpot
-
-Sydney, New South Wales, Australia
-2 weeks ago
-Senior DevOps Engineer
-Senior DevOps Engineer
-
-Bunnings
-
-Sydney, New South Wales, Australia
-2 weeks ago
-Senior DevOps Engineer
-Senior DevOps Engineer
-
-Qcells North America
-
-Sydney, New South Wales, Australia
-2 weeks ago
-Senior Workplace Engineer
-Senior Workplace Engineer
-
-Scentre Group (Owner and Operator of Westfield in Aus and NZ)
-
-Sydney, New South Wales, Australia
-2 weeks ago
-Senior DevOps Engineer
-Senior DevOps Engineer
-
-Shine Solutions Group
-
-Sydney, New South Wales, Australia
-4 days ago
-Senior Machine Learning Engineer
-Senior Machine Learning Engineer
-
-Woolworths Group
-
-Sydney, New South Wales, Australia
-2 weeks ago
-Looking for a job?
-
-Visit the Career Advice Hub to see tips on interviewing and resume writing.
-
-View Career Advice Hub
-LinkedIn
-© 2023
-About
-Accessibility
-User Agreement
-Privacy Policy
-Cookie Policy
-Copyright Policy
-Brand Policy
-Guest Controls
-Community Guidelines
-Language

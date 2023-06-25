@@ -1,76 +1,40 @@
-Skip to main content
-Find jobs
-Company reviews
-Search Salary
-Upload your resume
-Sign in
-Employers / Post Job
-Start of main content
-What
-Where
-Find Jobs
-ENGINEERING - Site Reliability Engineer - Sydney
-Macquarie Group
+Site Reliability Engineer-Cloud Infrastructure
+TikTok
+(part of ByteDance)
 Sydney NSW
-Hybrid remote
-Full-time, Permanent
 You must create an Indeed account before continuing to the company website to apply
 Apply on company site
-Job details
-No matching job preferences
-Job Type
-Full-time
-Permanent
-Join a high performing SRE Engineering team supporting our Commodities and Global Markets business group and work with a multitude of technology teams and business stakeholders to solve problems and deliver fit-for-purpose solutions.
+Site Reliability Engineer-Cloud Infrastructure
+TikTok - Sydney NSW
+Job
+Company
+Responsibilities
+TikTok is the leading destination for short-form mobile video. Our mission is to inspire creativity and bring joy. TikTok has global offices including Los Angeles, New York, London, Paris, Berlin, Dubai, Singapore, Jakarta, Seoul and Tokyo.
 
-At Macquarie, we are working to create lasting value for our communities, our clients and our people. We are a global financial services group operating in 34 markets and with 54 years of unbroken profitability. You'll be part of a supportive team where everyone - no matter what role - contributes ideas and drive outcomes.
+Why Join Us
+At TikTok, our people are humble, intelligent, compassionate and creative. We create to inspire - for you, for us, and for more than 1 billion users on our platform. We lead with curiosity and aim for the highest, never shying away from taking calculated risks and embracing ambiguity as it comes. Here, the opportunities are limitless for those who dare to pursue bold ideas that exist just beyond the boundary of possibility. Join us and make impact happen with a career at TikTok.
 
-What role will you play?
+Team Introduction
+The team is responsible for infrastructure systems, including Storage/Computing/DB. We aim to be the leading SRE team across the industry. In the SRE team, you will have the opportunity to manage the complex challenges of scale, while using expertise in coding, algorithms, complexity analysis, and large-scale system design. We embrace a culture of diversity, intellectual curiosity, openness, and problem-solving. We also encourage ownership, self-governance and independence to work on various projects, and an environment that provides the support and mentorship needed to learn and grow as an engineer.
 
-You will be responsible for building out, automating, and supporting our critical systems. You will combine problem solving skills with software and systems engineering to take a proactive approach in building fault-tolerant systems, improving observability/monitoring/alerting capabilities, automating tasks and build tools.
+Responsibilities
 
-In the SRE team you will have the opportunity to impact the Commodities and Global Markets division within Macquarie front to back, building relationships with a motivated and agile global technology community.
+Reliability: Ensuring the reliability and efficiency of our core infrastructure, focusing on system capacity and stability; setting up reliability standards and recovery SOP.
+Reliability: Troubleshooting and locating technical issues, bottleneck analysis, managing system high availability architecture transformation and upgrading.
+Efficiency: Building automated operation solutions for large-scale systems; partnering with system development teams for system iteration.
+Efficiency: Designing and implementing software platforms and monitoring frameworks for efficient, automated, and intelligent service-oriented architecture (SOA) governance.
+Cost: There are millions of CPUs. We should build delivery standards, and monitor and budget systems to optimize the cost of the company.
+Compliance: Designing and setting up new IDC; designing and implementing a data protection plan to meet the standard requirement.
+Qualifications
+Requirements
 
-What you offer
-3+ years of experience in Unix/Linux and Bash
-3+ Software development experience using Python, Java, C++ or similar
-Experience with Git, CI/CD tooling (e.g. Jenkins)
-Hands on experience with Cloud technologies (e.g. AWS, GCP, etc.)
-Knowledge of good software design and application architectural practices
-We love hearing from anyone inspired to build a better future with us, if you're excited about the role or working at Macquarie we encourage you to apply.
+Bachelor's / Master's Degree in Computer Science or related major, with at least 3 years of relevant experience;
+Solid basic knowledge of computer software, understanding of Linux operating system, storage, network IO and other related principles.
+Familiar with one or more programming languages, such as Python, Go, and Java. Knowledge of design patterns and coding principles is necessary.
+Preference will be given to those who have one of the following:
 
-Benefits
-Hybrid and flexible working arrangements
-Wellbeing and service bonus leave
-Up to 20 weeks paid parental leave as well as benefits to support you as you transition to life as a working parent
-Paid volunteer leave and donation matching
-Range of benefits to support your physical, psychological and financial wellbeing
-About the Corporate Operations Group
+Experience with storage, and relevant system experience with the following: KV, Table, Graph, Redis, MySQL, MongoDB, MQ, and Kafka.
+Experience with computing & big data, and system experience with the following: Kubernetes, Docker/Containers, AIops, Spark, Flink, Function as a service, RPC Framework, and Service Mesh.
+TikTok is committed to creating an inclusive space where employees are valued for their skills, experiences, and unique perspectives. Our platform connects people from across the globe and so does our workplace. At TikTok, our mission is to inspire creativity and bring joy. To achieve that goal, we are committed to celebrating our diverse voices and to creating an environment that reflects the many communities we reach. We are passionate about this and hope you are too.
 
-The Corporate Operations Group brings together specialist support services in Digital Transformation & Data, Technology, Operations, Human Resources, Business Services, Business Improvement & Strategy, and the Macquarie Group Foundation. We deliver service excellence to ensure Macquarie is open for business, deliver on transformational change, invest in our people and have deep relationships with our customers.
-
-Our commitment to Diversity and Inclusion
-
-The diversity of our people is one of our greatest strengths, and in combination with our inclusive environment, it enables us to deliver innovative and sustainable outcomes for our people, clients, shareholders and communities. From day one, you'll be encouraged to be yourself and supported to perform at your best. If our purpose of 'empowering people to innovate and invest for a better future' is as inspiring to you as it is to us, please apply. With the right technology, support and resources, our people can work in a range of flexible ways.
-
-We are committed to providing a working environment that embraces and values diversity and inclusion. We encourage candidates to speak with a member of our recruitment team if you require adjustments to our recruitment process to support you, and the type of working arrangements that would help you thrive.
-
-<
-Report job
-Hiring Lab
-Career Advice
-Browse Jobs
-Browse Companies
-Salaries
-Indeed Events
-Work at Indeed
-Countries
-About
-Help Centre
-ESG at Indeed
-© 2023 Indeed
-Accessibility at Indeed
-Privacy Centre
-Cookies
-Privacy
-Terms
+In the spirit of reconciliation, TikTok acknowledges the Traditional Custodians of country throughout Australia and their connections to land, sea and community. We pay our respect to their Elders past and present and extend that respect to all Aboriginal and Torres Strait Islander peoples today. #LI-Hybrid

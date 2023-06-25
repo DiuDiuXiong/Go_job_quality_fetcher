@@ -1,166 +1,80 @@
-Skip to main content
-Find jobs
-Company reviews
-Search Salary
-Upload your resume
-Sign in
-Employers / Post Job
-Start of main content
-What
-Where
-Find Jobs
-Network Engineer - SKA-Low Telescope
-CSIRO
-Perth WA
-$105,806 - $114,500 a year - Full-time, Part-time
+Cloud Architect
+Technology One Limited
+Brisbane QLD
 You must create an Indeed account before continuing to the company website to apply
 Apply on company site
-Job details
-No matching job preferences
-Salary
-$105,806 - $114,500 a year
-Job Type
-Full-time
-Part-time
-Acknowledgement of Country
 
-CSIRO acknowledges the Traditional Owners of the land, sea and waters, of the area that we live and work on across Australia. We acknowledge their continuing connection to their culture and pay our respects to their Elders past and present. View our vision towards reconciliation
+How you'll make a difference...
 
-Child Safety
+As a Cloud Software Architect, you will play a vital role in shaping and implementing our cloud-based software solutions. You will be responsible for designing, developing, and deploying scalable and reliable cloud architectures that meet the needs of our enterprise clients. Collaborating closely with cross-functional teams, you will contribute to the creation and evolution of our cloud infrastructure, ensuring its stability, performance, and security.
 
-CSIRO is committed to the safety and wellbeing of all children and young people involved in our activities and programs. View our Child Safe Policy.
 
-The Opportunity
 
-The SKA Observatory (SKAO) is a next-generation radio astronomy facility that will revolutionise our understanding of the Universe and the laws of fundamental physics. Enabled by cutting-edge technology, it promises to have a major impact on society, in science and beyond.
 
+What you’ll be doing…
 
+Architect and design cloud-based software solutions, considering scalability, reliability, performance, and security.
 
+Collaborate with product managers, software engineers, SRE and DevOps teams to understand business requirements and translate them into technical specifications and architecture.
 
-In Australia, the SKAO is collaborating with CSIRO to operate and support the construction of the low frequency telescope (SKA-Low) in remote Western Australia on Wajarri Yamaji Country.
+Develop and maintain a deep understanding of the existing TechnologyOne cloud infrastructure, platforms, and services, and identify opportunities for optimization and enhancement.
 
+Design and implement cloud architecture patterns and best practices, including microservices, serverless, containerization, and event-driven architectures.
 
+Ensure the security and compliance of the cloud infrastructure, implementing robust security controls, monitoring mechanisms, and disaster recovery plans.
 
+Collaborate with software development teams to define and enforce coding standards, delivery processes, and deployment automation.
 
-The Traditional Owners and native title holders, the Wajarri Yamaji, have gifted CSIRO with the traditional name Inyarrimanha Ilgari Bundara for the CSIRO Murchison Radio-astronomy Observatory, home to the SKA-Low telescope. The traditional name means ‘sharing sky and stars' in the Wajarri language.
+Provide technical guidance and mentorship to software engineers and other team members, fostering a culture of innovation and continuous learning
 
 
 
 
-The SKA-Low Network Engineer will be responsible for the deployment, configuration, and support of the networking infrastructure of the SKA-Low Telescope and the Engineering Operations Centre (EOC) in Geraldton. This position will work alongside the SKAO’s Network Architect, Computing Infrastructure Lead, other domain specialists, project managers and system engineers to ensure the networks for the SKA-Low Telescope are fit for purpose, providing the quality needed for a system that will have to last, and be continually developed, for decades.
+Your skillset …
 
+Strong experience & expertise in a Cloud platform such as AWS, AZURE or google cloud platform.
 
+Solid understanding of cloud architecture patterns, microservices, serverless computing, containerization and event driven architectures.
 
+Experience defining and shaping products and services in a cloud environment, aligned with market demands and client requirements.
+Excellent leadership and coaching abilities, with a passion for fostering teamwork and driving performance.
 
-We currently have two Network Engineer positions available with one in Perth and one in Geraldton, Western Australia.
+Relevant degree, qualification or job experience within the industry.
 
-Your duties will include:
-Work with the stakeholders to continually refine the network requirements for the SKA Telescopes to ensure they meet the system requirements in an appropriate and cost-effective manner.
-Assist in the deployment, configuration, and support of networking infrastructure for the SKA-Low Telescope deployed at the Observatory site and the Engineering Operations Centre (EOC) in Geraldton.
-Be an integral member of the international SKAO Networking team, and actively contributing to on-going design network design activities.
-Be involved in the initial population of tools for asset management and engineering management as equipment arrives during construction.
-Be responsible for preparing documentation and training materials for future installation work during ongoing operations, and documenting lessons learned as the construction phase progresses.
-Provide feedback on 'as built' details for the installation due to practical changes & issues arising during construction.
 
 
 
-Location: Geraldton or Perth, Western Australia
+We value diversity and aim to create a vibrant and inclusive workforce. If you meet a number of the requirements (and not all), we encourage you to submit your application.
 
-Salary: AU$105,806 - AU$114,500 plus up to 15.4% superannuation
 
-Tenure: Indefinite - Full-time, Part-time or Job-Share
 
-Reference: 92880
 
+Benefits …
 
+24 hours on-site Gym in Brisbane (state of the art equipment) or a company paid gym membership in our other HQ offices.
 
+Purchased additional annual leave benefit. Option to extend leave to 6 weeks.
 
-CSIRO is an Equal Opportunity employer working hard to recruit world-class talent that represents the diversity across our society. As part of our commitment to equitable employment outcomes for under-represented groups, preference will be given to Aboriginal and Torres Strait Islander people and women who meet the role criteria. CSIRO conscious inclusion practices are intended to constitute a special/equal opportunity/affirmative measure under section 8(1) of the Racial Discrimination Act 1975 (Cth) and section 7D of the Sex Discrimination Act 1984 (Cth).
+Foundation leave, an additional 2.5 days per year to volunteer with registered charities.
 
-To be considered you will need:
+Free breakfast on-site.
 
-Essential
+TechnologyOne employee share plan.
 
-Qualified to degree level in a relevant subject or an equivalent level of experience and expertise.
-Demonstrated experience in installation, optimisation and maintenance of network and security devices and services.
-Ability to assure compliance with SKAO security policies and applicable legislation and regulation.
-Knowledge in the design of network systems at enterprise-level, datacentres, or large distributed systems with understanding of new and emerging networking and security technologies.
-Ability to communicate effectively with a wide range of stakeholders including gathering and distilling information and tailoring it appropriately for the target audience.
-Experience working in a diverse and collaborative team environment across multiple locations.
+Salary packaging for devices like mobile phones, tablets & smart watches, as well as novated leases on cars and more.
 
+Professional development allowance benefits for use on courses, conferences, workshops etc.
 
 
-Desirable
 
-Knowledge and understanding of:
-Long-haul networking technologies
-Software-defined networking systems
-Zero-trust networking principles
-System information and event management (SIEM) systems and syslog tools
-High-Performance Computing (HPC) environments
-Cisco Certifications/Qualifications such as CCNA or higher
-Knowledge and/or background with IT Service Management disciplines and Frameworks such as ITIL and/or Site Reliability Engineering (SRE)
-Experience in the procurement, management, and delivery of network contracts in a complex, high value environment.
 
+Who we are ...
 
+TechnologyOne (ASX: TNE) is Australia’s largest enterprise software company and one of Australia’s top 100 ASX-listed companies, with locations across six countries. We provide a global SaaS ERP solution that transforms business and makes life simple for our customers.
 
-For full details about this role please review the Position Description
+Our deeply integrated enterprise SaaS solution is available on any device, anywhere and any time and is incredibly easy to use. Over 1,200 leading corporations, government agencies, local councils and universities are powered by our software.
 
-Eligibility
+We pride ourselves on providing our people with earned recognition through career progression, competitive salaries and a supportive environment.
 
-Applications for this position are open to Australian/New Zealand Citizens and Australian Permanent Residents. Appointment to this role is subject to provision of a national police check and may be subject to other security/medical/character requirements.
+Applicants must have the right to work permanently in Australia.
 
-Flexible Working Arrangements
-
-We work flexibly at CSIRO, offering a range of options for how, when and where you work.
-
-Diversity and Inclusion
-
-We are working hard to recruit people representing the diversity across our society, and ensure that all our people feel supported to do their best work and feel empowered to let their ideas flourish.
-
-About CSIRO
-
-At CSIRO Australia's national science agency, we solve the greatest challenges through innovative science and technology. We put the safety and wellbeing of our people above all else and earn trust everywhere because we only deal in facts. We collaborate widely and generously and deliver solutions with real impact.
-
-
-
-
-CSIRO is committed to values-based leadership to inspire performance and unlock the potential of our people.
-
-
-
-
-CSIRO is committed to the safety and wellbeing of all children and young people involved in our activities and programs, whether we are undertaking research, engaging with the public or nurturing future scientists in person or online. Source – CSIRO Child Safe policy 2023
-
-
-
-
-
-Join us and start creating tomorrow today!
-
-How to Apply
-
-Please apply on-line and provide a cover letter and CV that best demonstrate your motivation and ability to meet the requirements of this role.
-
-Applications Close
-
-25 June 2023, 11:59pm AWST
-
-Report job
-Hiring Lab
-Career Advice
-Browse Jobs
-Browse Companies
-Salaries
-Indeed Events
-Work at Indeed
-Countries
-About
-Help Centre
-ESG at Indeed
-© 2023 Indeed
-Accessibility at Indeed
-Privacy Centre
-Cookies
-Privacy
-Terms
