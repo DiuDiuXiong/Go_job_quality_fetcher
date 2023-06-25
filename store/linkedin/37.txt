@@ -1,240 +1,80 @@
-Skip to main content
-LinkedIn
-Jobs
-Dismiss
-Dismiss
-Join now
-Sign in
-Site Reliability Engineer II
-Ping Identity  Australia
-1 day ago  89 applicants
+
+Junior Devops Engineer
+Macquarie Group  Sydney, New South Wales, Australia
+2 weeks ago  97 applicants
   
-See who Ping Identity has hired for this role
+See who Macquarie Group has hired for this role
 Apply
 Save
-At Ping Identity we're changing the way people think about enterprise security technology. With our innovative Identity Defined Security platform we're building a borderless world where people have total freedom to work wherever and however they want. Without friction. Without fear.
+Sydney
 
+Exciting opportunity to work closely with highly collaborative technology and business teams to drive ongoing system changes and enhancements.
 
+As a Junior Devops Engineer, you will be part of the Commodities Global Markets Technology Platform team, where you will provide effective first and second level support for applications, both in-house and vendor supplied.
 
+You will be part of the SRE team in Sydney; and collectively with other support team in London and Gurugram form a global "Follow the Sun" model.
 
-We call this digital freedom. And it's not just something we provide our customers. It's something that drives our company. People don't come here to join a culture that's built on digital freedom. They come to cultivate it.
+As a member of the Commodities Global Markets Technology team, you will be working directly with the business as well as developers and global operational teams. You will be responsible for the support of critical applications used by the business for regulatory transaction reporting of Commodities and Financial products. This is a role that deals with time sensitive service deliverables in which accuracy of processing and timely escalation and communication is essential.
 
+To be successful in this role you will have:
 
+Experience within the financial industry focusing on Regulatory Reporting platforms
+Take opportunities to identify, prioritize and address operational improvements, resolve user queries, eliminate manual processes, improve documentation, and fix defects.
+Experience handling Incident and Problems to ensure healthy and stable environments.
+Self-managing, proactive, able to work with minimal supervision.
+Experience writing SQL queries and interacting with databases (Sybase/Oracle).
+Good working knowledge of Unix
+Knowledge of ITIL tools (e.g. Remedy) for Incident/Change/Problem management.
+Experience and understanding of Agile development lifecycle and Scrum.
+Experience with DevOps and Continuous Integration tools (e.g. Jira, Bitbucket, Bamboo).
 
+If you are ready to own you career and join one of Australia’s leading technology driven bank then please apply via the link!
 
-We're headquartered in Denver, Colorado, and we have offices and employees around the globe. We serve the largest, most demanding enterprises worldwide, including over half of the Fortune 100. Because even in the most complex enterprise environments, security shouldn't be a source of anxiety; It is your greatest competitive advantage.
+About The Corporate Operations Group
 
+The Corporate Operations Group brings together specialist support services in Digital Transformation & Data, Technology, Operations, Human Resources, Business Services, Business Improvement & Strategy, and the Macquarie Group Foundation. We deliver service excellence to ensure Macquarie is open for business, deliver on transformational change, invest in our people and have deep relationships with our customers.
 
+Our commitment to Diversity, Equity and Inclusion
 
+The diversity of our people is one of our greatest strengths. An inclusive and equitable environment enables us to deliver innovative and sustainable outcomes for our people, clients, shareholders and communities. From day one, you'll be encouraged to be yourself and supported to perform at your best. If our purpose of ‘empowering people to innovate and invest for a better future’ is as inspiring to you as it is to us, please apply. With the right technology, support and resources, our people can work in a range of flexible ways.
 
-As a Ping Identity SRE you will be involved in every facet of our On-Demand SaaS services and will develop the infrastructure of one of the largest identity platforms in the world. You will report to the Australian Site Reliability Engineering Manager. A fundamental part of our perspective is that the product is not just the applications; We have a holistic approach to our entire stack, and recognise that every part of the pipeline, from the application developer & QA process, through to the infrastructure design and management, inform the product as it is experienced by our customers.
+We are committed to providing a working environment that embraces and values diversity, equity and inclusion. We encourage candidates to speak with a member of our recruitment team if you require adjustments to our recruitment process to support you, and the type of working arrangements that would help you thrive.
 
+About Macquarie
 
+A career at Macquarie means you’ll have the opportunity to develop and utilise new skills, explore interesting fields and do challenging work that will impact the lives of people around the world—whether it’s accelerating the green energy transition, helping sustain global food supplies, financing social housing projects or investing in essential infrastructure. At Macquarie, we’re empowering people to innovate and invest for a better future.
 
+Our size and international presence means your work can take you anywhere—across business groups, disciplines, sectors and borders. With 19,200+ employees and offices in 34 markets around the world, we’re a truly global organisation.
 
-We're looking for engineers from a variety of backgrounds that are interested to bring their experience and skills to the team. It's not essential that you've worked as an SRE before (although we are looking for experienced SREs too); we can provide coached, hands-on, experience to grow you in to the role, as well as assistance obtaining industry recognized certifications. If you have a background in any of the following fields, we're interested to talk:
+You’ll be supported by a diverse team where the unique perspectives, ideas and experiences that all of our people bring are valued. You’ll be empowered to address unmet needs in our communities whilst advising and investing alongside our clients and partners. Working with us, you’ll have the opportunity to make a difference.
 
+Macquarie is a global financial group providing clients with asset management, retail and business banking, wealth management, leasing and asset financing, market access, commodity trading, renewables development, specialist advisory, capital raising and principal investment.
 
+Find out more at www.macquarie.com/careers
 
+Job no: COG-967648
 
-SRE
-DevOps / Release Management and Automation
-System Administration
-Software Engineering / Application Development
+Work type: Permanent - Full time
 
+Location: Sydney
 
+Category: Junior, Technology
 
+Group: Corporate Operations Group
 
-You Will:
+Division: Technology
 
+Recruiter: Michael Macalua
 
-
-
-Run and maintain our production infrastructure hosted on AWS
-Building out our codebase of parameterized, reusable, Infrastructure-as-Code
-Design and build robust workflows and automation that provide deep, on-going, value to the business
-Linux systems administration, configuration, troubleshooting and automation
-Administer platforms built on top of containers, virtual machines, and AWS native offerings
-Capacity analysis and planning, traffic routing, and security policies for Ping's market leading Single Sign-On SaaS applications
-Analyze complex system behavior, performance and application issues
-Develop observability solutions and analysis across multiple geographic regions
-
-
-
-
-You Have:
-
-
-
-
-Cloud Computing Services (AWS, GCP, Azure)
-Observability Strategies and Tools
-Infrastructure-as-code (Terraform, Cloud Formation)
-Experience using Git in a team environment (merge requests, branching, deploying or using branching strategies)
-Experience with Docker and container orchestration (Kubernetes)
-Application Development, test strategies (unit, integration, mocks, end-to-end), defensive coding, dependency management
-Continuous Integration / Delivery / Deployment. Experience with tooling, paradigms, workflows, advocacy
-Release Management. Versioning, signing, packaging, artifact management and distribution
-Solid scripting skills
-IP networking, including familiarity with the functionality, operating, and failure modes of networks
-Experience in a high-volume or mission-critical service environment
-
-
-
-
-Our Benefits:
-
-
-
-
-Parental Leave
-Australia Health Insurance
-Technology Allowance
-Fitness Reimbursement
-
-
-
-
-Ping Identity is an equal opportunity employer. Qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability or protected veteran status.
-
-
-
-
+Opening Date: 11/5/2023
 Show more 
 Seniority level
-Mid-Senior level
+Not Applicable
 Employment type
 Full-time
 Job function
-Information Technology
+Engineering and Information Technology
 Industries
-Software Development
+Banking, Financial Services, and Investment Banking
   
 
-Referrals increase your chances of interviewing at Ping Identity by 2x
-
-See who you know
-
-Get notified about new Site Reliability Engineer jobs in Australia.
-
-Sign in to create job alert
-Similar jobs
-Site Reliability Engineer
-Site Reliability Engineer
-Smarsh
-Bangalore, New South Wales, Australia
-1 day ago
-Senior Site Reliability Engineer
-Senior Site Reliability Engineer
-Oracle
-Melbourne, Victoria, Australia
-3 days ago
-Site Reliability Engineer
-Site Reliability Engineer
-Optus
-Macquarie Park, New South Wales, Australia
-2 days ago
-Site Reliability Engineer I
-Site Reliability Engineer I
-Apptio
-Sydney, New South Wales, Australia
-2 days ago
-Site Reliability Engineer
-Site Reliability Engineer
-Ampersand International
-Sydney, New South Wales, Australia
-1 month ago
-Senior Site Reliability Engineer
-Senior Site Reliability Engineer
-Atlassian
-Sydney, New South Wales, Australia
-5 hours ago
-Show more jobs like this 
-People also viewed
-Site Reliability Engineer - Kafka
-Site Reliability Engineer - Kafka
-
-Optiver
-
-Sydney, New South Wales, Australia
-1 week ago
-Site Reliability Engineer, Reliability/Database
-Site Reliability Engineer, Reliability/Database
-
-GitLab
-
-Australia
-2 weeks ago
-Site Reliability Engineer - Multimedia System
-Site Reliability Engineer - Multimedia System
-
-TikTok
-
-Sydney, New South Wales, Australia
-3 days ago
-Senior Site Reliability Engineer, Kong Konnect
-Senior Site Reliability Engineer, Kong Konnect
-
-Kong Inc.
-
-Sydney, New South Wales, Australia
-1 day ago
-Reliability Engineer
-Reliability Engineer
-
-Microsoft
-
-Sydney, New South Wales, Australia
-1 week ago
-Site Reliability Engineer III, Securities Services Technology
-Site Reliability Engineer III, Securities Services Technology
-
-JPMorgan Chase & Co.
-
-Sydney, New South Wales, Australia
-2 weeks ago
-Site Reliability Engineer I
-Site Reliability Engineer I
-
-Apptio
-
-Melbourne, Victoria, Australia
-2 days ago
-Senior Site Reliability Engineer
-Senior Site Reliability Engineer
-
-Atlassian
-
-Sydney, New South Wales, Australia
-5 hours ago
-Senior Site Reliability Engineer
-Senior Site Reliability Engineer
-
-CMD Solutions
-
-Brisbane, Queensland, Australia
-2 weeks ago
-ENGINEERING - Site Reliability Engineer - Sydney
-ENGINEERING - Site Reliability Engineer - Sydney
-
-Macquarie Group
-
-Sydney, New South Wales, Australia
-2 weeks ago
-Looking for a job?
-
-Visit the Career Advice Hub to see tips on interviewing and resume writing.
-
-View Career Advice Hub
-LinkedIn
-© 2023
-About
-Accessibility
-User Agreement
-Privacy Policy
-Cookie Policy
-Copyright Policy
-Brand Policy
-Guest Controls
-Community Guidelines
-Language

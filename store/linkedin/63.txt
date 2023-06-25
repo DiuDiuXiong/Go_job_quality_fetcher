@@ -1,248 +1,126 @@
-Skip to main content
-LinkedIn
-Jobs
-Dismiss
-Dismiss
-Join now
-Sign in
-Lead Dev Ops Engineer
-ClickSend  Australia
-2 weeks ago  25 applicants
+
+Solutions Engineer
+Dynatrace  Canberra, Australian Capital Territory, Australia
+1 week ago  30 applicants
   
-See who ClickSend has hired for this role
+See who Dynatrace has hired for this role
 Apply
 Save
-
-Direct message the job poster from ClickSend
-
-Merryn Hailes
-APAC Talent Partner - Sinch (ClickSend/MessageMedia) - Committed to the Candidate Experience - Experienced Tech and Retail Talent Specialist
-
-ClickSend is a global cloud based SAAS communications platform for businesses and developers that enables companies of all shapes and sizes to easily and cost effectively communicate with their customers and staff via multiple channels. ClickSend has SMS at its core and powers billions of messages annually but has expanded to become a true all-in-one multi-channel business communications platform offering SMS, MMS, RCS, Email, Voice, Fax and Post by dashboard, API, or hundreds of integrations.
+As our Solutions Engineer, you have a strong background in selling SaaS solutions, understand all phases of the sales cycle and can partner with our field team to drive high sales growth in Australia and New Zealand Region (primarily ACT). You are comfortable engaging early in a deal to help set sales strategy, understand how to lead discovery, craft a solution to solve a customer’s business need, and get deep in validating how Dynatrace’s solutions address that need in real time.
 
 
 
 
-We’re a small team based in Perth, Western Australia, but we’re a global brand with offices in the US, UK, and Philippines. We’re creative problem solvers and we get stuff done but in a relaxed environment that’s not big on overly structured hierarchies. We’re part of Sinch, one of the biggest cloud communications companies on the planet based in Stockholm and have all the benefits of being part of a larger group but we retain our ‘start-up’ mentality. We maintain a spectacular work life balance and try to mix fun and music into our days.
+Job Description
 
 
 
 
-Reporting to the Head of Engineering the DevOps lead will provide subject matter expertise across technologies to ensure we meet customer requirements for rapid service delivery, reliability and innovation. You will be responsible for leading a strong team of DevOps Engineers who assist in maintaining a portfolio of software applications and continuous integration/deployment across the organisation.
+Are you a world class Solution Engineer (SE) or Architect? Do you love to blend your strong interpersonal and selling skills with a passion for cutting edge technology? Are you passionate and enthusiastic about making customers successful and never hesitate to challenge the status quo? No problem, Dynatrace has a history of making technical pioneers like you into high-powered SEs.
 
 
 
 
-We are open to receiving applications from candidates based anywhere in Australia.
+Imagine being able to do the best work you’ve ever done as a Solution Engineer for a high growth, well run and financially stable technology company that is continually identified as one of the best and most innovative technology companies. Thousands of organizations worldwide, including loanDepot, SAP, Walmart, Skyworks, USI Insurance Services, Spirit Airlines, PhotoBox, BNZ Bank, BT Group, Dubai Customs, TSB Bank, Kroger, Park ‘N Fly, Vitality, IP Australia, Temenos, Rack Room Shoes, and many others, use Dynatrace to deliver flawless and secure digital customer transactions.
 
 
 
 
-Working closely with key stakeholders, product and engineering leaders to deliver complex and innovative solutions in alignment with ClickSend technology strategy and architecture.
+We are looking for Solution Engineers who have a strong background in selling SaaS solutions and understand all phases of the sales cycle and can partner with our field team to drive high sales growth in Australia and New Zealand Region (primarily ACT).
 
 
 
 
-Key responsibilities:
-
-Lead, manage and grow a highly motivated team of 2-3 Devops Engineers
-Drive cultural shift towards DevOps and SRE delivery best practices, empowering the teams
-Responsible for your teams design and delivery of continuous integration/continuous delivery processes, practices and platforms
-Discover, prioritise and implement constant improvements to the ways of working and processes within the devops team across trhe product-engineering squads
-Developing impactful solutions that scale in production environments
-Responsible for managing and participating in DevOps on-call duties
-Execute projects within timeframes and communicate well with all stakeholders
-Design solution options and present them to your team
-Review all pull requests and provide constructive feedback
-Working in scrum teams, contributing to breaking down cards in grooming
-Partner with key stakeholders, as well as associate engineers, supporting them to improve and develop their skills
-Assist in incident support and work with the team to resolve issues in production environments
+You are comfortable engaging early in a deal to help set sales strategy, understand how to lead discovery, craft a solution to solve a customer’s business need, and get deep in validating how Dynatrace’s solutions address that need in real time. Additionally, you should be able to understand a customer’s IT infrastructure and software architecture.
 
 
 
 
-To be successful you will have the following skills and attributes:
-
-3+ years technical and people leadership experience
-Bachelors Degree in either Computer Science, Cloud Computing, Mathematics, Computer Systems or equivalent
-6+ years experience working in a DevOps environment
-A passion and hunger to deliver solutions, courage, and foresight to challenge existing processes
-Advanced experience with AWS, EC2, ECS, Networking, Lambda and VPC
-Demonstrated Linux experience
-Demonstrated experience in automation
-Demonstrated experience with Docker
-Demonstrated experience in building and maintaining CI/CD Pipelines using CircleCI or similar
-A thorough understanding of microservice and distributed application architectures
-Demonstrated experience with serverless technologies
-Demonstrated experience across development knowledge, i.e., writing code, texts, packaging, using either Node JS/PHP
+Together with the Sales team you will be selling the fastest growing observability platform using state-of-the-art sales, customer engagement, and marketing techniques.
+You will be responsible for executing great demos which demonstrate Dynatrace’s unique approach in solving the customer’s pain, executing and managing POCs onsite, building key relationships with Dynatrace’s customers and completing RFIs & RFPs.
+You will advise customers in strategic solution matters around AI and Automation powered Observability and Security
+You will solve our customers’ most challenging end-to-end observability, application security, and user experience problems
+You will ensure customers optimize their use of Dynatrace, enable critical business outcomes, and maximize their return on investment.
+You will interact with customers via online tools like chat, web meetings, forums, and key tradeshows.
+You will closely work together with Marketing, Sales, Partner, Product Management, wider Solution Engineering group, Support Team, and the Customer Success Team
+You will collaborate with the Dynatrace Sales team to scope opportunities while assessing technical risks, questions, or concerns
+Be a mentor/coach for your fellow Dynatrace consultants
 
 
 
 
-We are committed to building an engaged and talented workforce that represents an environment that is inclusive, supports flexibility and welcomes diversity.
+Qualifications
 
 
 
 
-Our values of Dream Big, Win Together, Keep it Simple and Make it Happen are the foundation for fostering an environment where diversity of thinking, skills and experiences are embraced, delivering innovation and better business results.
+5+ years as a Solution Engineer or Architect (preferred) or Success Engineers or Post Sales Architects or Consultants with experience leading projects and/or working with customers and partners
+Strong technical background and relentless customer focus in Government and Commercial Sector
+Deep understanding of government agencies and its solution partner & delivery ecosystem (preferred)
+Experience with application performance management technologies and techniques
+Experience with new innovative technologies like Azure, AWS, Docker, OpenShift, Cloud Computing, Analytics solutions etc.
+Hands-on experience working with programming languages including Java, .NET, PHP, Node.js, Python, JavaScript frameworks including jQuery, React, Dojo, AngularJS etc.
+Experience with Java technology including Servlets, Struts, Spring, Web Services, EJB, JMS etc.
+Experience selling and working with SaaS solutions in multi-tenant architectures is preferred
 
 
 
 
-We value our team by offering
-
-Flexible hybrid working arrangement
-Generous parental leave program: 26 weeks salary for primary care giver and 4 weeks salary for secondary care giver
-Access to Reward+ program
-A day off for your birthday
-Wellness programs
-Coaching and career development support, including access to a range of online professional development courses
-Access to our Employee Assistance Program
-Global mobility policy
-Monthly fitness reimbursement
-Volunteer leave
-Work from home set up reimbursement
+Bonus Points:
 
 
 
 
-If you are looking for the next opportunity in your career and want to work for a certified “Great Place to Work” , growing tech company, then Apply Now.
+Deep understanding of Dynatrace or other accredited Observability tools etc
+Experience as a Software Engineer, DevOps Engineer, SRE and proficient in at least one programming language
+Experience with Statement of Work delivery
+Experience with Cloud Technologies, Data platforms, Agile and waterfall methodologies etc
+Hold a current Security Clearance or have the ability and willingness to obtain it
+Comprehensive understanding of cyber defence and service operations & delivery in large enterprises
+Experience as a technical writer or public speaker to large audiences (composed of DevOps engineers, operations, developers, release teams, architects, engineering leaders and other technical roles)
 
+
+
+
+Additional Information
+
+
+
+
+Dynatrace is a market share leader & a 12x magic quadrant leader
+Dynatrace invests more in R&D than some of our competitors’ total revenue, assuring market-leading customer value and quick adoption
+Dynatrace is trusted by over half of Fortune’s Top 10
+Dynatrace provides a culture of excellence with competitive compensation packages that recognize and reward greatness.
+Dynatrace gives you the chance to work with the largest of the Cloud players like AWS, Azure, VMware, and Google Cloud allowing our customers to have the best 3rd Generation Monitoring in the world. Not to mention we’re fully automated from the start, providing the most advanced solution leveraging our AI machine learning technology
+
+
+
+
+Discover more perks & benefits
+
+
+
+
+Growth opportunities - find out how Dynatrace supports your career development and personal growth journey: https://careers.dynatrace.com/grow-with-us/career-development/
+
+
+
+
+Flexible working - our flexible and trusting work environment fits your current life situation: https://careers.dynatrace.com/ways-of-work/
+
+
+
+
+Relocation Support - discover how we can support you if you wish to join us at one of our global locations: https://careers.dynatrace.com/relocation/
+Please review the Dynatrace privacy policy here: https://www.dynatrace.com/company/trust-center/policies/recruitment-privacy-notice
 Show more 
 Seniority level
-Mid-Senior level
+Entry level
 Employment type
 Full-time
 Job function
-Research, Analyst, and Information Technology
+Engineering and Information Technology
 Industries
-Telecommunications
+Software Development
   
 
-Referrals increase your chances of interviewing at ClickSend by 2x
-
-See who you know
-
-Get notified about new DevOps Engineer jobs in Australia.
-
-Sign in to create job alert
-Similar jobs
-Online Tutor
-Online Tutor
-Trivium Education
-India
-5 minutes ago
-GCP Engineer - Healthcare
-GCP Engineer - Healthcare
-RIIM
-New York, United States
-11 minutes ago
-Technische Mitarbeiter / Study Technician (m/w/d)
-Technische Mitarbeiter / Study Technician (m/w/d)
-Labcorp
-Petaling Jaya, Selangor, Malaysia
-1 minute ago
-Physician - CenterWell - Jacinto City, TX
-Physician - CenterWell - Jacinto City, TX
-CenterWell Senior Primary Care
-Houston, TX
-1 minute ago
-Gestionnaire Administration Des Ventes Front Office H/F
-Gestionnaire Administration Des Ventes Front Office H/F
-Capgemini Engineering
-Paris, Île-de-France, France
-12 minutes ago
-Operations Project Manager
-Operations Project Manager
-GCP
-Santiago Tianguistenco, México, Mexico
-2 minutes ago
-Show more jobs like this 
-People also viewed
-Virtual RAN Solutions Architect
-Virtual RAN Solutions Architect
-
-Intel Corporation
-
-Santa Clara, CA
-4 minutes ago
-Chefe de departamento comercial
-Chefe de departamento comercial
-
-Martin Baum Consulting
-
-São Paulo, São Paulo, Brazil
-16 minutes ago
-Pracownik Sklepu
-Pracownik Sklepu
-
-Action
-
-Zamość, Lubelskie, Poland
-1 minute ago
-Apprentice Business Developer
-Apprentice Business Developer
-
-Howdens
-
-Tansley, England, United Kingdom
-2 minutes ago
-Aviation Project Manager
-Aviation Project Manager
-
-Garver
-
-Tulsa, OK
-3 minutes ago
-IBM Benefits Advocate
-IBM Benefits Advocate
-
-IBM
-
-Raleigh, NC
-7 minutes ago
-Registered Nurse Home Health
-Registered Nurse Home Health
-
-CenterWell Senior Primary Care
-
-Omaha, NE
-1 minute ago
-Provider Contracting Executive
-Provider Contracting Executive
-
-Humana
-
-Brentwood, TN
-1 minute ago
-Project Manager Architecture EE H/F
-Project Manager Architecture EE H/F
-
-Capgemini Engineering
-
-Vélizy-Villacoublay, Île-de-France, France
-12 minutes ago
-Pracownik Sklepu
-Pracownik Sklepu
-
-Action
-
-Rawa Mazowiecka, Łódzkie, Poland
-1 minute ago
-Looking for a job?
-
-Visit the Career Advice Hub to see tips on interviewing and resume writing.
-
-View Career Advice Hub
-LinkedIn
-© 2023
-About
-Accessibility
-User Agreement
-Privacy Policy
-Cookie Policy
-Copyright Policy
-Brand Policy
-Guest Controls
-Community Guidelines
-Language

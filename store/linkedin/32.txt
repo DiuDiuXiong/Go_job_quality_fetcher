@@ -1,234 +1,91 @@
-Skip to main content
-LinkedIn
-Jobs
-Dismiss
-Dismiss
-Join now
-Sign in
-DevOps Engineer
-NCS Group  Melbourne, Victoria, Australia
-1 week ago  121 applicants
+
+Site Reliability Engineer
+Exabeam  Bangalore, New South Wales, Australia
+1 month ago   Over 200 applicants
   
-See who NCS Group has hired for this role
+See who Exabeam has hired for this role
 Apply
 Save
-
-Direct message the job poster from NCS Group
-
-Arianne Akber
-Senior Talent Acquisition Business Partner at NCS Group
-
-About us:
-
-At NCS Australia we bring together the best of the Dialog and NCS Groups to deliver impactful solutions to Australian Enterprise and Government organisations. For over 44 years the Dialog Group have been partnering with clients throughout their digital transformation journey across strategic IT consulting, full lifecycle application development, managed application services, quality assurance and operational support.
+Exabeam is a global cybersecurity leader that created New-Scale SIEM™ for advancing security operations. We help organizations detect threats, defend against cyberattacks, and defeat adversaries. The powerful combination of our cloud-scale security log management, behavioral analytics, and automated investigation experience results in an unprecedented advantage over insider threats, nation states, and other cyber criminals. We understand normal behavior, even as normal keeps changing — giving security operations teams a holistic view of incidents for faster, more complete response.
 
 
 
 
-As part of the NCS Group, we now have a broader reach across APAC and a complimentary set of products and services. For our people, it means further career development opportunities, diverse projects and exposure to new and emerging technology.
+Detect. Defend. Defeat.™ Learn how at www.exabeam.com.
 
 
 
 
-As a consultant engaging with our clients, you will:
-
-Work with key stakeholders to achieve world’s best practice processes in major projects
-Work on a wide variety of interesting and challenging assignments
-Work with colleagues in partnership with clients who are committed to achieving their business objectives
-Enjoy a working environment in which effort, creativity and a positive attitude are highly valued
-Have extensive training opportunities through the NCS Academy, which offers a wide range of ICT and Business skills courses
-Work with likeminded colleagues who share information and focus on the goal, driving the project and their careers further and faster
+Exabeam is looking for Site Reliability Engineer to join our Cloud Engineering team to take on the critical responsibility to deploy, manage, and grow a cloud native next-generation, massively scalable security information platforms.
 
 
 
 
-About the role:
-
-We require a Senior DevOps Engineer to join our professional consulting team. We are seeking a person who will bring previous enterprise environment experience as a DevOps engineer, and who has a focus on great delivery outcomes.
+Exabeam is the leader in user and entity behavior analytics. We deliver a complete Security Intelligence Platform that enables customers to easily collect all of their security-relevant data, to accurately detect complex threats, and to effectively respond to security incidents. We have built the best threat detection solution in the market to detect in real time advanced attacks using Big Data, machine learning, and security expertise.
 
 
 
 
-Key Responsibilities:
-
-Report on costs, performance, failures, controls, Feature Toggles, analytics and observability
-Manage cloud and configs, with a good knowledge and experience of Cloud technologies
-Manage and template config tools such as Launch Darkly, Snyk, ServiceNow, etc.
-Integrate and automate tooling and systems to improve efficiency
-Assist teams in integrating tools into pipelines. Looks after developer productivity dashboards, performance, feature toggles and observability. Responsible for the integration and automation of tooling and systems and helps teams get all the tools integrated into pipelines.
+Responsibilities
 
 
 
 
-About you:
-
-Platform Engineering experience (Software Engineering/AppSecurity Engineering/DevOps/SRE/Observability)
-Programming skills: Python, Java, C#, TypeScript, and JavaScript, Yml, helm
-Experience with virtualization technologies such as Docker and virtual machines, as well as cloud platforms like AWS and Azure.
-Dynamic Configuration Management tools and Integration Experience (ServiceNow, Ansible, Score, LaunchDarkly, Kafka, Confluent, Snyk, SonarQube, Jmeter, New Relic, Splunk. etc) GitOps, ChatOps, OPA, Deployment Gating and Release Management Automation
-Scripting and shell scripting: Bash, PowerShell, and Python scripting.
-Proven ability to work effectively with development and operations teams to align processes and implement automation solutions.
-Understanding of security best practices and experience implementing security measures, such as network segmentation, access control, and encryption.
+You will be responsible for all infrastructure aspects of our new cloud native, microservice based security platform. The platform is fully multi-tenant, runs on Kubernetes, and uses the latest cloud native CNCF technologies (istio, envoy, nats, fluentd, jaeger, prometheus, etc.)
+You will be part of an SRE team that will provide high quality SLA operating a global solution running in multiple regions
+You will build tools and frameworks to help developers writing applications on the platform to be more efficient and to hide infrastructure details from them
+You will create automation and utilities to simplify the operation and monitoring of the service. This service deals with big data and it’s being designed to handle many TB of machine generated data per day from a large number of customers
+You will be involved in platform design discussion with all development teams to provide the infrastructure insight and manage the proper technology and business tradeoffs
+You will closely work together with our global engineering teams and help shape the future of Cybersecurity.
 
 
 
 
-Why join us:
-
-At the NCS Group, you'll be part of a team invested in your growth. You'll have access to our leading learning and development program, be mentored by some of the industry's best and have a worldwide network of career opportunities.
+Requirements
 
 
 
 
-Other important stuff:
-
-We value our people and the communities we serve; being different, diverse and inclusive is important to us. We're also committed to Equal Employment Opportunity Principles and providing reasonable accommodations to all of our applicants. If you need a modification or special assistance to navigate our website or complete your application, please send an email with your request to arianne.akber@au.ncs-i.com.
-
-
-
-
-If you'd like to be part of the future of the NCS Group Australia, please click “Apply” now.
-
-
+A strong passion for SRE/DevOps and running highly resilient/automated systems
+Deep working experience on at least one public cloud (GCP/AWS) and open source software like Kubernetes, Prometheus, Istio, etc
+Ideally strong experience with Kubernetes and related CNCF technologies and frameworks
+Experience deploying large scale distributed systems and performance, reliability, scalability issues that arise in such systems
+Experience maintaining top level SLA when operating such complex systems
+Ability to work productively with the rest of the development team
+A desire to solve challenging problems
+Bachelor’s Degree in computer science or equivalent experience
 
 
-To be considered, applicants must have full work rights for Australia and be willing to undergo comprehensive background checks, including probity and police checks.
 
+
+Why Exabeam:
+
+
+
+
+Medical Insurance starts from Day 1
+50k Maternity Coverage
+Generous PTO and Monthly Thank You Days
+Hybrid-friendly environment
+Culture Building Initiatives
+
+
+
+
+Exabeam is privately funded by Blue Owl Capital, Lightspeed Venture Partners, Cisco Investments, Norwest Venture Partners, Acrew Capital, Icon Ventures, and investor Shlomo Kramer. For more information visit https://www.exabeam.com or follow us on LinkedIn and Twitter. Looking for more? Check our reviews on Glassdoor.
+
+
+
+
+In connection with your application and communications with Exabeam, we will have access to some of your personal information. We have technical and organizational measures in place to ensure this information is protected. For more information about how we use and/or protect your personal information, including the categories of information collected, categories of use, and purpose of use, is available on our Privacy Policy at https://www.exabeam.com/legal/privacy-policy/.
 Show more 
 Seniority level
-Mid-Senior level
+Entry level
 Employment type
 Full-time
 Job function
-Marketing and Sales
+Engineering and Information Technology
 Industries
-IT Services and IT Consulting
+Software Development
   
 
-Referrals increase your chances of interviewing at NCS Group by 2x
-
-See who you know
-
-Get notified about new DevOps Engineer jobs in Melbourne, Victoria, Australia.
-
-Sign in to create job alert
-Similar jobs
-DevOps Engineer
-DevOps Engineer
-Ampstek
-Melbourne, Victoria, Australia
-1 day ago
-DevOps Engineer
-DevOps Engineer
-Renaissance InfoSystems
-Melbourne, Victoria, Australia
-2 days ago
-DevOps Engineer
-DevOps Engineer
-Collabera Digital
-Melbourne, Victoria, Australia
-2 days ago
-DevOps Engineer
-DevOps Engineer
-The Access Group
-Melbourne, Victoria, Australia
-3 weeks ago
-*DevOps Engineer*
-*DevOps Engineer*
-Accenture Australia
-Melbourne, Victoria, Australia
-1 week ago
-DevOps Engineer
-DevOps Engineer
-Talent
-Melbourne, Victoria, Australia
-1 week ago
-Show more jobs like this 
-People also viewed
-Junior DevOps Engineer
-Junior DevOps Engineer
-
-TransPerfect
-
-Melbourne, Victoria, Australia
-2 weeks ago
-AWS DevOps Engineer
-AWS DevOps Engineer
-
-Robert Half
-
-Melbourne, Victoria, Australia
-3 weeks ago
-Senior DevOps Engineer
-Senior DevOps Engineer
-
-Bunnings
-
-Melbourne, Victoria, Australia
-2 weeks ago
-Platform Technology DevOps - Engineer - TAG
-Platform Technology DevOps - Engineer - TAG
-
-WEX
-
-Melbourne, Victoria, Australia
-13 hours ago
-Oracle Cloud DevOps Engineer
-Oracle Cloud DevOps Engineer
-
-HCLTech
-
-Melbourne, Victoria, Australia
-1 week ago
-Senior Engineer - Cloud & DevOps
-Senior Engineer - Cloud & DevOps
-
-LAB3
-
-Melbourne, Victoria, Australia
-1 day ago
-Engineer
-Engineer
-
-QinetiQ Australia
-
-Melbourne, Victoria, Australia
-4 days ago
-DevOps Engineer
-DevOps Engineer
-
-Ampstek
-
-Melbourne, Victoria, Australia
-2 days ago
-DevOps Engineer
-DevOps Engineer
-
-Accenture Australia
-
-Melbourne, Victoria, Australia
-2 weeks ago
-DevOps Engineer
-DevOps Engineer
-
-Opus Recruitment Solutions
-
-Melbourne, Victoria, Australia
-3 days ago
-Looking for a job?
-
-Visit the Career Advice Hub to see tips on interviewing and resume writing.
-
-View Career Advice Hub
-LinkedIn
-© 2023
-About
-Accessibility
-User Agreement
-Privacy Policy
-Cookie Policy
-Copyright Policy
-Brand Policy
-Guest Controls
-Community Guidelines
-Language

@@ -1,298 +1,144 @@
-Skip to main content
-LinkedIn
-Jobs
-Dismiss
-Dismiss
-Join now
-Sign in
-Mid/Senior DevOps Engineer
-Workforce Australia for Individuals  Barangaroo, New South Wales, Australia
-1 week ago   Be among the first 25 applicants
+
+Site Reliability / Gitops Engineer
+Canonical  Sydney, New South Wales, Australia
+2 days ago   Be among the first 25 applicants
   
-See who Workforce Australia for Individuals has hired for this role
+See who Canonical has hired for this role
 Apply
 Save
-At Invoice2go, we put you in control to run your business your way. Positioned in the small business and freelancer segment, Invoice2go is an all-in-one tool that strives to simplify the administrative side of running a business with cutting-edge technology. With over 220,000 customers across 160 countries, we enable our clients to win more work, send invoices in seconds, get paid faster and grow their online presence.
+This role is an opportunity for a hands-on, but literally hands-off, technologist with a passion for Linux to build a career with Canonical and drive the success with those leveraging Ubuntu and open source products. If you have experience of IT operations automation, Infrastructure as Code and a passion for technology, then you will enjoy working with some of the best people in the industry at Canonical.
 
 
 
 
-Invoice2go is owned by Bill.com - a leader of cloud based software that simplifies, digitises and automates back-office financial processes for small and mid size companies. Over 85% of the top 100 US Accounting firms use Bill.com, and our software integrates with other products such as Quickbooks, Xero and Oracle Net Suite amongst others.
+Job Summary
 
 
 
 
-How You’ll Make a Difference
+The IS team at Canonical supports and maintains all of Canonical's IT production services. The team is in charge of running services used by over 60 million Ubuntu users.
 
 
 
 
-We are looking for a Senior DevOps Engineer who is committed to taking on juicy technical challenges to help us grow to a massive scale. You will join a passionate SRE team to build and support a robust and highly-scalable cloud infrastructure while seeking opportunities to continuously improve developer experience and optimise our processes through automation. You will identify, plan and implement the tools that allow engineers to release features quickly, frequently and confidently. Resilience and availability are a cornerstone of every change you make, and you know how to build secure systems. Above all you’ll love working in a creative, supportive team environment whilst having access to the latest tools and technologies.
+As an SRE & Gitops engineer you'll be in a unique position to drive operations automation to the next level, both in our own private clouds as well as in the public clouds. We do this by utilizing the best of open source infrastructure as code software, software development practices such as CI/CD pipelines, and Canonical's leading products for software operation automation.
 
 
 
 
-We’d be excited if you have the below experience:
+In addition to defining the infrastructure as code, you will improve Canonical products and the open-source technologies they're based on by providing critical feedback to developers on how their products operate at scale. This is done by submitting bugs (and sometimes writing pull requests) and collaborating on design and implementations with other teams within the company.
 
 
 
 
-Proficient at building and maintaining scalable and reliable cloud-based infrastructure supporting hundreds of thousands of monthly active users;
+You'll be part of a global team of SREs that work together and support each other to provide the best possible services to our company, Canonical's customers and the Ubuntu Community.
 
 
 
 
-Experience as a DevOps Engineer working with AWS primitives;
+As a Site Reliability / Gitops Engineer engineer you will
 
 
 
 
-Experience with Kubernetes and Docker containers;
+Apply your experience of IaC to develop infrastructure as code practice within IS by constantly increasing automation and improving IaC processes
+Automate software operations for re-usability and consistency across private and public clouds, taking into consideration the complexities of distributed systems
+Develop new features and improve the resilience and scalability of the existing cloud and container portfolio at Canonical
+Maintain operational responsibility for all of Canonical's core services, networks, and infrastructure
+Develop skills in troubleshooting, capacity planning, and performance investigation, Setting up, maintaining and using observability tools such as Prometheus, Grafana, and Elasticsearch; design, implement and maintain monitoring and alerting for various systems and services
+Collaborate with development teams to design service architecture, documentation, playbooks, policies and operational procedures
+Provide assistance and work with globally distributed engineering, operations, and support peers
+Be given uninterrupted development time to focus on larger projects and automation of manual tasks
+Share your experience, know-how and best practices with other team members in design sessions, mentorship and 'doing work together'
+Carry final responsibility for time-critical escalations
 
 
 
 
-Experience with software development practices and technologies (ie. design, implementation and deployment of applications in any modern language);
+What we are looking for in you
 
 
 
 
-Experience creating automated solutions with a major scripting language such as Shell or Python
+A deep experience of, and knowledge to define operations in code, using version control, peer review and CI/CD to roll out changes both to applications and infrastructure
+Strong modern engineering background (peer-review, unit testing, SCM, CI/CD, Agile)
+Python software development experience, with large projects
+Practical knowledge of Linux networking, routing, and firewalls
+Affinity with various forms of Linux storage, from Ceph to Databases
+Hands-on experience administering enterprise Linux servers
+Extensive knowledge of cloud computing concepts and technologies
+Bachelor's degree or greater, preferably in computer science or related engineering field
+Able to communicate clearly and effectively in English over email, chat, video or voice calls and in-person
+Motivated and able to troubleshoot from kernel to web, and willing to ask others when appropriate
+A willingness to be flexible and able to learn new things quickly
+Be inspired by the needs of fast-changing environments
+Happy to work within distributed teams
+Be passionate and familiarized about open-source, especially Ubuntu or Debian
 
 
 
 
-Experience managing Linux Systems;
+What we offer you
 
 
 
 
-CI/CD pipeline tool experience (e.g. GitLab, ArgoCD, etc);
+Your base pay will depend on various factors including your geographical location, level of experience, knowledge and skills. In addition to the benefits above, certain roles are also eligible for additional benefits and rewards including annual bonuses and sales incentives based on revenue or utilization. Our compensation philosophy is to ensure equity right across our global workforce.
 
 
 
 
-Architecture as code (eg. Terraform, Cloud Formation, etc..); and
+In addition to a competitive base pay, we provide all team members with additional benefits, which reflect our values and ideals. Please note that additional benefits may apply depending on the work location and, for more information on these, you can ask in the later stages of the recruitment process.
 
 
 
 
-A good understanding of networking concepts and internet protocols.
+Fully remote working environment - we've been working remotely since 2004!
+Personal learning and development budget of 2,000USD per annum
+Annual compensation review
+Recognition rewards
+Annual holiday leave
+Parental Leave
+Employee Assistance Programme
+Opportunity to travel to new locations to meet colleagues at 'sprints'
+Priority Pass for travel and travel upgrades for long haul company events
 
 
 
 
-Although we’d be excited if you have the above experience, it’s definitely not a show-stopper. If you are excited about this role but not sure if you meet all of the criteria, please still apply as we’d love to hear from you!
+About Canonical
 
 
 
 
-Our Perks And Culture
+Canonical is a pioneering tech firm that is at the forefront of the global move to open source. As the company that publishes Ubuntu, one of the most important open source projects and the platform for AI, IoT and the cloud, we are changing the world on a daily basis. We recruit on a global basis and set a very high standard for people joining the company. We expect excellence - in order to succeed, we need to be the best at what we do.
 
 
 
 
-It’s not just our rapid growth that makes us exciting - our perks and our amazIng culture is also a reason why people join and stay!
+Canonical has been a remote-first company since its inception in 2004. Work at Canonical is a step into the future, and will challenge you to think differently, work smarter, learn new skills, and raise your game. Canonical provides a unique window into the world of 21st-century digital business.
 
 
 
 
-Examples Of Our Perks Include
+Canonical is an equal opportunity employer
 
 
 
 
-Work from home support, with a $450 USD allowance to set up your workstation when you first join;
+We are proud to foster a workplace free from discrimination. Diversity of experience, perspectives, and background create a better work environment and better products. Whatever your identity, we will give your application fair consideration.
 
 
 
 
-Generous restricted stock units;
-
-
-
-
-$100 USD per month to spend as you wish on a Divvy Credit Card;
-
-
-
-
-$1000 Learning and Development allowance; and
-
-
-
-
-Wellness perks including free Calm Premium subscriptions, virtual wellness sessions and employee assistance programs.
-
-
-
-
-With a 4.6 rating on Glassdoor, you’re treated like an adult - have the flexibility to decide when you want to come into the office (if at all!) and how you work your core hours. But most importantly, we like to have fun - with regular team events both online and in person, get to know your team on a personal level and relish the sense of community we have here!
-
-
-
-
-Bill.com Culture
-
-
-
-
-Humble – No ego
-
-
-
-
-Fun – Celebrate the moments
-
-
-
-
-Authentic – We are who we are
-
-
-
-
-Passionate – Love what you do
-
-
-
-
-Dedicated – To each other and the customer
 Show more 
 Seniority level
-Mid-Senior level
+Entry level
 Employment type
 Full-time
 Job function
 Engineering and Information Technology
 Industries
-Government Administration
+Technology, Information and Internet
   
 
-Referrals increase your chances of interviewing at Workforce Australia for Individuals by 2x
-
-See who you know
-
-Get notified about new DevOps Engineer jobs in Barangaroo, New South Wales, Australia.
-
-Sign in to create job alert
-Similar jobs
-Senior DevOps Engineer
-Senior DevOps Engineer
-Service NSW
-Sydney, New South Wales, Australia
-1 day ago
-Senior DevOps Engineer
-Senior DevOps Engineer
-TheDriveGroup.
-Sydney, New South Wales, Australia
-1 week ago
-Senior DevOps Engineer
-Senior DevOps Engineer
-Qcells North America
-Sydney, New South Wales, Australia
-2 weeks ago
-Senior DevOps Engineer
-Senior DevOps Engineer
-Airwallex
-Sydney, New South Wales, Australia
-2 weeks ago
-Senior DevOps Engineer
-Senior DevOps Engineer
-tekFinder
-Sydney, New South Wales, Australia
-2 weeks ago
-Senior DevOps Engineer
-Senior DevOps Engineer
-Shine Solutions Group
-Sydney, New South Wales, Australia
-4 days ago
-Show more jobs like this 
-People also viewed
-DevOps Engineer
-DevOps Engineer
-
-Fractal
-
-Sydney, New South Wales, Australia
-1 month ago
-DevOps Engineer
-DevOps Engineer
-
-illion
-
-Sydney, New South Wales, Australia
-1 month ago
-DevOps Engineer
-DevOps Engineer
-
-Horizon Consulting
-
-Sydney, New South Wales, Australia
-1 week ago
-DevOps Engineer
-DevOps Engineer
-
-harrison.ai
-
-Sydney, New South Wales, Australia
-3 weeks ago
-DevOps Engineer
-DevOps Engineer
-
-Lanson Partners
-
-Sydney, New South Wales, Australia
-4 days ago
-DevOps Engineer
-DevOps Engineer
-
-Discovered People
-
-Sydney, New South Wales, Australia
-2 days ago
-DevOps Engineer
-DevOps Engineer
-
-5B
-
-Mascot, New South Wales, Australia
-3 weeks ago
-DevOps Engineer
-DevOps Engineer
-
-swipejobs
-
-North Sydney, New South Wales, Australia
-2 weeks ago
-Principal DevOps Engineer
-Principal DevOps Engineer
-
-Nearmap
-
-Barangaroo, New South Wales, Australia
-3 days ago
-Senior DevOps Engineer
-Senior DevOps Engineer
-
-Macquarie Group
-
-Sydney, New South Wales, Australia
-1 week ago
-Looking for a job?
-
-Visit the Career Advice Hub to see tips on interviewing and resume writing.
-
-View Career Advice Hub
-LinkedIn
-© 2023
-About
-Accessibility
-User Agreement
-Privacy Policy
-Cookie Policy
-Copyright Policy
-Brand Policy
-Guest Controls
-Community Guidelines
-Language

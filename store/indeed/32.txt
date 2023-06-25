@@ -1,98 +1,137 @@
-Skip to main content
-Find jobs
-Company reviews
-Search Salary
-Upload your resume
-Sign in
-Employers / Post Job
-Start of main content
-What
-Where
-Find Jobs
-Site Reliability Engineer - Australia
-Reveal-Brainspace
-Sydney NSW
-Full-time
+Network Engineer - SKA-Low Telescope
+CSIRO
+Perth WA
+$105,806 - $114,500 a year - Full-time, Part-time
 You must create an Indeed account before continuing to the company website to apply
 Apply on company site
 Job details
 No matching job preferences
+Salary
+$105,806 - $114,500 a year
 Job Type
 Full-time
+Part-time
+Acknowledgement of Country
 
-Job Description
+CSIRO acknowledges the Traditional Owners of the land, sea and waters, of the area that we live and work on across Australia. We acknowledge their continuing connection to their culture and pay our respects to their Elders past and present. View our vision towards reconciliation
 
-Position: Site Reliability Engineer
+Child Safety
 
-Reports to: Director, Software Development
+CSIRO is committed to the safety and wellbeing of all children and young people involved in our activities and programs. View our Child Safe Policy.
 
-Location: Sydney Australia
+The Opportunity
 
-
-Job Overview
-
-Join an innovative and fast-paced team-building software and infrastructure that allows litigation professionals to filter millions of documents down to those most essential to their case using advanced techniques and artificial intelligence. You’ll be managing and developing infrastructure that addresses complex challenges such as data visualization, machine learning, distributed systems, large databases, and large-scale data processing.
-
-We are primarily looking for engineers to help us develop our SaaS infrastructure capabilities. This person will assist us in building the next generation of our multi-tenant, scalable infrastructure. If you don’t know it “all,” you won’t be alone! We are seeking generalists that can bring experience and diverse knowledge to our team, not just hyper-focused specialists. Our hiring staff is not focused on playing “technology experience bingo,” but we want to find the best complements for our team.
-
-As far as the process itself, we don’t want to check the boxes to be able to say that we have the most (or even the snazziest) features. Rather, we are thoughtful about our design and focused on ensuring that our clients have software that is both useful and useable. You won’t be buried in a dark corner – you’ll have the opportunity to actively shape the software and architecture while working as an integral part of a dynamic team of individuals who are focused on learning every day and having a lot of fun.
-
-To be successful, you should be able to contribute to all phases of the architecture lifecycle, including specification, design, implementation, and maintenance. You must be willing to learn about the e-discovery industry and quickly integrate new technologies into your repertoire.
-
-Responsibilities & Duties
-Ensuring the reliability, availability, and performance of systems and services by implementing monitoring, incident response, and post-incident analysis (Blameless Retrospective).
-Collaborating with development and operations teams to design, implement, and maintain scalable infrastructure and services that meet performance and capacity requirements.
-Developing and maintaining automation tools, scripts, and frameworks to streamline operational tasks, deployment processes, and monitoring systems.
-Responding to and resolving incidents, performing root cause analysis, and implementing preventive measures to minimize the impact of future incidents.
-Setting up and maintaining monitoring and alerting systems to detect and respond to performance issues, anomalies, and service disruptions.
-Identifying performance bottlenecks, conducting performance tests, and implementing optimizations to improve system performance and efficiency.
-Analyzing usage patterns, forecasting resource requirements, and collaborating with teams to ensure adequate capacity for current and future needs.
-Implementing and maintaining security measures, vulnerability management, and compliance requirements to protect systems and data.
-Collaborating with cross-functional teams, including developers, operations, and other stakeholders, to promote a culture of reliability and effective communication.
-Creating and maintaining documentation, runbooks, and knowledge base articles to ensure the availability of up-to-date information for troubleshooting and incident response.
-Identifying areas for improvement, post-incident reviews, and driving initiatives to enhance system reliability, performance, and operational efficiency.
-Characteristics
-As a SRE, you will play a crucial role in ensuring the reliability and availability of our systems and services. Your technical expertise and problem-solving skills will be essential in maintaining and improving our infrastructure and applications.
-Our team is composed of highly skilled individuals who are passionate about their work and committed to achieving our goals. We believe in collaboration, knowledge sharing, and continuous improvement, and we expect our team culture to be welcoming and supportive.
-Good writing and communication skills.
-An instinctive understanding of networking and fundamental computer science concepts with a focus on Infrastructure As Code (IAC).
-An eagerness to learn, explore and introduce new technologies.
-Driven to build modern systems that are scalable, flexible, and elastic.
-Experience & Education
-4-10 years of experience with infrastructure automation on a DevOps/ DevSecOps/SRE Team.
-BS or MS in Computer Science or equivalent coursework.
-Experience with container templatization/orchestration frameworks such as Docker, Kubernetes, Helm, ArgoCD, etc.
-Experience with CI/CD tools such as GitHub Actions.
-Experience maintaining and developing production Infrastructure as Code deployments, primarily using Terraform.
-Experience in a scripting language, preferably Python, but PowerShell or Bash also works. Experience with Linux and Windows architectures.
-Experience working with AWS.
-Experience deploying and maintaining Kubernetes clusters.
-Experience with version control systems like Git.
+The SKA Observatory (SKAO) is a next-generation radio astronomy facility that will revolutionise our understanding of the Universe and the laws of fundamental physics. Enabled by cutting-edge technology, it promises to have a major impact on society, in science and beyond.
 
 
-This job description reflects the present requirements of the position. As duties and responsibilities change and develop, the job description will be reviewed and subject to amendment.
 
-Hiring Policy
 
-This job description reflects the present requirements of the position. As duties and responsibilities change and develop, the job description will be reviewed and subject to amendment.
+In Australia, the SKAO is collaborating with CSIRO to operate and support the construction of the low frequency telescope (SKA-Low) in remote Western Australia on Wajarri Yamaji Country.
 
-Reveal is an equal-opportunity employer. We celebrate diversity and are committed to creating an inclusive environment for all employees. Reveal does not discriminate in employment on the basis of race, color, religion, sex (including pregnancy and gender identity), national origin, political affiliation, sexual orientation, marital status, disability, genetic information, age, membership in an employee organization, retaliation, parental status, military service, or other non-merit factor.
 
-Report job
-Hiring Lab
-Career Advice
-Browse Jobs
-Browse Companies
-Salaries
-Indeed Events
-Work at Indeed
-Countries
-About
-Help Centre
-ESG at Indeed
-© 2023 Indeed
-Accessibility at Indeed
-Privacy Centre
-Cookies
-Privacy
-Terms
+
+
+The Traditional Owners and native title holders, the Wajarri Yamaji, have gifted CSIRO with the traditional name Inyarrimanha Ilgari Bundara for the CSIRO Murchison Radio-astronomy Observatory, home to the SKA-Low telescope. The traditional name means ‘sharing sky and stars' in the Wajarri language.
+
+
+
+
+The SKA-Low Network Engineer will be responsible for the deployment, configuration, and support of the networking infrastructure of the SKA-Low Telescope and the Engineering Operations Centre (EOC) in Geraldton. This position will work alongside the SKAO’s Network Architect, Computing Infrastructure Lead, other domain specialists, project managers and system engineers to ensure the networks for the SKA-Low Telescope are fit for purpose, providing the quality needed for a system that will have to last, and be continually developed, for decades.
+
+
+
+
+We currently have two Network Engineer positions available with one in Perth and one in Geraldton, Western Australia.
+
+Your duties will include:
+Work with the stakeholders to continually refine the network requirements for the SKA Telescopes to ensure they meet the system requirements in an appropriate and cost-effective manner.
+Assist in the deployment, configuration, and support of networking infrastructure for the SKA-Low Telescope deployed at the Observatory site and the Engineering Operations Centre (EOC) in Geraldton.
+Be an integral member of the international SKAO Networking team, and actively contributing to on-going design network design activities.
+Be involved in the initial population of tools for asset management and engineering management as equipment arrives during construction.
+Be responsible for preparing documentation and training materials for future installation work during ongoing operations, and documenting lessons learned as the construction phase progresses.
+Provide feedback on 'as built' details for the installation due to practical changes & issues arising during construction.
+
+
+
+Location: Geraldton or Perth, Western Australia
+
+Salary: AU$105,806 - AU$114,500 plus up to 15.4% superannuation
+
+Tenure: Indefinite - Full-time, Part-time or Job-Share
+
+Reference: 92880
+
+
+
+
+CSIRO is an Equal Opportunity employer working hard to recruit world-class talent that represents the diversity across our society. As part of our commitment to equitable employment outcomes for under-represented groups, preference will be given to Aboriginal and Torres Strait Islander people and women who meet the role criteria. CSIRO conscious inclusion practices are intended to constitute a special/equal opportunity/affirmative measure under section 8(1) of the Racial Discrimination Act 1975 (Cth) and section 7D of the Sex Discrimination Act 1984 (Cth).
+
+To be considered you will need:
+
+Essential
+
+Qualified to degree level in a relevant subject or an equivalent level of experience and expertise.
+Demonstrated experience in installation, optimisation and maintenance of network and security devices and services.
+Ability to assure compliance with SKAO security policies and applicable legislation and regulation.
+Knowledge in the design of network systems at enterprise-level, datacentres, or large distributed systems with understanding of new and emerging networking and security technologies.
+Ability to communicate effectively with a wide range of stakeholders including gathering and distilling information and tailoring it appropriately for the target audience.
+Experience working in a diverse and collaborative team environment across multiple locations.
+
+
+
+Desirable
+
+Knowledge and understanding of:
+Long-haul networking technologies
+Software-defined networking systems
+Zero-trust networking principles
+System information and event management (SIEM) systems and syslog tools
+High-Performance Computing (HPC) environments
+Cisco Certifications/Qualifications such as CCNA or higher
+Knowledge and/or background with IT Service Management disciplines and Frameworks such as ITIL and/or Site Reliability Engineering (SRE)
+Experience in the procurement, management, and delivery of network contracts in a complex, high value environment.
+
+
+
+For full details about this role please review the Position Description
+
+Eligibility
+
+Applications for this position are open to Australian/New Zealand Citizens and Australian Permanent Residents. Appointment to this role is subject to provision of a national police check and may be subject to other security/medical/character requirements.
+
+Flexible Working Arrangements
+
+We work flexibly at CSIRO, offering a range of options for how, when and where you work.
+
+Diversity and Inclusion
+
+We are working hard to recruit people representing the diversity across our society, and ensure that all our people feel supported to do their best work and feel empowered to let their ideas flourish.
+
+About CSIRO
+
+At CSIRO Australia's national science agency, we solve the greatest challenges through innovative science and technology. We put the safety and wellbeing of our people above all else and earn trust everywhere because we only deal in facts. We collaborate widely and generously and deliver solutions with real impact.
+
+
+
+
+CSIRO is committed to values-based leadership to inspire performance and unlock the potential of our people.
+
+
+
+
+CSIRO is committed to the safety and wellbeing of all children and young people involved in our activities and programs, whether we are undertaking research, engaging with the public or nurturing future scientists in person or online. Source – CSIRO Child Safe policy 2023
+
+
+
+
+
+Join us and start creating tomorrow today!
+
+How to Apply
+
+Please apply on-line and provide a cover letter and CV that best demonstrate your motivation and ability to meet the requirements of this role.
+
+Applications Close
+
+25 June 2023, 11:59pm AWST
+

@@ -1,192 +1,51 @@
-Skip to main content
-LinkedIn
-Jobs
-Dismiss
-Dismiss
-Join now
-Sign in
-Site Reliability Engineer - ANZPlus
-ANZ  Melbourne, Victoria, Australia
-2 days ago  25 applicants
+
+Site Reliability Engineer-Cloud Infrastructure
+TikTok  Sydney, New South Wales, Australia
+3 days ago   Be among the first 25 applicants
   
-See who ANZ has hired for this role
+See who TikTok has hired for this role
 Apply
 Save
-About The Role
+Responsibilities
 
-At ANZ our purpose is to shape a world where people and communities thrive. We’re making this happen by improving our customers’ financial wellbeing so they can achieve incredible things – be it buying their home, building a business or saving for things big or small.
+TikTok is the leading destination for short-form mobile video. Our mission is to inspire creativity and bring joy. TikTok has global offices including Los Angeles, New York, London, Paris, Berlin, Dubai, Singapore, Jakarta, Seoul and Tokyo.
 
-What Will Your Day Look Like
+Why Join Us
+At TikTok, our people are humble, intelligent, compassionate and creative. We create to inspire - for you, for us, and for more than 1 billion users on our platform. We lead with curiosity and aim for the highest, never shying away from taking calculated risks and embracing ambiguity as it comes. Here, the opportunities are limitless for those who dare to pursue bold ideas that exist just beyond the boundary of possibility. Join us and make impact happen with a career at TikTok.
 
-As a Site Reliability Engineer within the ANZx SRE squad, you will be instrumental in building and shaping our SRE function, who will be responsible for building and running the cloud platforms for one of Australia's largest financial institutions.
+Team Introduction
+The team is responsible for infrastructure systems, including Storage/Computing/DB. We aim to be the leading SRE team across the industry. In the SRE team, you will have the opportunity to manage the complex challenges of scale, while using expertise in coding, algorithms, complexity analysis, and large-scale system design. We embrace a culture of diversity, intellectual curiosity, openness, and problem-solving. We also encourage ownership, self-governance and independence to work on various projects, and an environment that provides the support and mentorship needed to learn and grow as an engineer.
 
-We're doing things differently for the cloud. You will apply SRE principles to ensure we monitor and measure what is important, you will automate our platforms and services for reliable operations at scale, including automation of our security and governance controls.
+Responsibilities
+- Reliability: Ensuring the reliability and efficiency of our core infrastructure, focusing on system capacity and stability; setting up reliability standards and recovery SOP.
+- Reliability: Troubleshooting and locating technical issues, bottleneck analysis, managing system high availability architecture transformation and upgrading.
+- Efficiency: Building automated operation solutions for large-scale systems; partnering with system development teams for system iteration.
+- Efficiency: Designing and implementing software platforms and monitoring frameworks for efficient, automated, and intelligent service-oriented architecture (SOA) governance.
+- Cost: There are millions of CPUs. We should build delivery standards, and monitor and budget systems to optimize the cost of the company.
+- Compliance: Designing and setting up new IDC; designing and implementing a data protection plan to meet the standard requirement.
 
-We use many of the latest and greatest open source tools, so you will need to be comfortable with constantly learning new tools and techniques along with running proof of concept evaluations to keep us on the leading edge.
+Qualifications
 
-We will turn to you for suggestions on how to improve the platforms, processes and tools. We expect that you already have great ideas you can share at our cloud guilds & user groups, along with industry Meetups.
+Requirements
+- Bachelor's / Master's Degree in Computer Science or related major, with at least 3 years of relevant experience;
+- Solid basic knowledge of computer software, understanding of Linux operating system, storage, network IO and other related principles.
+- Familiar with one or more programming languages, such as Python, Go, and Java. Knowledge of design patterns and coding principles is necessary.
 
-What will you bring?
+Preference will be given to those who have one of the following:
+- Experience with storage, and relevant system experience with the following: KV, Table, Graph, Redis, MySQL, MongoDB, MQ, and Kafka.
+- Experience with computing & big data, and system experience with the following: Kubernetes, Docker/Containers, AIops, Spark, Flink, Function as a service, RPC Framework, and Service Mesh.
 
-We are looking for an engineer that already possess some of the following skills:
+TikTok is committed to creating an inclusive space where employees are valued for their skills, experiences, and unique perspectives. Our platform connects people from across the globe and so does our workplace. At TikTok, our mission is to inspire creativity and bring joy. To achieve that goal, we are committed to celebrating our diverse voices and to creating an environment that reflects the many communities we reach. We are passionate about this and hope you are too.
 
-Comfortable coding in one or more languages (bash, JavaScript, Golang, Python, Powershell etc), and you use these skills to automate as much as possible
-Ability to design and implement cloud security, availability and reliability best practices
-Solid skills in IP networking
-Proficient with Docker, Kubernetes/OpenShift
-Experience implementing Infrastructure as code via eg Terraform/Cloudformation, along with continuous integration/delivery tooling such as Bitbucket/GitHub, Google Cloud Build/Bamboo/Jenkins, Spinnaker, etc.
-Experience working with operations and architecture groups developing scalable and supportable solutions
-Experience with Logging tools such as Stack Driver and Splunk
-Experience in Alerting and Visualisation tools such as Grafana and Slack
-experience with Application monitoring and assisted tooling such as New Relic and Dynatrace
-
-
-So, why join us?
-
-We’re reinventing the way we do banking, and our community of collaborative, innovative thinkers who create human centred solutions are helping us get there. We’re responding faster to changing customer requirements, focusing on the things that matter and helping people achieve incredible things – be it buying their home, building a business or saving for things big or small.
-
-We support our people by providing a range of flexible working options so they can work in the way that best suits them. We encourage you to talk to us about your need for flexibility and any adjustments you may require to our recruitment process or the role itself.
-
-Develop your career, work in a diverse and inclusive workplace where the different backgrounds, perspectives and life experiences of our people are celebrated and create a great place to grow, thrive and belong.
-
-Interested in joining us? Click Apply now, or visit www.anz.com/careers to find out more or view other opportunities.
-
-
+In the spirit of reconciliation, TikTok acknowledges the Traditional Custodians of country throughout Australia and their connections to land, sea and community. We pay our respect to their Elders past and present and extend that respect to all Aboriginal and Torres Strait Islander peoples today.
 Show more 
 Seniority level
 Not Applicable
 Employment type
 Full-time
 Job function
-Engineering and Information Technology
+Research, Information Technology, and Engineering
 Industries
-Banking, Financial Services, and Accounting
+Entertainment Providers
   
 
-Referrals increase your chances of interviewing at ANZ by 2x
-
-See who you know
-
-Get notified about new Site Reliability Engineer jobs in Melbourne, Victoria, Australia.
-
-Sign in to create job alert
-Similar jobs
-Site Reliability Engineer I
-Site Reliability Engineer I
-Apptio
-Melbourne, Victoria, Australia
-2 days ago
-Site Reliability Engineer
-Site Reliability Engineer
-Aeon Media Group Ltd
-Melbourne, Victoria, Australia
-2 weeks ago
-Site Reliability Engineer
-Site Reliability Engineer
-Datacom
-Melbourne, Victoria, Australia
-1 week ago
-Senior Site Reliability Engineer
-Senior Site Reliability Engineer
-CMD Solutions
-Melbourne, Victoria, Australia
-2 weeks ago
-Senior Site Reliability Engineer
-Senior Site Reliability Engineer
-Macquarie Group
-Melbourne, Victoria, Australia
-2 weeks ago
-Senior Site Reliability Engineer
-Senior Site Reliability Engineer
-Oracle
-Melbourne, Victoria, Australia
-3 days ago
-Show more jobs like this 
-People also viewed
-DevOps Engineer
-DevOps Engineer
-
-illion
-
-Melbourne, Victoria, Australia
-1 month ago
-DevOps Engineer
-DevOps Engineer
-
-Talent
-
-Melbourne, Victoria, Australia
-1 week ago
-DevOps Engineer
-DevOps Engineer
-
-Bizessence Pty Ltd
-
-Melbourne, Victoria, Australia
-4 days ago
-*AWS DevOps Engineer*
-*AWS DevOps Engineer*
-
-Accenture Australia
-
-Melbourne, Victoria, Australia
-3 days ago
-DevOps Engineer
-DevOps Engineer
-
-Collabera Digital
-
-Melbourne, Victoria, Australia
-2 days ago
-AWS Cloud Engineer
-AWS Cloud Engineer
-
-Opteon AUS & NZ
-
-Melbourne, Victoria, Australia
-2 weeks ago
-Azure DevOps Engineer
-Azure DevOps Engineer
-
-Arq Group
-
-Melbourne, Victoria, Australia
-5 hours ago
-DevOps Engineer (Melbourne / Sydney)
-DevOps Engineer (Melbourne / Sydney)
-
-Blunomy
-
-Melbourne, Victoria, Australia
-1 month ago
-DevOps Engineer
-DevOps Engineer
-
-Deloitte
-
-Melbourne, Victoria, Australia
-1 week ago
-Parallo Azure DevOps Engineer
-Parallo Azure DevOps Engineer
-
-Parallo
-
-Melbourne, Victoria, Australia
-5 days ago
-Looking for a job?
-
-Visit the Career Advice Hub to see tips on interviewing and resume writing.
-
-View Career Advice Hub
-LinkedIn
-© 2023
-About
-Accessibility
-User Agreement
-Privacy Policy
-Cookie Policy
-Copyright Policy
-Brand Policy
-Guest Controls
-Community Guidelines
-Language

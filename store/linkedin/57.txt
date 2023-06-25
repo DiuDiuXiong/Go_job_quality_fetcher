@@ -1,304 +1,86 @@
-Skip to main content
-LinkedIn
-Jobs
-Dismiss
-Dismiss
-Join now
-Sign in
-Staff Observability Engineer (SRE) - open to remote across ANZ
-Canva  Sydney, New South Wales, Australia
-1 week ago  130 applicants
+
+ENGINEERING - Site Reliability Engineer - Sydney
+Macquarie Group  Sydney, New South Wales, Australia
+2 weeks ago   Be among the first 25 applicants
   
-See who Canva has hired for this role
+See who Macquarie Group has hired for this role
 Apply
 Save
-Join The Team Redefining How The World Experiences Design.
+Sydney
 
+Join a high performing SRE Engineering team supporting our Commodities and Global Markets business group and work with a multitude of technology teams and business stakeholders to solve problems and deliver fit-for-purpose solutions.
 
+At Macquarie, we are working to create lasting value for our communities, our clients and our people. We are a global financial services group operating in 34 markets and with 54 years of unbroken profitability. You’ll be part of a supportive team where everyone - no matter what role - contributes ideas and drive outcomes.
 
+What role will you play?
 
-Hey, g'day, mabuhay, kia ora,你好, hallo, vítejte!
+You will be responsible for building out, automating, and supporting our critical systems. You will combine problem solving skills with software and systems engineering to take a proactive approach in building fault-tolerant systems, improving observability/monitoring/alerting capabilities, automating tasks and build tools.
 
+In the SRE team you will have the opportunity to impact the Commodities and Global Markets division within Macquarie front to back, building relationships with a motivated and agile global technology community.
 
+What You Offer
 
+3+ years of experience in Unix/Linux and Bash
+3+ Software development experience using Python, Java, C++ or similar
+Experience with Git, CI/CD tooling (e.g. Jenkins)
+Hands on experience with Cloud technologies (e.g. AWS, GCP, etc.)
+Knowledge of good software design and application architectural practices
 
-Thanks for stopping by. We know job hunting can be a little time consuming and you're probably keen to find out what's on offer, so we'll get straight to the point.
+We love hearing from anyone inspired to build a better future with us, if you're excited about the role or working at Macquarie we encourage you to apply.
 
+Benefits
 
+Hybrid and flexible working arrangements
+Wellbeing and service bonus leave
+Up to 20 weeks paid parental leave as well as benefits to support you as you transition to life as a working parent
+Paid volunteer leave and donation matching
+Range of benefits to support your physical, psychological and financial wellbeing
 
+About The Corporate Operations Group
 
-Where And How You Can Work
+The Corporate Operations Group brings together specialist support services in Digital Transformation & Data, Technology, Operations, Human Resources, Business Services, Business Improvement & Strategy, and the Macquarie Group Foundation. We deliver service excellence to ensure Macquarie is open for business, deliver on transformational change, invest in our people and have deep relationships with our customers.
 
+Our commitment to Diversity and Inclusion
 
+The diversity of our people is one of our greatest strengths, and in combination with our inclusive environment, it enables us to deliver innovative and sustainable outcomes for our people, clients, shareholders and communities. From day one, you'll be encouraged to be yourself and supported to perform at your best. If our purpose of ‘empowering people to innovate and invest for a better future’ is as inspiring to you as it is to us, please apply. With the right technology, support and resources, our people can work in a range of flexible ways.
 
+We are committed to providing a working environment that embraces and values diversity and inclusion. We encourage candidates to speak with a member of our recruitment team if you require adjustments to our recruitment process to support you, and the type of working arrangements that would help you thrive.
 
-Our flagship campus is in Sydney. We also have a campus in Melbourne and co-working spaces in Brisbane, Perth and Adelaide. But you have choice in where and how you work. That means if you want to do your thing in the office (if you're near one), at home or a bit of both, it's up to you.
+About Macquarie
 
+A career at Macquarie means you’ll have the opportunity to develop and utilise new skills, explore interesting fields and do challenging work that will impact the lives of people around the world—whether it’s accelerating the green energy transition, helping sustain global food supplies, financing social housing projects or investing in essential infrastructure. At Macquarie, we’re empowering people to innovate and invest for a better future.
 
+Our size and international presence means your work can take you anywhere—across business groups, disciplines, sectors and borders. With 19,200+ employees and offices in 34 markets around the world, we’re a truly global organisation.
 
+You’ll be supported by a diverse team where the unique perspectives, ideas and experiences that all of our people bring are valued. You’ll be empowered to address unmet needs in our communities whilst advising and investing alongside our clients and partners. Working with us, you’ll have the opportunity to make a difference.
 
-What You’d Be Doing In This Role
+Macquarie is a global financial group providing clients with asset management, retail and business banking, wealth management, leasing and asset financing, market access, commodity trading, renewables development, specialist advisory, capital raising and principal investment.
 
+Find out more at www.macquarie.com/careers
 
+Job no: COG-961153
 
+Work type: Permanent - Full time
 
-As Canva scales change continues to be part of our DNA. But we like to think that's all part of the fun. So this will give you the flavour of the type of things you'll be working on when you start, but this will likely evolve.
+Location: Sydney
 
+Category: Technology
 
+Group: Corporate Operations Group
 
+Division: Technology
 
-The Observability Team is responsible for all operational insights inside Canva. Our goal is to provide our development team with world-class tools to view how their services are performing in production. We achieve this by combining industry-leading third-party solutions with our own in-house developed solutions.
+Recruiter: Michael Macalua
 
-
-
-
-We work across the entire stack maintaining our metrics and logging Java libraries, our logging and metrics infrastructure, error and alert routing, and our incident management process to name just a few. As we scale all of these areas require more sophisticated solutions to ensure that Canva developers can continue to grow without compromising on reliability or availability.
-
-
-
-
-What You'll Do (Responsibilities)
-
-
-
-
-As a technical lead, you will guide the design and implementation of some of our major projects like scaling our Logging, Metrics and Tracing tooling.
-Help identify gaps in Observability tooling at Canva and help take it to the next level.
-Be proactive in modernising our Observability tooling and participate in brainstorming and POC’ing to determine how we can improve our existing systems
-Become an authority in the area of Observability and evangelise the benefits of accurate instrumentation throughout the organisation
-Help build new features into our Logging and Alerting pipelines to ensure that people are getting notifications for errors that are related to their domains
-Help develop solutions to tackle difficult problems such as how to deal with high-cardinality metrics which we can’t solve with our existing tooling
-Guide and mentor other people on the team and help them grow their skills and knowledge
-
-
-
-
-Required Skills & Experience
-
-
-
-
-Comfortable and happy to code in Python, Java or Golang
-Deep knowledge and understanding of Computer Engineering fundamentals and first principles
-Experience building and running monitoring infrastructure at a large scale. For example, Terabyte-scale Elasticsearch clusters, Prometheus, Kibana, Grafana, etc
-Experience working with and monitoring microservice architectures in large distributed cloud environments (ideally AWS).
-Experience with Observability tooling – having proficiency with tools like Datadog, Elasticsearch, Kibana, Loggly, Sentry, or similar
-Experience with infrastructure-as-code, we’re a Terraform shop, but strong experience with other IaC tools will do the trick
-The ability to guide and mentor other members within the team and improve the way we collaborate, learn, and share ideas
-This role requires a lot of documentation and internal team members alignment; therefore strong written and verbal communication skills are required
-
-
-
-
-Not essential; but helpful experience!
-
-
-
-
-Experience writing application code in Java since we also maintain the metrics, tracing and logging java libraries.
-Experience building and running monitoring infrastructure on a large scale. For example, Terabyte-scale Elasticsearch clusters, Prometheus, Kibana, Grafana, etc
-Experience with OpenTelemetry or writing code in Golang since we are adopting OpenTelemetry in a lot of the tooling we provide.
-
-
-
-
-Perks And Benefits
-
-
-
-
-Competitive salary, plus stock options via our ESOP plan
-Flexible daily working hours, we value work-life balance
-Breakfast and lunch prepared by our wonderful Vibe team
-Onsite-Gym and Yoga Membership
-End-of-Trip Facilities: Bicycle parking and showers
-Generous parental (including secondary) leave policy
-Pet-friendly offices
-Internal Coaches and an Employee Wellness Program
-Sponsored social clubs, team events, and celebrations
-Relocation budget for interstate or overseas individuals (including visa sponsorship)
-
-
-
-
-What's in it for you?
-
-
-
-
-Achieving our crazy big goals motivates us to work hard - and we do - but you'll experience lots of moments of magic, connectivity and fun woven throughout life at Canva, too. We also offer a stack of benefits to set you up for every success in and outside of work.
-
-
-
-
-Here's a Taste Of What's On Offer
-
-
-
-
-Equity packages - we want our success to be yours too
-Inclusive parental leave policy that supports all parents & carers
-An annual Vibe & Thrive allowance to support your wellbeing, social connection, office setup & more
-Flexible leave options that empower you to be a force for good, take time to recharge and supports you personally
-
-
-
-
-Check out lifeatcanva.com for more info.
-
-
-
-
-Other Stuff To Know
-
-
-
-
-We make hiring decisions based on your experience, skills and passion, as well as how you can enhance Canva and our culture. When you apply, please tell us the pronouns you use and any reasonable adjustments you may need during the interview process.
-
-
-
-
-Please note that interviews are conducted virtually.
-
-
-
-
+Opening Date: 24/5/2023
 Show more 
 Seniority level
-Mid-Senior level
+Not Applicable
 Employment type
 Full-time
 Job function
 Engineering and Information Technology
 Industries
-Software Development
+Banking, Financial Services, and Investment Banking
   
 
-Referrals increase your chances of interviewing at Canva by 2x
-
-See who you know
-
-Get notified about new Site Reliability Engineer jobs in Sydney, New South Wales, Australia.
-
-Sign in to create job alert
-Similar jobs
-Senior Observability Engineer
-Senior Observability Engineer
-Optus
-Macquarie Park, New South Wales, Australia
-1 week ago
-Systems Engineer Team Lead
-Systems Engineer Team Lead
-Freelancer.com
-Sydney, New South Wales, Australia
-5 days ago
-Lead Engineer
-Lead Engineer
-Bendigo and Adelaide Bank
-Greater Sydney Area
-1 week ago
-ILS Engineer
-ILS Engineer
-Thales
-Sydney, New South Wales, Australia
-2 days ago
-Senior Remedial Engineer
-Senior Remedial Engineer
-ACOR Consultants Pty Ltd
-Millers Point, New South Wales, Australia
-2 weeks ago
-Senior Engineer - AEM
-Senior Engineer - AEM
-Insignia Financial
-Sydney, New South Wales, Australia
-1 day ago
-Show more jobs like this 
-People also viewed
-Senior Engineer
-Senior Engineer
-
-Westpac
-
-Sydney, New South Wales, Australia
-1 week ago
-SRE Lead
-SRE Lead
-
-PropertyMe
-
-Sydney, New South Wales, Australia
-2 days ago
-Senior Devops Engineer Delivery Tooling
-Senior Devops Engineer Delivery Tooling
-
-Optus
-
-Macquarie Park, New South Wales, Australia
-3 days ago
-Senior Design Engineer
-Senior Design Engineer
-
-Sydney Trains
-
-Auburn, New South Wales, Australia
-1 day ago
-Senior Engineer - Connections
-Senior Engineer - Connections
-
-Australian Energy Market Operator (AEMO)
-
-Sydney, New South Wales, Australia
-2 days ago
-PowerBI engineer
-PowerBI engineer
-
-Macquarie Group
-
-Sydney, New South Wales, Australia
-5 hours ago
-Senior DevOps Engineer (Remote)
-Senior DevOps Engineer (Remote)
-
-DuckDuckGo
-
-Sydney, New South Wales, Australia
-2 weeks ago
-ILS Engineer
-ILS Engineer
-
-Thales
-
-Sydney, New South Wales, Australia
-1 week ago
-Staff Software Engineer
-Staff Software Engineer
-
-Rokt
-
-Sydney, New South Wales, Australia
-1 day ago
-Project Engineer
-Project Engineer
-
-Open Systems International
-
-Sydney, New South Wales, Australia
-3 days ago
-Looking for a job?
-
-Visit the Career Advice Hub to see tips on interviewing and resume writing.
-
-View Career Advice Hub
-LinkedIn
-© 2023
-About
-Accessibility
-User Agreement
-Privacy Policy
-Cookie Policy
-Copyright Policy
-Brand Policy
-Guest Controls
-Community Guidelines
-Language

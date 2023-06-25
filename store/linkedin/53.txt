@@ -1,232 +1,78 @@
-Skip to main content
-LinkedIn
-Jobs
-Dismiss
-Dismiss
-Join now
-Sign in
-Site Reliability Engineer - SRE Engineer
-Macquarie Group  Melbourne, Victoria, Australia
-2 days ago   Be among the first 25 applicants
+
+Senior Site Reliability Engineer
+Feedzai  Sydney, New South Wales, Australia
+1 week ago   Be among the first 25 applicants
   
-See who Macquarie Group has hired for this role
+See who Feedzai has hired for this role
 Apply
 Save
-Melbourne, Sydney
+Feedzai is the world’s first RiskOps platform for financial risk management, and the market leader in safeguarding global commerce with today’s most advanced cloud-based risk management platform, powered by machine learning and artificial intelligence. Feedzai is securing the transition to a cashless world while enabling digital trust in every transaction and payment type. The world’s largest banks, processors, and retailers trust Feedzai to protect trillions of dollars and manage risk while improving the customer experience for everyday users, without compromising privacy. Feedzai is a Series D company and has raised $282M to date. With a valuation of +$1.5B, the company's technology protects 900 million people in 190 countries.
 
-We're seeking a Site Reliability Engineer with a passion for software reliability. We aim to provide the most reliable products and service in financial industry.
+With Cloud at its core, the Engineering (Tech) Team is responsible for all Feedzai product development. Together with Product Management and Data Science, we build the next generation of tools to catch fraud in real-time with a machine learning first approach. Formed by engineers and managed by engineers, at Feedzai, you will find one of the most talented teams out there, from junior to senior engineers.
 
-In this role you will be responsible for:
+We are fast-paced and provide a safe, open, and collaborative environment that encourages us to lean in, try new things and discover our potential with continuous learning for everyone.
 
-Application of Observability principles within our infrastructure, environments and software
-Application of best practice SLI’s, SLO’s, metrics, and error budgets
-Develop and implement comprehensive monitoring, logging and alerting technologies
-Establish and implement strategies for canary releases, feature toggling and rollback back practices
-Collaboration with feature teams to ensure reliability practices are integrated into development
-Implement continuous learning through blameless postmortems
-Participate in improving incident management and application of best practices.
-Establishing Release Engineering best practices
-Developing reliability software patterns and practices (e.g. circuit breaker, retry etc).
-Help achieve the goal of ‘push on green’ for deployments
+While building the best value for our customers, you will work with a wide range of technical challenges. Such as building distributed systems that need to operate 24/7 and ultra-low latencies, solving UI/UX problems to help fraud analysts to fight fraud more efficiently. In addition, designing extensive databases from relational, NoSQL and graphs, validate and develop new data science techniques and algorithms.
 
-Skills required:
+You
 
-Strong experience in software engineering
-Strong experience in SLO, metrics, logging, and tracing
-Proven record of accomplishment in automating toil
-Excellent understanding of modern software development practices, tools and technologies
-A passion for getting things done, balancing short- and long-term needs
-Influencing software engineers on reliability
-Influence and technical leadership capabilities to drive change in environments, manage stakeholders and get alignment cross functionally
-Strong DevOps fundamentals with preference for Java, Golang, Microservices and other cloud technologies
+Feedzai SRE team is responsible for the overall cloud platform architecture that supports the cloud services provided to our customers. As part of this team you'll work with other Site Reliability Engineers with a deep understanding of Feedzai cloud products and environments in developing the automation, tooling, and platforms that support Feedzai cloud service, and by doing so, contributing to faster and more agile product delivery.
 
-What is in it for you:
+Your Day To Day
 
-This is an opportunity to play a pivotal role in shaping Engineering for Macquarie Bank
-Enjoy the satisfaction of making a difference and being part of a team that drives positive change in the bank and the industry
-Be part of a forward-thinking organisation that embraces new technologies and modern engineering practices
-Be part of a team that deeply values diversity and creates space for you to be your best, in a modern & inclusive environment with a strong focus on employee experience
-Being hands-on with the latest cloud technologies including Google Cloud to tackle interesting banking and finance problems
-Ongoing professional development and free technical certification
+Build and maintain tools for deployment, monitoring, operations, and analytics;
+Provide support on cloud-ops ownership services, production monitoring, deployments, and maintenance of infrastructure.
+Develop and execute regional plan to migrate regional environments to the Next Gen architecture
+Take ownership of all customer environments in the region
+Own and automate/improve Service Catalog in the region
+Own and execute the improvement roadmap;
+Participate in incident response, root cause investigation, and resolution;
+Maintain and develop our infrastructure as code (IaC) to manage and operate end-to-end lifecycle operations (monitoring, alerting, security, cost optimization, configuration, backup, etc.) in production environments;
+Utilize your experience and problem-solving skills to help prevent and investigate production issues;
+Communicate with team members, stakeholders and customers in a globally distributed and asynchronous environment;
 
-About The Corporate Operations Group
+You Have & You Know-How
 
-The Corporate Operations Group brings together specialist support services in Digital Transformation & Data, Technology, Operations, Human Resources, Business Services, Corporate Strategy & Solutions, and the Macquarie Group Foundation. We deliver service excellence to ensure Macquarie is open for business, deliver on transformational change, invest in our people and have deep relationships with our customers.
+A bachelor's degree in Computer Science, Information Systems, or the equivalent combination of education, experience, and training that provides the required knowledge, skills, and abilities;
+5+ years of experience with AWS or Azure;
+Experience with Automation, Infrastructure-as-Code, Terraform, Ansible, Runbooks and Troubleshooting guides;
+Experience with Virtualization, Container Technologies and Orchestration (Docker, Kubernetes);
+Programming skills (Go, Python, or similar languages);
+Experience with CI/CD pipelines; Experience with monitoring, troubleshooting and guiding on incidents;
+Self-driven & motivated, with a strong work ethic and a passion for problem-solving;
+Experience working for an anti-financial crime ML driven software company - mandatory
 
-Our commitment to Diversity, Equity and Inclusio
+Preferred Qualifications And Skills
 
-About The Corporate Operations Group
+Excellent communication skills both written and verbal;
+Kubernetes, Cloud, and Hashicorp certifications or equivalent are valued;
+Experience with GCP is a plus;
 
-The Corporate Operations Group brings together specialist support services in Digital Transformation & Data, Technology, Operations, Human Resources, Business Services, Corporate Strategy & Solutions, and the Macquarie Group Foundation. We deliver service excellence to ensure Macquarie is open for business, deliver on transformational change, invest in our people and have deep relationships with our customers.
+The Product Team builds our product to disrupt the financial crime industry from a data-led approach. We partner with our clients using a holistic lens and have result-driven solutions to manage financial risk with a cloud-first platform and a world-class UX interface. Being part of this team, you have a voice in planning, strategizing, and challenging the status quo. Your thoughts and ideas are valued. Our fast-paced and open environment encourages us to lean in, try new things, and discover our potential. We define and act on what could be in tomorrow's world, not on what is today. Join Us!
 
-Our commitment to Diversity, Equity and Inclusion
+Your First 30-Days At Feedzai
 
-The diversity of our people is one of our greatest strengths. An inclusive and equitable environment enables us to deliver innovative and sustainable outcomes for our people, clients, shareholders and communities. From day one, you'll be encouraged to be yourself and supported to perform at your best. If our purpose of ‘empowering people to innovate and invest for a better future’ is as inspiring to you as it is to us, please apply. With the right technology, support and resources, our people can work in a range of flexible ways.
+You will be immersed in our brand with training, connections, and one-on-one time with your manager. You may shadow your colleagues virtually or onsite at an office depending on where you work as you are supported through your Feedzai journey. In addition, you will have access to a ton of information to give you history, context, and all the knowledge you can handle about Feedzai and the team. Finally, you will start working on projects and collaborating on work currently being done. We can't wait to have you join the team!
 
-We are committed to providing a working environment that embraces and values diversity, equity and inclusion. We encourage candidates to speak with a member of our recruitment team if you require adjustments to our recruitment process to support you, and the type of working arrangements that would help you thrive.
+Life at Feedzai Instagram
 
-About Macquarie
+Feedzai Culture
 
-A career at Macquarie means you’ll have the opportunity to develop and utilise new skills, explore interesting fields and do challenging work that will impact the lives of people around the world—whether it’s accelerating the green energy transition, helping sustain global food supplies, financing social housing projects or investing in essential infrastructure. At Macquarie, we’re empowering people to innovate and invest for a better future.
+Feedzai is an Equal Opportunity Employer and we value diversity at our company. We do not discriminate on the basis of race, religion, color, national origin, gender, sexual orientation, age, marital status, veteran status, or disability status.
 
-Our size and international presence means your work can take you anywhere—across business groups, disciplines, sectors and borders. With 19,200+ employees and offices in 34 markets around the world, we’re a truly global organisation.
+Feedzai does not accept unsolicited resumes from recruiters or employment agencies.
 
-You’ll be supported by a diverse team where the unique perspectives, ideas and experiences that all of our people bring are valued. You’ll be empowered to address unmet needs in our communities whilst advising and investing alongside our clients and partners. Working with us, you’ll have the opportunity to make a difference.
+Feedzai will use the personal data you provide us with by filling out this form for reviewing your application and to potentially negotiate a contract with you. Your personal data will be retained by Feedzai for 24 months following your application. Please see our Privacy Notice available at https://feedzai.com/about-us/privacy/ for more information on how we process your personal data.
 
-Macquarie is a global financial group providing clients with asset management, retail and business banking, wealth management, leasing and asset financing, market access, commodity trading, renewables development, specialist advisory, capital raising and principal investment.
 
-Find out more at www.macquarie.com/careers
-
-Job no: COG-972681
-
-Work type: Permanent - Full time
-
-Location: Melbourne, Sydney
-
-Category: Senior, Technology
-
-Group: Corporate Operations Group
-
-Division: Technology
-
-Recruiter: Mimi Huynh
-
-Opening Date: 30/5/2023
 Show more 
 Seniority level
-Not Applicable
+Mid-Senior level
 Employment type
 Full-time
 Job function
-Engineering and Information Technology
+Analyst, Information Technology, and Engineering
 Industries
-Banking, Financial Services, and Investment Banking
+IT Services and IT Consulting, Software Development, and Financial Services
   
 
-Referrals increase your chances of interviewing at Macquarie Group by 2x
-
-See who you know
-
-Get notified about new Site Reliability Engineer jobs in Melbourne, Victoria, Australia.
-
-Sign in to create job alert
-Similar jobs
-Site Reliability Engineer I
-Site Reliability Engineer I
-Apptio
-Melbourne, Victoria, Australia
-2 days ago
-Site Reliability Engineer
-Site Reliability Engineer
-Datacom
-Melbourne, Victoria, Australia
-1 week ago
-Site Reliability Engineer
-Site Reliability Engineer
-Aeon Media Group Ltd
-Melbourne, Victoria, Australia
-2 weeks ago
-DevOps Engineer / SRE (Site Reliability Engineer)
-DevOps Engineer / SRE (Site Reliability Engineer)
-Capgemini
-Melbourne, Victoria, Australia
-5 days ago
-Senior Site Reliability Engineer
-Senior Site Reliability Engineer
-CMD Solutions
-Melbourne, Victoria, Australia
-2 weeks ago
-Senior Site Reliability Engineer
-Senior Site Reliability Engineer
-Oracle
-Melbourne, Victoria, Australia
-3 days ago
-Show more jobs like this 
-People also viewed
-DevOps Engineer
-DevOps Engineer
-
-Bizessence Pty Ltd
-
-Melbourne, Victoria, Australia
-4 days ago
-Software Engineer (Full or Part Time)
-Software Engineer (Full or Part Time)
-
-Bendigo and Adelaide Bank
-
-Melbourne, Victoria, Australia
-1 week ago
-DevOps Engineer
-DevOps Engineer
-
-Collabera Digital
-
-Melbourne, Victoria, Australia
-2 days ago
-Sitecore engineer
-Sitecore engineer
-
-eJAmerica
-
-Melbourne, Victoria, Australia
-1 day ago
-Senior Analytics Application Engineer (Backend Engineer/ Full stack Engineer/ Generative AI)
-Senior Analytics Application Engineer (Backend Engineer/ Full stack Engineer/ Generative AI)
-
-Bain & Company
-
-Melbourne, Victoria, Australia
-1 week ago
-DevOps Engineer
-DevOps Engineer
-
-Randstad Australia
-
-Melbourne, Victoria, Australia
-2 weeks ago
-Senior Cloud Engineer
-Senior Cloud Engineer
-
-Arq Group
-
-Melbourne, Victoria, Australia
-2 weeks ago
-DevOps Engineer
-DevOps Engineer
-
-Deloitte
-
-Melbourne, Victoria, Australia
-1 week ago
-AWS Cloud Engineer
-AWS Cloud Engineer
-
-Opteon AUS & NZ
-
-Melbourne, Victoria, Australia
-2 weeks ago
-Senior Cloud Engineer
-Senior Cloud Engineer
-
-CPA Australia
-
-Melbourne, Victoria, Australia
-1 week ago
-Looking for a job?
-
-Visit the Career Advice Hub to see tips on interviewing and resume writing.
-
-View Career Advice Hub
-LinkedIn
-© 2023
-About
-Accessibility
-User Agreement
-Privacy Policy
-Cookie Policy
-Copyright Policy
-Brand Policy
-Guest Controls
-Community Guidelines
-Language

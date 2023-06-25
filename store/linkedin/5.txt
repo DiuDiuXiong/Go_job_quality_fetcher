@@ -1,278 +1,135 @@
-Skip to main content
-LinkedIn
-Jobs
-Dismiss
-Dismiss
-Join now
-Sign in
-SRE Manager
-Alation  Bangalore, New South Wales, Australia
-2 weeks ago   Over 200 applicants
+
+DevOps Engineer
+ANZ  Docklands, Victoria, Australia
+1 day ago   Be among the first 25 applicants
   
-See who Alation has hired for this role
+See who ANZ has hired for this role
 Apply
 Save
-Due to its remote and hybrid culture, Alation conducts all of its interviewing and onboarding virtually.
+About The Role
 
 
 
 
-Big Data isn’t a problem. It’s an opportunity.
+Role location: Docklands VIC 3008
 
 
 
 
-At Alation, we help people find, understand, and trust data. So they not only excel in their work — they drive value for their enterprise, team, and role. In the words of one customer, “Alation makes me look like a rockstar.”
+Role Type: Permanent full-time
 
 
 
 
-We help companies like Pfizer and Salesforce empower their people with the best data every day. As a platform for innovation, Alation helps customers create game-changing solutions (like a program for early-stage disease detection with Pfizer) and connect people to great data in less time (like Salesforce, whose analysts can now find data 35% faster). And we’re just getting started.
+Team: Digital Sales Experience
 
 
 
 
-With more than $340M in funding - valued at over $1.7 billion and 450+ customers with household names - Alation is poised to capitalize on data as an opportunity. Headquartered in Silicon Valley, Alation was named to Inc. Magazine’s Best Workplaces list for the third time, and our exceptional Glassdoor rating (4.7 out of 5!) reflects a culture that makes coming to work each day a joy. Do you want to join a team that welcomes new ideas, supports your growth, and recognizes your unique value?
+We’ve changed the way we run the Australia business, adopted a new way of working and introduced design thinking approaches so we can build a better ANZ for our customers today and in the future.
 
 
 
 
-Join us!
+Working within the Digital Sales Experience Tribe, you will be joining a team who are passionate about attracting & activating customers through Digital Channels, as well as defining and developing sales & engagement strategies across all channels. 
 
 
 
 
-Our Site Reliability Engineering team plays a significant role in delivering on the promise of a great cloud SaaS experience to our customers. We do this by influencing design and operational decisions towards the overall stability of the Alation Cloud Service.
+From a customer perspective, we want to ensure our customers can easily find, learn about, buy and activate our products & services digitally.
 
 
 
 
-We expect our SREs to have opinions on the state of our network, what we are doing right, and what can be improved. As an SRE manager, you will provide technical leadership and be able to influence decisions about the S/W engineering process as well as provide leadership in and Operational processes. In this leadership role you will be influencing the outcome of Service Delivery and S/W automation engineering.
+Adapt and evolve DevOps and SRE practice to build Faster , Better , Smarter platforms in order to support fast changing business functions and improve our service reliability for our customer.
 
 
 
 
-What You'll Do
+What Will Your Day Look Like
 
 
 
 
-Build and manage a team of engineers across many time zones who work to analyze and maintain service stability by documenting policies in a 24/7/365 operation.
-Own the day-to-day health, uptime and reliability of all networks, servers, storage, and ancillary infrastructure to fulfill the mission of unyielding site stewardship.
-Establish standard operating procedures, change management policies and ensure execution of standards.
-Drive quality accountability within the organization with well-defined processes, metrics, and goals for process quality. This includes leading effective postmortems and ensuring actions are followed-up.
-Manage availability, latency, scalability and efficiency of Alation applications development by instilling engineering reliability into our development life cycle with a focus on fault tolerant approaches.
-Work closely with Project Management, Operational and Engineering peers to develop innovative technical solutions that meet Alation’s needs with respect to functionality, performance, scalability, and reliability.
-Develop reports and feedback to inform technical solutions that meet design needs.
-Participate in on-call and identify issues and drive them to resolution and conduct blameless RCA.
-Engage and improve the SDLC of services from design to operation.
-Provide project management, sprint planning and road mapping support to the SRE Team.
-Define and measure SLA/SLO/KPIs and ensure the production run-state meets the set goals.
+Advocate for automation and use code to solve manual tasks
+Use engineering mindset and skillset to resolve repetitive tasks/processes
+Build CI/CD pipelines and manage Cloud infrastructure
+Contribute system architectural design driven by system reliability and security
+Manage, monitor, measure and maintain availability and health of our infrastructure and platform including VM, Cloud
+Proven analytical skills and data-driven decision maker
+Great communication skill required to liaise with stakeholders
 
 
 
 
-You May Be a Perfect Fit If You Have
+What will you bring?
 
 
 
 
-7+ years of experience in SRE, DevOps, Support and/or Cloud engineering, with minimum 3 years in a Technical Lead role.
-BS or MS in Computer Science or related field.
-Proven experience managing an operations organization in a 24/7 global infrastructure as well as a record of individual technical achievements.
-Strong understanding of DevOps/Agile methodologies and agile/scrum best practices.
-Thorough understanding of Engineering/Software development best practices (SDLC) and why they are important.
-Experience in allocating/assigning resources to meet OKRs, mentoring and teaching employees and hiring excellent people.
-Excellent hands-on knowledge of configuration management tools such as Puppet, Chef or Salt.
-Strong programming and scripting fundamentals – Python, Go, Java, Terraform, Shell or equivalent.
-Production level experience with application monitoring of real-time alerting and centralized logging systems.
-Strong understanding of SaaS stateful and stateless applications. Experience in continuous integration, continuous delivery and continuous deployment tools.
-Excellent project management skills and the ability to work in a fast-paced work environment.
-Capable of technical deep dives into code, networking, systems, and storage with very experienced engineers.
-Demonstrated experience in network and large-scale Linux system troubleshooting and maintenance practices.
-Demonstrated experience with one or more Cloud providers (AWS, Azure, Google).
-Strong understanding of containerization and Kubernetes orchestration.
-Excellent time management and organizational skills.
-Maintain excellent written and verbal communications with clients, employees, and management chain, including status reports, project plans, presentations, etc.
-The successful candidate will possess an outstanding record of professional experience and will thrive in an environment that demands accountability. He/She must possess significant technology management and product development experience. He/She must also have strong planning, organizational, communication skills.
+Understand Containerisation (Docker) and Container management Platforms (Kubernetes, OpenShift, GKE etc.)
+Experience in Python, Shell, and at least one of the main stream programming language. We currently use Golang, Java, NodeJS.
+Experience with virtualisation and cloud technologies, infrastructure as code or
 
 
 
 
-More About Alation
+other infrastructure automation technologies. We currently use TerraForm for systems in GCP, AWS.
 
 
 
 
-Our founders have come together from different backgrounds: business, engineering, and design. This unique mix from our founding team is important to the Alation culture story. Today, our team consists of creators and communicators with varied backgrounds - from Stanford, to the Indian Institute of Technology, big companies and one-person startups, the United States, and abroad. We continue to seek ever more diverse perspectives as we grow.
+Experience in application development and understand the development methodologies
+Experience in building CI/CD pipeline using various tools. We currently use Codefresh, Jenkins.
+Experience in implementing monitoring and alerting tools. We currently use NewRelic, Splunk.
+Understand micro-service architecture and distributed system as a bonus
 
 
 
 
-We are an equal opportunity employer and value diversity at our company. We do not discriminate on
+We’re making ANZ a great place for our people to grow. You’ll learn and innovate, because underpinning everything we do is a Growth Mindset. We’ll challenge you to become an industry-leading engineer, while supporting you in a friendly work environment.
 
 
 
 
-the basis of race, name, religion, color, national origin, gender identity and expression, sexual orientation, age, marital status, veteran status, or disability status.
+So, why join us?
 
 
 
 
-Why Alation?
+At ANZ, everything we do boils down to ‘why’ – our purpose – to shape a world where people and communities thrive. We're focused on seeing our people thrive just as well as our customers. We'll give you every opportunity to develop your career. We are responding faster to changing customer requirements, focusing on the things that matter most, energising our people, eliminating waste and reducing bureaucracy. A happy workplace is a thriving one. So in order to attract and keep the best talent, and say thanks for the hard work, we make sure all our employees are rewarded.
 
 
 
 
-Market-Leading Data Catalog Provider
-High-growth, collaborative environment with diverse and inclusive teams
-Continuous learning, enrichment and development opportunities
-Competitive pay and health offerings including commuter benefits
-Flexible time off to relax and recharge
+We work flexibly at ANZ and encourage you to talk to us about how this role can be flexible for you and any adjustments you may require to our recruitment process or the role itself. If you are a candidate with a disability, let us know how we can provide you with additional support.
 
 
 
 
-and much, much more!
+To find out more about working at ANZ or to view other opportunities visit www.anz.com/careers. You may apply for this role by visiting ANZ Careers and searching for reference number 35172
+
+
+
+
+Job Posting End Date
+
+
+
+
+09/07/2023
 
 
 
 
 Show more 
 Seniority level
-Mid-Senior level
+Not Applicable
 Employment type
 Full-time
 Job function
 Engineering and Information Technology
 Industries
-Software Development
+Banking, Financial Services, and Accounting
   
 
-Referrals increase your chances of interviewing at Alation by 2x
-
-See who you know
-
-Get notified about new Site Reliability Engineering Manager jobs in Bangalore, New South Wales, Australia.
-
-Sign in to create job alert
-Similar jobs
-Senior Engineering Manager
-Senior Engineering Manager
-Harness
-Bengaluru, Karnataka, India
-2 weeks ago
-Technical Manager - Java/J2EE
-Technical Manager - Java/J2EE
-Manhattan Associates
-Bangalore, New South Wales, Australia
-1 week ago
-Engineering Manager
-Engineering Manager
-ASAPP
-Bangalore, New South Wales, Australia
-2 weeks ago
-Senior Manager, Engineering
-Senior Manager, Engineering
-Visteon Corporation
-Bangalore, New South Wales, Australia
-1 week ago
-Microservices and AWS - Manager
-Microservices and AWS - Manager
-PwC Australia
-Bangalore, New South Wales, Australia
-1 week ago
-Senior Manager Software & Firmware
-Senior Manager Software & Firmware
-Infineon Technologies
-Bangalore, New South Wales, Australia
-3 days ago
-Show more jobs like this 
-People also viewed
-Senior Software Engineer, Java - BSS
-Senior Software Engineer, Java - BSS
-
-Vonage
-
-Bangalore, New South Wales, Australia
-2 days ago
-Project Manager
-Project Manager
-
-Intelex Technologies ULC
-
-Bangalore, New South Wales, Australia
-1 day ago
-Senior Software Engineer
-Senior Software Engineer
-
-Finastra
-
-Bengaluru, Karnataka, India
-1 week ago
-Dotnet Fullstack Engineer - (COR)
-Dotnet Fullstack Engineer - (COR)
-
-Acqueon
-
-Bangalore, New South Wales, Australia
-4 days ago
-Principal Software Engineer - Data Platform
-Principal Software Engineer - Data Platform
-
-Exabeam
-
-Bangalore, New South Wales, Australia
-1 week ago
-Solutions Technical Manager
-Solutions Technical Manager
-
-Harness
-
-Bengaluru, Karnataka, India
-1 week ago
-Workday Technical - Manager - Bangalore
-Workday Technical - Manager - Bangalore
-
-PwC Australia
-
-Bangalore, New South Wales, Australia
-1 week ago
-Software Engineer
-Software Engineer
-
-Manhattan Associates
-
-Bangalore, New South Wales, Australia
-1 day ago
-Software Engineer
-Software Engineer
-
-Intelex Technologies ULC
-
-Bangalore, New South Wales, Australia
-1 day ago
-Senior Manager - Data Engineering & Governance
-Senior Manager - Data Engineering & Governance
-
-PwC Australia
-
-Bangalore, New South Wales, Australia
-3 days ago
-Looking for a job?
-
-Visit the Career Advice Hub to see tips on interviewing and resume writing.
-
-View Career Advice Hub
-LinkedIn
-© 2023
-About
-Accessibility
-User Agreement
-Privacy Policy
-Cookie Policy
-Copyright Policy
-Brand Policy
-Guest Controls
-Community Guidelines
-Language

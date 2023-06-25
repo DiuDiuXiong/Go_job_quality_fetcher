@@ -1,83 +1,68 @@
-Skip to main content
-LinkedIn
-Jobs
-Dismiss
-Dismiss
-Join now
-Sign in
-Site Reliability Engineer I
-Apptio  Melbourne, Victoria, Australia
-2 days ago  49 applicants
+
+Software Engineer II - Cloud Platform
+Five9  Melbourne, Victoria, Australia
+3 days ago  35 applicants
   
-See who Apptio has hired for this role
+See who Five9 has hired for this role
 Apply
 Save
-Overview
+Five9 provides businesses reliable, scalable, and secure cloud contact center software designed to create exceptional customer experiences, increase agent productivity, and deliver tangible business results.
 
-This position is open to fully-remote work from Australia
+We are driven by a passion to transform contact centers into customer engagement centers of excellence. Since 2001, Five9 has led the cloud revolution in contact centers, helping organizations transition from legacy premise-based solutions to the cloud.
 
-In this role, you will be part of a team that develops and supports the Apptio Kubernetes Platform (AKP) where all Apptio applications are deployed. In a typical day you will interact with Github, Linux, Kubernetes, ArgoCD, Docker, Confluence, Jira, Slack, and AWS.
+The Role
 
-You Are
+As part of the Cloud Platform engineering team, you will be building Five9’s next generation, cutting-edge Modern SaaS platform. An ideal candidate for us is an experienced engineer who is passionate about building high performance cloud platforms with automation first mindset and a brilliant problem solver and a creative self-starter.
 
-You are passionate about problem solving and reliability and have experience in SRE or an adjacent role. Your team can count on you to solve challenging problems across the entire Apptio Portfolio. You collaborate with other SREs, developers, and support teams to help provide value to the broader organization. You take responsibility when fixing problems in an automated code first way and are happy to step outside your comfort zone to develop your skillset.
+Key Responsibilities
 
-You Are Not
+Be part of Cloud Platform Team, focused on building the next generation Modern SaaS using public multi-cloud and hybrid-cloud solutions.
+Build automation capabilities towards common abstractions, tools, automation for CI/CD and progressive delivery of Cloud Native applications
+Enable all Five9 development teams with a Cloud Native developer workflow, conduct developer training and toolset to automate software delivery with a focus on Scale, HA
+Design, and build secure, highly scalable, enterprise grade platform services
+Document and communicate clearly of architecture and implementation solutions
+Work closely with product managers, architects, testers and development teams
+Troubleshoot and support current Cloud platform in production
+Expertise to Debug & Support Production issues
+This position requires the ability to be on-call.
 
-A Kubernetes or cloud expert with many years of experience. This is an early-level position; we want you to help us, and we also want to help you grow.
+Key Skills
 
-We Are
+3 - 5 years of professional software development / DevOps / production operations experience
+2+ years of Cloud Native application delivery experience
+Intimate knowledge of public cloud infrastructures (GCP - Preferred, AWS, Azure)
+Hands-on experience working on core Cloud services – compute, storage, network, virtualization, Identity and Access Management (IAM)
+Strong proven experience in Infrastructure as Code (IaC), to be responsible for building robust platforms using automation
+Experience building automation and deploying high quality software with test frameworks and CI/CD, Progressive Delivery
+Strong experience with Kubernetes, Preferably on GKE Experience with CI/CD tools like GitLab, Jenkins, TeamCity
+Experience with CI/CD tools like GitLab, Jenkins, TeamCity
+Advanced knowledge of Linux based systems and runtimes
+Strong development experience in one or more programming languages - Python, Terraform, Golang, Java, etc.
+Expert level in Current technology Stack Helm, K8S, Istio, GCP, AWS, GKE, EKS, Terraform, SRE/DevOps practices or equivalent.
+DevOps mindset and familiarity with the concept of Site Reliability Engineering – inherent sense of ownership through the development and deployment lifecycle
+Some experience working with at least 1 or more Cloud Provider automation tools.
+You understand what it takes to run mission critical software in production.
+Ability to prioritize tasks, work independently and work collaboratively in an agile environment
 
-The Platform and Site Reliability Engineering team - PRE - at Apptio is responsible for enhancing and maintaining our Kubernetes platform and driving the adoption of SRE best practices across our engineering teams. We are a distributed team working across three locations including the United States, Poland and Australia.
+What's On Offer
 
-Responsibilities
+Opportunity to work with the latest technologies
+Unlimited career growth & career planning
+Flexible and friendly working environment
+Great opportunity to be a part of an organization that recognises and rewards achievement with an enticing salary, bonus and equity structure
 
-Manage deployments of Apptio services to AKP
-Streamline the deployment process
-Improve observability of the services within your purview by reviewing KPI dashboards and alerting
-Author and maintain documentation of deployment and monitoring processes
-Use runbooks to troubleshoot and triage production issues
-Detect issues and handle Tier 1-2 troubleshooting
-Participate in online “swarm” collaboration sessions
-Collaborate with service developers
-Participate in on-call rotation
-Perform maintenance of the platform (patching, resets, upgrades, etc.)
+Five9 embraces diversity and is committed to building a team that represents a variety of backgrounds, perspectives, and skills.  The more inclusive we are, the better we are.  Five9 is an equal opportunity employer.
 
-Qualifications
+View our privacy policy https://www.five9.com/pt-pt/legal.
 
-1-2 years’ experience in an SRE or adjacent role
-Foundational understanding of at least one programming language and source control (Preferably Golang)
-Experience with distributed application deployment and management
-Experience with container technologies (e.g., Kubernetes, Docker)
-Experience with Infrastructure-as-code (IaC) concepts
-Experience with cloud provider services such as AWS, Azure, or Google Cloud Platform
-Familiarity with RESTful systems and their APIs
-Desire working with a remote team
-Fluent English language skills
-AU resident
+California residents, view our Privacy Notice here: https://www.five9.com/legal/candidatenoticeca.
 
-The Company
+Our headquarters are located in the San Francisco Bay Area with global hubs in the United Kingdom, Germany, Philippines, Portugal, and Australia.
 
-Apptio is the leading technology spend and value management company for financial and operational decisions across Information Technology (IT), multi-cloud FinOps, and product development. Apptio's mission is to deliver business value with every technology investment. Powered by Apptio’s cloud platform and AI/ML data engine, Apptio’s SaaS applications translate technology spend into clear business outcomes and financial ROI. Apptio applications deliver six key capabilities: cost transparency, actionable insights, planning and forecasting, usage and consumption, value management, and showback/chargeback. As a trusted leader in FinOps and Technology Business Management (TBM) with thousands of customers worldwide, Apptio empowers leaders to cut costs and redirect investments to digital innovation. For more information, please visit www.apptio.com.
 
-Leaders In The Organization Consistently Showcase The Following Key Attributes And Look To Build Teams That Embrace These Qualities Every Day
-
-As an organization, Apptio has an established culture; it is open, transparent, and very customer focused.
-
-Growth Mindset
-Dealing with ambiguity and change
-Take ownership and has accountability
-Customer-focused
-Foster an inclusive environment
-
-Apptio, Inc. complies with applicable local and federal laws governing nondiscrimination in employment in every location in which the company has facilities.
-
-Apptio, Inc. provides equal employment opportunities (EEO) to all employees and applicants for employment without regard to race, color, religion, gender, sexual orientation, national origin, age, disability, genetic information, marital status, amnesty, or status as a covered veteran in accordance with applicable US federal, state, and local laws.
-
-Apptio Inc. is not open to 3rd party solicitation or resumes for our posted FTE positions. Resumes received from 3rd party agencies that are unsolicited will be considered complimentary.
 Show more 
 Seniority level
-Not Applicable
+Associate
 Employment type
 Full-time
 Job function
@@ -86,130 +71,3 @@ Industries
 Software Development
   
 
-Referrals increase your chances of interviewing at Apptio by 2x
-
-See who you know
-
-Get notified about new Site Reliability Engineer jobs in Melbourne, Victoria, Australia.
-
-Sign in to create job alert
-Similar jobs
-Senior Site Reliability Engineer
-Senior Site Reliability Engineer
-Oracle
-Melbourne, Victoria, Australia
-3 days ago
-Site Reliability Engineer
-Site Reliability Engineer
-Aeon Media Group Ltd
-Melbourne, Victoria, Australia
-2 weeks ago
-Site Reliability Engineer
-Site Reliability Engineer
-Datacom
-Melbourne, Victoria, Australia
-1 week ago
-Senior Site Reliability Engineer
-Senior Site Reliability Engineer
-CMD Solutions
-Melbourne, Victoria, Australia
-2 weeks ago
-Senior Site Reliability Engineer
-Senior Site Reliability Engineer
-Macquarie Group
-Melbourne, Victoria, Australia
-2 weeks ago
-DevOps Engineer / SRE (Site Reliability Engineer)
-DevOps Engineer / SRE (Site Reliability Engineer)
-Capgemini
-Melbourne, Victoria, Australia
-5 days ago
-Show more jobs like this 
-People also viewed
-Sitecore engineer
-Sitecore engineer
-
-eJAmerica
-
-Melbourne, Victoria, Australia
-1 day ago
-DevOps Engineer
-DevOps Engineer
-
-Elite IT Recruitment
-
-Melbourne, Victoria, Australia
-2 days ago
-Cloud Engineer (AWS)
-Cloud Engineer (AWS)
-
-Commonwealth Bank
-
-Melbourne, Victoria, Australia
-2 days ago
-DevOps Engineer
-DevOps Engineer
-
-Deloitte
-
-Melbourne, Victoria, Australia
-1 week ago
-Principal Cloud Engineer
-Principal Cloud Engineer
-
-Pepperstone
-
-Melbourne, Victoria, Australia
-1 day ago
-Software Engineer
-Software Engineer
-
-Green Light Worldwide
-
-Greater Melbourne Area
-3 days ago
-Oracle Cloud DevOps Engineer
-Oracle Cloud DevOps Engineer
-
-HCLTech
-
-Melbourne, Victoria, Australia
-1 week ago
-Full Stack Engineer
-Full Stack Engineer
-
-Bond Software
-
-Melbourne, Victoria, Australia
-1 week ago
-DevOps Engineer
-DevOps Engineer
-
-Evolution
-
-Melbourne, Victoria, Australia
-1 week ago
-Site Reliability Engineer - SRE Engineer
-Site Reliability Engineer - SRE Engineer
-
-Macquarie Group
-
-Melbourne, Victoria, Australia
-2 days ago
-Looking for a job?
-
-Visit the Career Advice Hub to see tips on interviewing and resume writing.
-
-View Career Advice Hub
-LinkedIn
-© 2023
-About
-Accessibility
-User Agreement
-Privacy Policy
-Cookie Policy
-Copyright Policy
-Brand Policy
-Guest Controls
-Community Guidelines
-Language

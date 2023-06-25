@@ -1,255 +1,58 @@
-Skip to main content
-LinkedIn
-Jobs
-Dismiss
-Dismiss
-Join now
-Sign in
-Site Reliability Engineering - Manager
-IAG  Sydney, New South Wales, Australia
-1 week ago   Be among the first 25 applicants
-  
-See who IAG has hired for this role
+
+Site Reliability Engineer, Security Engineering
+TikTok Sydney, New South Wales, Australia
 Apply
+Email
+Password (8+ characters)
+Site Reliability Engineer, Security Engineering
+TikTok  Sydney, New South Wales, Australia
+6 days ago  60 applicants
+  
+See who TikTok has hired for this role
+Apply
+Email
+Password (8+ characters)
 Save
+Responsibilities
 
-Have a meaningful impact as a Site Reliability Engineering - Manager.
+About TikTok
+TikTok is the leading destination for short-form mobile video. Our mission is to inspire creativity and bring joy. TikTok has global offices including Los Angeles, New York, London, Paris, Berlin, Dubai, Singapore, Jakarta, Seoul and Tokyo.
 
-As part of the largest insurance group in Australia and New Zealand, we’re here for you.
+Why Join Us
+At TikTok, our people are humble, intelligent, compassionate and creative. We create to inspire - for you, for us, and for more than 1 billion users on our platform. We lead with curiosity and aim for the highest, never shying away from taking calculated risks and embracing ambiguity as it comes. Here, the opportunities are limitless for those who dare to pursue bold ideas that exist just beyond the boundary of possibility. Join us and make impact happen with a career at TikTok.
 
-Are you ready?
+About the Team
+As part of the Security Engineering team, we are responsible for supporting the company's construction of security capabilities and platform services, combining other teams to create efficient and high-quality service docking capabilities, enhancing interactive experience, and lowering the user's barriers to understanding and using security services.
 
+Responsibilities
+1. Design and implement the security maintenance framework for the company's security infrastructure, and build cutting-edge SRE technologies for system deployment, upgrade, capacity planning and rapid troubleshooting and disaster recovery.
+2. Design and develop the SRE infrastructure and maintenance tools for the full lifecycle of security system development; support the rapid iteration and system reliability for the company's security services.
+3. Improve the automation and the intelligence of the SRE infrastructure and evolve it into a platform, and improve the overall reliability and efficiency of the company's security systems.
 
+Qualifications
 
+1. Bachelor's degree in Computer Science or related fields, with minimum 3 years of relevant experience.
+2. Solid programming skills, mastering at least one of the programming skills such as Go/Java/Python, and being able to deliver high quality code.
+3. Familiar with at least one of the web frameworks, such as Gin/Django/Spring, with a decent understanding of their design principles.
+4. Deep understanding of Linux OS, sound knowledge of TCP/IP, HTTP, with good exposure to network, storage, as well as computer architecture.
+5. Familiar with cloud native framework with experience in Kubernetes. Good experience with SRE tools such as Ansible, Argo CD, Promethues, and Grafana.
+6. Passionate about self-studying cutting edge technologies and staying relevant. Strong communication and collaboration skills, and willing to take ownership.
 
-YOUR ROLE
+Preferred Qualifications:
+1. Track record in developing large-scale SRE platform/tooling.
+2. Experience in building and operating large-scale distributed systems with automation.
 
+TikTok is committed to creating an inclusive space where employees are valued for their skills, experiences, and unique perspectives. Our platform connects people from across the globe and so does our workplace. At TikTok, our mission is to inspire creativity and bring joy. To achieve that goal, we are committed to celebrating our diverse voices and to creating an environment that reflects the many communities we reach. We are passionate about this and hope you are too.
 
-
-
-We are looking for a Site Reliability Engineering Manager to join our top-performing Data Reliability team.
-
-
-
-
-As the Manager, you will ensure reliable data delivery for IAG by supporting the operational enterprise Data platform and systems. You will utilise modern Site Reliability (SRE) approaches and methodologies to enable the continuous delivery of IAG's enterprise data products. Additionally, you will drive innovation and new product development to improve performance through Acquisition, scheduling, EDH (Enterprise Data Hub) processing, and automation capabilities.
-
-
-
-
-You will lead and support the DevOps team, coaching them on agile and continuous delivery principles.
-
-You will be part of a large, collaborative, and engaging Technology & Operations team that operates on a hybrid work model.
-
-
-
-
-The role is open for Sydney and Melbourne locations.
-
-
-
-
-About You
-
-
-
-
-We seek an experienced Site Reliability Engineering Manager who can drive innovation and initiate change in their role. The ideal candidate should possess the following experience.
-
-Experience in a continuous delivery environment, including automation.
-Proven success in improving quality and continuous improvement in a Data organisation.
-Extensive experience in systems integration and Environment Management.
-Considerable experience in Enterprise Information Management.
-Demonstrated ability to define, plan, and shape strategies and initiatives into tactical plans for successful delivery.
-Exposure to Greenplum or Managing MPP systems (desirable).
-Exposure to acquisition tools like INFORMATICA, Kafka (desirable).
-Experience building data management applications, storage solutions and scalable infrastructures.
-Bachelor's degree in business Analysis, Analytics/Data Science, Management Information Systems, or related field Industry and/or field experience.
-ITIL or similar qualification (desirable).
-
-
-
-
-Start your career journey with us and click ‘Apply’! Applications close Friday, 30 June 2023.
-
-
-
-
-About Us
-
-
-
-
-IAG is not only the largest general insurance group in Australia and New Zealand, underwriting over $AUD13 billion of premium per annum, we’re also a tech and research facility, a hub for climate change experts and a centre of resilience design. We chat over coffee with customers, advocate for them in the corridors of Parliament and back them up in the community when life’s moments hit hardest.
-
-
-
-
-You’ll know our brands – CGU, WFI, NRMA Insurance, AMI, NZI, and State Insurance to name a few. Together they turn our IAG purpose of making your world safer into action by helping, supporting ambitions and making insurance accessible.
-
-
-
-
-When you join IAG, you’re not joining one brand. You’re joining a large purpose-led, Trans-Tasman group dedicated to making your world a safer place.
-
-
-
-
-We’re ready to grow your career, acknowledge every part of you, recognise your brilliance, lead you with purpose and help you live your own purpose through us.
-
-
-
-
-At IAG, you’ll enjoy
-
-
-
-
-Grow your financial future with 13% superannuation as standard.
-Access up to 50% off home and motor insurance.
-Flexibility and support so you can live life to the full.
-A team who cares about people and the community.
-
-
-
-
-We’re ready for you. Apply today.
-
+In the spirit of reconciliation, TikTok acknowledges the Traditional Custodians of country throughout Australia and their connections to land, sea and community. We pay our respect to their Elders past and present and extend that respect to all Aboriginal and Torres Strait Islander peoples today.
 Show more 
 Seniority level
 Not Applicable
 Employment type
 Full-time
 Job function
-Engineering and Information Technology
+Research, Information Technology, and Engineering
 Industries
-Banking, Insurance, and Financial Services
+Entertainment Providers
   
 
-Referrals increase your chances of interviewing at IAG by 2x
-
-See who you know
-
-Get notified about new Site Reliability Engineering Manager jobs in Sydney, New South Wales, Australia.
-
-Sign in to create job alert
-Similar jobs
-Site Reliability Engineering Manager
-Site Reliability Engineering Manager
-Zeller
-Greater Sydney Area
-1 week ago
-Engineering Manager, Site Reliability
-Engineering Manager, Site Reliability
-Google
-Sydney, New South Wales, Australia
-5 days ago
-Engineering Manager (Identity)
-Engineering Manager (Identity)
-Commonwealth Bank
-Sydney, New South Wales, Australia
-4 days ago
-Engineering Manager
-Engineering Manager
-Continuum Recruitment
-Sydney, New South Wales, Australia
-2 weeks ago
-Engineering Manager
-Engineering Manager
-Perpetual Limited
-Sydney, New South Wales, Australia
-2 weeks ago
-Engineering Manager
-Engineering Manager
-Change Recruitment
-Sydney, New South Wales, Australia
-3 weeks ago
-Show more jobs like this 
-People also viewed
-Software Engineering Manager
-Software Engineering Manager
-
-DeepAi
-
-Sydney, New South Wales, Australia
-1 week ago
-Project Engineering Manager
-Project Engineering Manager
-
-GE Renewable Energy
-
-Silverwater, New South Wales, Australia
-3 days ago
-Software Engineering Manager
-Software Engineering Manager
-
-Commonwealth Bank
-
-Sydney, New South Wales, Australia
-3 days ago
-Engineering Manager - Experimentation Platform
-Engineering Manager - Experimentation Platform
-
-Canva
-
-Sydney, New South Wales, Australia
-2 weeks ago
-Senior Data Engineering Manager
-Senior Data Engineering Manager
-
-Macquarie Group
-
-Sydney, New South Wales, Australia
-3 weeks ago
-Security Engineering Manager
-Security Engineering Manager
-
-Constantinople
-
-Sydney, New South Wales, Australia
-1 month ago
-Senior Engineering Manager, Jira Work Management
-Senior Engineering Manager, Jira Work Management
-
-Atlassian
-
-Sydney, New South Wales, Australia
-1 week ago
-Engineering Manager - Payments
-Engineering Manager - Payments
-
-Luxury Escapes
-
-Sydney, New South Wales, Australia
-2 weeks ago
-Senior Engineering Manager, Privileged Access Management Technology
-Senior Engineering Manager, Privileged Access Management Technology
-
-Commonwealth Bank
-
-Sydney, New South Wales, Australia
-2 days ago
-Engineering Manager - Internal Applications
-Engineering Manager - Internal Applications
-
-Canva
-
-Sydney, New South Wales, Australia
-2 weeks ago
-Looking for a job?
-
-Visit the Career Advice Hub to see tips on interviewing and resume writing.
-
-View Career Advice Hub
-LinkedIn
-© 2023
-About
-Accessibility
-User Agreement
-Privacy Policy
-Cookie Policy
-Copyright Policy
-Brand Policy
-Guest Controls
-Community Guidelines
-Language

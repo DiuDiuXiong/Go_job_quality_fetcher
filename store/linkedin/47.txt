@@ -1,272 +1,99 @@
-Skip to main content
-LinkedIn
-Jobs
-Dismiss
-Dismiss
-Join now
-Sign in
-Site Reliability Engineer
-Axon  Sydney, New South Wales, Australia
-2 weeks ago  106 applicants
+
+Site Reliability Engineer - SRE Engineer
+Macquarie Group  Melbourne, Victoria, Australia
+2 days ago   Be among the first 25 applicants
   
-See who Axon has hired for this role
+See who Macquarie Group has hired for this role
 Apply
 Save
-Join Axon and be a Force for Good.
+Melbourne, Sydney
 
+We're seeking a Site Reliability Engineer with a passion for software reliability. We aim to provide the most reliable products and service in financial industry.
 
+In this role you will be responsible for:
 
+Application of Observability principles within our infrastructure, environments and software
+Application of best practice SLI’s, SLO’s, metrics, and error budgets
+Develop and implement comprehensive monitoring, logging and alerting technologies
+Establish and implement strategies for canary releases, feature toggling and rollback back practices
+Collaboration with feature teams to ensure reliability practices are integrated into development
+Implement continuous learning through blameless postmortems
+Participate in improving incident management and application of best practices.
+Establishing Release Engineering best practices
+Developing reliability software patterns and practices (e.g. circuit breaker, retry etc).
+Help achieve the goal of ‘push on green’ for deployments
 
-At Axon, we’re on a mission to Protect Life. We’re explorers, pursuing society’s most critical safety and justice issues with our ecosystem of devices and cloud software. Like our products, we work better together. We connect with candor and care, seeking out diverse perspectives from our customers, communities and each other.
+Skills required:
 
+Strong experience in software engineering
+Strong experience in SLO, metrics, logging, and tracing
+Proven record of accomplishment in automating toil
+Excellent understanding of modern software development practices, tools and technologies
+A passion for getting things done, balancing short- and long-term needs
+Influencing software engineers on reliability
+Influence and technical leadership capabilities to drive change in environments, manage stakeholders and get alignment cross functionally
+Strong DevOps fundamentals with preference for Java, Golang, Microservices and other cloud technologies
 
+What is in it for you:
 
+This is an opportunity to play a pivotal role in shaping Engineering for Macquarie Bank
+Enjoy the satisfaction of making a difference and being part of a team that drives positive change in the bank and the industry
+Be part of a forward-thinking organisation that embraces new technologies and modern engineering practices
+Be part of a team that deeply values diversity and creates space for you to be your best, in a modern & inclusive environment with a strong focus on employee experience
+Being hands-on with the latest cloud technologies including Google Cloud to tackle interesting banking and finance problems
+Ongoing professional development and free technical certification
 
-Life at Axon is fast-paced, challenging and meaningful. Here, you’ll take ownership and drive real change. Constantly grow as you work hard for a mission that matters at a company where you matter.
+About The Corporate Operations Group
 
+The Corporate Operations Group brings together specialist support services in Digital Transformation & Data, Technology, Operations, Human Resources, Business Services, Corporate Strategy & Solutions, and the Macquarie Group Foundation. We deliver service excellence to ensure Macquarie is open for business, deliver on transformational change, invest in our people and have deep relationships with our customers.
 
+Our commitment to Diversity, Equity and Inclusio
 
+About The Corporate Operations Group
 
-Your Impact
+The Corporate Operations Group brings together specialist support services in Digital Transformation & Data, Technology, Operations, Human Resources, Business Services, Corporate Strategy & Solutions, and the Macquarie Group Foundation. We deliver service excellence to ensure Macquarie is open for business, deliver on transformational change, invest in our people and have deep relationships with our customers.
 
+Our commitment to Diversity, Equity and Inclusion
 
+The diversity of our people is one of our greatest strengths. An inclusive and equitable environment enables us to deliver innovative and sustainable outcomes for our people, clients, shareholders and communities. From day one, you'll be encouraged to be yourself and supported to perform at your best. If our purpose of ‘empowering people to innovate and invest for a better future’ is as inspiring to you as it is to us, please apply. With the right technology, support and resources, our people can work in a range of flexible ways.
 
+We are committed to providing a working environment that embraces and values diversity, equity and inclusion. We encourage candidates to speak with a member of our recruitment team if you require adjustments to our recruitment process to support you, and the type of working arrangements that would help you thrive.
 
-As a contributor in the SRE organization, you are passionate about delivering solutions to the real-time problems our mission-critical cloud native services encounter. You are also obsessed about achieving the high quality and reliability our customers demand. You will work closely not only with the SRE division, but your technical deliverables will reach the entire engineering organization to enable product teams to continuously deliver features on the vanguard of innovation.
+About Macquarie
 
+A career at Macquarie means you’ll have the opportunity to develop and utilise new skills, explore interesting fields and do challenging work that will impact the lives of people around the world—whether it’s accelerating the green energy transition, helping sustain global food supplies, financing social housing projects or investing in essential infrastructure. At Macquarie, we’re empowering people to innovate and invest for a better future.
 
+Our size and international presence means your work can take you anywhere—across business groups, disciplines, sectors and borders. With 19,200+ employees and offices in 34 markets around the world, we’re a truly global organisation.
 
+You’ll be supported by a diverse team where the unique perspectives, ideas and experiences that all of our people bring are valued. You’ll be empowered to address unmet needs in our communities whilst advising and investing alongside our clients and partners. Working with us, you’ll have the opportunity to make a difference.
 
-What You’ll Do
+Macquarie is a global financial group providing clients with asset management, retail and business banking, wealth management, leasing and asset financing, market access, commodity trading, renewables development, specialist advisory, capital raising and principal investment.
 
+Find out more at www.macquarie.com/careers
 
+Job no: COG-972681
 
+Work type: Permanent - Full time
 
-Location: Remote anywhere in Australia
+Location: Melbourne, Sydney
 
+Category: Senior, Technology
 
+Group: Corporate Operations Group
 
+Division: Technology
 
-Build robust, easy-to-use foundational platforms and tools that enable engineering teams to provision services rapidly, consistently, and securely.
-Exemplify cloud-native site reliability best practices.
-Write code that is performant, maintainable, clear, and concise.
-Employ strong problem-solving skills, with the ability to debug problems in cloud native distributed systems.
-Influence and educate the engineering organization to adopt new and improved architectural patterns.
-Provide robust documentation for use by engineers to promote self-service
-Take calculated risks, champion new ideas, and cultivate your craft.
+Recruiter: Mimi Huynh
 
-
-
-
-What You Bring
-
-
-
-
-5+ years of applicable experience
-Australian government security clearance, or ability to obtain clearance (AUS citizenship) required
-Strong Operating Systems Skills, preferably Linux
-Experience managing cloud platforms such as Azure, AWS, or similar.
-Experience operating in Kubernetes platforms like AKS, EKS, or similar.
-Experience using managed languages such as Python, Go, C#, Java, or similar.
-Experience utilizing CI/CD platforms to automate provisioning infrastructure, software builds, tests, and releases.
-Experience using observability tools such as APM, logging, and metrics to assist with debugging issues.
-Experience designing tooling to simplify the operational management of SaaS/PaaS systems.
-Familiarity with building flexible and testable Infrastructure as Code modules.
-Empathy to support the needs of software engineers.
-
-
-
-
-Benefits That Benefit You
-
-
-
-
-Competitive Salary
-Annual Bonus and Restricted Stock Unit Eligibility
-Monthly Stipend for Medical Insurance
-Emotional & Mental Wellness Support
-Learning & Development Programs
-
-
-
-
-Benefits listed herein may vary depending on the nature of your employment and the location where you work.
-
-
-
-
-Don’t meet every single requirement? That's ok. At Axon, we Aim Far. We think big with a long-term view because we want to reinvent the world to be a safer, better place. We are also committed to building diverse teams that reflect the communities we serve.
-
-
-
-
-Studies have shown that women and people of color are less likely to apply to jobs unless they check every box in the job description. If you’re excited about this role and our mission to Protect Life but your experience doesn’t align perfectly with every qualification listed here, we encourage you to apply anyways. You may be just the right candidate for this or other roles.
-
-
-
-
-Important Notes
-
-
-
-
-The above job description is not intended as, nor should it be construed as, exhaustive of all duties, responsibilities, skills, efforts, or working conditions associated with this job. The job description may change or be supplemented at any time in accordance with business needs and conditions.
-
-
-
-
-Some roles may also require legal eligibility to work in a firearms environment.
-
-
-
-
-Axon’s mission is to Protect Life and is committed to the well-being and safety of its employees as well as Axon’s impact on the environment. All Axon employees must be aware of and committed to the appropriate environmental, health, and safety regulations, policies, and procedures. Axon employees are empowered to report safety concerns as they arise and activities potentially impacting the environment.
-
-
-
-
-We are an equal opportunity employer that promotes justice, advances equity, values diversity and fosters inclusion. We’re committed to hiring the best talent — regardless of race, creed, color, ancestry, religion, sex (including pregnancy), national origin, sexual orientation, age, citizenship status, marital status, disability, gender identity, genetic information, veteran status, or any other characteristic protected by applicable laws, regulations and ordinances — and empowering all of our employees so they can do their best work. If you have a disability or special need that requires assistance or accommodation during the application or the recruiting process, please email recruitingops@axon.com. Please note that this email address is for accommodation purposes only. Axon will not respond to inquiries for other purposes.
-
-
-
-
+Opening Date: 30/5/2023
 Show more 
 Seniority level
-Mid-Senior level
+Not Applicable
 Employment type
 Full-time
 Job function
-Engineering
+Engineering and Information Technology
 Industries
-Software Development
+Banking, Financial Services, and Investment Banking
   
 
-Referrals increase your chances of interviewing at Axon by 2x
-
-See who you know
-
-Get notified about new Site Reliability Engineer jobs in Sydney, New South Wales, Australia.
-
-Sign in to create job alert
-Similar jobs
-Site Reliability Engineer
-Site Reliability Engineer
-Optus
-Macquarie Park, New South Wales, Australia
-2 days ago
-Site Reliability Engineer I
-Site Reliability Engineer I
-Apptio
-Sydney, New South Wales, Australia
-2 days ago
-Senior Site Reliability Engineer
-Senior Site Reliability Engineer
-Atlassian
-Sydney, New South Wales, Australia
-5 hours ago
-Site Reliability Engineer, APAC
-Site Reliability Engineer, APAC
-Canonical
-Sydney, New South Wales, Australia
-2 weeks ago
-Site Reliability Engineer
-Site Reliability Engineer
-Ampersand International
-Sydney, New South Wales, Australia
-1 month ago
-Site Reliability Engineer
-Site Reliability Engineer
-Commonwealth Bank
-Sydney, New South Wales, Australia
-4 days ago
-Show more jobs like this 
-People also viewed
-Senior Software Reliability Engineer (open to remote across ANZ)
-Senior Software Reliability Engineer (open to remote across ANZ)
-
-Canva
-
-Sydney, New South Wales, Australia
-3 hours ago
-DevOps Engineer
-DevOps Engineer
-
-Blackhawk Network Australia
-
-Sydney, New South Wales, Australia
-4 days ago
-DevOps Engineer
-DevOps Engineer
-
-Animal Logic
-
-Sydney, New South Wales, Australia
-1 month ago
-DevSecOps Engineer - Azure
-DevSecOps Engineer - Azure
-
-Discovered People
-
-Sydney, New South Wales, Australia
-2 days ago
-DevOps Engineer
-DevOps Engineer
-
-swipejobs
-
-North Sydney, New South Wales, Australia
-2 weeks ago
-DevOps Engineer
-DevOps Engineer
-
-The Recruitment Company Pty Ltd
-
-Greater Sydney Area
-2 days ago
-DevOps Engineer
-DevOps Engineer
-
-mx51
-
-Sydney, New South Wales, Australia
-2 weeks ago
-Cloud Engineer
-Cloud Engineer
-
-Ensure Recruitment
-
-Sydney, New South Wales, Australia
-1 week ago
-Cloud Engineer
-Cloud Engineer
-
-HUB24 Limited
-
-Sydney, New South Wales, Australia
-2 weeks ago
-DevOps Engineer
-DevOps Engineer
-
-Tata Consultancy Services
-
-Sydney, New South Wales, Australia
-4 days ago
-Looking for a job?
-
-Visit the Career Advice Hub to see tips on interviewing and resume writing.
-
-View Career Advice Hub
-LinkedIn
-© 2023
-About
-Accessibility
-User Agreement
-Privacy Policy
-Cookie Policy
-Copyright Policy
-Brand Policy
-Guest Controls
-Community Guidelines
-Language

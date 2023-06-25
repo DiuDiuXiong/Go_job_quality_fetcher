@@ -1,121 +1,83 @@
-Azure DevOps Consultant
-Skip to content
-Jobs
-Courses
-Businesses for sale
-Volunteering
-SEEK
-Job search
-Profile
-Career advice
-Company reviews
-Sign in
-Employer site
-Azure DevOps Consultant
-Arinco
-Melbourne VIC
-Consultants (Information & Communication Technology)
+
+Cloud Architect
+Technology One Limited
+4.1
+•
+37 reviews
+Brisbane QLD
+Architects (Information & Communication Technology)
 Full time
-Posted 17d ago
+Competitive remuneration & benefits
+Posted 19d ago
 More jobs from this company
-Apply for Azure DevOps Consultant at Arinco
-Quick apply
-Save Azure DevOps Consultant at Arinco
+Apply for Cloud Architect at Technology One Limited
+Apply
+Save Cloud Architect at Technology One Limited
 Save
 Share
 
-Who are we:
+How you'll make a difference...
 
-Born in 2019, Arinco is a leading IT consultancy focused on helping businesses to digitally innovate using Microsoft cloud technology.
+As a Cloud Software Architect, you will play a vital role in shaping and implementing our cloud-based software solutions. You will be responsible for designing, developing, and deploying scalable and reliable cloud architectures that meet the needs of our enterprise clients. Collaborating closely with cross-functional teams, you will contribute to the creation and evolution of our cloud infrastructure, ensuring its stability, performance, and security.
 
-Today we innovators in cloud technology, and a Microsoft Advanced Specialised Consulting firm – in 8 different categories – the FASTEST growing Microsoft Partner in Australia and New Zealand.
+What you’ll be doing…
 
-We work with organisations, large and small, to solve their business challenges and support their growth. We achieve this through effective partnering and by fully embedding ourselves into their IT teams to deliver cutting-edge cloud solutions.
+Architect and design cloud-based software solutions, considering scalability, reliability, performance, and security.
+Collaborate with product managers, software engineers, SRE and DevOps teams to understand business requirements and translate them into technical specifications and architecture.
+Develop and maintain a deep understanding of the existing TechnologyOne cloud infrastructure, platforms, and services, and identify opportunities for optimization and enhancement.
+Design and implement cloud architecture patterns and best practices, including microservices, serverless, containerization, and event-driven architectures.
+Ensure the security and compliance of the cloud infrastructure, implementing robust security controls, monitoring mechanisms, and disaster recovery plans.
+Collaborate with software development teams to define and enforce coding standards, delivery processes, and deployment automation.
+Provide technical guidance and mentorship to software engineers and other team members, fostering a culture of innovation and continuous learning
 
-Our mantra is simple: Enable. Modernise. Innovate.
+Your skillset …
 
-In our four years, we have proudly built our team of Crewies who share a mutual love of tech, learning and collaboration. We now have 130 + Crew members across the country and we are continuously hiring poised for continued growth.
+Strong experience & expertise in a Cloud platform such as AWS, AZURE or google cloud platform.
+Solid understanding of cloud architecture patterns, microservices, serverless computing, containerization and event driven architectures.
+Relevant degree, qualification or job experience within the industry.
 
-We have offices based in Melbourne, Sydney and Brisbane plus we also offer remote and flexible working options across Australia – don’t let location be a barrier!
+We value diversity and aim to create a vibrant and inclusive workforce. If you meet a number of the requirements (and not all), we encourage you to submit your application.
 
-If you’re a Developer, or a DevOps specialist who’s passionate about Azure – please read on!
+ 
 
-What are we looking for:
+Benefits …
 
-Experience delivering technical solutions / driving business outcomes.
-Deep understanding of either DevOps or DevSecOps or Application Development.
-A passion for all things Azure / broad knowledge of Azure technologies.
-Excellent comms, great soft skills, and an upbeat attitude!
-Previous exposure to some of the following is a desirable:
-Experienced with building CI/CD or IaC pipelines and deploying code using Bicep or ARM templates or Terraform.
-Running applications using Azure platform services.
-Running, maintaining Infrastructure services
-Creating tools and frameworks to enable dev teams. 
-Applying SRE principals to monitor and measure what’s important.
-Automating customer platforms for reliability at scale
-Proactively seeking platform and application improvement opportunities for our customers
+24 hours on-site Gym in Brisbane (state of the art equipment) or a company paid gym membership in our other HQ offices.
+Purchased additional annual leave benefit. Option to extend leave to 6 weeks.
+Foundation leave, an additional 2.5 days per year to volunteer with registered charities.
+Free breakfast on-site.
+TechnologyOne employee share plan.
+Salary packaging for devices like mobile phones, tablets & smart watches, as well as novated leases on cars and more.
+Professional development allowance benefits for use on courses, conferences, workshops etc.
 
-What we offer our Crew:
+ 
 
-People First Culture – we’re an authentic and empowered community, committed to contributing ideas, making a difference, and succeeding together.
-Growth And Support – we learn, share, support and grow together, both organically and through individual training initiatives.
-Work That Works for You - You can be based anywhere in Australia, with the option of working from home, office, or hybrid- we focus on outcomes, not where or when you work and provide a flexible and balanced work/life environment.
-Crew Connection – regular squad outings, Crew musters, social interest groups, and Crew events.
-Tech Done Your Way - a personal $2,500 annual technology allowance to purchase tech that works best for you.
-The Crew Hub – modern, central CBD collaboration spaces, complete with 1st Class end-of-trip facilities. A great place to connect and get together - should you choose to attend!
+Who we are ...
 
-Arinco is an equal opportunity employer, and we welcome all applications - particularly those from underrepresented groups
+TechnologyOne (ASX: TNE) is Australia’s largest enterprise software company and one of Australia’s top 100 ASX-listed companies, with locations across six countries. We provide a global SaaS ERP solution that transforms business and makes life simple for our customers. 
 
-At this stage we are only able to consider Australian based candidates with unrestricted working rights
+Our deeply integrated enterprise SaaS solution is available on any device, anywhere and any time and is incredibly easy to use. Over 1,200 leading corporations, government agencies, local councils and universities are powered by our software.
 
-Arinco does not currently require the assistance of recruitment agencies. Thank you.
+We pride ourselves on providing our people with earned recognition through career progression, competitive salaries and a supportive environment.
+
+* Applicants must have the right to work permanently in Australia.
+
+ 
 
 Report this job advert
 Be careful
 Don’t provide your bank or credit card details when applying for jobs.
 Learn how to protect yourself
 Report this job ad 
-Travel and Tourism courses
-Courses that get you job-ready
-Industry recognised providers
-Explore courses
-Benefits of study
-Study & career advice
-Job seekers
-Job search
-Profile
-Recommended jobs
-Saved searches
-Saved jobs
-Applied jobs
-Career advice
-Explore careers
-Company reviews
-Download apps
-SEEK sites
-Employers
-Register for free
-Post a job ad
-Products & prices
-Customer service
-Hiring advice
-Market insights
-Recruitment software partners
-About SEEK
-About SEEK
-Newsroom
-Investors
-Work for SEEK
-International partners
-Partner services
-Contact
-Help centre
-Contact us
-Product & tech blog
-SEEK videos
-Social
-Australia
-Privacy policy
-Terms & conditions
-Protect yourself online
-© SEEK. All rights reserved
+Upskill in amazon web services to better prepare for this job
+
+AWS Cloud Architect
+
+Upskilled
+
+7 months part-time
+
+Online
+
+Start Anytime
+

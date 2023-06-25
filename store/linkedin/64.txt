@@ -1,211 +1,97 @@
-Skip to main content
-LinkedIn
-Jobs
-Dismiss
-Dismiss
-Join now
-Sign in
-Senior Site Reliability Engineer
-Feedzai  Sydney, New South Wales, Australia
-1 week ago   Be among the first 25 applicants
+
+Senior DevOps Engineer
+Qcells North America  Sydney, New South Wales, Australia
+2 weeks ago   Over 200 applicants
   
-See who Feedzai has hired for this role
+See who Qcells North America has hired for this role
 Apply
 Save
-Feedzai is the world’s first RiskOps platform for financial risk management, and the market leader in safeguarding global commerce with today’s most advanced cloud-based risk management platform, powered by machine learning and artificial intelligence. Feedzai is securing the transition to a cashless world while enabling digital trust in every transaction and payment type. The world’s largest banks, processors, and retailers trust Feedzai to protect trillions of dollars and manage risk while improving the customer experience for everyday users, without compromising privacy. Feedzai is a Series D company and has raised $282M to date. With a valuation of +$1.5B, the company's technology protects 900 million people in 190 countries.
+This is a remote position based out of Sydney, Australia - Geli is headquartered in San Francisco, California, USA and has a growing Australia team.
 
-With Cloud at its core, the Engineering (Tech) Team is responsible for all Feedzai product development. Together with Product Management and Data Science, we build the next generation of tools to catch fraud in real-time with a machine learning first approach. Formed by engineers and managed by engineers, at Feedzai, you will find one of the most talented teams out there, from junior to senior engineers.
+About Geli
 
-We are fast-paced and provide a safe, open, and collaborative environment that encourages us to lean in, try new things and discover our potential with continuous learning for everyone.
+Geli (Growing Energy Labs, Inc.) provides software and business solutions to design, connect, and operate energy storage systems ranging in size from residential to utility-scale, as well as grid-tied, microgrid, and off-grid systems. Geli’s suite of products creates an ecosystem where project developers, OEMs, financiers, and project operators can deploy advanced energy projects using a seamless hardware-agnostic software platform.
 
-While building the best value for our customers, you will work with a wide range of technical challenges. Such as building distributed systems that need to operate 24/7 and ultra-low latencies, solving UI/UX problems to help fraud analysts to fight fraud more efficiently. In addition, designing extensive databases from relational, NoSQL and graphs, validate and develop new data science techniques and algorithms.
+Geli is a subsidiary of Hanwha Q CELLS, one of the world’s largest photovoltaic manufacturers most recognized for its high-performance, high-quality solar cells and modules.
 
-You
+OUR VISION
 
-Feedzai SRE team is responsible for the overall cloud platform architecture that supports the cloud services provided to our customers. As part of this team you'll work with other Site Reliability Engineers with a deep understanding of Feedzai cloud products and environments in developing the automation, tooling, and platforms that support Feedzai cloud service, and by doing so, contributing to faster and more agile product delivery.
+Geli is committed to helping make the planet a cleaner, better place to live, both with our software products and through our everyday actions.
 
-Your Day To Day
+Imagine a world where there is less reliance on non-renewable power, where you source your electricity from your neighbors rather than from power stations hundreds of miles away and software makes the best possible use of the solar, wind, and battery storage available. This is our vision.
 
-Build and maintain tools for deployment, monitoring, operations, and analytics;
-Provide support on cloud-ops ownership services, production monitoring, deployments, and maintenance of infrastructure.
-Develop and execute regional plan to migrate regional environments to the Next Gen architecture
-Take ownership of all customer environments in the region
-Own and automate/improve Service Catalog in the region
-Own and execute the improvement roadmap;
-Participate in incident response, root cause investigation, and resolution;
-Maintain and develop our infrastructure as code (IaC) to manage and operate end-to-end lifecycle operations (monitoring, alerting, security, cost optimization, configuration, backup, etc.) in production environments;
-Utilize your experience and problem-solving skills to help prevent and investigate production issues;
-Communicate with team members, stakeholders and customers in a globally distributed and asynchronous environment;
+We are looking for enthusiastic colleagues that are not only fluent in technology, but also share our vision of a world running on 100% renewable energy.
 
-You Have & You Know-How
+About The Job
 
-A bachelor's degree in Computer Science, Information Systems, or the equivalent combination of education, experience, and training that provides the required knowledge, skills, and abilities;
-5+ years of experience with AWS or Azure;
-Experience with Automation, Infrastructure-as-Code, Terraform, Ansible, Runbooks and Troubleshooting guides;
-Experience with Virtualization, Container Technologies and Orchestration (Docker, Kubernetes);
-Programming skills (Go, Python, or similar languages);
-Experience with CI/CD pipelines; Experience with monitoring, troubleshooting and guiding on incidents;
-Self-driven & motivated, with a strong work ethic and a passion for problem-solving;
-Experience working for an anti-financial crime ML driven software company - mandatory
+The Senior DevOps Engineer will design and manage and operate our cloud and on-site Linux systems. They will build tools and systems that make it easy to deploy, monitor, and report on usage and performance of our components, and will troubleshoot and resolve issues in production. The right candidate will be broadly capable of effectively utilizing modern open-source cloud technology and will have a very strong focus on security and reliability.
 
-Preferred Qualifications And Skills
+Primary Responsibilities
 
-Excellent communication skills both written and verbal;
-Kubernetes, Cloud, and Hashicorp certifications or equivalent are valued;
-Experience with GCP is a plus;
-
-The Product Team builds our product to disrupt the financial crime industry from a data-led approach. We partner with our clients using a holistic lens and have result-driven solutions to manage financial risk with a cloud-first platform and a world-class UX interface. Being part of this team, you have a voice in planning, strategizing, and challenging the status quo. Your thoughts and ideas are valued. Our fast-paced and open environment encourages us to lean in, try new things, and discover our potential. We define and act on what could be in tomorrow's world, not on what is today. Join Us!
-
-Your First 30-Days At Feedzai
-
-You will be immersed in our brand with training, connections, and one-on-one time with your manager. You may shadow your colleagues virtually or onsite at an office depending on where you work as you are supported through your Feedzai journey. In addition, you will have access to a ton of information to give you history, context, and all the knowledge you can handle about Feedzai and the team. Finally, you will start working on projects and collaborating on work currently being done. We can't wait to have you join the team!
-
-Life at Feedzai Instagram
-
-Feedzai Culture
-
-Feedzai is an Equal Opportunity Employer and we value diversity at our company. We do not discriminate on the basis of race, religion, color, national origin, gender, sexual orientation, age, marital status, veteran status, or disability status.
-
-Feedzai does not accept unsolicited resumes from recruiters or employment agencies.
-
-Feedzai will use the personal data you provide us with by filling out this form for reviewing your application and to potentially negotiate a contract with you. Your personal data will be retained by Feedzai for 24 months following your application. Please see our Privacy Notice available at https://feedzai.com/about-us/privacy/ for more information on how we process your personal data.
+Manage production, development, and data analytics AWS infrastructure
+Implement automated, high-availability, high-performance infrastructure as code
+Build scalable solutions that anticipate growth and performance needs
+Identify opportunities for proactive monitoring and alerting to identify issues early
+Participate in incident response including creating fixes and improving systems
+Improve continuous CI/CD automation that includes simulation and potentially hardware environments as part of functional testing of software components
+Enhance disaster-recovery and operations continuity
+Collaboration, documentation, and knowledge sharing with team members
+Gather metrics and generate reports on performance, uptime, utilization, and cost
+Participate in on-call rotation for critical production environment issues
+Evaluate new technologies, services and software upgrades to improve our systems
+Ensure systems are secure and access is audited
 
 
+Minimum Qualifications
+
+Strong experience with container orchestration (Kubernetes, EKS, and Docker)
+Experience with infrastructure as code tooling such as Terraform or CloudFormation
+Experience with Ansible
+Scripting or programming skills in Python, Java, and Bash
+Strong experience in DevOps or SRE
+Strong experience deploying to and managing Amazon Web Services infrastructure - S3, EKS, VPC, ECS, IAM, Load Balancers
+Linux/UNIX system administration and security
+Experience configuring and managing HAProxy, RabbitMQ, Kafka, Cassandra, and Postgres, OpenLDAP, ElasticSearch, and Airflow
+Thorough knowledge of IP networking
+Experience building durable, scalable, multi-region infrastructure
+
+
+Preferred Qualifications
+
+Experience with CI/CD and Automation frameworks
+Experience with IoT style infrastructure including OTA update systems
+Experience with embedded operating systems, IoT, sensor networks, or power systems
+
+
+Benefits Of Working At Geli
+
+Competitive salary commensurate with experience
+
+Competitive benefits offerings
+
+WORK ENVIRONMENT
+
+Make a difference: join a group of people who are passionate about renewable energy
+
+Have an impact: the company is still small enough that everyone’s contribution has a significant impact to the success of the company
+
+Many opportunities to lead teams, projects, and contribute to development
+
+Casual professional working environment: there’s no need to dress up, just present your best self
+
+Work collaboratively in a diverse environment- we commit to reaching better decisions by respecting opinions and working through disagreements
+
+DIVERSITY
+
+We value the insights that a diverse team can bring. We encourage applications from members of groups that have been traditionally underrepresented in tech.
 Show more 
 Seniority level
 Mid-Senior level
 Employment type
 Full-time
 Job function
-Analyst, Information Technology, and Engineering
+Engineering and Information Technology
 Industries
-IT Services and IT Consulting, Software Development, and Financial Services
+Renewable Energy Semiconductor Manufacturing
   
 
-Referrals increase your chances of interviewing at Feedzai by 2x
-
-See who you know
-
-Get notified about new Senior Site Reliability Engineer jobs in Sydney, New South Wales, Australia.
-
-Sign in to create job alert
-Similar jobs
-Senior Site Reliability Engineer
-Senior Site Reliability Engineer
-Atlassian
-Sydney, New South Wales, Australia
-5 hours ago
-Senior Site Reliability Engineer
-Senior Site Reliability Engineer
-SafetyCulture
-Sydney, New South Wales, Australia
-2 weeks ago
-Senior Site Reliability Engineer
-Senior Site Reliability Engineer
-Cboe Global Markets
-Sydney, New South Wales, Australia
-1 week ago
-Senior Site Reliability Engineer
-Senior Site Reliability Engineer
-CMD Solutions
-Sydney, New South Wales, Australia
-2 weeks ago
-Senior Site Reliability Engineer
-Senior Site Reliability Engineer
-Macquarie Group
-Sydney, New South Wales, Australia
-2 weeks ago
-Senior Site Reliability Engineer
-Senior Site Reliability Engineer
-Commonwealth Bank
-Sydney, New South Wales, Australia
-2 days ago
-Show more jobs like this 
-People also viewed
-Senior DevOps Engineer
-Senior DevOps Engineer
-
-Airwallex
-
-Sydney, New South Wales, Australia
-2 weeks ago
-Senior Cloud Engineer
-Senior Cloud Engineer
-
-Spring Professional
-
-Sydney, New South Wales, Australia
-3 weeks ago
-Database Reliability Engineer
-Database Reliability Engineer
-
-Cover Genius
-
-Sydney, New South Wales, Australia
-2 weeks ago
-Senior DevOps Engineer
-Senior DevOps Engineer
-
-TheDriveGroup.
-
-Sydney, New South Wales, Australia
-1 week ago
-Senior DevOps Engineer (Remote)
-Senior DevOps Engineer (Remote)
-
-DuckDuckGo
-
-Sydney, New South Wales, Australia
-2 weeks ago
-Senior Site Reliability Engineer
-Senior Site Reliability Engineer
-
-Atlassian
-
-Sydney, New South Wales, Australia
-5 hours ago
-Site Reliability Engineer
-Site Reliability Engineer
-
-Commonwealth Bank
-
-Sydney, New South Wales, Australia
-4 days ago
-Site Reliability Engineer - Sydney
-Site Reliability Engineer - Sydney
-
-Macquarie Group
-
-Sydney, New South Wales, Australia
-2 weeks ago
-Site Reliability Engineer - Video Infrastructure
-Site Reliability Engineer - Video Infrastructure
-
-TikTok
-
-Sydney, New South Wales, Australia
-3 days ago
-Senior Software Reliability Engineer (open to remote across ANZ)
-Senior Software Reliability Engineer (open to remote across ANZ)
-
-Canva
-
-Sydney, New South Wales, Australia
-3 hours ago
-Looking for a job?
-
-Visit the Career Advice Hub to see tips on interviewing and resume writing.
-
-View Career Advice Hub
-LinkedIn
-© 2023
-About
-Accessibility
-User Agreement
-Privacy Policy
-Cookie Policy
-Copyright Policy
-Brand Policy
-Guest Controls
-Community Guidelines
-Language

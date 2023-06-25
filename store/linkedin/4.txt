@@ -1,62 +1,102 @@
-Skip to main content
-LinkedIn
-Jobs
-Dismiss
-Dismiss
-Join now
-Sign in
-Platform SRE
-Talent.Realised Pty Ltd  Australia
-1 week ago  70 applicants
+
+Senior Engineer, Site Reliability Engineering (SRE)
+OSL  Sydney, New South Wales, Australia
+3 weeks ago   Be among the first 25 applicants
   
-See who Talent.Realised Pty Ltd has hired for this role
+See who OSL has hired for this role
 Apply
 Save
-
-Direct message the job poster from Talent.Realised Pty Ltd
-
-Josh Kitchin
-Managing Consultant | Software | Cloud | Infrastructure | DevOps/SRE Specialist 🚀 | 0423 461 061 |
-
-This media company is looking for Mid to Senior level Platform Reliability Engineers with a Platform, SRE or DevOps background.
+Founded in 2018 and backed by Asia's leading public fintech and digital asset company, BC Technology Group (863.HK), OSL has a long history in the sector and is recognized by many as the leader in providing comprehensive regulated and licensed digital asset solutions.
 
 
 
 
-As part of the platform team, you will develop and maintain the audience facing digital products across mobile, connected TV, desktop, and smart speakers. Your work will be appreciated by millions of audiences across Australia.
+We offer Markets services (brokerage, exchange, and custody) and SaaS technology solutions, which deliver institutional clients and professional investors access to the best-in-class virtual asset platform, as well as the world's deepest liquidity pools. Our secure and insured hot and cold wallet infrastructure also ensures the safekeeping of digital assets with timely transaction settlements.
 
 
 
 
-Platform Reliability Engineer (SRE)
-
-FTC - Up to $135k base + super (15%)
-
-Remote friendly with preference for East Coast Australia
-
-You will be involved in designing, implementing and automating delivery systems for digital services on web, mobile and streaming media.
-You will provide a high level of availability and reliability to users and collaborate with software development & DevOps teams to design and implement scalable, fault-tolerant systems.
-You will also improve system reliability and quality through monitoring, reporting and fault
-resolution.
+For more information, visit: osl.com and bc.group
 
 
 
 
-Skills, knowledge & experience needed;
-
-Highly developed problem-solving skills
-Experience using Amazon Web Services (AWS) products and supporting Linux and “LAMP” based systems is highly desirable.
-Experience supporting and managing products delivered by CDN services such as Akamai for the delivery of streaming media
-Experience with common DevOps tools such as Datadog, Puppet, New Relic, JIRA, Confluence, Bamboo, Maven or Jenkins is highly desirable.
-Self-advocating mentality of always looking to build new processes and tools within the wider organisation.
-Complete understanding of “SRE”, “Reliability Engineering” & “availability” meanings
-Knowledge and experience of SLA, SLO, SLI & MTTR
+We are a regulated digital asset firm looking for a talented Site Reliability Engineer (SRE) to join our team. The successful candidate will be responsible for ensuring the reliability, availability, and performance of our infrastructure and applications, and will play a critical role in maintaining the trust of our customers.
 
 
 
 
-Does this sound like the kind of role you've been looking for? Register your interest by applying or contacting me direct on josh@talentrealised.com.au or 0423461061
+Responsibilities:
 
+
+
+
+Work with the engineering team to design, build, and maintain our cloud infrastructure on AWS.
+Build and manage Kubernetes clusters for our production and development environments.
+Develop and maintain automation tools and scripts using Python and other languages to improve system reliability and reduce manual effort.
+Design and engineer software release pipelines to enable rapid and reliable deployment of code changes.
+Build and maintain monitoring and alerting systems to ensure the early detection and resolution of issues before they affect customers.
+Help with level 2 support and incident response to ensure high availability and reliability of our systems.
+Participate in on-call rotations to respond to critical issues outside of business hours.
+
+
+
+
+Requirements:
+
+
+
+
+Strong experience with AWS services and infrastructure, including EC2, S3, RDS, and VPC.
+Proficiency with Kubernetes and container orchestration.
+Experience with scripting languages, particularly Python.
+Experience with software release engineering, including CI/CD pipelines (in particular GitLab)
+Understanding of networking principles and protocols (TCP/IP, HTTP, DNS, SSL).
+Experience with monitoring and alerting systems, such as Prometheus or Grafana
+Ability to work collaboratively with engineering and operations teams.
+Strong problem-solving and analytical skills.
+
+
+
+
+Preferred qualifications:
+
+
+
+
+Experience in a regulated environment, ideally with financial services.
+Familiarity with security best practices and regulatory compliance.
+Knowledge of database technologies such as MySQL
+Experience with infrastructure-as-code tools such as Terraform.
+
+
+
+
+If you are a talented and driven SRE with a passion for maintaining high availability and reliability in a fast-paced environment, we would love to hear from you. This is an excellent opportunity to join a leading, regulated digital asset firm and contribute to the success of a rapidly growing business.
+
+
+
+
+In Return You'll Enjoy :
+
+
+
+
+A unique culture in a global organisation
+Great career development opportunities in a growing company
+Competitive salary and bonus structure
+Private Healthcare for you and your dependants
+Open-minded, flexible, and diverse working environments which allows for casual work attire
+
+
+
+
+OSL is an equal opportunity employer. All qualified applicants will receive consideration for employment without regard to race, color, gender, sexual orientation, gender identity or expression, religion, national origin, marital status, age, disability, veteran status, genetic information, or any other protected status.
+
+
+
+
+Unsolicited CV submissions by agencies will not be recognised*
 Show more 
 Seniority level
 Mid-Senior level
@@ -65,133 +105,6 @@ Full-time
 Job function
 Engineering and Information Technology
 Industries
-Online Audio and Video Media and Broadcast Media Production and Distribution
+Technology, Information and Internet
   
 
-Referrals increase your chances of interviewing at Talent.Realised Pty Ltd by 2x
-
-See who you know
-
-Get notified about new Site Reliability Engineer jobs in Australia.
-
-Sign in to create job alert
-Similar jobs
-Platform Engineer Editorial - Platform Services
-Platform Engineer Editorial - Platform Services
-News Corp Australia
-Sydney, New South Wales, Australia
-2 weeks ago
-DevOps SRE Engineer
-DevOps SRE Engineer
-DXC Technology
-Macquarie Park, New South Wales, Australia
-2 weeks ago
-SRE Lead
-SRE Lead
-PropertyMe
-Sydney, New South Wales, Australia
-2 days ago
-Cloud SRE - Azure
-Cloud SRE - Azure
-Westpac
-Kogarah, New South Wales, Australia
-2 weeks ago
-Platform Technology DevOps - Engineer - TAG
-Platform Technology DevOps - Engineer - TAG
-WEX
-Melbourne, Victoria, Australia
-13 hours ago
-Software Engineer (Platform)
-Software Engineer (Platform)
-hipages Group
-Sydney, New South Wales, Australia
-1 day ago
-Show more jobs like this 
-People also viewed
-Power Platform Developer
-Power Platform Developer
-
-FLSmidth
-
-Pinkenba, Queensland, Australia
-6 hours ago
-Platform Engineer - Reliability, Middleware and Integration
-Platform Engineer - Reliability, Middleware and Integration
-
-Griffith University
-
-Nathan, Queensland, Australia
-1 week ago
-Platform Engineer (Python)
-Platform Engineer (Python)
-
-Cover Genius
-
-Sydney, New South Wales, Australia
-2 weeks ago
-Principal DevOps Reliability/Platform Engineer
-Principal DevOps Reliability/Platform Engineer
-
-Infineon Technologies
-
-Bangalore, New South Wales, Australia
-1 week ago
-D365 and Power Platform Developer
-D365 and Power Platform Developer
-
-World Vision Australia
-
-Burwood East, Victoria, Australia
-1 week ago
-DevOps Engineer / SRE (Site Reliability Engineer)
-DevOps Engineer / SRE (Site Reliability Engineer)
-
-Capgemini Engineering
-
-Perth, Western Australia, Australia
-4 days ago
-Senior Cloud Platform Specialist
-Senior Cloud Platform Specialist
-
-Datacom
-
-Perth, Western Australia, Australia
-1 day ago
-ForgeRock Platform Engineer
-ForgeRock Platform Engineer
-
-Hays
-
-Sydney, New South Wales, Australia
-4 days ago
-Lead Analytics & Platform Engineer (SaaS)
-Lead Analytics & Platform Engineer (SaaS)
-
-Deloitte
-
-Melbourne, Victoria, Australia
-2 weeks ago
-Cloud SRE - Azure
-Cloud SRE - Azure
-
-Westpac
-
-Melbourne, Victoria, Australia
-2 weeks ago
-Looking for a job?
-
-Visit the Career Advice Hub to see tips on interviewing and resume writing.
-
-View Career Advice Hub
-LinkedIn
-© 2023
-About
-Accessibility
-User Agreement
-Privacy Policy
-Cookie Policy
-Copyright Policy
-Brand Policy
-Guest Controls
-Community Guidelines
-Language

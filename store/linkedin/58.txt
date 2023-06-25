@@ -1,204 +1,101 @@
-Skip to main content
-LinkedIn
-Jobs
-Dismiss
-Dismiss
-Join now
-Sign in
-Software Engineer
-CurveBeam AI  Melbourne, Victoria, Australia
-4 days ago   Over 200 applicants
+
+Cloud Operations Engineer
+Exabeam  Bangalore, New South Wales, Australia
+5 days ago   Be among the first 25 applicants
   
-See who CurveBeam AI has hired for this role
+See who Exabeam has hired for this role
 Apply
 Save
-
-Direct message the job poster from CurveBeam AI
-
-Yu Peng
-CTO(AI) at CurveBeam AI | Visiting Professor at UTS | We're hiring!
-
-Australian public company, CurveBeam AI Limited, is an innovative medical device business providing a leading-edge global medical CT platform, and offering SaaS-based AI solutions to key orthopedic and bone health conditions.
+Exabeam is a global cybersecurity leader that created New-Scale SIEM™ for advancing security operations. We help organizations detect threats, defend against cyberattacks, and defeat adversaries. The powerful combination of our cloud-scale security log management, behavioral analytics, and automated investigation experience results in an unprecedented advantage over insider threats, nation states, and other cyber criminals. We understand normal behavior, even as normal keeps changing — giving security operations teams a holistic view of incidents for faster, more complete response.
 
 
 
 
-We are targeting the setting of a new standard of care, improving outcomes while reducing healthcare costs, in major underserved areas of healthcare. We value our people, their values, and foster a culture of teamwork, innovation and a focus on creating outcomes that make a difference.
+Detect. Defend. Defeat.™ Learn how at www.exabeam.com.
 
 
 
 
-About The Job
-
-As a cloud application engineer, you will work in a rapidly growing team to:
-
-Develop well-designed, maintainable and tested AI-powered back-end code using Go, Python or C++.
-Collaborate with other engineers to develop, manage and deploy the scalable, highly available, and secure micro-service platform in the cloud.
-Contribute to the product roadmap plan and architectural design; promote new techniques to the team.
-Drive and enhance the CICD workflow to support deploying our AI platform in a consistent and rapid way in multiple regions all over the world.
-Perform critical bottleneck and root cause analysis on the AI platform to bring forward any potential issues that can be improved or solved.
-Propose and contribute new solutions for the futureproof AI platform to support the development of new medical applications rapidly and reliably.
-Provide guidance to other engineers and actively participate in our hiring process.
+Exabeam is looking to enhance the 24/7 - Production Support team. In this role, you will help improve the response to alerts, manage escalations, triage software/network problems, and be an integral part of the customer’s incident response protocol.
 
 
 
 
-About You
-
-To be successful in this role, you will have the following:
-
-At least 3 years of experience in commercial development with Go, Python or C++. Coding proficiency in at least two languages above is preferred.
-At least 2 years of experience in developing applications on the cloud, including but not limited to AWS, GCP, or Azure.
-Advanced working experience in Infrastructure as Code (IoC), e.g., AWS CloudFormation, Terraform, or CDK.
-Highly proficient in container techniques, including Kubernetes, docker and its related tools.
-Working experience in logging and monitoring tools, e.g., ELK, datadog, Prometheus, or Grafana.
-Extensive hands-on experience in agile project management, preferably based on Atlassian tools (Jira and Confluence).
-Bachelor's degree or equivalent experience in computer science or a similar area.
+Responsibilities:
 
 
 
 
-The followings are nice to have but not required:
+Monitor and troubleshoot our client’s SaaS platform from initial alerts to incident resolution
+Analyze the impact of incidents and provide customer notifications when appropriate
+Document RCA of incidents; working with other support and engineering teams, as necessary
+Support customer upgrades to newer versions of the products.
+You will work cross-functionally with members of the Customer Success , Cloud Operations & Engineering teams in day-to-day support, maintenance, and troubleshooting to ensure optimal performance of the SaaS platform
+Automation to improve & reduce alerts and eliminate false positives
+You should have a strong passion for Production Support/SRE and running highly resilient/automated systems
+You have 3+ years of experience working in a Global Production Support teams and provide support Cloud systems for large production (customer facing) environments (500+ computing nodes)
 
-General understanding of computer vision and image processing algorithms
-General understanding of the machine learning training, validation, and test process.
-Experience with the MLOps.
-Experience with SRE.
+
+
+
+Requirements:
+
+
+
+
+Bachelor’s in Computer Science & Engineering or Equivalent
+Minimum 3 years of experience working as a Production Support Engineer.
+Experience with IT monitoring tools like DataDog / Grafana Cloud and alerting tools like Opsgenie
+Experience with Docker, Kafka, Logstash, and Elasticsearch is highly valued as well.
+Familiarity with Linux ( must ), cloud infrastructure and services, and networking.
+Good programming skills - Ability to script in any shell/python/ansible
+Experience with incident and alert management, and problem triage.
+Familiarity interfacing at all levels of the company, from customers to support to engineers.
+Excellent organization and communication skills.
+Strong sense of urgency, ownership, and willingness to go above and beyond.
+
+
+
+
+Nice to Have(s):
+
+
+
+
+Experience in Cyber Security
+ITIL Foundation Certification
+
+
+
+
+Why Exabeam:
+
+
+
+
+Medical Insurance starts from Day 1
+50k Maternity Coverage
+Generous PTO and Monthly Thank You Days
+Hybrid-friendly environment
+Culture Building Initiatives
+
+
+
+
+Exabeam is privately funded by Blue Owl Capital, Lightspeed Venture Partners, Cisco Investments, Norwest Venture Partners, Acrew Capital, Icon Ventures, and investor Shlomo Kramer. For more information visit https://www.exabeam.com or follow us on LinkedIn and Twitter. Looking for more? Check our reviews on Glassdoor.
+
+
+
+
+In connection with your application and communications with Exabeam, we will have access to some of your personal information. We have technical and organizational measures in place to ensure this information is protected. For more information about how we use and/or protect your personal information, including the categories of information collected, categories of use, and purpose of use, is available on our Privacy Policy at https://www.exabeam.com/legal/privacy-policy/.
 Show more 
 Seniority level
-Mid-Senior level
+Entry level
 Employment type
 Full-time
 Job function
 Engineering and Information Technology
 Industries
-IT Services and IT Consulting, Medical Equipment Manufacturing, and Software Development
+Software Development
   
 
-Referrals increase your chances of interviewing at CurveBeam AI by 2x
-
-See who you know
-
-Get notified about new Software Engineer jobs in Melbourne, Victoria, Australia.
-
-Sign in to create job alert
-Similar jobs
-Software Engineer
-Software Engineer
-V2 Digital
-Melbourne, Victoria, Australia
-2 days ago
-Software Engineer
-Software Engineer
-Green Light Worldwide
-Greater Melbourne Area
-3 days ago
-Software Engineer
-Software Engineer
-CGI
-Melbourne, Victoria, Australia
-2 weeks ago
-Software Engineer
-Software Engineer
-Cenitex
-Melbourne, Victoria, Australia
-1 month ago
-Software Engineer
-Software Engineer
-Arq Group
-Melbourne, Victoria, Australia
-2 weeks ago
-Software Engineer
-Software Engineer
-Latitude Financial Services
-Melbourne, Victoria, Australia
-4 weeks ago
-Show more jobs like this 
-People also viewed
-Senior Software Engineer
-Senior Software Engineer
-
-Opus Recruitment Solutions
-
-Melbourne, Victoria, Australia
-2 weeks ago
-Senior Software Engineer
-Senior Software Engineer
-
-Sportsbet
-
-Melbourne, Victoria, Australia
-1 week ago
-Software Engineer (Full or Part Time)
-Software Engineer (Full or Part Time)
-
-Bendigo and Adelaide Bank
-
-Melbourne, Victoria, Australia
-1 week ago
-Software Engineer - Platform Services
-Software Engineer - Platform Services
-
-Coles Group
-
-Hawthorn East, Victoria, Australia
-1 day ago
-Senior Software Engineer
-Senior Software Engineer
-
-Crew Talent Advisory
-
-Melbourne, Victoria, Australia
-2 weeks ago
-Software Engineer I - Cloud Platform
-Software Engineer I - Cloud Platform
-
-Five9
-
-Melbourne, Victoria, Australia
-2 days ago
-Senior Software Engineer
-Senior Software Engineer
-
-PaperCut Software
-
-Melbourne, Victoria, Australia
-4 weeks ago
-Senior Software Engineer
-Senior Software Engineer
-
-Programa
-
-Cremorne, Victoria, Australia
-3 weeks ago
-Senior Software Engineer
-Senior Software Engineer
-
-Unity
-
-Melbourne, Victoria, Australia
-1 week ago
-Software Engineer
-Software Engineer
-
-Green Light Worldwide
-
-Melbourne, Victoria, Australia
-2 weeks ago
-Looking for a job?
-
-Visit the Career Advice Hub to see tips on interviewing and resume writing.
-
-View Career Advice Hub
-LinkedIn
-© 2023
-About
-Accessibility
-User Agreement
-Privacy Policy
-Cookie Policy
-Copyright Policy
-Brand Policy
-Guest Controls
-Community Guidelines
-Language

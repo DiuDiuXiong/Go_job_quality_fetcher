@@ -1,195 +1,88 @@
-Skip to main content
-LinkedIn
-Jobs
-Dismiss
-Dismiss
-Join now
-Sign in
-Engineering Manager, Site Reliability
-Google  Sydney, New South Wales, Australia
-5 days ago  150 applicants
+
+Principal DevOps Engineer
+Nearmap  Barangaroo, New South Wales, Australia
+4 days ago   Be among the first 25 applicants
   
-See who Google has hired for this role
+See who Nearmap has hired for this role
 Apply
 Save
-At Google, we have a vision of empowerment and equitable opportunity for all Aboriginal and Torres Strait Islander peoples and commit to building reconciliation through Google’s technology, platforms and people and we welcome Indigenous applicants. Please see our Reconciliation Action Plan for more information.
 
-Minimum qualifications:
-
-
-Bachelor's degree in Computer Science, a related technical field, or equivalent practical experience.
-3 years of experience in technical leadership and people management.
-Experience working with C, C++, Java, Go, or Python.
+Our DevOps stack: Kubernetes, IAC, GitLab, Linux, Containerisation
 
 
-Preferred qualifications:
+
+What we're looking for:
 
 
-Experience in problem-solving and analyzing global scale distributed systems.
-Experience in Unix/Linux systems, IP networking, performance, and application issues.
-Experience with recruiting and managing a team of engineers on large-scale projects.
-Experience in algorithms, data structures, and software design.
-Knowledge of technical coding, networking, operating systems and storage.
-Excellent stakeholder management and communication skills.
+
+Experience working in a DevOps role as a senior, principal or technical lead.
+Technical leadership experience with the ability to drive the technical direction and prioritisation of our core DevOps team.
+Experience with software build tools and automation tools.
+Experience working and supporting infrastructure in a highly available environment, and working within large-scale cloud environments.
+Experience with modern SRE practices in a cloud-native environment.
+Experience working with cross-functional teams, with the ability to communicate with technical and non-technical stakeholders effectively.
+Passion for internal tooling, CICD and compliance.
+Team-centric leadership and willingness to help others succeed.
 
 
-About The Job
-
-Site Reliability Engineering (SRE) combines software and systems engineering to build and run large-scale, massively distributed, fault-tolerant systems. SRE ensures that Google's services—both our internally critical and our externally-visible systems—have reliability, uptime appropriate to users' needs and a fast rate of improvement. Additionally SRE’s will keep an ever-watchful eye on our systems capacity and performance. Much of our software development focuses on optimizing existing systems, building infrastructure and eliminating work through automation.
-
-On the SRE team, you’ll have the opportunity to manage the complex challenges of scale which are unique to Google, while using your expertise in coding, algorithms, complexity analysis and large-scale system design.
-
-SRE's culture of diversity, intellectual curiosity, problem solving and openness is key to its success. Our organization brings together people with a wide variety of backgrounds, experiences and perspectives. We encourage them to collaborate, think big and take risks in a blame-free environment. We promote self-direction to work on meaningful projects, while we also strive to create an environment that provides the support and mentorship needed to learn and grow.
-
-To learn more: check out our books on Site Reliability Engineering or read a career profile about why a Software Engineer chose to join SRE.
-
-Behind everything our users see online is the architecture built by the Technical Infrastructure team to keep it running. From developing and maintaining our data centers to building the next generation of Google platforms, we make Google's product portfolio possible. We're proud to be our engineers' engineers and love voiding warranties by taking things apart so we can rebuild them. We keep our networks up and running, ensuring our users have the best and fastest experience possible.
-
-Responsibilities
+Qualifications
 
 
-Lead a team of Software/Systems Engineers on projects.
-Manage availability and performance of mission critical services and build automation to prevent problem recurrence.
-Manage on-call rotations across continents, using a follow-the-sun model.
-Design, write, and deliver software to improve the availability, scalability, latency, and efficiency of services.
+
+Tertiary qualifications in Computer Science, Engineering, or Information Technology (or equivalent).
 
 
-Google is proud to be an equal opportunity workplace and is an affirmative action employer. We are committed to equal employment opportunity regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity or Veteran status. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements. See also Google's EEO Policy and EEO is the Law. If you have a disability or special need that requires accommodation, please let us know by completing our Accommodations for Applicants form .
+
+
+
+Additional Information
+
+
+
+Some of our benefits
+
+
+
+Nearmap takes a holistic approach to our employees’ emotional, physical and financial wellness. Some of our current benefits include:
+
+
+
+Quarterly wellbeing day off - Four additional days off annually for your 'YOU' Days
+Access to LinkedIn Learning
+Wellbeing and technology allowance
+Annual flu vaccinations
+Hybridflexibility for this role
+Nearmap subscription (of course!)
+Stocked kitchen with access to all the snacks you need
+In-office lunch every Wednesday at our Sydney CBD office
+Showers available for anyone cycling to work or lunchtime gym-goers!
+
+Working at Nearmap
+
+We move fast and work smart; often wearing multiple hats. We adapted to remote working with ease and are continually looking at ways to improve. We’re proud of our inclusive, supportive culture, and maintain a safe environment where everyone feels a sense of belonging and can be themselves.
+
+
+
+If you can see yourself working at Nearmap and feel you have the right level of experience, we invite you to get in touch.
+
+
+
+Watch our culture video below to find out more about what a day in the life at Nearmap looks like.
+
+
+
+Thanks, but we got this! Nearmap does not accept unsolicited resumes from recruitment agencies and search firms. Please do not email or send unsolicited resumes to any Nearmap employee, location or address. Nearmap is not responsible for any fees related to unsolicited resumes.
+
+
+
 Show more 
 Seniority level
-Not Applicable
+Mid-Senior level
 Employment type
 Full-time
 Job function
-Project Management, Strategy/Planning, and Other
+Information Technology
 Industries
-Information Services and Technology, Information and Internet
+IT Services and IT Consulting
   
 
-Referrals increase your chances of interviewing at Google by 2x
-
-See who you know
-
-Get notified about new Site Engineering Manager jobs in Sydney, New South Wales, Australia.
-
-Sign in to create job alert
-Similar jobs
-Engineering Manager
-Engineering Manager
-ACCIONA Australia
-Sydney, New South Wales, Australia
-2 weeks ago
-Engineering Manager - CDN (BE)
-Engineering Manager - CDN (BE)
-Canva
-Sydney, New South Wales, Australia
-2 weeks ago
-Engineering Manager
-Engineering Manager
-Pioneera
-Sydney, New South Wales, Australia
-1 week ago
-Engineering Manager
-Engineering Manager
-Perpetual Limited
-Sydney, New South Wales, Australia
-2 weeks ago
-Engineering Manager
-Engineering Manager
-CSR Limited
-Ingleburn, New South Wales, Australia
-3 days ago
-Engineering Manager
-Engineering Manager
-Change Recruitment
-Sydney, New South Wales, Australia
-3 weeks ago
-Show more jobs like this 
-People also viewed
-Senior Engineering Manager – AWS Platforms & Infrastructure
-Senior Engineering Manager – AWS Platforms & Infrastructure
-
-Australian Broadcasting Corporation (ABC)
-
-Sydney, New South Wales, Australia
-2 weeks ago
-Senior Manager, Cloud Engineering
-Senior Manager, Cloud Engineering
-
-Insignia Financial
-
-Sydney, New South Wales, Australia
-1 day ago
-Project Engineering Manager
-Project Engineering Manager
-
-GE Renewable Energy
-
-Silverwater, New South Wales, Australia
-3 days ago
-Digital Engineering Manager
-Digital Engineering Manager
-
-CPB Contractors
-
-Sydney, New South Wales, Australia
-2 weeks ago
-Engineering Manager - Experimentation Platform
-Engineering Manager - Experimentation Platform
-
-Canva
-
-Sydney, New South Wales, Australia
-2 weeks ago
-Senior Engineering Manager, Jira Work Management
-Senior Engineering Manager, Jira Work Management
-
-Atlassian
-
-Sydney, New South Wales, Australia
-1 week ago
-Engineering Manager - Engineering Enablers
-Engineering Manager - Engineering Enablers
-
-Macquarie Group
-
-Sydney, New South Wales, Australia
-2 weeks ago
-Engineering Manager - Payments
-Engineering Manager - Payments
-
-Luxury Escapes
-
-Sydney, New South Wales, Australia
-2 weeks ago
-Engineering Manager (Full Stack) (Bangkok based, relocation provided)
-Engineering Manager (Full Stack) (Bangkok based, relocation provided)
-
-Agoda
-
-Sydney, New South Wales, Australia
-2 weeks ago
-Security Engineering Manager
-Security Engineering Manager
-
-Constantinople
-
-Sydney, New South Wales, Australia
-1 month ago
-Looking for a job?
-
-Visit the Career Advice Hub to see tips on interviewing and resume writing.
-
-View Career Advice Hub
-LinkedIn
-© 2023
-About
-Accessibility
-User Agreement
-Privacy Policy
-Cookie Policy
-Copyright Policy
-Brand Policy
-Guest Controls
-Community Guidelines
-Language

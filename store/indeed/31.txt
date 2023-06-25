@@ -1,105 +1,59 @@
-Skip to main content
-Find jobs
-Company reviews
-Search Salary
-Upload your resume
-Sign in
-Employers / Post Job
-Start of main content
-What
-Where
-Find Jobs
-Senior Data Engineer
-REA Group
-Melbourne VIC
-Hybrid remote
-Full-time
+Software Engineer (Platform)
+hipages
+Sydney NSW
+Remote
 You must create an Indeed account before continuing to the company website to apply
 Apply on company site
-Job details
-No matching job preferences
-Job Type
-Full-time
-Utilise your experience in Data Catalogue
-Experience Hybrid working arrangements in a flexible environment – ex: Work from the office or home in a rhythm that suits you
-Permanent role based in Sydney, Melbourne or Brisbane
-Sustainability - We are certified carbon neutral and committed to reducing our impact on the environment.
-Charities – We have long-term partnerships with charities working to address homelessness.
-We're REA
-REA Group
-is not your average digital business. From humble beginnings in a garage in Melbourne’s east in 1995, we have grown into a leading global digital business, specialising in property.
 
-With bold and ambitious goals, we are changing the way the world experiences property. No matter where you're at on your property journey, we're here to help with every step - whether that's finding or financing your next home.
+About the role:
 
-Our people are the key to our success. At the heart of everything we do, is a thriving culture centred around high performance and care. We are purpose driven and collaborative, which drives innovation and our ability to make a real impact. As such, we’re proud to be named in Australia’s “Top 5” Best Workplaces two years in a row, as well as being recognised as a Best Workplace for Women.
-Where the team fits in
-The Data Platform squad is responsible for shaping and delivering the future of our data platform architecture. We build it using a combination of commercial off-the-shelf products and bespoke REA components, including:
-Google BigQuery data warehouse/data lake platform.
-Bespoke batch ETL job orchestration platform built with Apache Airflow.
-Open source based & white-labelled data catalogue + metadata management platform.
-Apache Kafka stream processing platform.
-Our mission is to make it easy to leverage REA Data. These systems are relied on by 50+ engineering teams and 300+ monthly users at REA, including Data Engineers, Data Scientists, Analysts, SQL Developers, Business Analysts, Product Managers and more.
-What the role is all about
-You will be joining a group of wonderful people, function in a distributed team and solve complex problems that have far reaching benefits to the business and Tech community.
-As a Senior Data Engineer you will contribute within Data Platform team in the following ways:
-Provide technical leadership and guidance to the team, serving as a subject matter expert in data engineering and related technologies.
-Contribute to the design and architecture of scalable, efficient, and secure data solutions, considering long-term scalability and maintainability.
-Contribute to the adoption of best practices, coding standards, and engineering principles across the team to ensure a high-quality and maintainable codebase.
-Conduct performance analysis, optimization, and tuning of data processing workflows and systems to enhance efficiency and meet performance targets.
-Stay up-to-date with the latest trends, technologies, and advancements in data engineering and proactively evaluate their potential impact on the organization's data infrastructure.
-Participate in technical discussions, code reviews, and architectural reviews to maintain code quality, identify improvement opportunities, and ensure adherence to standards.
-Mentor and coach junior engineers, fostering their professional growth and assisting them in overcoming technical challenges.
-Collaborate with stakeholders to define data governance policies, data quality standards, and data management processes.
-Drive continuous improvement initiatives, such as automation, tooling enhancements, and process optimizations, to increase productivity and operational efficiency.
-Act as a strong advocate for data-driven decision-making, promoting a data-driven culture within the organization.
-Who we’re looking for
-Extensive experience in designing, coding, and testing data platform/management tools and systems.
-Strong knowledge of software development principles and best practices.
-Proficiency in programming languages commonly used in data engineering, such as Python, Java, or Go.
-Familiarity with agile methodologies and tools.
-Experience with data catalog tools and platforms (e.g., Apache Atlas, Amundsen, Collibra, Alation).
-Understanding of data governance best practices and principles.
-Hands-on experience with cloud-based data platforms and services (e.g., AWS, Azure, Google Cloud).
-Expertise in data architecture, data modeling, and database design.
-Knowledge of data integration techniques, ETL processes, and data pipeline development.
-Ability to ensure operational stability and performance of data systems.
-Excellent communication skills and the ability to collaborate effectively with cross-functional teams.
-Experience with DevOps practices and tools, such as Docker and CI/CD.
-Ability to work collaboratively and autonomously in a fast-paced environment.
-Bonus if you have any of the following
-Experience in using and managing Cloud infrastructure in AWS and/or GCP.
-Experience with Infrastructure as Code techniques, particularly AWS CloudFormation, AWS CDK and Terraform.
-Exposure to platform engineering concepts or developer experience & tooling.
-Knowledge of SRE and observability best practices.
-Willingness to learn new and complex technologies, and ability to share knowledge with the team.
-The REA experience
-The physical, mental, emotional and financial health of our people is something we’ll never stop caring about. This is a place to learn and grow. We’re committed to your development – both professionally and personally. Your experience with us is something we take seriously.
-We offer:
-A hybrid and flexible approach to working -
-https://rea.to/hybrid-working
-Flexible parental leave offering for primary and secondary carers
-Programs to support mental, emotional, financial and physical health & wellbeing
-Our Because We Care program offers employees volunteering leave, community grants, matched payroll giving and our Community Café donates 100% of revenue to charity.
-Hack Days so you can bring your big ideas to life
-Performance recognition programs because hard work should never go unnoticed
-Our commitment to Diversity, Equity, and Inclusion
-We are committed to providing a working environment that embraces and values diversity, equity and inclusion. We believe teams with diverse ideas and experiences are more creative, more eﬀective and fuel disruptive thinking - be it cultural and ethnic backgrounds, gender identity, disability, age, sexual orientation, or any other identity or lived experience. We know diverse teams are critical to maintaining our success and driving new business opportunities. If you've got the skills, dedication and enthusiasm to learn but don't necessarily meet every single point on the job description, please still get in touch.
-If you like the sound of us, then we think you should apply today. We're proud to be Circle Back Initiative Employer and we commit to respond to every applicant. While we're looking at your application, and preparing to come back to you with an update, why not get to know us a bit more through our various social channels?
-Report job
-Hiring Lab
-Career Advice
-Browse Jobs
-Browse Companies
-Salaries
-Indeed Events
-Work at Indeed
-Countries
-About
-Help Centre
-ESG at Indeed
-© 2023 Indeed
-Accessibility at Indeed
-Privacy Centre
-Cookies
-Privacy
-Terms
+You'll be building and improving our infrastructure and tools. You'll also contribute to the future internal platform products. To devise innovative solutions, you will work closely with fellow platform engineers, product managers, and other key stakeholders. But most importantly, you'll be joining a top-notch engineering team!
+
+Benefits:
+
+Competitive salary, benefits and perks, plus equity via our Employee Share Program
+Work from home with 50/50 hybrid working model
+Cross functional collaboration with autonomous work driven by your own innovation
+Leverage hands-on learning, coaching opportunities and workshops for continuous upskilling
+Inhouse Talent Development team to support your personal career growth and plan for your promotion!
+
+How you will add value:
+
+Contribute to raising the bar of what-good-looks-like within hipages Engineering
+Design, development, and delivery of quality, maintainable platform tools
+Creation of APIs which will be consumed both internally and externally
+Writing clean, maintainable, testable code to support and enable the growth of the company
+Participation in discussions of system design & architecture
+Share your knowledge and skills with the team
+
+About you:
+
+We don't expect you to be expert in everything, but we do expect you to learn
+2+ years of relevant SRE/Devops/Platform engineering experience
+Experience working in a cloud environment, an agile team (Scrum or Kanban), scripting and writing automations and with a CI/CD system
+Understanding of Kubernetes and the software development lifecycle
+
+About the company:
+
+We are an Australian-owned, ASX-listed tech company and the leading online tradie marketplace in Australia. Inspired and driven by our purpose of transforming the trade industry, building better lives for everyone, hipages Group operates via three technology-enabled platforms; hipages, Tradiecore, and Builderscrack (NZ) with over 300 team members across Australia, China, Philippines and New Zealand.
+
+Take a look inside our home:
+
+Ranked #2 in Best Places to Work in Australia for the past two years, we offer meaningful, impactful work collaborating and innovating with the best and brightest in a transparent, supportive and fast-paced work environment:
+
+Close-knit diverse family of bright, respectful, collaborative members who love to solve problems and jump on new opportunities
+Strengths based organisation with in house coaching to help you leverage what makes you special
+Holistic wellbeing focus with EAP access, meditation room, daily bottomless continental breakfast, fresh fruit and snacks and diversity initiatives and celebrations
+Inspiring office and location - based in the heart of Sydney CBD, only a few steps from Town Hall Station, with multiple indoor and outdoor collaboration and social areas
+Social connection focus: Friday socials, 2x big company parties per year and regular and fun teaming activities - we work hard but play hard too!
+
+We value Diversity:
+
+Innovation & Collaboration are core values at hipages, and are impossible to cultivate without a diverse and inclusive team. We don't expect you to be an expert in all areas, we're more interested in who you are as a person, a team member and a leader.
+
+Research shows that while men apply for jobs when they meet an average of 60% of the criteria, women and other minority groups tend to only apply when they check every box. So if you don't tick every single box above, but you think you would be a great fit for the role we encourage you to apply, we would LOVE to hear from you!
+
+We are a 2023 Circle Back Initiative Employer – we commit to respond to every applicant.
+
+#LI-JL1 #LI-Hybrid
+

@@ -1,246 +1,105 @@
-Skip to main content
-LinkedIn
-Jobs
-Dismiss
-Dismiss
-Join now
-Sign in
-Cloud/DevOps Engineering - Team Lead (AWS)
-Squiz  Sydney, New South Wales, Australia
-2 weeks ago  46 applicants
-  
-See who Squiz has hired for this role
+
+Site Reliability Engineer
+Smarsh Bangalore, New South Wales, Australia
 Apply
+Email
+Password (8+ characters)
+Site Reliability Engineer
+Smarsh  Bangalore, New South Wales, Australia
+1 day ago   Be among the first 25 applicants
+  
+See who Smarsh has hired for this role
+Apply
+Email
+Password (8+ characters)
 Save
-
-We are looking for a Team Lead for our Cloud/DevOps Engineering team with experience as a cloud/devops engineer (either looking for a step up or an experienced team lead looking for your next challenge), You have previously spent time building AWS architectures that are deployed utilising solid coding and testing practices, that lean into best practice CI/CD, This is a hands on role, thus will suit someone with solid technical ability willing to get in and roll up the sleeves and actually play a part in building solutions.
-
-
-
-We're location-flexible! This role is open to all candidates on the east coast of Australia.
+Who are we?
 
 
 
-Ideally you will have
+
+Smarsh empowers its customers to manage risk and unleash intelligence in their digital communications. Our growing community of over 6500 organizations in regulated industries counts on Smarsh every day to help them spot compliance, legal or reputational risks in 80+ communication channels before those risks become regulatory fines or headlines. Relentless innovation has fueled our journey to consistent leadership recognition from analysts like Gartner and Forrester, and our sustained, aggressive growth has landed Smarsh in the annual Inc. 5000 list of fastest-growing American companies since 2008.
 
 
 
-Excellent knowledge around infrastructure, infrastructure-as-code and current tooling to support the management and orchestration of AWS architecture
-Excellent knowledge of DevOps/cloud engineering principles and practices that support best practice CI/CD
-Excellent team working and communication skills
-Excellent organisational and time management skills
-Experience in a SaaS based environment - managing costings within multi tenant environments
-Experience/exposure to or even an understanding of observability and monitoring (not looking for an SRE)
-Conversant on Agile principles, have previously worked in a Scrum team
-A can do attitude and an understanding that this is a journey and we are at the early stages
 
-Nice to have
+About The Team
 
 
 
-Exposure/understanding of container technologies
-Experience exposure to Database platforms
-Experience/exposure to serverless services
-Team lead experience or a desire to be
 
-What you would be doing:
+As a member of our SaaS Operations team, your role will be crucial in enabling the development team to deliver software solutions for Smarsh's Cyber Compliance service offering. You'll have the chance to leverage cutting-edge SaaS technologies and tools to scale the product, all while maintaining strict adherence to change control processes and InfoSec security policies for both internal and external environments.
 
 
 
-Lead and build a team of cloud engineers, providing technical guidance, mentorship, work allocation, define processes, initiative and epic/story refinement.
-Work across Squiz Product Engineering teams to guide and mentor cloud best practices, drive adoption of service oriented architecture.
-Develop high-quality standards for CI/CD, container and artefact management, security and code quality compliance scanning, for the deployment of our products to SaaS environments
-Provide a great developer experience to product teams, through both technology and relationship building
-Lead the team on discussions on roadmap, architecture, and strategy.
-Participate in agile ceremonies including standups, sprint refinements, planning, reviews, and showcases
-Contribute to the team's (and your own) continuous growth and improvement by bringing new ideas to the table
-We are a global company so there will be a need for some 'out of hours' meeting with your counterpart in the UK
 
-Who you would be working with:
+This is a challenging yet fulfilling SRE opportunity that requires a detail-oriented individual with a passion for complex problem-solving. If you're up for the challenge and are looking for a fun and rewarding role, we encourage you to apply for this position.
 
 
 
-This is a unique opportunity to lead a team that is transforming our company's approach to Cloud Engineering, reducing complexity with a strong focus on developer and customer enablement by embracing self service practices, and standardised development and deployment models.
+
+Essential Functions
 
 
 
-Who we are:
+
+Attend and actively participate in team ceremonies (stand-ups, retros, and planning meetings).
+Coordinate efforts with globally dispersed teams.
+Respond to incidents coordinated by SRE and Incident Response teams.
+Document decisions regarding technology choices, best practices and process.
+Manage operations code bases using Smarsh engineering practices.
+Creatively solve problems in the SaaS Operations space, collaborating with SRE, Platform, Delivery, and Engineering team members.
+Develop tools and libraries for broader use by SaaS Operations and Engineering teams.
+Contribute to architectural conversations and plans.
 
 
 
-Squiz helps complex, service-led organisations harness the power of digital, improving the services they offer online.
+
+Education And Experience
 
 
 
-Founded in 1998, Squiz grew during the rise of the internet. Since then, we have evolved from a simple web content management system into a full digital experience platform (DXP), helping customers make the shift from being content managers to experience creators.
+
+4-6+ years industry experience.
+BS in CS/Masters in CS or equivalent.
 
 
 
-The Squiz DXP brings together content, search, data and applications in one place. To get the most out of the platform, customers can collaborate with our digital experts to design solutions and adapt as demands change.
+
+Technology Requirements
 
 
 
-We are headquartered in Australia, with teams and customers across the globe, and offices in New Zealand, the United States, the United Kingdom and Poland.
+
+Experience with AWS, both console and CLI – EC2, RDS, Lambda, S3, CloudWatch, Networking/Security (VPC, ELB, NAT, SG)
+Experience with AWS administration of multi-tier architecture.
+Experience with containerization (Docker), including creating Linux backend host/containers with the following services: Drupal, NGNIX Proxy, RabbitMQ, LDAP, OpenVPN, IPSEC.
+Broad range of scripting experience (i.e. Python, Bash).
+Strong background in managing and releasing code with Git/Github and Docker Hub.
+Experience monitoring degree of performance and uptime (Datadog, Grafana)
+Experience managing continuous integration systems and CI/CD build pipelines (Jenkins, Github Actions, GitLab, CircleCI)
+Experience with automated configuration management and deployment tools or scripts (DuploCloud, terraform).
+Background in Linux administration (RedHat/CentOS, Ubuntu), including patching and maintenance.
+Background working in a multi-platform environment (Linux, Windows).
+Experience with builds and packaging in a Linux/Java and Windows/.NET environment strongly preferred (Maven, msbuild, rpm, etc).
 
 
 
-Right now, we are on a very exciting journey. We are transforming into a SaaS organisation, and we're looking for great people to be a part of this reinvention.
+
+About Our Culture
 
 
 
-Why work for Squiz?
 
-
-
-You'll work with some of the most intelligent and down to earth people you've ever meet. We are made up of a diverse range of passionate professionals who love challenging the status quo. Every day is different, but what is constant is we all love what we do.
-
-
-
-We have a lived commitment to flexibility, we know the success of our people is dependent on them having a balanced life. You will be offered flexibility as to where and how you work every day. We want you to be able to work in a way that drives productivity, efficiency and outcomes; along with connection and collaboration.
-
-
-
-We celebrate diversity and unite on the elements of our company DNA, starting every customer conversation with "why?" to really understand their needs, working hard to find a way to overcome every challenge, and fighting for better outcomes with the work we do. We also check our egos at door, we don't take ourselves too seriously and we have fun along the way.
-
-
-
-We are a 2023 Circle Back Initiative Employer - we commit to respond to every applicant.
-
+Smarsh hires lifelong learners with a passion for innovating with purpose, humility and humor. Collaboration is at the heart of everything we do. We work closely with the most popular communications platforms and the world’s leading cloud infrastructure platforms. We use the latest in AI/ML technology to help our customers break new ground at scale. We are a global organization that values diversity, and we believe that providing opportunities for everyone to be their authentic self is key to our success. Smarsh leadership, culture, and commitment to developing our people have all garnered Comparably.com Best Places to Work Awards. Come join us and find out what the best work of your career looks like.
 Show more 
 Seniority level
-Mid-Senior level
+Entry level
 Employment type
 Full-time
 Job function
-Information Technology
+Engineering and Information Technology
 Industries
 Software Development
   
 
-Referrals increase your chances of interviewing at Squiz by 2x
-
-See who you know
-
-Get notified about new Engineering Team Lead jobs in Sydney, New South Wales, Australia.
-
-Sign in to create job alert
-Similar jobs
-Engineering Team Lead
-Engineering Team Lead
-Ubisoft
-Sydney, New South Wales, Australia
-2 weeks ago
-Software Engineering Team Lead
-Software Engineering Team Lead
-The Salvation Army Australia
-Redfern, New South Wales, Australia
-4 weeks ago
-Graduate - Engineering
-Graduate - Engineering
-Ampol Australia
-Sydney, New South Wales, Australia
-3 weeks ago
-AWS Cloud Engineer
-AWS Cloud Engineer
-Opteon AUS & NZ
-Sydney, New South Wales, Australia
-2 weeks ago
-*AWS DevOps Engineer*
-*AWS DevOps Engineer*
-Accenture Australia
-Sydney, New South Wales, Australia
-2 days ago
-Asset Engineering Technician
-Asset Engineering Technician
-Metro Trains Sydney
-Sydney, New South Wales, Australia
-1 week ago
-Show more jobs like this 
-People also viewed
-Azure DevOps and IT Cloud Engineer
-Azure DevOps and IT Cloud Engineer
-
-Achmea Australia
-
-Sydney, New South Wales, Australia
-1 day ago
-Cloud Engineer
-Cloud Engineer
-
-Hamilton Barnes 🌳
-
-Sydney, New South Wales, Australia
-2 weeks ago
-Senior Applications Technical Specialist (SME) - AVEVA Engineering
-Senior Applications Technical Specialist (SME) - AVEVA Engineering
-
-Worley
-
-Greater Sydney Area
-1 day ago
-NPD Team Lead
-NPD Team Lead
-
-BE Campbell Group
-
-Sydney, New South Wales, Australia
-2 weeks ago
-DevOps Engineer
-DevOps Engineer
-
-swipejobs
-
-North Sydney, New South Wales, Australia
-2 weeks ago
-Assets Assembly Technical Lead
-Assets Assembly Technical Lead
-
-Animal Logic
-
-Sydney, New South Wales, Australia
-3 weeks ago
-DevOps Engineer
-DevOps Engineer
-
-nib Group
-
-Sydney, New South Wales, Australia
-5 days ago
-DevOps Engineer
-DevOps Engineer
-
-Talenza
-
-Sydney, New South Wales, Australia
-5 days ago
-Team Lead – Sustainability and Climate Resilience
-Team Lead – Sustainability and Climate Resilience
-
-SMEC
-
-North Sydney, New South Wales, Australia
-2 weeks ago
-Cloud Engineer
-Cloud Engineer
-
-Ensure Recruitment
-
-Sydney, New South Wales, Australia
-1 week ago
-Looking for a job?
-
-Visit the Career Advice Hub to see tips on interviewing and resume writing.
-
-View Career Advice Hub
-LinkedIn
-© 2023
-About
-Accessibility
-User Agreement
-Privacy Policy
-Cookie Policy
-Copyright Policy
-Brand Policy
-Guest Controls
-Community Guidelines
-Language

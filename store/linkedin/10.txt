@@ -1,246 +1,84 @@
-Skip to main content
-LinkedIn
-Jobs
-Dismiss
-Dismiss
-Join now
-Sign in
-DevOps Engineer
-LEAP Dev  Sydney, New South Wales, Australia
-2 weeks ago  94 applicants
+
+Site Reliability Engineer
+Tribus Technology  Sydney, New South Wales, Australia
+6 days ago  38 applicants
   
-See who LEAP Dev has hired for this role
+See who Tribus Technology has hired for this role
 Apply
 Save
 
-Direct message the job poster from LEAP Dev
+Direct message the job poster from Tribus Technology
 
-Carie Spartalis
-Recruitment Coordinator at LEAP Dev
+Greg Moore
+Founder | Tribus Technology | Helping organisations hire in Software Engineering & Data
 
-LEAP Dev is the “Software House” powering the market leading LEAP Legal Software. Founded 30 years ago, we have been helping small to medium sized law firms to be more productive and reduce their non-billable time so they can concentrate on what is important, their clients! We commit more than $20 million a year to research and development and our cloud-based products make it easy for our clients to operate anytime, from anywhere!
-
-
-
-
-We are looking for a SRE / Cloud / DevOps Engineer with 1 to 2 years AWS experience that is looking to grow into a more hands on project-based role. You will be working on projects across our AWS infrastructure that improve our architecture, processes and internal tooling with a focus on automation / security.
+If you're looking to be part of an SRE team that thrives on project-based initiatives, then this opportunity is for you.
 
 
 
 
-The DevOps team consists of more than a dozen people, and work collaboratively to support all the LEAP businesses. Over our decade long journey on AWS, we have grown our workload from a handful of EC2 instances to a more automated platform supporting hundreds of workloads across multiple products, accounts and regions.
+Our client has cultivated a remarkable engineering culture over time, striking the perfect balance that has resulted in exceptional employee retention rates.
 
 
 
 
-You will be joining a well-established and highly experienced team with a dedication to supporting each other to achieve great results. We enjoy an excellent relationship with AWS Enterprise Support and have direct access to Technical Managers, Solutions Architects and Subject Matter Experts to make sure we are delivering the highest standard of infrastructure.
+Here's what you can expect:
+
+Outcome-oriented environment: They tackle project-based initiatives with a well-defined roadmap for the next 2 years, focusing on ensuring the reliability and performance of their systems.
+Hybrid work model: Enjoy the flexibility of remote work for most of the week, while having 1-2 office days dedicated to collaboration sessions.
+Equal opportunity: Regardless of your level of experience, they empower all team members to contribute and provide them with the best tools to succeed in maintaining a robust infrastructure.
+Emphasis on research and development: As a tech-focused company, they continuously innovate and improve their systems to stay ahead in today's competitive market.
+Supportive leadership: The leadership team encourages open communication, welcomes concerns, and values constructive feedback.
 
 
 
 
-Why join LEAP Dev?
+The tech stack is ever-changing but it currently includes;
+
+Jenkins | Terraform | Ansible | Kubernetes | ArgoCD | Prometheus | Grafana | ELK | Node.JS | React | .Net | Kafka
 
 
 
 
-We build and develop a market leading, “Legal Tech” product, with offices in Australia, New Zealand, United States, Canada, United Kingdom and the Republic of Ireland.
-We are committed to innovation and global expansion of our products and are constantly utilising new technologies to better our client experience.
-We are committed to providing a hybrid work environment so our employees can enjoy a mixture of WFH as well as time collaborating in the office.
-We encourage our employees to have a voice and to collaborate with each other to work on technical solutions, of course we have company visions and goals, but we want you to help us achieve these!
-We will invest our time and money in you to help develop your career. Open discussions and reviews will help us understand your career aspirations, maybe it’s a new AWS certification you are after or an internal move to a new area, we will support you and your goals.
-As a LEAP Dev employee, you will receive a competitive salary that is reviewed regularly, paid learning and development opportunities, access to an employee share plan that has been highly profitable, free platinum gym membership, great parental leave policy, social events and MUCH MORE!
+As an SRE, you'll join a team of 4 highly skilled engineers dedicated to ensuring the reliability and scalability of the systems for their global customer base.
 
 
 
 
-What will you be working on as a DevOps Engineer?
+To succeed in this role you will need to be comfortable with at least 3 of the following;
+
+Jenkins or GitLab
+Terraform
+Ansible
+Kubernetes
+Grafana
+Prometheus
 
 
 
 
-Designing, maintaining, and improving our large enterprise AWS environment and workloads.
-Working within a team that is focused on implementing best practice’s as per the AWS Well-Architected Security Pillar.
-Reviewing the current implementation of existing AWS services for gaps and working on improvements in line with AWS best practices.
-Creating automated solutions and taking a proactive approach to security.
-Working on integrations between external tools and our AWS environment.
-Reviewing existing user and application permissions and implementing least privilege.
-Creating technical documentation for DevOps processes.
-Monitoring and on call for critical service outages (approximately one week in 10)
+Currently, they’re building on-prem but are about to start their cloud journey with AWS.
+
+They value your attitude and passion for growth over specific technology expertise. If you’re eager to learn and develop your skills, they will provide you with the tools and support to succeed.
 
 
 
 
-What experience do you need to become a DevOps at LEAP Dev?
+Please apply or email me directly for more information; greg.moore@tribustechnology.com
 
 
 
 
-1-2 years working experience with AWS Services in a production environment such as: (S3, VPC, IAM Roles & Policies, CloudFormation, CloudFront, EC2, ECS, ALB, ASG, Lambda, API Gateway, CodePipeline)
-Coding experience in any primary programming language (we use Python). You will be able to query data and automate tasks across AWS services and third-party API’s.
-Interest to continuously learn new technologies / AWS services as required with a focus on automation and security.
-Strong technical problem-solving skills.
-Attention to detail and a focus on delivering quality.
-Understanding of VPC and networking concepts within AWS.
-Experience with Infrastructure as Code (CloudFormation or Terraform).
-Experience with CI/CD: AWS CodePipeline, TeamCity, Jenkins, Puppet (atleast one)
-Strong communication skills both written and verbal.
-Associate or higher AWS Certifications desirable (Dev, SA, SysOps)
-
-
-
-
-We are in this together.
-
-
-
-
-At LEAP Dev, we promote equal opportunity. Creating a culture of diversity and inclusion not only promotes innovation but we believe is the right way to do business. Our LEAPsters bring different cultures, genders and perspectives to their days and we wouldn't have it any other way.
-
-
-
-
-We welcome and encourage you to apply, no matter who you are or how you identify.
-
-
-
-
-If you have the relevant experience (or close to it!) and like the sound of the role and LEAP Dev, we would love to see your application and continue your journey to join us!
+If you don’t quite fit the requirements but are interested in having a conversation with one of our senior consultants please send your resume to careers@tribustechnology.com
 
 Show more 
 Seniority level
-Entry level
+Mid-Senior level
 Employment type
 Full-time
 Job function
-Information Technology
+Engineering and Information Technology
 Industries
-Software Development
+Staffing and Recruiting
   
 
-Referrals increase your chances of interviewing at LEAP Dev by 2x
-
-See who you know
-
-Get notified about new DevOps Engineer jobs in Sydney, New South Wales, Australia.
-
-Sign in to create job alert
-Similar jobs
-DevOps Engineer
-DevOps Engineer
-Blackhawk Network Australia
-Sydney, New South Wales, Australia
-4 days ago
-DevOps Engineer
-DevOps Engineer
-Tata Consultancy Services
-Sydney, New South Wales, Australia
-4 days ago
-DevOps Engineer
-DevOps Engineer
-ELMO Software
-Greater Sydney Area
-3 weeks ago
-DevOps Engineer
-DevOps Engineer
-CES (Container Exchange Services)
-Sydney, New South Wales, Australia
-4 days ago
-DevOps Engineer
-DevOps Engineer
-Macquarie Group
-Sydney, New South Wales, Australia
-2 days ago
-DevOps Engineer
-DevOps Engineer
-swipejobs
-North Sydney, New South Wales, Australia
-2 weeks ago
-Show more jobs like this 
-People also viewed
-Senior DevOps Engineer
-Senior DevOps Engineer
-
-Shine Solutions Group
-
-Sydney, New South Wales, Australia
-4 days ago
-DevOps Engineer (Azure)
-DevOps Engineer (Azure)
-
-Arq Group
-
-Sydney, New South Wales, Australia
-1 week ago
-Senior DevOps Engineer
-Senior DevOps Engineer
-
-TheDriveGroup.
-
-Sydney, New South Wales, Australia
-1 week ago
-Senior DevOps Engineer
-Senior DevOps Engineer
-
-tekFinder
-
-Sydney, New South Wales, Australia
-2 weeks ago
-Junior DevOps Engineer
-Junior DevOps Engineer
-
-TransPerfect
-
-Sydney, New South Wales, Australia
-2 weeks ago
-Senior DevOps Engineer
-Senior DevOps Engineer
-
-Bunnings
-
-Sydney, New South Wales, Australia
-2 weeks ago
-Senior DevOps Engineer
-Senior DevOps Engineer
-
-Field Solutions Group (ASX:FSG)
-
-Sydney, New South Wales, Australia
-1 week ago
-DevOps SRE Engineer
-DevOps SRE Engineer
-
-DXC Technology
-
-Macquarie Park, New South Wales, Australia
-2 weeks ago
-Azure DevOps Engineer
-Azure DevOps Engineer
-
-Kapital Consulting - Fintech Recruitment & Executive Search
-
-Sydney, New South Wales, Australia
-1 week ago
-DevOps Engineer - unikrn
-DevOps Engineer - unikrn
-
-Entain
-
-Sydney, New South Wales, Australia
-2 weeks ago
-Looking for a job?
-
-Visit the Career Advice Hub to see tips on interviewing and resume writing.
-
-View Career Advice Hub
-LinkedIn
-© 2023
-About
-Accessibility
-User Agreement
-Privacy Policy
-Cookie Policy
-Copyright Policy
-Brand Policy
-Guest Controls
-Community Guidelines
-Language

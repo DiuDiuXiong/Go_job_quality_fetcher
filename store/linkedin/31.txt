@@ -1,268 +1,107 @@
-Skip to main content
-LinkedIn
-Jobs
-Dismiss
-Dismiss
-Join now
-Sign in
-DevOps Engineer
-ANZ  Docklands, Victoria, Australia
-1 day ago   Be among the first 25 applicants
+
+Site Reliability Engineer II
+Ping Identity  Australia
+1 day ago  90 applicants
   
-See who ANZ has hired for this role
+See who Ping Identity has hired for this role
 Apply
 Save
-About The Role
+At Ping Identity we're changing the way people think about enterprise security technology. With our innovative Identity Defined Security platform we're building a borderless world where people have total freedom to work wherever and however they want. Without friction. Without fear.
 
 
 
 
-Role location: Docklands VIC 3008
+We call this digital freedom. And it's not just something we provide our customers. It's something that drives our company. People don't come here to join a culture that's built on digital freedom. They come to cultivate it.
 
 
 
 
-Role Type: Permanent full-time
+We're headquartered in Denver, Colorado, and we have offices and employees around the globe. We serve the largest, most demanding enterprises worldwide, including over half of the Fortune 100. Because even in the most complex enterprise environments, security shouldn't be a source of anxiety; It is your greatest competitive advantage.
 
 
 
 
-Team: Digital Sales Experience
+As a Ping Identity SRE you will be involved in every facet of our On-Demand SaaS services and will develop the infrastructure of one of the largest identity platforms in the world. You will report to the Australian Site Reliability Engineering Manager. A fundamental part of our perspective is that the product is not just the applications; We have a holistic approach to our entire stack, and recognise that every part of the pipeline, from the application developer & QA process, through to the infrastructure design and management, inform the product as it is experienced by our customers.
 
 
 
 
-We’ve changed the way we run the Australia business, adopted a new way of working and introduced design thinking approaches so we can build a better ANZ for our customers today and in the future.
+We're looking for engineers from a variety of backgrounds that are interested to bring their experience and skills to the team. It's not essential that you've worked as an SRE before (although we are looking for experienced SREs too); we can provide coached, hands-on, experience to grow you in to the role, as well as assistance obtaining industry recognized certifications. If you have a background in any of the following fields, we're interested to talk:
 
 
 
 
-Working within the Digital Sales Experience Tribe, you will be joining a team who are passionate about attracting & activating customers through Digital Channels, as well as defining and developing sales & engagement strategies across all channels. 
+SRE
+DevOps / Release Management and Automation
+System Administration
+Software Engineering / Application Development
 
 
 
 
-From a customer perspective, we want to ensure our customers can easily find, learn about, buy and activate our products & services digitally.
+You Will:
 
 
 
 
-Adapt and evolve DevOps and SRE practice to build Faster , Better , Smarter platforms in order to support fast changing business functions and improve our service reliability for our customer.
+Run and maintain our production infrastructure hosted on AWS
+Building out our codebase of parameterized, reusable, Infrastructure-as-Code
+Design and build robust workflows and automation that provide deep, on-going, value to the business
+Linux systems administration, configuration, troubleshooting and automation
+Administer platforms built on top of containers, virtual machines, and AWS native offerings
+Capacity analysis and planning, traffic routing, and security policies for Ping's market leading Single Sign-On SaaS applications
+Analyze complex system behavior, performance and application issues
+Develop observability solutions and analysis across multiple geographic regions
 
 
 
 
-What Will Your Day Look Like
+You Have:
 
 
 
 
-Advocate for automation and use code to solve manual tasks
-Use engineering mindset and skillset to resolve repetitive tasks/processes
-Build CI/CD pipelines and manage Cloud infrastructure
-Contribute system architectural design driven by system reliability and security
-Manage, monitor, measure and maintain availability and health of our infrastructure and platform including VM, Cloud
-Proven analytical skills and data-driven decision maker
-Great communication skill required to liaise with stakeholders
+Cloud Computing Services (AWS, GCP, Azure)
+Observability Strategies and Tools
+Infrastructure-as-code (Terraform, Cloud Formation)
+Experience using Git in a team environment (merge requests, branching, deploying or using branching strategies)
+Experience with Docker and container orchestration (Kubernetes)
+Application Development, test strategies (unit, integration, mocks, end-to-end), defensive coding, dependency management
+Continuous Integration / Delivery / Deployment. Experience with tooling, paradigms, workflows, advocacy
+Release Management. Versioning, signing, packaging, artifact management and distribution
+Solid scripting skills
+IP networking, including familiarity with the functionality, operating, and failure modes of networks
+Experience in a high-volume or mission-critical service environment
 
 
 
 
-What will you bring?
+Our Benefits:
 
 
 
 
-Understand Containerisation (Docker) and Container management Platforms (Kubernetes, OpenShift, GKE etc.)
-Experience in Python, Shell, and at least one of the main stream programming language. We currently use Golang, Java, NodeJS.
-Experience with virtualisation and cloud technologies, infrastructure as code or
+Parental Leave
+Australia Health Insurance
+Technology Allowance
+Fitness Reimbursement
 
 
 
 
-other infrastructure automation technologies. We currently use TerraForm for systems in GCP, AWS.
-
-
-
-
-Experience in application development and understand the development methodologies
-Experience in building CI/CD pipeline using various tools. We currently use Codefresh, Jenkins.
-Experience in implementing monitoring and alerting tools. We currently use NewRelic, Splunk.
-Understand micro-service architecture and distributed system as a bonus
-
-
-
-
-We’re making ANZ a great place for our people to grow. You’ll learn and innovate, because underpinning everything we do is a Growth Mindset. We’ll challenge you to become an industry-leading engineer, while supporting you in a friendly work environment.
-
-
-
-
-So, why join us?
-
-
-
-
-At ANZ, everything we do boils down to ‘why’ – our purpose – to shape a world where people and communities thrive. We're focused on seeing our people thrive just as well as our customers. We'll give you every opportunity to develop your career. We are responding faster to changing customer requirements, focusing on the things that matter most, energising our people, eliminating waste and reducing bureaucracy. A happy workplace is a thriving one. So in order to attract and keep the best talent, and say thanks for the hard work, we make sure all our employees are rewarded.
-
-
-
-
-We work flexibly at ANZ and encourage you to talk to us about how this role can be flexible for you and any adjustments you may require to our recruitment process or the role itself. If you are a candidate with a disability, let us know how we can provide you with additional support.
-
-
-
-
-To find out more about working at ANZ or to view other opportunities visit www.anz.com/careers. You may apply for this role by visiting ANZ Careers and searching for reference number 35172
-
-
-
-
-Job Posting End Date
-
-
-
-
-09/07/2023
+Ping Identity is an equal opportunity employer. Qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability or protected veteran status.
 
 
 
 
 Show more 
 Seniority level
-Not Applicable
+Mid-Senior level
 Employment type
 Full-time
 Job function
-Engineering and Information Technology
+Information Technology
 Industries
-Banking, Financial Services, and Accounting
+Software Development
   
 
-Referrals increase your chances of interviewing at ANZ by 2x
-
-See who you know
-
-Get notified about new DevOps Engineer jobs in Docklands, Victoria, Australia.
-
-Sign in to create job alert
-Similar jobs
-DevOps Engineer
-DevOps Engineer
-Opus Recruitment Solutions
-Melbourne, Victoria, Australia
-3 weeks ago
-DevOps Engineer
-DevOps Engineer
-Elite IT Recruitment
-Melbourne, Victoria, Australia
-2 days ago
-DevOps Engineer
-DevOps Engineer
-Renaissance InfoSystems
-Melbourne, Victoria, Australia
-2 days ago
-DevOps Engineer
-DevOps Engineer
-Transurban
-Docklands, Victoria, Australia
-2 weeks ago
-DevOps Engineer
-DevOps Engineer
-Australian Financial Complaints Authority
-Melbourne, Victoria, Australia
-1 day ago
-DevOps Engineer
-DevOps Engineer
-Evolution
-Melbourne, Victoria, Australia
-1 week ago
-Show more jobs like this 
-People also viewed
-Parallo Azure DevOps Engineer
-Parallo Azure DevOps Engineer
-
-Parallo
-
-Melbourne, Victoria, Australia
-5 days ago
-Senior DevOps Engineer
-Senior DevOps Engineer
-
-Bunnings
-
-Melbourne, Victoria, Australia
-2 weeks ago
-Junior DevOps Engineer
-Junior DevOps Engineer
-
-TransPerfect
-
-Melbourne, Victoria, Australia
-2 weeks ago
-Platform Technology DevOps - Engineer - TAG
-Platform Technology DevOps - Engineer - TAG
-
-WEX
-
-Melbourne, Victoria, Australia
-13 hours ago
-DevOps Engineer (Melbourne / Sydney)
-DevOps Engineer (Melbourne / Sydney)
-
-Blunomy
-
-Melbourne, Victoria, Australia
-1 month ago
-Oracle Cloud DevOps Engineer
-Oracle Cloud DevOps Engineer
-
-HCLTech
-
-Melbourne, Victoria, Australia
-1 week ago
-DevOps Engineer (Melb/Syd/Remote)
-DevOps Engineer (Melb/Syd/Remote)
-
-Tesserent
-
-Melbourne, Victoria, Australia
-1 week ago
-ICT Senior DevOps Engineer
-ICT Senior DevOps Engineer
-
-Victoria Police
-
-Melbourne, Victoria, Australia
-2 weeks ago
-DevOps Engineer
-DevOps Engineer
-
-Opus Recruitment Solutions
-
-Melbourne, Victoria, Australia
-3 days ago
-DevOps Engineer
-DevOps Engineer
-
-Ampstek
-
-Melbourne, Victoria, Australia
-1 day ago
-Looking for a job?
-
-Visit the Career Advice Hub to see tips on interviewing and resume writing.
-
-View Career Advice Hub
-LinkedIn
-© 2023
-About
-Accessibility
-User Agreement
-Privacy Policy
-Cookie Policy
-Copyright Policy
-Brand Policy
-Guest Controls
-Community Guidelines
-Language

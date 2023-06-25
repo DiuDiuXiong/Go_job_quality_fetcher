@@ -1,108 +1,70 @@
-Skip to main content
-Find jobs
-Company reviews
-Search Salary
-Upload your resume
-Sign in
-Employers / Post Job
-Start of main content
-What
-Where
-Find Jobs
-Site Reliability Engineering Director
-Macquarie Group Limited
-Melbourne VIC 3000
-Remote
-Full-time, Permanent
+Youth and Families Minister
+Christ Church St Ives
+St Ives NSW
+Full-time
 You must create an Indeed account before continuing to the company website to apply
 Apply on company site
 Job details
 No matching job preferences
 Job Type
 Full-time
-Permanent
+Christ Church St Ives
+Location: St Ives, NSW
+Date advertised: 22nd June 2023
+Job Type: Full time
+Closing Date: 31 July 2023
 
-We’re looking for a SRE director and leader that is passionate about reliability and software engineering. We’re seeking an individual that deeply understands software reliability, building at scale and driving strategic and tactical direction for reliability at our bank. This pivotal role is a huge opportunity to establish one of the best SRE teams in financial services.
+Christ Church St Ives is seeking a full-time Youth and Families Minister who has an infectious love for Jesus, is above reproach and is committed to a reformed, evangelical and complementarian theological framework.
 
-This is a strategic leadership role, you will be responsible for overseeing the direction, execution and continuous improvement of our SRE initiatives. There will be early focus on building observability & reliability capabilities. Requiring strong influencing skills with development teams.
+Christ Church St Ives is a large suburban Anglican Church that exists to build wholehearted disciples of Jesus who will transform the world with his Gospel. Our staff team collaborates in accordance with a purpose driven model as we seek to serve our members who attend both in person and online. More than 200 people are members of our Youth Ministry. Our Youth and Families Minister will take leadership and pastoral responsibility for these people.
 
-Define and execute the strategic direction for SRE initiatives
-Establish Observability, SLO’s and error budgets, tools, practices and implementation.
-Establish reliable software development and release engineering patterns
-Implement SRE best practices, guidelines to enable reliability, velocity, performance and scale.
-Responsible for strategically driving initiatives to improve MTTx metrics
-Drive continuous improvement initiatives including adoption of automation, monitoring and incident management tools and practices
-Lead, mentor, coach a team of SREs, software engineers and 24x7 operators
-Foster a culture of collaboration, learning, and knowledge sharing.
-Strong prioritisation skills and driving OKR’s
-Leading and influencing with data insights
-Strong software engineering and release engineering experience
+1. Position Purpose
 
-You will have experience in a similar leadership role, having been exposed to multiple different technologies and be passionate about technology. Your role will require you to engage senior business representatives to understand their motivations, using your knowledge of emerging technologies to help shape the combined business and technology strategies
+The role of Youth and Families Minister is to prayerfully grow wholehearted disciples of Jesus, particularly among those in years 6-12. We want to see a generation confident in their identity in Christ and joyously serving him in living out and sharing the gospel. This role is primarily exercised by leading and equipping leaders for our regular weekly youth ministries in partnership with parents.
 
-What’s in it for you:
+2. Key Responsibilities
 
-This is an opportunity to play a pivotal role in shaping Site Reliability Engineering for Macquarie Bank.
-Opportunity to build SRE from the ground up and make a real impact on how SRE is implemented in the financial services industry.
-Learn from the best engineers in Australia and work on market leading products
-Be part of a team that deeply values diversity and creates space for you to be your best
-Being hands-on with the latest cloud technologies including Google Cloud to tackle interesting banking and finance problems
-Our work environment is modern and inclusive with a strong focus on employee experience
-Flexible work options, including working from home
-Ongoing professional development and free technical certification
-Highly competitive remuneration and bonuses
+The Youth and Families Minister’s key responsibilities are:
 
-If this role sounds like the right opportunity to further your career, please apply via the link.
+Establishing direction for and leading the youth ministry in consultation with the Senior Minister and our purpose directors
+Recruiting, training, discipling and developing youth leaders
+Preaching to and teaching youth and leaders regularly
+Coordinating weekly youth programs (growth groups and services) and annual camps
+Along with the rest of the Children's, Youth and Families (CYF) team, equipping households to disciple their children
+Coordinating High School SRE and support the SRE teacher
+Facilitating clear transitions from youth into the broader church congregations
+Actively participating in a collaborative staff team for the building of wholehearted disciples across our church
 
-About the Corporate Operations Group
+Specific and detailed responsibilities and measurable outcomes will be worked out with the preferred candidate. Ongoing attention to personal Christian growth, ministry development, professional standards and WHS responsibilities are expected and encouraged in all members of our team.
 
-The Corporate Operations Group brings together specialist support services in Digital Transformation & Data, Technology, Operations, Human Resources, Business Services, Corporate Strategy & Solutions, and the Macquarie Group Foundation. We deliver service excellence to ensure Macquarie is open for business, deliver on transformational change, invest in our people and have deep relationships with our customers.
+3. Qualifications
 
-Our commitment to Diversity, Equity and Inclusion
+Candidates for this position will have:
 
-The diversity of our people is one of our greatest strengths. An inclusive and equitable environment enables us to deliver innovative and sustainable outcomes for our people, clients, shareholders and communities. From day one, you'll be encouraged to be yourself and supported to perform at your best. If our purpose of ‘empowering people to innovate and invest for a better future’ is as inspiring to you as it is to us, please apply. With the right technology, support and resources, our people can work in a range of flexible ways.
+Evidence of a life of discipleship in following Jesus and personal and professional commitment to see the gospel grow
+4 or more years as an employed youth minister with experience leading teams
+High level preaching capacity with excellent verbal and written communications skills
+A qualification from Youthworks College or Moore Theological College
+Ability to relate with a diverse range of people.
 
-We are committed to providing a working environment that embraces and values diversity, equity and inclusion. We encourage candidates to speak with a member of our recruitment team if you require adjustments to our recruitment process to support you, and the type of working arrangements that would help you thrive.
+Ideally, candidates will have
 
+Used Elvanto in a ministry context
+Experience working within the purposes structure of church
 
+This position is full time and offered with remuneration and benefits as articulated in the Sydney Anglican Diocese Remuneration Guidelines. A formal position description is available.
 
+To apply, please provide your resume along with a statement about your personal growth in faith over the last 12 months and answers to the following questions:
 
-About Macquarie
+What place does building Christ-like friendships play in your philosophy of youth ministry?
+Is youth ministry discipleship or evangelism?
+What are some of the challenges facing youth today and how would you address these (think content and process) in youth ministry?
 
-A career at Macquarie means you’ll have the opportunity to develop and utilise new skills, explore interesting fields and do challenging work that will impact the lives of people around the world—whether it’s accelerating the green energy transition, helping sustain global food supplies, financing social housing projects or investing in essential infrastructure. At Macquarie, we’re empowering people to innovate and invest for a better future.
+Applications should be sent to anna@christchurch.com.au.
 
-Our size and international presence means your work can take you anywhere—across business groups, disciplines, sectors and borders. With 19,200+ employees and offices in 34 markets around the world, we’re a truly global organisation.
+Position start date is early January 2024.
 
-You’ll be supported by a diverse team where the unique perspectives, ideas and experiences that all of our people bring are valued. You’ll be empowered to address unmet needs in our communities whilst advising and investing alongside our clients and partners. Working with us, you’ll have the opportunity to make a difference.
+Applications close 31 July 2023. Interested candidates are encouraged to apply as soon as possible. Applications may be reviewed prior to the advertised closing date and as such this date may change without notice.
 
-Macquarie is a global financial group providing clients with asset management, retail and business banking, wealth management, leasing and asset financing, market access, commodity trading, renewables development, specialist advisory, capital raising and principal investment.
+Please be aware that this job ad was placed and authorised only for the sydneyanglicans.net website.
 
-
-
-
-Job no: COG-972678
-Work type: Permanent - Full time
-Location: Melbourne, Sydney
-Category: Mid-senior, Technology
-Group: Corporate Operations Group
-Division: Technology
-Recruiter: Nathan King
-Opening Date: 08/5/2023
-Report job
-Hiring Lab
-Career Advice
-Browse Jobs
-Browse Companies
-Salaries
-Indeed Events
-Work at Indeed
-Countries
-About
-Help Centre
-ESG at Indeed
-© 2023 Indeed
-Accessibility at Indeed
-Privacy Centre
-Cookies
-Privacy
-Terms

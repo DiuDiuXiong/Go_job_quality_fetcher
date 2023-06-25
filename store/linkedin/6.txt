@@ -1,251 +1,64 @@
-Skip to main content
-LinkedIn
-Jobs
-Dismiss
-Dismiss
-Join now
-Sign in
-Linux Site Reliability Engineer
-NetSuite  Sydney, New South Wales, Australia
-2 weeks ago  87 applicants
+
+Platform SRE
+Talent.Realised Pty Ltd  Australia
+1 week ago  70 applicants
   
-See who NetSuite has hired for this role
+See who Talent.Realised Pty Ltd has hired for this role
 Apply
 Save
 
-Site Reliability Engineer – Netsuite GBU
+Direct message the job poster from Talent.Realised Pty Ltd
 
-Salary: circa $100,000 - $110,000 (depending on experience)
+Josh Kitchin
+Managing Consultant | Software | Cloud | Infrastructure | DevOps/SRE Specialist 🚀 | 0423 461 061 |
 
-
-
-
-A unique opportunity to join a rapidly growing extraordinary organization at NetSuite Global Business Unit (NSGBU) Oracle - Site Reliability Engineering team (SRE) which plays a key role in product availability, stability, performance and security. You will collaborate with many other engineering teams (system engineering, network team, infrastructure engineering, security, maintenance team) to support, design and implementation as well as tooling and automation platforms. NSGBU SRE team also supports the NSGBU application operations in Oracle Cloud Infrastructure, which is a fast growing cloud service.
+This media company is looking for Mid to Senior level Platform Reliability Engineers with a Platform, SRE or DevOps background.
 
 
 
 
-What Will You Do:
+As part of the platform team, you will develop and maintain the audience facing digital products across mobile, connected TV, desktop, and smart speakers. Your work will be appreciated by millions of audiences across Australia.
 
 
 
 
-As a member of our extraordinary Site Reliability team you will bring your expertise in monitoring, backups, infrastructure, systems architecture, including mean time to resolution of any and all issues that may impact our customer-facing production environment.
+Platform Reliability Engineer (SRE)
+
+FTC - Up to $135k base + super (15%)
+
+Remote friendly with preference for East Coast Australia
+
+You will be involved in designing, implementing and automating delivery systems for digital services on web, mobile and streaming media.
+You will provide a high level of availability and reliability to users and collaborate with software development & DevOps teams to design and implement scalable, fault-tolerant systems.
+You will also improve system reliability and quality through monitoring, reporting and fault
+resolution.
 
 
 
 
-The SRE‘s foremost responsibility is to ensure the Oracle Netsuite NSGBU Cloud Operations systems are operational, eliminating impact to our customers by using all the resources available to identify, resolve, or intensify issues to the appropriate person or team.
+Skills, knowledge & experience needed;
+
+Highly developed problem-solving skills
+Experience using Amazon Web Services (AWS) products and supporting Linux and “LAMP” based systems is highly desirable.
+Experience supporting and managing products delivered by CDN services such as Akamai for the delivery of streaming media
+Experience with common DevOps tools such as Datadog, Puppet, New Relic, JIRA, Confluence, Bamboo, Maven or Jenkins is highly desirable.
+Self-advocating mentality of always looking to build new processes and tools within the wider organisation.
+Complete understanding of “SRE”, “Reliability Engineering” & “availability” meanings
+Knowledge and experience of SLA, SLO, SLI & MTTR
 
 
 
 
-Every day resolve site incidents on different levels of infrastructure - from Hardware, Network, OS to Application issues
-Work in linux terminal
-Work with monitoring and analytic tools like Kibana and Icinga to resolve incidents and identify problems
-Agree with multiple teams to build systems and services that improve operational efficiency, drive reliability, scalability, resilience, security, and performance across Oracle NSGBU product
-Participate in NSGBU SRE 24x7 Follow the Sun Operational coverage.
-
-
-
-
-Qualifications and Education Requirements:
-
-
-
-
-As a member of the NSGBU Global SRE team you will need sound knowledge and experience in:
-Linux systems internals, monitoring, networking and core cloud concepts
-Standard internet services, such as DNS, TCP/IP, NFS and Global Load Balancing
-Performance troubleshooting/tuning experience
-Understanding of web technologies, Apache, HTTPS/SSL, Web sessions
-Understand the software lifecycle development process
-Experience with database environments and requirements for high availability environments
-Solid analytical skills for solving problems
-Architectural patterns for distributed systems, the composition of reliable services from unreliable components as well as cloud computing at scale
-Excellent interpersonal skills in English
-BS in Computer Science or related field
-
-
-
-
-Preferred Skills
-
-
-
-
-Excellent troubleshooting skills
-Ability to learn quickly and work independently while taking care of ambiguous situations, with a strong positive demeanor.
-A self-starter who takes pride in job ownership and consistently creates innovative ways to improve efficiency and effectiveness.
-You should value simplicity and scale, work comfortably in a collaborative, agile environment, and be excited to learn. At this level, you are given autonomy to make your own mark, drive things forward and make a difference. We expect you to help us scale and to do this collaboratively across teams, departments, and organizational silos in a streamlined manner.
-Minimum 5 years’ experience working in a large-scale production operations environment providing critically important services to customers
-
-
-
-
-Additional Qualifications and Skills
-
-
-
-
-Scripting experience in Bash, Perl, Python, or similar
-Database knowledge (Oracle, NoSQL such as Cassandra and Redis)
-Networking Monitoring, Networking protocols, SNMP, syslog, network telemetry, REST API
-Experience with orchestration and configuration management tools like SaltStack, Terraform, Kubernetes, Ansible, etc.
-Exposure to Gluster FS, Zookeeper, Kafka, ElasticSearch or other distributed platforms
-Exposure to Oracle Exadata
-Basic knowledge of ITIL concepts
-
-
-
-
-Additional Notes
-
-
-
-
-This Role will require ability to work on weekends.
-
-
-
-
-Please note, due to current restrictions we are unable to sponsor candidates on working Visas and will require Australian Citizens or Permanent Residents only.
+Does this sound like the kind of role you've been looking for? Register your interest by applying or contacting me direct on josh@talentrealised.com.au or 0423461061
 
 Show more 
 Seniority level
-Entry level
+Mid-Senior level
 Employment type
 Full-time
 Job function
-Information Technology
+Engineering and Information Technology
 Industries
-IT Services and IT Consulting and Software Development
+Online Audio and Video Media and Broadcast Media Production and Distribution
   
 
-Referrals increase your chances of interviewing at NetSuite by 2x
-
-See who you know
-
-Get notified about new Linux Engineer jobs in Sydney, New South Wales, Australia.
-
-Sign in to create job alert
-Similar jobs
-Site Reliability Engineer I
-Site Reliability Engineer I
-Apptio
-Sydney, New South Wales, Australia
-2 days ago
-Site Reliability Engineer
-Site Reliability Engineer
-Optus
-Macquarie Park, New South Wales, Australia
-2 days ago
-Site Reliability Engineer, APAC
-Site Reliability Engineer, APAC
-Canonical
-Sydney, New South Wales, Australia
-2 weeks ago
-Senior Site Reliability Engineer
-Senior Site Reliability Engineer
-Cboe Global Markets
-Sydney, New South Wales, Australia
-1 week ago
-Site Reliability Engineer
-Site Reliability Engineer
-Axon
-Sydney, New South Wales, Australia
-2 weeks ago
-Site Reliability Engineer
-Site Reliability Engineer
-Ampersand International
-Sydney, New South Wales, Australia
-1 month ago
-Show more jobs like this 
-People also viewed
-DevOps Engineer
-DevOps Engineer
-
-CES (Container Exchange Services)
-
-Sydney, New South Wales, Australia
-4 days ago
-DevOps Engineer
-DevOps Engineer
-
-Blackhawk Network Australia
-
-Sydney, New South Wales, Australia
-4 days ago
-Senior Systems Reliability Engineer
-Senior Systems Reliability Engineer
-
-Nutanix
-
-Sydney, New South Wales, Australia
-2 days ago
-Security Engineer - Linux
-Security Engineer - Linux
-
-CyberCX
-
-Sydney, New South Wales, Australia
-1 week ago
-DevOps Engineer
-DevOps Engineer
-
-ELMO Software
-
-Greater Sydney Area
-3 weeks ago
-Cloud Engineer
-Cloud Engineer
-
-HUB24 Limited
-
-Sydney, New South Wales, Australia
-2 weeks ago
-Cloud Engineer
-Cloud Engineer
-
-Ensure Recruitment
-
-Sydney, New South Wales, Australia
-1 week ago
-DevOps Engineer
-DevOps Engineer
-
-LEAP Dev
-
-Sydney, New South Wales, Australia
-2 weeks ago
-Senior Site Reliability Engineer
-Senior Site Reliability Engineer
-
-Atlassian
-
-Sydney, New South Wales, Australia
-5 hours ago
-Site Reliability Engineer - Video Infrastructure
-Site Reliability Engineer - Video Infrastructure
-
-TikTok
-
-Sydney, New South Wales, Australia
-3 days ago
-Looking for a job?
-
-Visit the Career Advice Hub to see tips on interviewing and resume writing.
-
-View Career Advice Hub
-LinkedIn
-© 2023
-About
-Accessibility
-User Agreement
-Privacy Policy
-Cookie Policy
-Copyright Policy
-Brand Policy
-Guest Controls
-Community Guidelines
-Language

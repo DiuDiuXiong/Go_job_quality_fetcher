@@ -1,216 +1,100 @@
-Skip to main content
-LinkedIn
-Jobs
-Dismiss
-Dismiss
-Join now
-Sign in
-Senior SRE Tech Lead
-Macquarie Group  Sydney, New South Wales, Australia
-1 week ago  42 applicants
+
+Trading Systems Engineer - Python, DevOps, Automation, Linux, and Low Latency Systems
+Jobs via eFinancialCareers  Sydney, New South Wales, Australia
+1 month ago   Be among the first 25 applicants
   
-See who Macquarie Group has hired for this role
+See who Jobs via eFinancialCareers has hired for this role
 Apply
 Save
-Sydney
+High Frequency Trading (HFT) firms are thriving in these volatile markets!
+Linux, Python, Spark, DevOps, Ansible, Puppet, Docker, Hadoop, AWS, S3.
+Aggressive hiring, huge profits / bonuses - Excellent Culture, Elite Engineers.
 
-Our Technology team is responsible for delivering a first-class experience to all our customers globally. As a senior leader in SRE you will proactively ensure the stability, resilience and scale of our services by continuously improving automation, testing and engineering practices. Your extensive experience in implementing best practice across our data platforms drive ultra-scalable and highly reliable systems. We take a flexible approach to the skillsets of candidates and seek people with strong learning mindsets, who can work collaboratively and have the ability to think creatively, over someone who ticks all the boxes.
 
-You will grow our existing SRE practice through your experience of designing, building, deploying or managing data platforms of significant scale. You will be obsessed about ensuring that our solutions are functioning at peak performance 24x7 supporting our customers in all our markets. Through being a ‘change lead’ for DevOps, quality assurance practice implementation and project initiatives you will demonstrate world’s best practice and lead by example. You will be accountable for identifying and defining priorities roadmap, and you’ll drive these through completion to agreed timelines and quality.
 
-We anticipate being successful in this role you will have:
 
-Experience leading SRE teams in a fast-paced organisation regularly shipping new products and services
-Experience providing thought leadership and subject matter expertise in SRE practices to form high performing teams
-Mange JIRA and ability to set up a fit-for-purpose cadence of ceremonies to facilitate, to ensure the right outcomes are achieved
-Experience at forecasting and planning at the sprint level to remediate risks and dependencies of delivery
-Deep experience in DevOps implementation and in evolving practices and ways of working through multi-disciplinary teams, business frameworks and culture
-Strong leadership skills to ensure SRE teams, vendors and other technology teams are motivated and engaged to deliver against a roadmap
-High understanding of non functional testing (Performance, Security, Cost Optimisation, Multitenancy)
-Highly proficient with Kubernetes and AWS
-Expert in Logging and Monitoring tools (Splunk, ELK, Prometheus, Grafana), incorporating frameworks and instrumentations
-Operational experience in maintaining applications.
+Company
 
-It will be a bonus if you bring the following:
 
-Experience in highly regulated environment like banking or financial services
-Uplifting and growing existing SRE practice
-Dealing with sensitive and proprietary data.
 
-As SRE Lead you will need to have excellent technical and people skills, a proven track record in successfully influencing and collaborating with multiple teams, as well as be a natural problem solver who turns ideas into actions. If this sounds like you, please apply via the link or for more information contact chirag.bhojani@macquarie.com
 
-About The Corporate Operations Group
+Our client is a leading proprietary / high frequency trading firm that is renowned for hiring some of the best technologists in the country to capture financial markets opportunities. They provide Google style working conditions (casual dress, lots of perks) with the financial benefits of working in financial markets. Due to ongoing growth they require a Trading Systems / Data Engineer with deep knowledge on Linux, advanced Python skills and a strong focus on system automation.
 
-The Corporate Operations Group brings together specialist support services in Digital Transformation & Data, Technology, Operations, Human Resources, Business Services, Business Improvement & Strategy, and the Macquarie Group Foundation. We deliver service excellence to ensure Macquarie is open for business, deliver on transformational change, invest in our people and have deep relationships with our customers.
 
-Our commitment to Diversity, Equity and Inclusion
 
-The diversity of our people is one of our greatest strengths. An inclusive and equitable environment enables us to deliver innovative and sustainable outcomes for our people, clients, shareholders and communities. From day one, you'll be encouraged to be yourself and supported to perform at your best. If our purpose of ‘empowering people to innovate and invest for a better future’ is as inspiring to you as it is to us, please apply. With the right technology, support and resources, our people can work in a range of flexible ways.
 
-We are committed to providing a working environment that embraces and values diversity, equity and inclusion. We encourage candidates to speak with a member of our recruitment team if you require adjustments to our recruitment process to support you, and the type of working arrangements that would help you thrive.
+Team
 
-About Macquarie
 
-A career at Macquarie means you’ll have the opportunity to develop and utilise new skills, explore interesting fields and do challenging work that will impact the lives of people around the world—whether it’s accelerating the green energy transition, helping sustain global food supplies, financing social housing projects or investing in essential infrastructure. At Macquarie, we’re empowering people to innovate and invest for a better future.
 
-Our size and international presence means your work can take you anywhere—across business groups, disciplines, sectors and borders. With 19,200+ employees and offices in 34 markets around the world, we’re a truly global organisation.
 
-You’ll be supported by a diverse team where the unique perspectives, ideas and experiences that all of our people bring are valued. You’ll be empowered to address unmet needs in our communities whilst advising and investing alongside our clients and partners. Working with us, you’ll have the opportunity to make a difference.
+This team brings together an elite group of technologists working with lean, low latency trading systems (Linux platforms). The team is responsible for keeping abreast of latest technological innovations and bringing them to bear in a highly automated (Python, Ansible, Puppet) environment with a view to maintaining high availability, reliability and performance of complex trading platforms and related systems.
 
-Macquarie is a global financial group providing clients with asset management, retail and business banking, wealth management, leasing and asset financing, market access, commodity trading, renewables development, specialist advisory, capital raising and principal investment.
 
-Find out more at www.macquarie.com/careers
 
-Job no: COG-971001
 
-Work type: Permanent - Full time
+Role (x2 specialisations)
 
-Location: Sydney
 
-Category: Mid-senior, Technology
 
-Group: Corporate Operations Group
 
-Division: Technology
+Your remit will be to leverage your considerable skills in Linux systems engineering (Ops focus, not Infra) along with advanced Python scripting skills and a strong focus on systems automation (DevOps, CI/CD) across technologies such as Puppet, Ansible, Docker, Jenkins et al to ensure this complex technical environment is optimized for lightning fast performance and unshakable stability.
 
-Recruiter: Nicky Bell
 
-Opening Date: 24/1/2023
+
+
+The role could, in addition to the above requirements, also be more Data Engineering centric working across a Hadoop ecosystem, Dask, Spark, S3 depending on your preference / skillset.
+
+
+
+
+Requirements:
+
+
+
+
+Advanced Linux Engineering skills & modern x64 based server hardware.
+Solid Python coding skills for Automation (you will be tested).
+CI/CD (any/all): Puppet, Ansible, Docker, Jenkins, SaltStack et al.
+Fundamental networking skills (TCP, VLAN, Multicast, DNS, DHCP).
+Fundamental database skills (MySQL, NoSQL, PostgreSQL).
+Site Reliability, High Availability, Performance, Scalability, Low-Latency.
+Strong / Polished Communication and Interpersonal skills.
+A Technology or Finance related degree / diploma.
+Experience with financial services or better still trading systems (ideal)
+For Data Engineer centric: Hadoop, PySpark, Scala Spark, Dask, S3.
+
+
+
+
+This role would be suited for people coming from an IT operations / infrastructure (Linux) base where they’ve had broad access & exposure to the complete tech environment along with strong automation / CI/CD technologies in an IT performance reliant organisation (ideally financial markets).
+
+
+
+
+#DevOps #SRE #Site Reliability Engineer #Linux #Low-Level #Low-Latency #Automation #Docker #Python #Puppet # Ansible #SaltStack #Trading Systems #Python #Nanosecond #Kernel #Networking #Connectivity #Performance
+
+
+
+
+LONDON : NEW YORK : SINGAPORE : SYDNEY
+
+
+
+
+www.westbury-partners.com
+
+
+
+
 Show more 
 Seniority level
-Not Applicable
+Entry level
 Employment type
 Full-time
 Job function
-Engineering and Information Technology
+Information Technology
 Industries
-Banking, Financial Services, and Investment Banking
+Staffing and Recruiting
   
 
-Referrals increase your chances of interviewing at Macquarie Group by 2x
-
-See who you know
-
-Get notified about new Senior Site Reliability Engineer jobs in Sydney, New South Wales, Australia.
-
-Sign in to create job alert
-Similar jobs
-SRE Lead
-SRE Lead
-PropertyMe
-Sydney, New South Wales, Australia
-2 days ago
-Tech Lead
-Tech Lead
-NewyTechPeople
-Sydney, New South Wales, Australia
-1 week ago
-Tech Lead, Cloud Infrastructure SRE
-Tech Lead, Cloud Infrastructure SRE
-TikTok
-Sydney, New South Wales, Australia
-3 days ago
-AEM Tech Lead
-AEM Tech Lead
-Accenture Australia
-Sydney, New South Wales, Australia
-4 days ago
-Senior Technical Lead - ServiceNow
-Senior Technical Lead - ServiceNow
-Westpac Group
-Sydney, New South Wales, Australia
-3 days ago
-Senior Technical Lead
-Senior Technical Lead
-Winc Australia
-Mascot, New South Wales, Australia
-1 week ago
-Show more jobs like this 
-People also viewed
-Technical Lead - Credit Risk
-Technical Lead - Credit Risk
-
-humm group
-
-Sydney, New South Wales, Australia
-4 days ago
-Senior Developer / Technical Lead, Data
-Senior Developer / Technical Lead, Data
-
-Australian Prudential Regulation Authority
-
-Sydney, New South Wales, Australia
-1 day ago
-Senior DevOps Engineer
-Senior DevOps Engineer
-
-Field Solutions Group (ASX:FSG)
-
-Sydney, New South Wales, Australia
-1 week ago
-Senior Cloud Engineer
-Senior Cloud Engineer
-
-Arq Group
-
-Sydney, New South Wales, Australia
-1 week ago
-Senior DevOps Engineer
-Senior DevOps Engineer
-
-Opus Recruitment Solutions
-
-Sydney, New South Wales, Australia
-2 weeks ago
-Senior DevOps Engineer (Remote)
-Senior DevOps Engineer (Remote)
-
-DuckDuckGo
-
-Sydney, New South Wales, Australia
-2 weeks ago
-Tech Lead, Video Platform SRE
-Tech Lead, Video Platform SRE
-
-TikTok
-
-Sydney, New South Wales, Australia
-3 days ago
-EOTE004-SRE Senior Developer, Scrum Master & BA 01
-EOTE004-SRE Senior Developer, Scrum Master & BA 01
-
-Accenture Australia
-
-Sydney, New South Wales, Australia
-1 day ago
-Senior Software Engineer Mobile
-Senior Software Engineer Mobile
-
-Commonwealth Bank
-
-Sydney, New South Wales, Australia
-4 days ago
-Engineering Lead
-Engineering Lead
-
-Airwallex
-
-Sydney, New South Wales, Australia
-6 days ago
-Looking for a job?
-
-Visit the Career Advice Hub to see tips on interviewing and resume writing.
-
-View Career Advice Hub
-LinkedIn
-© 2023
-About
-Accessibility
-User Agreement
-Privacy Policy
-Cookie Policy
-Copyright Policy
-Brand Policy
-Guest Controls
-Community Guidelines
-Language

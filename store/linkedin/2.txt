@@ -1,237 +1,86 @@
-Skip to main content
-LinkedIn
-Jobs
-Dismiss
-Dismiss
-Join now
-Sign in
-Site Reliability Engineer
-Datacom  Melbourne, Victoria, Australia
-1 week ago  143 applicants
+
+Senior Site Reliability Engineer
+Oracle  Melbourne, Victoria, Australia
+4 days ago  63 applicants
   
-See who Datacom has hired for this role
+See who Oracle has hired for this role
 Apply
 Save
-Our purpose
 
+Do you have a passion for high-scale services and working with Oracle's most critical customers? We are looking for a Senior Mobile Site Reliability Engineer that enjoys applying cutting-edge advances in technology to complex, mind-blowing-scale enterprise systems that help solve real world problems. You will contribute to the architecture, design, development, implementation, and operation of critical and complex systems. You are someone who enjoys learning and shaping the newest industry trends and technologies. You foster and contribute to the creative and collaborative culture to deliver results. You embrace ambiguity and enjoy exploring new technologies delivering robust, scalable solutions.
 
 
 
-Here at Datacom we connect people and technology in order to solve challenges, create opportunities and discover new possibilities for the communities we live in.
 
+Who are we?
 
 
 
-Our team
 
+We are a world class team of high caliber mobile assurance services site reliability engineer's. We are an inclusive and diverse team with a full spectrum of experience distributed globally. We have the resources of a large enterprise and the energy of a start-up, working on a critical greenfield software assurance project collaboratively with our cloud and mobile engineering teams. The Software Assurance organization has the mission to make application security and software assurance, at scale, a reality. We are a dedicated team, leveraging each other’s insights and abilities to produce cutting edge solutions to difficult problems through automation and CI/CD. Join us to grow your career and create the future of software assurance at scale together.
 
 
 
-Working as a bridge between application technologies and customer support teams, Platform Management SRE’s work to take customer requirements and business information to support, design or re-design, develop, test and implement solutions. The Core Services Enterprise Tools group are committed to Agile delivery with a focus on Automation and a DevOps approach.
 
+As a member of our global team, you will:
 
+Deploy and operate large scale mobile build pipelines in a cloud native environment
+Improve our offerings through performance and reliability analysis
+Diagnose and resolve issues in the build pipeline
+Participate in system design consulting, platform management, and capacity planning
+Anticipate the future and deliver those concepts to reality
+Participate in a global break-fix rotation
 
+What you'll bring:
 
-About The Role
+Experience in operating CICD pipelines that build and deliver mobile applications (Android and iOS)
+Your skill in operating and analyzing complex cloud deployed solutions
+Familiarity with mobile build tools, platforms, and artifact repositories
+A history of working with CI/CD related systems (Kubernetes, Terraform, Jenkins, Mavin, Gradle, Ant or similar)
+A mind focused on systems reliability, automation, and improvement
+Scripting finesse in languages like Python, Ruby, or Bash
+Motivation to collaborate with your local and global teams
+Experience with Linux
+5+ years’ experience in Systems Engineering, DevOps or SRE roles running large scale infrastructure, cloud or web services
+Eligibility to work in Australia or New Zealand without sponsorship is essential
 
 
 
 
-In this role as Site Reliability Engineer, you will be providing technical support and expertise, testing new solutions, responding to feedback, and actively participating in future technology road mapping and implementation as well as maintaining and supporting those solutions as they roll throughout our business.
+Nice to Have:
 
+Experience in designing CICD pipelines that build and deliver mobile applications (Android and iOS)
+Bonus points for development experience of Android or iOS mobile applications
+Experience with Oracle Cloud Infrastructure (OCI) or other cloud services Android
+Comfort with microservices architecture operating in a Kubernetes environment
+Integration experience with database systems
 
 
 
-Australian Citizenship is required for this role due to the requirement to obtain a Baseline Security Clearance.
 
+What we'll give you:
 
+Exposure to mind blowing large scale cutting edge systems
+Resources of a large, global operation while still having the small, start-up feel of a smaller team day to day
+New skills and competencies working with our vast cloud product offerings
+Ongoing extensive training and skills development to further your career aspirations
+Incredible benefits and company perks
+An organization filled with smart, enthusiastic, and motivated colleagues
+Opportunity to impact and improve our systems and delight our customers
 
 
-What You’ll Do
 
 
+Location: Sydney or Melbourne or Brisbane
 
-
-As Site Reliability Engineer, you will be responsible for, but not limited to, the following:
-
-
-
-
-Administer and support the suite of tools at the platform layer
-Ensure critical integrations and automations are developed and maintained for the platform toolsets
-Maintaining, developing and continuously improving existing software
-Providing technical support and consultancy as required
-Actively participating in the evolution of the SRE function and capability
-
-
-
-
-What You’ll Bring
-
-
-
-
-What does success look like in this role? You will have a strong IT, business and/ or computer science background; as well as a solid base of technical skills. You will have excellent communication skills, proven ability in continual process improvement and the ability to manage stakeholder expectations. Prior experience with Microsoft, Unix / Linux, PHP, Monitoring & automation technologies and python scripting is important and you will ideally have experience working across a large, complex IT organisation, with a broad range of toolsets. Other qualities we are looking for include an understanding of Cloud and Cloud adoption. You will be highly adaptable and embrace change, you will promote diversity of thought and you know that making the odd mistake is ok as long as we learn from them. You will be used to dealing with competing priorities and pragmatic about decision making under those circumstances. You’ll be fun, enthusiastic and keen to develop both personally and for the organisation.
-
-
-
-
-The Finer Details
-
-
-
-
-We have over 6,500 people across our global offices and generate an annual revenue of over NZ $1.2 billion annually. This makes us one of Australasia’s largest professional IT services companies.
-
-
-
-
-We have extensive expertise in operating data centres, IT services, software engineering and application management, as well as payroll and customer service design and operations.
-
-
-
-
-With this comes a long list of significant clients and Datacom is committed to hiring, developing and promoting the best talent from a diverse range of backgrounds to serve those clients.
-
-
-
-
-We are local at heart, yet world-class in capability.
 Show more 
 Seniority level
-Entry level
+Mid-Senior level
 Employment type
 Full-time
 Job function
-Engineering and Information Technology
+Information Technology
 Industries
 IT Services and IT Consulting
   
 
-Referrals increase your chances of interviewing at Datacom by 2x
-
-See who you know
-
-Get notified about new Site Reliability Engineer jobs in Melbourne, Victoria, Australia.
-
-Sign in to create job alert
-Similar jobs
-Senior Site Reliability Engineer
-Senior Site Reliability Engineer
-Oracle
-Melbourne, Victoria, Australia
-3 days ago
-Site Reliability Engineer
-Site Reliability Engineer
-Aeon Media Group Ltd
-Melbourne, Victoria, Australia
-2 weeks ago
-Site Reliability Engineer I
-Site Reliability Engineer I
-Apptio
-Melbourne, Victoria, Australia
-2 days ago
-DevOps Engineer / SRE (Site Reliability Engineer)
-DevOps Engineer / SRE (Site Reliability Engineer)
-Capgemini
-Melbourne, Victoria, Australia
-5 days ago
-Senior Site Reliability Engineer
-Senior Site Reliability Engineer
-CMD Solutions
-Melbourne, Victoria, Australia
-2 weeks ago
-Site Reliability Engineer - ANZPlus
-Site Reliability Engineer - ANZPlus
-ANZ
-Melbourne, Victoria, Australia
-2 days ago
-Show more jobs like this 
-People also viewed
-Cloud Engineer
-Cloud Engineer
-
-Ignite
-
-Melbourne, Victoria, Australia
-4 days ago
-DevOps Engineer
-DevOps Engineer
-
-Opus Recruitment Solutions
-
-Melbourne, Victoria, Australia
-3 weeks ago
-Software Engineer II
-Software Engineer II
-
-FIS
-
-Melbourne, Victoria, Australia
-6 hours ago
-Senior Cloud (Azure) Engineer
-Senior Cloud (Azure) Engineer
-
-Naviro
-
-Melbourne, Victoria, Australia
-1 week ago
-DevOps Engineer
-DevOps Engineer
-
-Transurban
-
-Docklands, Victoria, Australia
-2 weeks ago
-Senior Site Reliability Engineer
-Senior Site Reliability Engineer
-
-Macquarie Group
-
-Melbourne, Victoria, Australia
-2 weeks ago
-Lead Site Reliability Engineer - ANZPlus
-Lead Site Reliability Engineer - ANZPlus
-
-ANZ
-
-Melbourne, Victoria, Australia
-4 days ago
-DevOps Engineer
-DevOps Engineer
-
-Ampstek
-
-Melbourne, Victoria, Australia
-1 day ago
-GCP Devops Engineer
-GCP Devops Engineer
-
-Collabera Digital
-
-Melbourne, Victoria, Australia
-2 days ago
-*DevOps Engineer*
-*DevOps Engineer*
-
-Accenture Australia
-
-Melbourne, Victoria, Australia
-1 week ago
-Looking for a job?
-
-Visit the Career Advice Hub to see tips on interviewing and resume writing.
-
-View Career Advice Hub
-LinkedIn
-© 2023
-About
-Accessibility
-User Agreement
-Privacy Policy
-Cookie Policy
-Copyright Policy
-Brand Policy
-Guest Controls
-Community Guidelines
-Language

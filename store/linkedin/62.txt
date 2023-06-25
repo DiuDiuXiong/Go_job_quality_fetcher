@@ -1,192 +1,83 @@
-Skip to main content
-LinkedIn
-Jobs
-Dismiss
-Dismiss
-Join now
-Sign in
-Technical Consultant - New Relic
-JDS Australia  Sydney, New South Wales, Australia
-1 week ago   Be among the first 25 applicants
+
+Cloud Engineer
+Aware Super  Melbourne, Victoria, Australia
+2 weeks ago  58 applicants
   
-See who JDS Australia has hired for this role
+See who Aware Super has hired for this role
 Apply
 Save
 
-Further develop your commercial capability and acumen and join the world of consulting! At JDS, we’re a collaborative, technically curious team who love doing challenging work that solves meaningful client problems. We’ve got a proud history of implementing, managing and supporting industry-leading IT solutions and we’re looking to grow our 100+ team across Australia.
+Direct message the job poster from Aware Super
+
+Maleena D.
+Connecting Talent to Careers at Aware Super | DE&I Advocate
+
+Want to be a force for good?
+
+At Aware Super we believe that we do well through doing good. Finding ways to support our communities is part of our DNA and we have a track record of being bold and breaking new ground. We have always believed that we have a responsibility to invest in ways that deliver strong returns for our members at the same time as improving our communities, building a more sustainable economy and supporting employment locally and globally.
+
+Aware Super is one of Australia's largest industry funds providing superannuation, advice and retirement solutions to those who teach, nurse, care, respond and help others in our communities. We offer a truly collaborative workplace that responds to rapid change, without losing sight of what is most important to us: our members. To learn more visit: https://awaresuper.com.au/member
+
+
+
+Your new role
+
+As a Cloud Engineer at Aware Super, you will be responsible for the design and technical implementation of Azure cloud solutions, private cloud and 3rd party SaaS integration as well as the automation and the provisioning of Azure cloud services and deploying application configurations. This role reports to the Senior Systems Engineer Lead and has a focus on operational stability and project delivery including design, planning, build/implementation and operational transition.
+
+**** Most of the Infrastructure team is based in Melbourne but we would be happy to consider suitable candidates from Sydney, Perth and Brisbane ****
 
 
 
 
-Our team is vendor-aligned and possesses in-depth specialist knowledge and proven skills to ensure we continue to deliver excellence to our clients and nurture an environment of continued growth and development for our people.
+
+How do you exceed our expectations?
+
+You're the type of person who is deeply curious about the practices of DevOps, SRE and the role of Infrastructure Developers. You have a desire to know how things work, without getting overly academic or losing focus on the required business outcomes. You are great at generating ideas that are focused on solving problems and have an innate willingness to share information and collaborate in the pursuit of accelerating business outcomes for Aware Super.
+
+You will also have :
+
+
+
+Demonstrated experience in cloud networking/system administration, in Azure;
+Strong experience in system administration in Windows and Linux environments;
+Practical knowledge of provisioning and maintaining Azure cloud services using Terraform;
+Demonstrated experience in administering objects in Active Directory, Azure AD, ADFS and Exchange 2016 / Exchange On-line; and
+Knowledge of GitHub and Azure DevOps pipeline deployments
+
+
+Employee experience
+
+We understand that not everyone works in the same ways. We offer flexibility so that you can perform your role at your best, in line with needs of the business. Through hybrid working we balance the benefits of working remotely and together each week in the office to collaborate, connect and celebrate our success.
+
+We provide opportunities to contribute to (INV ONLY) ground-breaking investment deals, high-impact projects to scale our business and daily challenges that engage deep thinking and inspire innovation in all that we do.
+
+We love working at Aware Super because our hard work is well compensated by:
 
 
 
 
-As part of our exciting growth plans, we have an opportunity for a Technical Consultant to join our New Relic Practice in Sydney. 
 
-Your role:
-
-Work closely with clients to understand their business objectives and technical requirements, offering guidance and recommendations for implementing SRE practices.
-Leverage your knowledge of New Relic to design and implement comprehensive monitoring solutions that cover the entire technology stack, enabling proactive issue detection and performance optimisation.
-Enhance system reliability by implementing strategies and tools that ensure high uptime performance, minimising downtime and maximising user satisfaction.
-Analyse system performance metrics, identify bottlenecks and areas for improvement, and provide recommendations for performance tuning to enhance efficiency and scalability.
-Provide training, support, and documentation to clients, enabling them to effectively utilise SRE platforms, interpret monitoring data, and leverage advanced features for system optimisation.
-
-A little about you: 
-
-Experience in consulting roles specialising in Site Reliability Engineering platforms, with an understanding of SRE principles, methodologies, and best practices.
-Knowledge of techniques to ensure high uptime performance, including fault tolerance, load balancing, and failover mechanisms.
-Ability to analyse system performance metrics, diagnosing performance bottlenecks, and implementing tuning strategies to optimise system efficiency and scalability.
-Familiarity with integrating AI Ops capabilities into monitoring platforms, leveraging machine learning and automation for proactive incident management and resolution.
-Excellent communication and interpersonal skills to effectively collaborate with clients, understand their requirements, and provide clear and concise technical guidance.
-Strong analytical and problem-solving skills to identify and resolve technical issues in a timely and efficient manner.
+A culture of career development, continuous learning and growth, supported by generous learning budgets
+Abundant well-being offerings like a health & fitness reimbursement, work from home technology reimbursement, discretionary well-being and volunteer leave days, salary continuance insurance and plenty of organisation-wide meeting-free zones
+Competitive remuneration packages and attractive benefits
 
 
+The Aware Super difference
+
+At Aware Super, we believe that diversity of thought, background and experience creates better outcomes for our members and communities and stronger inclusion and belonging for our people. We value a diverse workplace and strongly encourage women, Aboriginal & Torres Strait Islander people, people with cultural and linguistic diversity, LGBTQIA+ individuals, people with disabilities, and mature-age individuals to apply. We are proud to be consistently recognised as an Employer of Choice for Gender Equality and our CEO, Deanne Stewart, is a Pay Equity Ambassador. Our members are at the heart of everything we do, and we CARE deeply, DELIVER honourably, and LEAD bravely.
 
 
-Why JDS? 
-
-Receive ongoing investment into your career through our training/certification pathways.
-A flexible approach to work - with a positive and down to Earth culture. 
-An environment that is inclusive and promotes and supports diversity in the workplace, where you are supported and encouraged to be your whole self.
-
-﻿
-
-We look forward to hearing from you!
-
-
+Applicants must have the right to work in Australia and will be subject to police and bankruptcy checks.
 
 
 Show more 
+Seniority level
+Entry level
 Employment type
 Full-time
+Job function
+Information Technology
+Industries
+Financial Services
   
 
-Referrals increase your chances of interviewing at JDS Australia by 2x
-
-See who you know
-
-Get notified about new Technical Consultant jobs in Sydney, New South Wales, Australia.
-
-Sign in to create job alert
-Similar jobs
-Technical Consultant
-Technical Consultant
-Antares Solutions
-Sydney, New South Wales, Australia
-2 weeks ago
-Technical Consultant
-Technical Consultant
-Y Soft
-Sydney, New South Wales, Australia
-2 weeks ago
-Technical Consultant
-Technical Consultant
-Starboard IT
-Sydney, New South Wales, Australia
-3 weeks ago
-Senior Technical Consultant - New Relic
-Senior Technical Consultant - New Relic
-JDS Australia
-Sydney, New South Wales, Australia
-1 week ago
-Technical Consultant
-Technical Consultant
-Appian Corporation
-Sydney, New South Wales, Australia
-2 weeks ago
-Technical Consultant
-Technical Consultant
-Canon Business Services ANZ
-Sydney, New South Wales, Australia
-2 weeks ago
-Show more jobs like this 
-People also viewed
-Technical Specialist
-Technical Specialist
-
-Phocas Software
-
-Sydney, New South Wales, Australia
-1 week ago
-Managing Consultant Technical
-Managing Consultant Technical
-
-DXC Technology
-
-Macquarie Park, New South Wales, Australia
-2 days ago
-SAP S4 HANA FICO Consultant
-SAP S4 HANA FICO Consultant
-
-Tata Consultancy Services
-
-Sydney, New South Wales, Australia
-5 days ago
-TechnoFunctional Consultant-Sap FICA
-TechnoFunctional Consultant-Sap FICA
-
-ITbility
-
-Sydney, New South Wales, Australia
-1 day ago
-Principal Consultant - Migrations
-Principal Consultant - Migrations
-
-LAB3
-
-Sydney, New South Wales, Australia
-1 day ago
-Lead Technical Implementation Consultant
-Lead Technical Implementation Consultant
-
-Niche 212
-
-Sydney, New South Wales, Australia
-5 days ago
-Implementation Consultant - POS
-Implementation Consultant - POS
-
-Shiji Group
-
-Sydney, New South Wales, Australia
-1 week ago
-Techno Functional Consultant
-Techno Functional Consultant
-
-Wipro
-
-Sydney, New South Wales, Australia
-2 days ago
-Salesforce Consultant
-Salesforce Consultant
-
-Morgan McKinley
-
-Sydney, New South Wales, Australia
-3 days ago
-Installation Consultant
-Installation Consultant
-
-Bayside Group
-
-Sydney, New South Wales, Australia
-2 weeks ago
-Looking for a job?
-
-Visit the Career Advice Hub to see tips on interviewing and resume writing.
-
-View Career Advice Hub
-LinkedIn
-© 2023
-About
-Accessibility
-User Agreement
-Privacy Policy
-Cookie Policy
-Copyright Policy
-Brand Policy
-Guest Controls
-Community Guidelines
-Language

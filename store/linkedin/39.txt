@@ -1,231 +1,279 @@
-Skip to main content
-LinkedIn
-Jobs
-Dismiss
-Dismiss
-Join now
-Sign in
-Site Reliability Engineer
-Smarsh  Bangalore, New South Wales, Australia
-1 day ago   Be among the first 25 applicants
+
+Lead Site Reliability Engineer - ANZPlus
+ANZ  Melbourne, Victoria, Australia
+5 days ago   Be among the first 25 applicants
   
-See who Smarsh has hired for this role
+See who ANZ has hired for this role
 Apply
 Save
-Who are we?
+About The Role
 
 
 
 
-Smarsh empowers its customers to manage risk and unleash intelligence in their digital communications. Our growing community of over 6500 organizations in regulated industries counts on Smarsh every day to help them spot compliance, legal or reputational risks in 80+ communication channels before those risks become regulatory fines or headlines. Relentless innovation has fueled our journey to consistent leadership recognition from analysts like Gartner and Forrester, and our sustained, aggressive growth has landed Smarsh in the annual Inc. 5000 list of fastest-growing American companies since 2008.
+At ANZ our purpose is to shape a world where people and communities thrive. We’re making this
 
 
 
 
-About The Team
+happen by improving our customers’ financial wellbeing so they can achieve incredible things –
 
 
 
 
-As a member of our SaaS Operations team, your role will be crucial in enabling the development team to deliver software solutions for Smarsh's Cyber Compliance service offering. You'll have the chance to leverage cutting-edge SaaS technologies and tools to scale the product, all while maintaining strict adherence to change control processes and InfoSec security policies for both internal and external environments.
+be it buying their home, building a business or saving for things big or small.
 
 
 
 
-This is a challenging yet fulfilling SRE opportunity that requires a detail-oriented individual with a passion for complex problem-solving. If you're up for the challenge and are looking for a fun and rewarding role, we encourage you to apply for this position.
+What will your day look like
 
 
 
 
-Essential Functions
+As a Site Reliability Engineer Manager within the ANZx SRE squad, you will be instrumental in
 
 
 
 
-Attend and actively participate in team ceremonies (stand-ups, retros, and planning meetings).
-Coordinate efforts with globally dispersed teams.
-Respond to incidents coordinated by SRE and Incident Response teams.
-Document decisions regarding technology choices, best practices and process.
-Manage operations code bases using Smarsh engineering practices.
-Creatively solve problems in the SaaS Operations space, collaborating with SRE, Platform, Delivery, and Engineering team members.
-Develop tools and libraries for broader use by SaaS Operations and Engineering teams.
-Contribute to architectural conversations and plans.
+driving execution and development of the SRE function across one of core technology domains.
 
 
 
 
-Education And Experience
+You will apply SRE principles to ensure that we build, monitor, and measure what is important.
 
 
 
 
-4-6+ years industry experience.
-BS in CS/Masters in CS or equivalent.
+You will be responsible for guiding day to day execution, prioritisation, and operation of the SRE
 
 
 
 
-Technology Requirements
+team.
 
 
 
 
-Experience with AWS, both console and CLI – EC2, RDS, Lambda, S3, CloudWatch, Networking/Security (VPC, ELB, NAT, SG)
-Experience with AWS administration of multi-tier architecture.
-Experience with containerization (Docker), including creating Linux backend host/containers with the following services: Drupal, NGNIX Proxy, RabbitMQ, LDAP, OpenVPN, IPSEC.
-Broad range of scripting experience (i.e. Python, Bash).
-Strong background in managing and releasing code with Git/Github and Docker Hub.
-Experience monitoring degree of performance and uptime (Datadog, Grafana)
-Experience managing continuous integration systems and CI/CD build pipelines (Jenkins, Github Actions, GitLab, CircleCI)
-Experience with automated configuration management and deployment tools or scripts (DuploCloud, terraform).
-Background in Linux administration (RedHat/CentOS, Ubuntu), including patching and maintenance.
-Background working in a multi-platform environment (Linux, Windows).
-Experience with builds and packaging in a Linux/Java and Windows/.NET environment strongly preferred (Maven, msbuild, rpm, etc).
+You will support and grow your team members and help them be better reliability engineers.
 
 
 
 
-About Our Culture
+You will work collaboratively with other SRE leaders and teams across ANZx to continually drive
 
 
 
 
-Smarsh hires lifelong learners with a passion for innovating with purpose, humility and humor. Collaboration is at the heart of everything we do. We work closely with the most popular communications platforms and the world’s leading cloud infrastructure platforms. We use the latest in AI/ML technology to help our customers break new ground at scale. We are a global organization that values diversity, and we believe that providing opportunities for everyone to be their authentic self is key to our success. Smarsh leadership, culture, and commitment to developing our people have all garnered Comparably.com Best Places to Work Awards. Come join us and find out what the best work of your career looks like.
+down the cost of operations, increase efficiency, and build a safe environment for growth and
+
+
+
+
+delivery.
+
+
+
+
+You will need to be comfortable guiding a team through complex and ambiguous challenges.
+
+
+
+
+We will turn to you for suggestions on how to improve our platforms, processes and tools. We
+
+
+
+
+expect that you already have great ideas you can share at our cloud guilds & user groups, along
+
+
+
+
+with industry Meetups.
+
+
+
+
+ 
+
+
+
+
+What will you bring?
+
+
+
+
+We are looking for an engineer that already possess some of the following skills:
+
+
+
+
+An experience and passion for leading teams and people. You value quality execution
+
+
+
+
+and safe delivery.
+
+
+
+
+Comfortable coding in one or more languages (Go, Java, Python, or other scripting
+
+
+
+
+languages), and comfortably guiding other engineers on implementation.
+
+
+
+
+Experience with common Infrastructure as Code tools. For example, Terraform or
+
+
+
+
+CloudFomation.
+
+
+
+
+Experience with one or more Continuous Intergration / Deployment tools. For example,
+
+
+
+
+GitHub Actions, Jenkins, or BuildKite.
+
+
+
+
+Experience in cloud computing across one or more major public cloud providers. For
+
+
+
+
+example, GCP, AWS, or Azure.
+
+
+
+
+Proficient with Kubernetes, or equivalent container orchestration tooling.
+
+
+
+
+Experience working with engineers, operations, and architecture groups developing
+
+
+
+
+scalable and supportable solutions.
+
+
+
+
+Experience with common monitoring and observability tooling. For example, Honeycomb,
+
+
+
+
+Splunk, Dynatrace, etc.
+
+
+
+
+The language and tools used are not as important as your development skills and learning
+
+
+
+
+aptitude. We want leaders who are motivated to bring their own technology experience, skills,
+
+
+
+
+and passion for growth to their everyday
+
+
+
+
+So, why join us?
+
+
+
+
+We’re reinventing the way we do banking, and our community of collaborative, innovative
+
+
+
+
+thinkers who create human centred solutions are helping us get there. We’re responding faster to
+
+
+
+
+changing customer requirements, focusing on the things that matter and helping people achieve
+
+
+
+
+incredible things – be it buying their home, building a business or saving for things big or small.
+
+
+
+
+We support our people by providing a range of flexible working options so they can work in the
+
+
+
+
+way that best suits them. We encourage you to talk to us about your need for flexibility and any
+
+
+
+
+adjustments you may require to our recruitment process or the role itself.
+
+
+
+
+Develop your career, work in a diverse and inclusive workplace where the different backgrounds,
+
+
+
+
+perspectives and life experiences of our people are celebrated and create a great place to grow,
+
+
+
+
+thrive and belong.
+
+
+
+
+Interested in joining us? Click Apply now, or visit www.anz.com/careers to find out more or view
+
+
+
+
+other opportunities.
+
+
+
+
 Show more 
 Seniority level
-Entry level
+Not Applicable
 Employment type
 Full-time
 Job function
 Engineering and Information Technology
 Industries
-Software Development
+Banking, Financial Services, and Accounting
   
 
-Referrals increase your chances of interviewing at Smarsh by 2x
-
-See who you know
-
-Get notified about new Site Reliability Engineer jobs in Bangalore, New South Wales, Australia.
-
-Sign in to create job alert
-Similar jobs
-Senior Site Reliability Engineer
-Senior Site Reliability Engineer
-Finastra
-Bengaluru, Karnataka, India
-3 days ago
-Senior Site Reliability Engineer
-Senior Site Reliability Engineer
-OneTrust
-Bengaluru, Karnataka, India
-2 weeks ago
-Cloud Operations Engineer
-Cloud Operations Engineer
-Exabeam
-Bangalore, New South Wales, Australia
-5 days ago
-AWS Cloud Ops Engineer
-AWS Cloud Ops Engineer
-Acqueon
-Bangalore, New South Wales, Australia
-19 hours ago
-Software Engineer
-Software Engineer
-Manhattan Associates
-Bangalore, New South Wales, Australia
-1 day ago
-Principal DevOps Reliability/Platform Engineer
-Principal DevOps Reliability/Platform Engineer
-Infineon Technologies
-Bangalore, New South Wales, Australia
-1 week ago
-Show more jobs like this 
-People also viewed
-Principsl DevOps Engineer
-Principsl DevOps Engineer
-
-OneTrust
-
-Bengaluru, Karnataka, India
-2 weeks ago
-Staff Software Engineer C++
-Staff Software Engineer C++
-
-Harness
-
-Bengaluru, Karnataka, India
-2 weeks ago
-Principal Software Engineer - Data Platform
-Principal Software Engineer - Data Platform
-
-Exabeam
-
-Bangalore, New South Wales, Australia
-1 week ago
-DevOps Engineer (AWS)
-DevOps Engineer (AWS)
-
-Tiger Analytics
-
-Bangalore, New South Wales, Australia
-1 week ago
-Senior Software Engineer
-Senior Software Engineer
-
-Intelex Technologies ULC
-
-Bangalore, New South Wales, Australia
-2 days ago
-Senior Software Engineer, Java
-Senior Software Engineer, Java
-
-Vonage
-
-Bangalore, New South Wales, Australia
-2 days ago
-PHY Software engineer
-PHY Software engineer
-
-Parallel Wireless
-
-Bangalore, New South Wales, Australia
-1 day ago
-Senior Software Engineer
-Senior Software Engineer
-
-Manhattan Associates
-
-Bangalore, New South Wales, Australia
-2 days ago
-Dotnet Fullstack Engineer - (COR)
-Dotnet Fullstack Engineer - (COR)
-
-Acqueon
-
-Bangalore, New South Wales, Australia
-1 week ago
-Senior Software Engineer
-Senior Software Engineer
-
-Harness
-
-Bengaluru, Karnataka, India
-2 weeks ago
-Looking for a job?
-
-Visit the Career Advice Hub to see tips on interviewing and resume writing.
-
-View Career Advice Hub
-LinkedIn
-© 2023
-About
-Accessibility
-User Agreement
-Privacy Policy
-Cookie Policy
-Copyright Policy
-Brand Policy
-Guest Controls
-Community Guidelines
-Language

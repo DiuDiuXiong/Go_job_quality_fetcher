@@ -1,98 +1,93 @@
-Skip to main content
-Find jobs
-Company reviews
-Search Salary
-Upload your resume
-Sign in
-Employers / Post Job
-Start of main content
-What
-Where
-Find Jobs
-Graduate Program Production Management analysts
-Wiley Edge
+System Engineer
+Amadeus
 Sydney NSW
-Graduate
+Full-time
 You must create an Indeed account before continuing to the company website to apply
 Apply on company site
+System Engineer
+Amadeus - Sydney NSW
+Job
+Company
 Job details
 No matching job preferences
 Job Type
-Graduate
+Full-time
 
-Want to work in technology at an investment bank?
+Job Title
 
-Get paid while you train, ongoing support, opportunities at leading global employers – the Alumni graduate program gives you everything you need. (And don’t worry, there’s no training bond. No exit fees, no hidden catches).
+System Engineer
 
-Here at Wiley Edge, we pair great graduates with brilliant global businesses. Our clients include tier one investment banks and other organizations across a range of industries, from insurance to healthcare to travel.
+Purpose of the Role
 
-What you'll do:
+As part of Test & Platform Services (TPS) department, the Test Systems Engineer provides functional and technical support for all test systems: Customer Facing Test Systems (CFTS), training system (SKL) and Internal Test Systems (ITS).
 
-Production support plays a vital role in enterprise technology, from algorithmic trading engines to regulatory reporting.
+Handles incidents and problems, but also configuration change requests on all Test Systems.
 
-Think of it as healthcare for technology. As a production support analyst with Wiley Edge, you’ll be on a shared mission to look after the technical systems and processes other teams rely on.
+Demonstrates good transversal technical & functional knowledge, he/she will have to learn and understand about most of Amadeus application functionalities and their architecture/ dependencies to perform investigations on any type of functional issue.
 
-How the Alumni program works:
+His/her main goal is to offer the best possible customer experience on Amadeus Systems with the help of various techniques such as proactive monitoring, problem management, continuous improvement etc.
 
-Apply via this job advert.
-Complete our assessment process.
-Get trained at Wiley Edge Academy in an online class for 4-8 weeks with other graduates.
-Join a Wiley Edge client for 12-24 months while receiving support and salary increases every 6 months.
-The vast majority then convert to permanent employees with the client at the end of the program.
+Needs good troubleshooting and investigation capabilities. Technical understanding is also a must have to properly drive recovery efforts and actions. Capable of coordinating parallel investigations with various experts (DEV, PDA, SRE, BU, etc.), and eventually running direct recovery actions.
 
-What you’ll learn at the Wiley Edge Academy:
+Main responsibilities
 
-How to discuss production support activity at a high level including ITIL (information technology infrastructure library), monitoring, DevOps, SRE (site reliability engineering), and disaster recovery.
-How to discuss common financial topics, including financial markets, equity trading, derivatives, currency, treasury, regulation, and risk.
-How to write a basic computer program in Python, including user input, common data structures, and flow of control.
-How to use MySQL to perform CRUD (create, read, update and delete) operations on a relational database stored in a MySQL Server.
+Provide functional support and perform the first level of investigation for customer functional staff. Acknowledge, investigate and when possible, recover incidents within service-level agreements.
 
-What you need:
+Handle external customer’s questions concerning Amadeus Products and Solutions
 
-Bachelor's degree in computer science or a related STEM subject (science, technology, engineering, maths).
-Good grades. We look for potential, not prestige, but it’s important that you enjoy pushing yourself to pick up new ideas.
-Ability to troubleshoot, taking an analytical approach to solve problems.
-Excellent spoken and written English communication skills.
-You will need to be an Australian or New Zealand Citizen or a Permanent residency holder, as we are unable to provide visa sponsorship for this position.
-COVID-19 Vaccination
+Proactive Incident Management: Monitoring functional services and products to detect an issue, raise alert, and ensure quick service recovery, in synchronization with operational services, so that we meet our SLAs/OLAs
 
-What you’ll get:
+Monitor response time metrics of main functional services and products to detect performance degradation, raise alert and ensure service recovery, by being in contact with the various subject matter experts (DEV, PDA, SRE, etc.)
 
-Fully paid, in-depth, interactive training in small classes with graduates like you. Our training is created and delivered by industry experts who know your field inside out.
-A generous graduate salary.
-Pay rises every 6 months to reflect your progress.
-A flexible benefits package including gym membership.
-Ongoing training and support.
-Valuable industry experience. Ultimately, a foot in the door to build your career in an in-demand niche.
+Identify issues, source the necessary information to perform analysis, assess impact and criticality and draw reasonable conclusions
 
-How to apply:
+Summarize and provide regular status with accurate information during Incident management process
 
-Apply to this job advert to tell us a bit about you.
-Complete the online assessment (we’ll send you a link by email).
-Complete the interviews with our friendly talent team over phone and video.
-Lastly, you’ll interview with one or more of our clients.
+Follow-up issues spotted through internal functional monitoring, and trigger actions to ensure usability and stability of the products
 
-So you don’t miss out on your dream job, we encourage you to be open to relocating.
+Problem Management: analyze or coordinate analysis of the root-cause of major issues, liaising with development teams if needed. Ensure long term resolution in order to avoid the same issue from reoccurring again
 
-We take great pride in celebrating the diversity of each and every individual who contributes to making Wiley Edge the company it is today and will be in the future. We value diversity both within Wiley Edge and with our partner companies, and we're proud to provide an environment where all our colleagues can flourish. That means promoting a strong culture of equality but, most importantly, inclusion. We never want people to change - only add to the amazing mix of people that work for Wiley Edge.
+Responsible for the monitoring of the software quality KPIs (functional usability, but also operational criteria and response time)
 
-Questions about our program and roles? Please get in touch with us at info@wileyedge.com.
+Identify and measure key performance indicators to evaluate system stability and process compliance, of various applications
 
-Report job
-Hiring Lab
-Career Advice
-Browse Jobs
-Browse Companies
-Salaries
-Indeed Events
-Work at Indeed
-Countries
-About
-Help Centre
-ESG at Indeed
-© 2023 Indeed
-Accessibility at Indeed
-Privacy Centre
-Cookies
-Privacy
-Terms
+Design and develop automated functional test case scripts
+
+Ensure proper application monitoring to guarantee the service level agreements on the test systems, in the transition from the legacy infrastructure to the Cloud
+
+Requirements
+
+Previous experience as an Automation QA Engineer, Test System Engineer, and/or 1st level Support position
+
+Experience in Technical/ Functional support roles with Customer-facing and Scripting experience
+
+Computing Scripting experience, preferably in Python along with Webservices, SoapUI, Edifact, Unix, Linux, Java
+
+Bachelor's Degree or Master's degree in Computer Science or related field, or equivalent work experience
+
+Must be a motivated self-starter and self-learner, possess strong customer service and technical problem-solving skills; and be someone who embraces challenges.
+
+Good written and verbal communication skills.
+
+Must have a team-oriented approach
+
+Previous ITIL experience required
+
+Automation skills required
+
+Must have an automation mindset and to understand the language to recommend changes and implementation to create new scripts.
+
+Project management skills preferred
+
+Previous experience in an enterprise environment is required.
+
+Previous experience in problem management and change management is required.
+
+Must have knowledge and experience on how to do a test plan
+
+Experience in Amadeus and/or Travel industry domain is a “nice to have”
+
+Diversity & Inclusion
+
+We are an Equal Opportunity Employer and seek to hire the best candidate regardless of age, beliefs, disability, ethnicity, gender or sexual orientation.
+

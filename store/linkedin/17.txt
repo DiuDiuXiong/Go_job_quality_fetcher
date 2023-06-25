@@ -1,226 +1,101 @@
-Skip to main content
-LinkedIn
-Jobs
-Dismiss
-Dismiss
-Join now
-Sign in
-100% Remote (AUS) Sr. SysOps Site Reliability Engineer
-Cayuse  Victoria, Australia
-1 week ago  63 applicants
+
+DevOps Engineer
+NCS Group  Melbourne, Victoria, Australia
+1 week ago  124 applicants
   
-See who Cayuse has hired for this role
+See who NCS Group has hired for this role
 Apply
 Save
 
-Direct message the job poster from Cayuse
+Direct message the job poster from NCS Group
 
-Amanda Koenig (She/Her)
-Senior Corporate Recruiter at Cayuse
+Arianne Akber
+Senior Talent Acquisition Business Partner at NCS Group
 
-Job Title: Sr. SysOps Site Reliability Engineer
+About us:
 
-Location: Remote-Australia
-
-Department: IT
-
-Job Type: Full-time
+At NCS Australia we bring together the best of the Dialog and NCS Groups to deliver impactful solutions to Australian Enterprise and Government organisations. For over 44 years the Dialog Group have been partnering with clients throughout their digital transformation journey across strategic IT consulting, full lifecycle application development, managed application services, quality assurance and operational support.
 
 
 
 
-Cayuse does not accept agency resumes. Please do not forward resumes to our job’s alias or any Cayuse employees. Cayuse is not responsible for any fees related to unsolicited resumes.
+As part of the NCS Group, we now have a broader reach across APAC and a complimentary set of products and services. For our people, it means further career development opportunities, diverse projects and exposure to new and emerging technology.
 
 
 
 
-Cayuse does not sponsor applications for work visas.
+As a consultant engaging with our clients, you will:
 
-Not open to C2C or contractors
+Work with key stakeholders to achieve world’s best practice processes in major projects
+Work on a wide variety of interesting and challenging assignments
+Work with colleagues in partnership with clients who are committed to achieving their business objectives
+Enjoy a working environment in which effort, creativity and a positive attitude are highly valued
+Have extensive training opportunities through the NCS Academy, which offers a wide range of ICT and Business skills courses
+Work with likeminded colleagues who share information and focus on the goal, driving the project and their careers further and faster
 
-100% Remote in Australia
 
-Your Challenge
 
-A Senior Site Reliability Engineer is responsible for ensuring smooth and efficient operation of our cloud environment. We are currently seeking an engineer with in-depth experience to join our Site Reliability Engineering team. This individual will utilize production metrics and performance to provide expert advice on the platform designs, standards, requirements implementation, and product releases. The ideal candidate for this role will have a deep understanding of practices around automation and SRE principles which includes programs to increase visibility into runtime performance as well as optimizing the systems to meet all our SLAs.
 
-Your Responsibilities
+About the role:
 
-Participate in the day-to-day responsibilities of SRE and Cloud support teams.
-Maintain the cloud operating environments with a focus on quality and resilience aspects in release, system performance, platform availability, operational efficiency, and risk management.
-Automate and operate our platforms and procedures to increase reliability, stability, and scalability as our usage grows and technology transforms.
-Participate in incident response, disaster recovery, and production support testing and implementations.
-Monitor service level objectives to recommend and implement adjustments to ensure the objectives are met.
-Leading new projects and initiatives around site reliability, developing or finding net-new solutions, evaluating products, and leading discussions on technology topics
-Execute software release processes to ensure reliable application deployments across global environments with minimal downtime.
-Manage the patching and updating of the systems in a highly available manner providing secure and resilient systems.
-Review existing processes and recommend changes or institute new processes as needed.
-Work closely with our support and engineering teams to implement standard processes and consistent approaches to issue resolution.
-Collaborate with Compliance & Security teams to implement and maintain controls defined in compliance programs.
-Prepare and present reports of incidents and remediations.
-Assess system data and error logs, along with user reports, to determine areas for improvement or repair.
-Analyze and review implementations to ensure security best practices are implemented.
-Coordination with security operations during high-risk events and incidents
-Manage the processes for securing classified and sensitive information within the Hosted environments.
-Mentoring those around you, showing thought-leadership and helping educate the team on best practices.
-Provide operational KPI metrics and reports to senior management.
-Improve service observability, incident response, and maintain operational excellence.
-Build appropriate tooling, implement metrics and reports to help proactively detect issues and resolve them before impacting our customer experience.
+We require a Senior DevOps Engineer to join our professional consulting team. We are seeking a person who will bring previous enterprise environment experience as a DevOps engineer, and who has a focus on great delivery outcomes.
 
-Your Qualifications
 
-3+ years’ experience in a DevOps and/or Site Reliability Engineering position
-3+ years working with public cloud technologies (AWS/GCP)
-3+ years’ experience developing automation tools and implementing Infrastructure as Code
-3+ years of experience managing servers and IT infrastructure.
-Knowledge of Information Security Fundamentals including HIPAA, SOC2, NIST, and ISO 27001 compliance
-Understanding of distributed systems and their commonly associated problems
-Quality first mindset with a strong background and experience with developing products for a global audience at scale.
-Deep understanding of Site Reliability Engineering (SRE) philosophy, platforms and tools, SLA management, incident resolution, and automation
-Proven strategic and tactical thinker, able and comfortable translating business strategy into architectures/plans and equally comfortable rolling-up-your sleeves to problem solve with your team.
-Ability to multi-task and effectively manage multiple projects, competing priorities, and adeptly re-prioritize based on changing needs.
 
-Benefits
 
-25 days annual leave
-Contribution to Medical Insurance
-Fun, innovative, rapidly expanding company with Industrious Spirit
+Key Responsibilities:
+
+Report on costs, performance, failures, controls, Feature Toggles, analytics and observability
+Manage cloud and configs, with a good knowledge and experience of Cloud technologies
+Manage and template config tools such as Launch Darkly, Snyk, ServiceNow, etc.
+Integrate and automate tooling and systems to improve efficiency
+Assist teams in integrating tools into pipelines. Looks after developer productivity dashboards, performance, feature toggles and observability. Responsible for the integration and automation of tooling and systems and helps teams get all the tools integrated into pipelines.
+
+
+
+
+About you:
+
+Platform Engineering experience (Software Engineering/AppSecurity Engineering/DevOps/SRE/Observability)
+Programming skills: Python, Java, C#, TypeScript, and JavaScript, Yml, helm
+Experience with virtualization technologies such as Docker and virtual machines, as well as cloud platforms like AWS and Azure.
+Dynamic Configuration Management tools and Integration Experience (ServiceNow, Ansible, Score, LaunchDarkly, Kafka, Confluent, Snyk, SonarQube, Jmeter, New Relic, Splunk. etc) GitOps, ChatOps, OPA, Deployment Gating and Release Management Automation
+Scripting and shell scripting: Bash, PowerShell, and Python scripting.
+Proven ability to work effectively with development and operations teams to align processes and implement automation solutions.
+Understanding of security best practices and experience implementing security measures, such as network segmentation, access control, and encryption.
+
+
+
+
+Why join us:
+
+At the NCS Group, you'll be part of a team invested in your growth. You'll have access to our leading learning and development program, be mentored by some of the industry's best and have a worldwide network of career opportunities.
+
+
+
+
+Other important stuff:
+
+We value our people and the communities we serve; being different, diverse and inclusive is important to us. We're also committed to Equal Employment Opportunity Principles and providing reasonable accommodations to all of our applicants. If you need a modification or special assistance to navigate our website or complete your application, please send an email with your request to arianne.akber@au.ncs-i.com.
+
+
+
+
+If you'd like to be part of the future of the NCS Group Australia, please click “Apply” now.
+
+
+
+
+To be considered, applicants must have full work rights for Australia and be willing to undergo comprehensive background checks, including probity and police checks.
 
 Show more 
 Seniority level
-Associate
+Mid-Senior level
 Employment type
 Full-time
 Job function
-Information Technology, Engineering, and Quality Assurance
+Marketing and Sales
 Industries
-Software Development
+IT Services and IT Consulting
   
 
-Referrals increase your chances of interviewing at Cayuse by 2x
-
-See who you know
-
-Get notified about new Site Reliability Engineer jobs in Victoria, Australia.
-
-Sign in to create job alert
-Similar jobs
-Senior Site Reliability Engineer
-Senior Site Reliability Engineer
-Oracle
-Melbourne, Victoria, Australia
-3 days ago
-Site Reliability Engineer I
-Site Reliability Engineer I
-Apptio
-Melbourne, Victoria, Australia
-2 days ago
-Senior Site Reliability Engineer
-Senior Site Reliability Engineer
-Macquarie Group
-Melbourne, Victoria, Australia
-2 weeks ago
-Senior Site Reliability Engineer
-Senior Site Reliability Engineer
-CMD Solutions
-Melbourne, Victoria, Australia
-2 weeks ago
-Lead Site Reliability Engineer - ANZPlus
-Lead Site Reliability Engineer - ANZPlus
-ANZ
-Melbourne, Victoria, Australia
-4 days ago
-Site Reliability Engineer
-Site Reliability Engineer
-Aeon Media Group Ltd
-Melbourne, Victoria, Australia
-2 weeks ago
-Show more jobs like this 
-People also viewed
-Sr Software QA Engineer
-Sr Software QA Engineer
-
-SS&C Technologies
-
-Melbourne, Victoria, Australia
-2 weeks ago
-Site Engineer
-Site Engineer
-
-Laing O'Rourke
-
-Melbourne, Victoria, Australia
-2 weeks ago
-Senior Cloud Engineer
-Senior Cloud Engineer
-
-Arq Group
-
-Melbourne, Victoria, Australia
-2 weeks ago
-Senior DevOps Engineer
-Senior DevOps Engineer
-
-Airwallex
-
-Melbourne, Victoria, Australia
-1 day ago
-Lead Engineer - Cloud
-Lead Engineer - Cloud
-
-Versent
-
-Melbourne, Victoria, Australia
-1 week ago
-Senior Software Engineer
-Senior Software Engineer
-
-Unity
-
-Melbourne, Victoria, Australia
-1 week ago
-Site Reliability Engineer - ANZPlus
-Site Reliability Engineer - ANZPlus
-
-ANZ
-
-Melbourne, Victoria, Australia
-2 days ago
-Site Reliability Engineer - SRE Engineer
-Site Reliability Engineer - SRE Engineer
-
-Macquarie Group
-
-Melbourne, Victoria, Australia
-2 days ago
-Senior Engineer
-Senior Engineer
-
-Culture Amp
-
-Melbourne, Victoria, Australia
-3 days ago
-Principal Software Engineer, Trilogy (Remote) - $100,000/year USD
-Principal Software Engineer, Trilogy (Remote) - $100,000/year USD
-
-Crossover
-
-Melbourne, Victoria, Australia
-1 day ago
-Looking for a job?
-
-Visit the Career Advice Hub to see tips on interviewing and resume writing.
-
-View Career Advice Hub
-LinkedIn
-© 2023
-About
-Accessibility
-User Agreement
-Privacy Policy
-Cookie Policy
-Copyright Policy
-Brand Policy
-Guest Controls
-Community Guidelines
-Language

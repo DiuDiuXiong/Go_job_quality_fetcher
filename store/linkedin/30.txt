@@ -1,213 +1,55 @@
-Skip to main content
-LinkedIn
-Jobs
-Dismiss
-Dismiss
-Join now
-Sign in
-Junior Devops Engineer
-Macquarie Group  Sydney, New South Wales, Australia
-2 weeks ago  97 applicants
+
+Kubernetes Administrator
+Amadeus  Sydney, New South Wales, Australia
+1 month ago   Be among the first 25 applicants
   
-See who Macquarie Group has hired for this role
+See who Amadeus has hired for this role
 Apply
 Save
-Sydney
 
-Exciting opportunity to work closely with highly collaborative technology and business teams to drive ongoing system changes and enhancements.
+Direct message the job poster from Amadeus
 
-As a Junior Devops Engineer, you will be part of the Commodities Global Markets Technology Platform team, where you will provide effective first and second level support for applications, both in-house and vendor supplied.
+Renuka Sankaran
+Talent Acquisition Specialist at Amadeus
 
-You will be part of the SRE team in Sydney; and collectively with other support team in London and Gurugram form a global "Follow the Sun" model.
+About the Role
 
-As a member of the Commodities Global Markets Technology team, you will be working directly with the business as well as developers and global operational teams. You will be responsible for the support of critical applications used by the business for regulatory transaction reporting of Commodities and Financial products. This is a role that deals with time sensitive service deliverables in which accuracy of processing and timely escalation and communication is essential.
 
-To be successful in this role you will have:
 
-Experience within the financial industry focusing on Regulatory Reporting platforms
-Take opportunities to identify, prioritize and address operational improvements, resolve user queries, eliminate manual processes, improve documentation, and fix defects.
-Experience handling Incident and Problems to ensure healthy and stable environments.
-Self-managing, proactive, able to work with minimal supervision.
-Experience writing SQL queries and interacting with databases (Sybase/Oracle).
-Good working knowledge of Unix
-Knowledge of ITIL tools (e.g. Remedy) for Incident/Change/Problem management.
-Experience and understanding of Agile development lifecycle and Scrum.
-Experience with DevOps and Continuous Integration tools (e.g. Jira, Bitbucket, Bamboo).
 
-If you are ready to own you career and join one of Australia’s leading technology driven bank then please apply via the link!
+Join our global team on a journey to run the company applications on Amadeus Cloud Platform across all businesses. Made of hundreds of Kubernetes clusters distributed around the world, the platform powers high throughput and mission critical workloads with high resilience and security.
 
-About The Corporate Operations Group
 
-The Corporate Operations Group brings together specialist support services in Digital Transformation & Data, Technology, Operations, Human Resources, Business Services, Business Improvement & Strategy, and the Macquarie Group Foundation. We deliver service excellence to ensure Macquarie is open for business, deliver on transformational change, invest in our people and have deep relationships with our customers.
 
-Our commitment to Diversity, Equity and Inclusion
 
-The diversity of our people is one of our greatest strengths. An inclusive and equitable environment enables us to deliver innovative and sustainable outcomes for our people, clients, shareholders and communities. From day one, you'll be encouraged to be yourself and supported to perform at your best. If our purpose of ‘empowering people to innovate and invest for a better future’ is as inspiring to you as it is to us, please apply. With the right technology, support and resources, our people can work in a range of flexible ways.
+You will work on
 
-We are committed to providing a working environment that embraces and values diversity, equity and inclusion. We encourage candidates to speak with a member of our recruitment team if you require adjustments to our recruitment process to support you, and the type of working arrangements that would help you thrive.
+Building a state-of-the-art Platform as a service solution based on Kubernetes and deploy and operate clusters at scale.
+The solution ensures high SLA _ over 99.99% uptime _ and integrates ITIL components: Change management, Monitoring, Alerting, Logging and Finops
+Deploying and maintaining the platform globally
+Providing applications with expert support and guidance in their migration
+Troubleshooting technical issues with application and infrastructure teams
 
-About Macquarie
 
-A career at Macquarie means you’ll have the opportunity to develop and utilise new skills, explore interesting fields and do challenging work that will impact the lives of people around the world—whether it’s accelerating the green energy transition, helping sustain global food supplies, financing social housing projects or investing in essential infrastructure. At Macquarie, we’re empowering people to innovate and invest for a better future.
 
-Our size and international presence means your work can take you anywhere—across business groups, disciplines, sectors and borders. With 19,200+ employees and offices in 34 markets around the world, we’re a truly global organisation.
 
-You’ll be supported by a diverse team where the unique perspectives, ideas and experiences that all of our people bring are valued. You’ll be empowered to address unmet needs in our communities whilst advising and investing alongside our clients and partners. Working with us, you’ll have the opportunity to make a difference.
+You will bring
 
-Macquarie is a global financial group providing clients with asset management, retail and business banking, wealth management, leasing and asset financing, market access, commodity trading, renewables development, specialist advisory, capital raising and principal investment.
+Solid experience in setting up large production platforms using Kubernetes, preferably Redhat OpenShift, for applications in public cloud, preferably Azure
+Excellent Linux OS administration, networking and troubleshooting skills
+Experience in configuration management and automation using scripting tools such as Python/Ansible while following software development best practices
+Strong interpersonal skills and proven ability to drive results and influence in a complex, multicultural environment and at different hierarchical levels
+Familiarity with common DevOps technologies such as Git, Jenkins, Ansible, Terraform, Prometheus and Grafana
+Embracing SRE philosophy, you are a technology enthusiast with a drive to automate any manual action, enabling stability, consistency and resilience at scale
 
-Find out more at www.macquarie.com/careers
-
-Job no: COG-967648
-
-Work type: Permanent - Full time
-
-Location: Sydney
-
-Category: Junior, Technology
-
-Group: Corporate Operations Group
-
-Division: Technology
-
-Recruiter: Michael Macalua
-
-Opening Date: 11/5/2023
 Show more 
 Seniority level
-Not Applicable
+Mid-Senior level
 Employment type
 Full-time
 Job function
 Engineering and Information Technology
 Industries
-Banking, Financial Services, and Investment Banking
+IT Services and IT Consulting, Technology, Information and Internet, and Airlines and Aviation
   
 
-Referrals increase your chances of interviewing at Macquarie Group by 2x
-
-See who you know
-
-Get notified about new DevOps Engineer jobs in Sydney, New South Wales, Australia.
-
-Sign in to create job alert
-Similar jobs
-Junior DevOps Engineer
-Junior DevOps Engineer
-TransPerfect
-Sydney, New South Wales, Australia
-2 weeks ago
-DevOps Engineer
-DevOps Engineer
-nib Group
-Sydney, New South Wales, Australia
-5 days ago
-DevOps Engineer
-DevOps Engineer
-CES (Container Exchange Services)
-Sydney, New South Wales, Australia
-4 days ago
-DevOps Engineer
-DevOps Engineer
-The Recruitment Company Pty Ltd
-Greater Sydney Area
-2 days ago
-DevOps Engineer
-DevOps Engineer
-Lanson Partners
-Sydney, New South Wales, Australia
-4 days ago
-DevOps Engineer
-DevOps Engineer
-illion
-Sydney, New South Wales, Australia
-1 month ago
-Show more jobs like this 
-People also viewed
-DevOps Engineer
-DevOps Engineer
-
-Tata Consultancy Services
-
-Sydney, New South Wales, Australia
-4 days ago
-Senior DevOps Engineer
-Senior DevOps Engineer
-
-Shine Solutions Group
-
-Sydney, New South Wales, Australia
-4 days ago
-Sr. DevOps Engineer
-Sr. DevOps Engineer
-
-Ampstek
-
-Sydney, New South Wales, Australia
-1 day ago
-Senior DevOps Engineer
-Senior DevOps Engineer
-
-tekFinder
-
-Sydney, New South Wales, Australia
-2 weeks ago
-Senior DevOps Engineer
-Senior DevOps Engineer
-
-TheDriveGroup.
-
-Sydney, New South Wales, Australia
-1 week ago
-Senior DevOps Engineer
-Senior DevOps Engineer
-
-Bunnings
-
-Sydney, New South Wales, Australia
-2 weeks ago
-Senior DevOps Engineer
-Senior DevOps Engineer
-
-Airwallex
-
-Sydney, New South Wales, Australia
-2 weeks ago
-Senior DevOps Engineer
-Senior DevOps Engineer
-
-Field Solutions Group (ASX:FSG)
-
-Sydney, New South Wales, Australia
-1 week ago
-Senior DevOps Engineer
-Senior DevOps Engineer
-
-NSW Department of Education
-
-Sydney, New South Wales, Australia
-4 days ago
-Lead Engineer - DevOps
-Lead Engineer - DevOps
-
-ING Australia
-
-Sydney, New South Wales, Australia
-1 week ago
-Looking for a job?
-
-Visit the Career Advice Hub to see tips on interviewing and resume writing.
-
-View Career Advice Hub
-LinkedIn
-© 2023
-About
-Accessibility
-User Agreement
-Privacy Policy
-Cookie Policy
-Copyright Policy
-Brand Policy
-Guest Controls
-Community Guidelines
-Language

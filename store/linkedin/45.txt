@@ -1,215 +1,120 @@
-Skip to main content
-LinkedIn
-Jobs
-Dismiss
-Dismiss
-Join now
-Sign in
-Cloud SRE - Azure
-Westpac  Melbourne, Victoria, Australia
-2 weeks ago   Be among the first 25 applicants
+
+DevOps Engineer
+mx51  Sydney, New South Wales, Australia
+2 weeks ago  135 applicants
   
-See who Westpac has hired for this role
+See who mx51 has hired for this role
 Apply
 Save
-Job Description
+mx51 is a payments-as-a-service solution for banks, non-bank acquirers, and other merchant service providers. We are building a payment platform that allows merchants to accept payments in-store, in-app and online, whilst consolidating all their data on a real-time business management dashboard.
 
-Westpac Group has a rich heritage and offers employees a multitude of opportunities. We aim to attract the best people inside and outside of the business – building an organisation where the best talent thrives.
 
-The Westpac Group has a complex Information Technology environment that needs to deliver to the rapidly changing needs of our customers and employees, the ever-evolving IT landscape, and the Group's regulatory and statutory requirements. In GroupTech we're striving to be game-changing technologists, shaping the future of banking.
 
-How will I help?
 
-An Exciting opportunity is available for a Cloud Site Reliability Engineer – Azure within the Enterprise and Compute Storage Services team in Group Technology. This plays an important role in the development and maintenance of technical solutions on the public cloud and ensures that the detailed design, build, and operations are fit for purpose.
+We have an exciting DevOps Engineer role within our infrastructure team, we’re looking for someone to help us scale our operations and to further compliment the team’s skills and experience. This role will be ideal for an Engineer who enjoys collaboration with different business areas, enjoys learning (self-learning included) and is seeking a role which encourages innovation.
 
-This role is accountable for and the security, governance & compliance of Westpac AWS platform. You can work flexibly while training to upskill on new tools and technologies. In addition, this role is open to Sydney based candidates as well.
 
-Your key responsibilities may include:
 
-Through automation collect Service-Level Indicators (SLIs)
-Through automation contribute to establishing Service-Level Objectives (SLOs)
-Through automation fulfill Service Level Agreements (SLAs)
-Improve performance of SLAs
-Work with application teams to identify opportunities to improve cloud consumption, service reliability and cloud service run costs
-Assist application teams in the effective maintenance and lifecycle of their cloud infrastructure.
-Development and where applicable the codification of operations playbooks
-Level 3 maintenance of cloud platform including change activities
-Level 3 operations for the banks cloud platform including On-Call responsibilities
-Maintain focus on industry and technical trends to enable evaluation and recommend changes to the business strategy/ architecture and Azure offerings, and automation and orchestration of services.
-Apply Agile frameworks, techniques, and processes to deliver value to the business.
 
-What’s in it for me?
+We’re looking for someone who’s keen to learn and grow with us in the Site Reliability Engineering/DevOps space. Using a best in class AWS stack centred around Kubernetes (EKS) and Go microservices, CI/CD driven, and using great tools like Terraform, join a team that makes a true impact.
 
-You will play an important and significant part in the future of a business that has been around for 200 years. Our vision is to become one of the world’s great service companies. So, we will back you in the development of your career, with internal career prospects and flexible working. You will also be backed by a fantastic team of people in a can-do, supportive structure.
 
-What do I need?
 
-To be successful in this role, you will need excellent and verbal communication skills, strong stakeholder management experience and be self-driven. In addition to this, your skills may include:
 
-Hands-on experience with Azure Technologies with a deep understanding of the foundational platform including Subscriptions, Resource Groups, RBAC etc
-Experience in one or more DevOps automation tools – BitBucket, Jira, Jenkins.
-Experience in IaC and infrastructure management tools – Terraform
-Knowledge in scripting and developing tools including - Bash/Shell, Ruby, JSON, Python, NodeJS, JavaScript.
-Experience in developing CICD pipelines – Jenkins, Artifactory.
-Troubleshooting in Azure technologies and across multiple consumption models (IaaS, PaaS, and SaaS).
-Agile methodologies – Scrum, Kanban, Lean, XP, SAFe, TDD, BDD, customer centric design.
-Customer engagement, relationship development, requirements gathering and delivery planning and scheduling.
-Azure cloud certification is highly desired.
+We're a remote first organisation, with the rest of the team based in Sydney. As a location, Sydney would be our preference but we are also open to people working across Australia and New Zealand. If you're working remote, we just ask that you commit to meeting with the team in Sydney 3-4 times a year.
 
-What’s it like to work there?
 
-As well as competitive remuneration and a great culture, joining the Westpac family means you will get some of the best banking, wealth, and insurance benefits in the market.
 
-We back our employees by helping them work towards industry-recognised qualifications, using online learning, training modules and career planning tools for you to grow with us. We will even pay you to do volunteer or community work.
 
-We aim to provide one big, supportive team of people working to achieve our purpose of creating better futures together. As an equal opportunity employer, we’re proud to have created a culture and work environment that values diversity and flexibility – and champions inclusion.
+Are you curious to learn more about how our tech team works, our tech stack or what we do day to day? We've shared our Technology Handbook here: https://mx51.tech/handbook
 
-How do I Apply?
 
-Start here. Just click on the APPLY button.
 
-As part of our commitment to creating a diverse and inclusive workplace, this role is open to experienced candidates seeking a discussion around workplace flexibility. We invite candidates of all ages, genders, sexual orientation, cultural backgrounds, people with disability, neurodiverse individuals, and Indigenous Australians to apply. If an adjustment is required to assist you during our recruitment process, please email talentacquisition@westpac.com.au
 
-Do you need reasonable adjustments during the recruitment process?
+A bit more of the detail:
 
-At Westpac we are committed to providing a supportive culture and creating inclusive and accessible workplaces, branches, products and services for our customers, employees, and community.
 
-We can provide reasonable adjustments for individuals with disability and/or neurodiversity. If you require an adjustment to be made during the recruitment process at any stage, please call 1800 655 592 Option 1.2 or email talentacquisition@westpac.com.au
+
+
+Augment and improve our applications’ and platforms’ monitoring and observability capabilities
+Ensure our runtime platforms on EKS remain healthy
+Identify bottlenecks for scale and research alternative technologies
+Enrich our Infrastructure-as-code repository with new functionality and improvements
+Automate build and release processes through build pipelines
+Rotate responsibilities as SRE/Devops BAU role during business hours for internal issues/blockers
+
+
+
+
+What we'd love to see in an applicant (but don't be put off if you don't have everything):
+
+
+
+
+Experience monitoring and troubleshooting large-scale distributed systems running on Kubernetes
+Demonstrated experience with cloud computing vendors and services
+Advanced networking on Linux platforms/containers
+Experience automating everything through pipelines e.g. Azure DevOps and Github
+Experience with Kubernetes as an end-user/developer
+Proficient writing Terraform modules and implementations
+Experience working with a strong security mindset when building systems/processes
+
+
+
+
+Nice to have (but certainly not essential):
+
+
+
+
+Previous experience in the fintech industry or a fast-growth technology company
+
+
+
+
+LI-Remote
+
+
+
+
+What We Offer
+
+
+
+
+You will be joining an incredible team who are committed, customer focused, adaptable and curious. Our innovative culture gives you opportunities to make real contributions that will shape the future of the business. In addition to a fun and flexible work environment, we also offer:
+
+
+
+
+Work from anywhere up to 4 weeks per year
+Flexible work practices and tools to help you set up your remote workstation
+Access to co-working facilities across 3 states
+Annual team offsite
+Social events run by our social committee
+Swap a public holiday and take an alternative day off
+Paid leave for volunteering
+Employee Share Option Plan (subject to invitation)
+Paid parental leave for primary and secondary carers
+Novated lease and salary sacrifice options
+
+
+
+
+mx51 is an equal opportunity employer that is committed to creating a diverse and inclusive environment. All qualified applicants will receive consideration for this role without bias to race, religion, gender, gender identity or expression, sexual orientation, national origin, genetics, disability or age.
+
+
+
+
+Note: mx51 does not accept unsolicited resumes or applications from recruitment agencies.
 Show more 
 Seniority level
-Not Applicable
+Entry level
 Employment type
 Full-time
 Job function
 Engineering and Information Technology
 Industries
-Banking, Financial Services, and Investment Banking
+Financial Services
   
 
-Referrals increase your chances of interviewing at Westpac by 2x
-
-See who you know
-
-Get notified about new Site Reliability Engineer jobs in Melbourne, Victoria, Australia.
-
-Sign in to create job alert
-Similar jobs
-Senior Cloud (Azure) Engineer
-Senior Cloud (Azure) Engineer
-Naviro
-Melbourne, Victoria, Australia
-1 week ago
-Senior Cloud Engineer - Azure
-Senior Cloud Engineer - Azure
-Versent
-Melbourne, Victoria, Australia
-2 weeks ago
-Principal Cloud Engineer
-Principal Cloud Engineer
-Pepperstone
-Melbourne, Victoria, Australia
-1 day ago
-Cloud Engineer (AWS)
-Cloud Engineer (AWS)
-Commonwealth Bank
-Melbourne, Victoria, Australia
-2 days ago
-Azure Cloud Engineer- Customer Experience
-Azure Cloud Engineer- Customer Experience
-Microsoft
-Melbourne, Victoria, Australia
-1 week ago
-Cloud Engineer
-Cloud Engineer
-Aware Super
-Melbourne, Victoria, Australia
-2 weeks ago
-Show more jobs like this 
-People also viewed
-Cloud Engineer (GCP)
-Cloud Engineer (GCP)
-
-Macquarie Group
-
-Melbourne, Victoria, Australia
-2 weeks ago
-*AWS Cloud Native Developer*
-*AWS Cloud Native Developer*
-
-Accenture Australia
-
-Melbourne, Victoria, Australia
-3 days ago
-Senior Cloud Operations Engineer
-Senior Cloud Operations Engineer
-
-Bupa
-
-Melbourne, Victoria, Australia
-1 week ago
-Cloud & Infrastructure Platform Engineer
-Cloud & Infrastructure Platform Engineer
-
-Treasury Wine Estates
-
-Melbourne, Victoria, Australia
-3 weeks ago
-Azure & Python Developer
-Azure & Python Developer
-
-CPB Contractors
-
-Melbourne, Victoria, Australia
-3 days ago
-Cloud Engineer
-Cloud Engineer
-
-Versent
-
-Melbourne, Victoria, Australia
-1 week ago
-Senior Cloud Engineer
-Senior Cloud Engineer
-
-Arq Group
-
-Melbourne, Victoria, Australia
-2 weeks ago
-Senior Cloud Consultant
-Senior Cloud Consultant
-
-Slalom
-
-Melbourne, Victoria, Australia
-2 weeks ago
-Cloud Engineering Lead
-Cloud Engineering Lead
-
-AustralianSuper
-
-Melbourne, Victoria, Australia
-2 days ago
-Senior Cloud Engineer- Melbourne/ Sydney
-Senior Cloud Engineer- Melbourne/ Sydney
-
-Ampstek
-
-Melbourne, Victoria, Australia
-1 day ago
-Looking for a job?
-
-Visit the Career Advice Hub to see tips on interviewing and resume writing.
-
-View Career Advice Hub
-LinkedIn
-© 2023
-About
-Accessibility
-User Agreement
-Privacy Policy
-Cookie Policy
-Copyright Policy
-Brand Policy
-Guest Controls
-Community Guidelines
-Language

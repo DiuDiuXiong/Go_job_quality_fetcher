@@ -1,119 +1,141 @@
-Skip to main content
-LinkedIn
-Jobs
-Dismiss
-Dismiss
-Join now
-Sign in
-Cloud/DevOps Engineering - Team Lead (AWS)
-Squiz  Brisbane, Queensland, Australia
-2 weeks ago  27 applicants
+
+SRE Lead
+PropertyMe  Sydney, New South Wales, Australia
+3 days ago   Be among the first 25 applicants
   
-See who Squiz has hired for this role
+See who PropertyMe has hired for this role
 Apply
 Save
 
-We are looking for a Team Lead for our Cloud Engineering team with experience as a cloud/devops engineer (either looking for a step up or an experienced team lead looking for your next challenge), You have previously spent time building AWS architectures that are deployed utilising solid coding and testing practices, that lean into best practice CI/CD, This is a hands on role, thus will suit someone with solid technical ability willing to get in and roll up the sleeves and actually play a part in building solutions.
+Direct message the job poster from PropertyMe
 
+Dilara Suleimanova
+Technical Talent Acquisition Specialist
 
-
-We're location-flexible! This role is open to all candidates on the east coast of Australia.
-
-
-
-Ideally you will have
-
-
-
-
-Excellent knowledge around infrastructure, infrastructure-as-code and current tooling to support the management and orchestration of AWS architecture
-Excellent knowledge of DevOps/cloud engineering principles and practices that support best practice CI/CD
-Excellent team working and communication skills
-Excellent organisational and time management skills
-Experience in a SaaS based environment - managing costings within multi tenant environments
-Experience/exposure to or even an understanding of observability and monitoring (not looking for an SRE
-Conversant on Agile principles, have previously worked in a Scrum team
-A can do attitude and an understanding that this is a journey and we are at the early stages
-
-Nice to have
-
-
-
-Exposure/understanding of container technologies
-Experience exposure to Database platforms
-Experience/exposure to serverless services
-Team lead experience or a desire to be
-
-What you would be doing:
-
-
-
-Lead and build a team of cloud engineers, providing technical guidance, mentorship, work allocation, define processes, initiative and epic/story refinement.
-Work across Squiz Product Engineering teams to guide and mentor cloud best practices, drive adoption of service oriented architecture.
-Develop high-quality standards for CI/CD, container and artefact management, security and code quality compliance scanning, for the deployment of our products to SaaS environments
-Provide a great developer experience to product teams, through both technology and relationship building
-Lead the team on discussions on roadmap, architecture, and strategy.
-Participate in agile ceremonies including standups, sprint refinements, planning, reviews, and showcases
-Contribute to the team's (and your own) continuous growth and improvement by bringing new ideas to the table
-We are a global company so there will be a need for some 'out of hours' meeting with your counterpart in the UK
-
-Who you would be working with:
-
-
-
-This is a unique opportunity to lead a team that is transforming our company's approach to Cloud Engineering, reducing complexity with a strong focus on developer and customer enablement by embracing self service practices, and standardised development and deployment models.
-
-
-
-Who we are:
-
-
-
-Squiz helps complex, service-led organisations harness the power of digital, improving the services they offer online.
-
-
-
-Founded in 1998, Squiz grew during the rise of the internet. Since then, we have evolved from a simple web content management system into a full digital experience platform (DXP), helping customers make the shift from being content managers to experience creators.
-
-
-
-The Squiz DXP brings together content, search, data and applications in one place. To get the most out of the platform, customers can collaborate with our digital experts to design solutions and adapt as demands change.
-
-
-
-We are headquartered in Australia, with teams and customers across the globe, and offices in New Zealand, the United States, the United Kingdom and Poland.
-
-
-
-Right now, we are on a very exciting journey. We are transforming into a SaaS organisation, and we're looking for great people to be a part of this reinvention.
-
-
-
-Why work for Squiz?
-
-
-
-You'll work with some of the most intelligent and down to earth people you've ever meet. We are made up of a diverse range of passionate professionals who love challenging the status quo. Every day is different, but what is constant is we all love what we do.
-
-
-
-We have a lived commitment to flexibility, we know the success of our people is dependent on them having a balanced life. You will be offered flexibility as to where and how you work every day. We want you to be able to work in a way that drives productivity, efficiency and outcomes; along with connection and collaboration.
-
-
-
-We celebrate diversity and unite on the elements of our company DNA, starting every customer conversation with "why?" to really understand their needs, working hard to find a way to overcome every challenge, and fighting for better outcomes with the work we do. We also check our egos at door, we don't take ourselves too seriously and we have fun along the way.
-
-
-
-We are a 2023 Circle Back Initiative Employer - we commit to respond to every applicant.
+Join the National Leader in Cloud-Based Property Management
 
 
 
 
+Our Story: 🏡
 
 
 
 
+Here at PropertyMe we are committed to innovating, problem-solving, and remaining agile in an ever-changing industry. Being Australia’s #1 property management platform after only 10 years, we know what it’s like to be the new kid on the block. That’s where teamwork and a strong sense of comradery come into play, as we believe that you get the best outcomes when you are part of a healthy and thriving team.
+
+
+
+
+Since then, we’ve amassed 53% of the market share to become the largest and most complete cloud property management platform in Australia and New Zealand.
+
+We now assist the real estate industry with:
+
+Processing over $1 billion every month
+Facilitating over 4.1 million conversations
+Coordinating over 1.1 million inspections every year.
+
+
+
+
+We’ve hustled from the start, and with incredible vision from the founders, we’ve managed to get to this point with no funding. The only ones investing in our future are us, and the world’s our oyster!
+
+
+
+
+Your Mission: 🚀
+
+
+
+
+We want to make Property Managers' and Tenants' lives easier, giving them more time to relax and enjoy the home they live in, or have more of the important face-to-face conversations that get more people their dream home. Engineers at PropertyMe are key contributors to the features and products that give valuable time back to both!
+
+The site Reliability Engineering Lead is responsible for ensuring the reliability, availability, and performance of the systems and infrastructure that support PropertyMe’s software applications.
+
+
+
+
+The Role: 📃
+
+
+
+
+The core responsibilities of this role will be to:
+
+Design and implement infrastructure and tools to automate and streamline the deployment and maintenance of web applications and services
+Ensure high availability, reliability, and scalability of web applications and services through monitoring, troubleshooting, and capacity planning
+Implement disaster recovery and business continuity plans to ensure the availability and resilience of web applications and services
+Collaborate with development teams to ensure that web applications and services are designed and developed with reliability, scalability, and efficiency in mind
+Develop and implement security controls and best practices to protect web applications and services from security threats
+Monitor system performance, identify and troubleshoot issues, and implement corrective actions
+Manage configuration management tools to ensure consistency and standardisation of the infrastructure and systems
+Develop and implement backup and recovery strategies to ensure the availability and integrity of data
+Implement and maintain automated testing and deployment processes to ensure the quality and consistency of web applications and services
+Participate in incident response and post-mortem analysis to identify and address root causes and improve the reliability and resilience of web applications and services
+
+
+
+
+Technical capabilities
+
+
+
+
+Commercial experience in C#
+Strong programming skills in one or more IaaC-related languages or frameworks, such as JavaScript, YAML, Terraform, Pulumi, ArgoCD, etc.
+
+
+
+
+About You: 🦸
+
+
+
+
+Strong exposure to fast-paced and collaborative working environments
+Proven track record of managing a small team within a production environment
+Strong experience with the AWS cloud platform
+Good analytical and problem-solving skills
+Excellent communication and interpersonal skills, with the ability to work collaboratively with diverse teams
+
+
+
+
+Experience: 🏢
+
+
+
+
+If you can share examples of the above traits and the below experience, we would love to chat with you.
+
+
+
+
+A bachelor's or master's degree in Computer Science, Information Technology, or a related field.
+5 years of hands-on experience in Site Reliability and Observability Engineering, debugging, diagnosing and correcting errors and resolving high-severity incidents
+Deep understanding of software development, infrastructure management, and operations, as well as the ability to automate and optimise processes to improve system performance and availability.
+
+
+
+
+The Benefits and Perks 🪴
+
+
+
+
+A nurturing and empowering team to help you reach your full potential
+Strong opportunities for career development in a growing company
+High autonomy and recognition in your role
+Hybrid working model 2 days from office 3 days from home
+Beautiful offices in Sydney CBD with a fully stocked kitchen
+Vibrant culture
+Regular milestone parties
+Job security working for one of Australia's leading PropTech companies
+
+
+
+
+It’s uncertain times at the moment, but there’s nothing uncertain about the opportunity here at PropertyMe, we’re building something special and we want to chat with you about joining us, no matter your background. Apply now or check out our People & Culture team on LinkedIn, we’re always open for a chat!
 
 Show more 
 Seniority level
@@ -121,135 +143,8 @@ Mid-Senior level
 Employment type
 Full-time
 Job function
-Information Technology
+Engineering
 Industries
 Software Development
   
 
-Referrals increase your chances of interviewing at Squiz by 2x
-
-See who you know
-
-Get notified about new Engineering Team Lead jobs in Brisbane, Queensland, Australia.
-
-Sign in to create job alert
-Similar jobs
-Engineering Technician
-Engineering Technician
-L3Harris Technologies
-Pinkenba, Queensland, Australia
-2 weeks ago
-AWS Cloud Engineer
-AWS Cloud Engineer
-Opteon AUS & NZ
-Brisbane, Queensland, Australia
-2 weeks ago
-2024 Graduate Program - Engineering
-2024 Graduate Program - Engineering
-BMD Group
-Brisbane City, Queensland, Australia
-2 weeks ago
-AWS Cloud Engineer
-AWS Cloud Engineer
-Peoplebank
-Brisbane, Queensland, Australia
-1 week ago
-Cloud DevOps Engineer
-Cloud DevOps Engineer
-Super Retail Group
-Brisbane, Queensland, Australia
-5 days ago
-Devops Engineer
-Devops Engineer
-Accenture Australia
-Brisbane, Queensland, Australia
-1 day ago
-Show more jobs like this 
-People also viewed
-Senior DevOps Engineer (00007389)
-Senior DevOps Engineer (00007389)
-
-Auto & General Australia
-
-Brisbane, Queensland, Australia
-3 days ago
-Production Operator (Electronic Assembler)
-Production Operator (Electronic Assembler)
-
-Cochlear
-
-Brisbane, Queensland, Australia
-2 weeks ago
-Senior DevOps Engineer
-Senior DevOps Engineer
-
-Bunnings
-
-Brisbane, Queensland, Australia
-2 weeks ago
-Electrical and Instrumentation (E&I) Engineering Lead
-Electrical and Instrumentation (E&I) Engineering Lead
-
-Ampol Australia
-
-Lytton, Queensland, Australia
-2 days ago
-CNC Machinist
-CNC Machinist
-
-QinetiQ Australia
-
-Brisbane, Queensland, Australia
-1 week ago
-Senior Cloud Engineer
-Senior Cloud Engineer
-
-Arq Group
-
-Brisbane, Queensland, Australia
-1 week ago
-Lead Platform Engineer (Azure)
-Lead Platform Engineer (Azure)
-
-Azenix
-
-Brisbane, Queensland, Australia
-1 day ago
-Software DevOps Engineer
-Software DevOps Engineer
-
-Leidos Australia
-
-Brisbane, Queensland, Australia
-2 weeks ago
-Senior DevOps Engineer
-Senior DevOps Engineer
-
-Troocoo
-
-Brisbane, Queensland, Australia
-1 week ago
-Engineering Pathways Lead
-Engineering Pathways Lead
-
-Engineers Australia
-
-Brisbane, Queensland, Australia
-2 weeks ago
-Looking for a job?
-
-Visit the Career Advice Hub to see tips on interviewing and resume writing.
-
-View Career Advice Hub
-LinkedIn
-© 2023
-About
-Accessibility
-User Agreement
-Privacy Policy
-Cookie Policy
-Copyright Policy
-Brand Policy
-Guest Controls
-Community Guidelines
-Language

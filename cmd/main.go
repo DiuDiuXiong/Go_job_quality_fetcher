@@ -1,8 +1,8 @@
 package main
 
 import (
-	"fmt"
 	"github.com/DiuDiuXiong/Go_job_quality_fetcher/internal/crawler"
+	"github.com/DiuDiuXiong/Go_job_quality_fetcher/internal/extractor"
 	"github.com/DiuDiuXiong/Go_job_quality_fetcher/internal/fetcher"
 	"io/ioutil"
 	"path"
@@ -40,22 +40,24 @@ func main() {
 	go func() {
 		resIndeed, _ := indeed.FetchContents(query)
 		for idx, txt := range resIndeed {
-			fmt.Println(txt)
-			ioutil.WriteFile(path.Join("store", "indeed", strconv.Itoa(idx)+".txt"), []byte(txt), 0644)
+			txtShort := extractor.ExtractIndeedJobDescription(&txt)
+			ioutil.WriteFile(path.Join("store", "indeed", strconv.Itoa(idx)+".txt"), []byte(txtShort), 0644)
 		}
 		wg.Done()
 	}()
 	go func() {
 		resSeek, _ := seek.FetchContents(query)
 		for idx, txt := range resSeek {
-			ioutil.WriteFile(path.Join("store", "seek", strconv.Itoa(idx)+".txt"), []byte(txt), 0644)
+			txtShort := extractor.ExtractSeekJobDescription(&txt)
+			ioutil.WriteFile(path.Join("store", "seek", strconv.Itoa(idx)+".txt"), []byte(txtShort), 0644)
 		}
 		wg.Done()
 	}()
 	go func() {
 		resLinkedin, _ := linkedin.FetchContents(query)
 		for idx, txt := range resLinkedin {
-			ioutil.WriteFile(path.Join("store", "linkedin", strconv.Itoa(idx)+".txt"), []byte(txt), 0644)
+			txtShort := extractor.ExtractLinkedinJobDescription(&txt)
+			ioutil.WriteFile(path.Join("store", "linkedin", strconv.Itoa(idx)+".txt"), []byte(txtShort), 0644)
 		}
 		wg.Done()
 	}()

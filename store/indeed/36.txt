@@ -1,16 +1,5 @@
-Skip to main content
-Find jobs
-Company reviews
-Search Salary
-Upload your resume
-Sign in
-Employers / Post Job
-Start of main content
-What
-Where
-Find Jobs
-FX Application Support Senior Analyst
-Citi Australia
+Site Reliability Engineer
+Cognizant Technology Solutions
 Sydney NSW 2000
 Full-time
 You must create an Indeed account before continuing to the company website to apply
@@ -19,117 +8,65 @@ Job details
 No matching job preferences
 Job Type
 Full-time
+Shift and Schedule
+Day shift
+Shift work
 
-Citi, the world leading global bank, has approximately 200 million customer accounts and a presence in more than 160 countries and jurisdictions worldwide. Citi provides consumers, corporations, governments and institutions with a broad range of financial products and services, including consumer banking and credit, corporate and investment banking, securities brokerage, transaction services, and wealth management. Citi enables clients to achieve their strategic financial objectives by providing them with cutting-edge ideas, best-in-class products and solutions, and unparalleled access to capital and liquidity.
+What makes Cognizant a unique place to work? The combination of rapid growth and an international and innovative environment! This is creating many opportunities for people like YOU — people with an entrepreneurial spirit who want to make a difference in this world. At Cognizant, together with your colleagues from all around the world, you will collaborate on creating solutions for the world's leading companies and help them become more flexible, more innovative, and successful. Moreover, this is your chance to be part of the success story.
 
-A critical enabler of Citi’s mission to enable growth and economic progress is technology. Our teams are creating innovations used across the globe – we’re changing the way people bank and how the world does business.
+Job Description:
 
+SRE is a core capability required across all services that has a production responsibility for deployed cloud services hosted on the platform.
+SRE is concerned with several aspects of a service including reliability, resilience, performance, SLA/SLO/SLI measurements, observability, and automation.
+They bridge development and operations by applying a software engineering mindset to the automaton of the cloud services and system administration topics.
+They ensure a solution’s availability, latency, performance, efficiency, change management, monitoring, emergency response, and capacity planning.
 
-Due to significant and continued investment, Citi’s technology team is growing. We’re looking for talented, driven individuals to help build the future of global banking. At Citi, you’ll have the chance to build the career you want, with the scale, inclusive culture and technology to support you.
-You’ll be joining a diverse team of professionals across the world in an environment focused on growth and progress. This is the opportunity to take your career to the next level through the power of Citi’s unmatched globality and vast expertise.
+Roles and Responsibilities:
 
+Defining a product’s SLA/SLO/SLI agreement.
+Developing, supporting, implementing, and maintaining observability and automation tools to support cloud solutions.
+Engineering in resilient design and implementation practices into solutions as they go through the product life cycle.
+Engineering out manual effort (Toil) through the development of automated processes and services (eg. Automated Management of Systems, CI/CD improvements).
+Introducing observability tools to track, report, and measure a product’s SLA adherence.
+Service analysis and restoration in the event of failure as part of incident management processes.
+Responsible for operationally supporting the product (prior to transition to cloud operations) covering incident and emergency response, operational administrative tasks (compliance reporting etc).
+Review, analysis, and improvement development of deployed products with respect to product architecture and inter-service dependencies.
 
+Mandatory Skills:
 
-About the Team: ICG Production Management
-Our Production Management team provides critical business and technical support to the Institutional Client Group (ICG); working collaboratively to ensure that our platforms and services operate for our clients, whenever they need them. We act as highly skilled and valued partners to our businesses.
-Working as part of our Production Management team, you will help deliver a world class client service and experience, by applying engineering, innovation, learning and risk management across our systems and user environments. We interact with a diverse range of people each day, collaborating to solve problems as well as to anticipate and remove them before they occur. At Citi we look to raise the bar of operational excellence by using Site Reliability Engineering (SRE) principles to implement continuous improvement across key areas like latency, availability, performance, and capacity. We welcome candidates with SRE mindsets and experience who are keen to promote the adoption of SRE culture at Citi.
+3-5 years of experience in software engineering, or cloud infrastructure engineering and administration.
+Experience with cloud automation development tools such as Gitlab CI/CD, Terraform Cloud/Enterprise, Ansible, AWS CloudFormation, Azure DevOps, Python/Bash/PowerShell Scripting.
+Experience in administrating cloud infrastructure with SRE metric-driven reporting.
+Defining a product’s SLA/SLO/SLI agreement.
+Knowledge of agile/iterative development, and test-driven development.
+Mastery of collaborative software development using Git, Jira and Confluence.
+Experience in implementing best practice cybersecurity controls in cloud environments.
+Experience in agile style ways of working.
+Experience in working with multi-cultural and diverse teams.
+Experience in working with virtual teams across different time zones.
+Relentless drive to continuously learn new skills and improve.
+Previous experience in an infrastructure or application development domain such as: Network Engineering, IaaS Engineering, DevSecOps, Automation Tools Engineering, Web Application Development, Mobile Application Development, Data Science is highly desirable.
 
+Salary Range: >$100,000
 
-Citi’s distinct global network of people, data and relationships creates a mindset that allows us to identify opportunities, manage risks and connect dots for our clients in ways that others cannot. Our people really do make all the difference in our success. We’re a forward-thinking team. We’re looking for ambitious, capable professionals who thrive on collaboration and want to improve how things are done. In return, we offer rewarding work in a supportive environment, clear opportunities for progression and exciting company benefits.
+Next Steps:
 
+If you feel this opportunity suits you, or Cognizant is the type of organization you would like to join, we want to have a conversation with you! Please apply directly with us.
 
-As an CitiFX Pulse Application Support Senior Analyst you will play an pivotal role in running and maintaining the production environment for Citi’s franchise critical applications, enabling our traders to confidently service our clients.
-Additionally, you will play an active role in driving stability and service improvements, developing application knowledge and working with senior business partners across the globe. This will include partnering with our Application Technology Development teams, Infrastructure teams and Business Product Owners.
+For a complete list of open opportunities with Cognizant, visit http://www.cognizant.com/careers Cognizant is committed to providing Equal Employment Opportunities. Successful candidates will be required to undergo a background check.
 
+About Cognizant:
 
-This role presents an excellent opportunity for a successful candidate to develop a broad range of technical and soft skills, as well as the ability to develop a thorough understanding of Foreign Exchange (FX). You will gain significant experience of the advanced technologies used to run our business regionally and globally, giving you vast exposure to new and existing methodologies and systems.
+Cognizant (Nasdaq-100: CTSH) is one of the world's leading professional services companies, transforming clients' business, operating and technology models for the digital era. Our unique industry-based, consultative approach helps clients envision, build, and run more innovative and efficient businesses. Headquartered in the U.S., Cognizant is ranked 185 on the Fortune 500 and is consistently listed among the most admired companies in the world. Learn how Cognizant helps clients lead with digital at www.cognizant.com or follow us @cognizant.
 
+#LI-CTSAPAC
 
-There will be multiple opportunities for exposure to our firmwide technology network and potential to develop into a role in one of our many growing technology functions throughout Citi. If you can demonstrate an appetite to learn technical concepts, have strong problem-solving skills and an ability to build excellent working relationships then we want to hear from you!
+Employee Status : Full Time Employee
 
-In this role, you're expected to:
+Shift : Day Job
 
-Manage, maintain and support applications and their operating environments, providing technical and business support for users of Citi. This will include providing resolutions to application issues, driving stability, efficiency and effectiveness improvements to help the department and overall business succeed.
+Job Posting : Jun 14 2023
 
-Perform start of day checks, continuous monitoring, regional handovers and same day risk reconciliations.
+About Cognizant
+Cognizant (Nasdaq-100: CTSH) is one of the world's leading professional services companies, transforming clients' business, operating and technology models for the digital era. Our unique industry-based, consultative approach helps clients envision, build and run more innovative and efficient businesses. Headquartered in the U.S., Cognizant is ranked 185 on the Fortune 500 and is consistently listed among the most admired companies in the world. Learn how Cognizant helps clients lead with digital at www.cognizant.com or follow us @Cognizant.
 
-Develop and maintain technical support documentation to support team members and wider technology teams.
-
-Identify ways to maximize the potential of the applications used.
-
-Partner with appropriate application development and production support areas and teams to priorities bug fixes and support tooling requirements.
-
-Assess risk and impact of production issues, escalating to the business and technology management in a timely and appropriate manner.
-
-Participate in application releases from development, testing and deployment into the production environment.
-
-Appropriately assess risk when business decisions are made, demonstrating particular consideration for the firm's reputation and safeguarding Citigroup, its clients and assets, by driving compliance with applicable laws, rules and regulations, adhering to Policy, applying sound ethical judgment regarding personal behavior, conduct and business practices, and escalating, managing and reporting control issues with transparency.
-
-As a successful candidate, you’d ideally have the following skills and exposure:
-
-Experience in a Production Support role/environment is essential
-
-Experience with technical tools and systems and a willingness and ability to learn new technologies - SQL and Linux
-
-Experience installing, configuring and/or supporting business applications
-
-Knowledge and experience of Problem Management Tools.
-
-Ability to engage senior stakeholders and lead discussions with clear, articulate, and highly assertive communication skills
-
-Experience working in a fast-paced environment whilst demonstrating practical problem solving and strategic thinking skills.
-
-Bachelor’s/University degree or equivalent experience
-
-#LI-Hybrid
-
--
-
-Job Family Group:
-
-Technology
-
--
-
-Job Family:
-
-Applications Support
-
--
-
-Time Type:
-
-Full time
-
--
-
-Citi is an equal opportunity and affirmative action employer.
-
-Qualified applicants will receive consideration without regard to their race, color, religion, sex, sexual orientation, gender identity, national origin, disability, or status as a protected veteran.
-
-Citigroup Inc. and its subsidiaries ("Citi”) invite all qualified interested applicants to apply for career opportunities. If you are a person with a disability and need a reasonable accommodation to use our search tools and/or apply for a career opportunity review Accessibility at Citi.
-
-View the "EEO is the Law" poster. View the EEO is the Law Supplement.
-
-View the EEO Policy Statement.
-
-View the Pay Transparency Posting
-
-Report job
-Hiring Lab
-Career Advice
-Browse Jobs
-Browse Companies
-Salaries
-Indeed Events
-Work at Indeed
-Countries
-About
-Help Centre
-ESG at Indeed
-© 2023 Indeed
-Accessibility at Indeed
-Privacy Centre
-Cookies
-Privacy
-Terms

@@ -1,104 +1,75 @@
-Skip to main content
-Find jobs
-Company reviews
-Search Salary
-Upload your resume
-Sign in
-Employers / Post Job
-Start of main content
-What
-Where
-Find Jobs
-Service Delivery Manager - Managed Services - Cloud - Remote
-Cevo
-Sydney NSW
-Remote
-Full-time, Permanent
+Solutions Engineer
+Dynatrace
+Canberra ACT
+Full-time
 You must create an Indeed account before continuing to the company website to apply
 Apply on company site
+Solutions Engineer
+Dynatrace - Canberra ACT
+Job
+Company
 Job details
 No matching job preferences
 Job Type
 Full-time
-Permanent
-Work options: Hybrid
 
+As our Solutions Engineer, you have a strong background in selling SaaS solutions, understand all phases of the sales cycle and can partner with our field team to drive high sales growth in Australia and New Zealand Region (primarily ACT). You are comfortable engaging early in a deal to help set sales strategy, understand how to lead discovery, craft a solution to solve a customer’s business need, and get deep in validating how Dynatrace’s solutions address that need in real time.
 
-We offer a flexible, hybrid environment
+Job Description
 
+Are you a world class Solution Engineer (SE) or Architect? Do you love to blend your strong interpersonal and selling skills with a passion for cutting edge technology? Are you passionate and enthusiastic about making customers successful and never hesitate to challenge the status quo? No problem, Dynatrace has a history of making technical pioneers like you into high-powered SEs.
 
-Who are we?
+Imagine being able to do the best work you’ve ever done as a Solution Engineer for a high growth, well run and financially stable technology company that is continually identified as one of the best and most innovative technology companies. Thousands of organizations worldwide, including loanDepot, SAP, Walmart, Skyworks, USI Insurance Services, Spirit Airlines, PhotoBox, BNZ Bank, BT Group, Dubai Customs, TSB Bank, Kroger, Park ‘N Fly, Vitality, IP Australia, Temenos, Rack Room Shoes, and many others, use Dynatrace to deliver flawless and secure digital customer transactions.
 
-We are Cevo - “continuous evolution”. Established in 2016, we are an Advanced AWS Consulting Partner with offices across Sydney, Melbourne and Canberra. In 2022, we more than doubled the size of our team and client base and we’re planning for similar levels of growth in 2023. We work with a diverse range of customers, from high-growth Australian startups and enterprise and government customers. We operate across a range of industries but have particular experience in financial services, retail, and independent software vendors (ISVs).
+We are looking for Solution Engineers who have a strong background in selling SaaS solutions and understand all phases of the sales cycle and can partner with our field team to drive high sales growth in Australia and New Zealand Region (primarily ACT).
 
-We are Cloud Enablement Experts providing solutions to our clients that leverage our capability across DevOps, Cloud Native Application Development, Data Engineering, Migration & Managed Services. Working in a flat organisation structure we encourage all our team members to be leaders in our business.. Your voice is heard and valued at Cevo.
+You are comfortable engaging early in a deal to help set sales strategy, understand how to lead discovery, craft a solution to solve a customer’s business need, and get deep in validating how Dynatrace’s solutions address that need in real time. Additionally, you should be able to understand a customer’s IT infrastructure and software architecture.
 
-We are a diverse team of people who share a common passion; we love using technology to help customers move faster with confidence! Evolution is our motivator; we want our people and our customers to be on a trajectory of continuous and positive change. We offer our consultants the opportunity to really make an impact on the projects they are working on, and we are not afraid to reward and recognise those achievements. .
+Together with the Sales team you will be selling the fastest growing observability platform using state-of-the-art sales, customer engagement, and marketing techniques.
+You will be responsible for executing great demos which demonstrate Dynatrace’s unique approach in solving the customer’s pain, executing and managing POCs onsite, building key relationships with Dynatrace’s customers and completing RFIs & RFPs.
+You will advise customers in strategic solution matters around AI and Automation powered Observability and Security
+You will solve our customers’ most challenging end-to-end observability, application security, and user experience problems
+You will ensure customers optimize their use of Dynatrace, enable critical business outcomes, and maximize their return on investment.
+You will interact with customers via online tools like chat, web meetings, forums, and key tradeshows.
+You will closely work together with Marketing, Sales, Partner, Product Management, wider Solution Engineering group, Support Team, and the Customer Success Team
+You will collaborate with the Dynatrace Sales team to scope opportunities while assessing technical risks, questions, or concerns
+Be a mentor/coach for your fellow Dynatrace consultants
+Qualifications
+5+ years as a Solution Engineer or Architect (preferred) or Success Engineers or Post Sales Architects or Consultants with experience leading projects and/or working with customers and partners
+Strong technical background and relentless customer focus in Government and Commercial Sector
+Deep understanding of government agencies and its solution partner & delivery ecosystem (preferred)
+Experience with application performance management technologies and techniques
+Experience with new innovative technologies like Azure, AWS, Docker, OpenShift, Cloud Computing, Analytics solutions etc.
+Hands-on experience working with programming languages including Java, .NET, PHP, Node.js, Python, JavaScript frameworks including jQuery, React, Dojo, AngularJS etc.
+Experience with Java technology including Servlets, Struts, Spring, Web Services, EJB, JMS etc.
+Experience selling and working with SaaS solutions in multi-tenant architectures is preferred
 
-About the Role
+Bonus Points:
 
-Due to continued growth, we have an exciting opportunity for an experienced Service Delivery Manager to join our Cevo Co-Ops Managed Services team. Our team is a modern managed services capability that supports AWS cloud-native products. We base our service around 4 key themes: quality, automation, reliability, and proactivity. Our flexible approach and deep technical expertise is our key differentiator in the market. You will have the opportunity to lead customer success on your accounts and contribute to building a brand-new Service Delivery Management capability with an emphasis on a modern approach. Your key responsibilities will include:
+Deep understanding of Dynatrace or other accredited Observability tools etc
+Experience as a Software Engineer, DevOps Engineer, SRE and proficient in at least one programming language
+Experience with Statement of Work delivery
+Experience with Cloud Technologies, Data platforms, Agile and waterfall methodologies etc
+Hold a current Security Clearance or have the ability and willingness to obtain it
+Comprehensive understanding of cyber defence and service operations & delivery in large enterprises
+Experience as a technical writer or public speaker to large audiences (composed of DevOps engineers, operations, developers, release teams, architects, engineering leaders and other technical roles)
+Additional Information
+Dynatrace is a market share leader & a 12x magic quadrant leader
+Dynatrace invests more in R&D than some of our competitors’ total revenue, assuring market-leading customer value and quick adoption
+Dynatrace is trusted by over half of Fortune’s Top 10
+Dynatrace provides a culture of excellence with competitive compensation packages that recognize and reward greatness.
+Dynatrace gives you the chance to work with the largest of the Cloud players like AWS, Azure, VMware, and Google Cloud allowing our customers to have the best 3rd Generation Monitoring in the world. Not to mention we’re fully automated from the start, providing the most advanced solution leveraging our AI machine learning technology
+Discover more perks & benefits
 
-Creating meaningful, trust-based relationships with our customers
-Always representing the voice of the customer - thinking from the customer's perspective to ensure our team is aligned with their needs.
-Working with C-level stakeholders to build and run modern support solutions
-Taking part in pre sales conversations with customers to tailor support solutions to meet customer needs
-Contract management - developing new managed services SOW's for customers, as well as amending and renewing existing agreements.
-Leading the transition into support for new customer relationships and new solutions for existing customers.
-Project management of support projects
-Facilitation of regular client meetings to discuss support requests, issues and processes
-Providing regular governance reports to customers
-Tracking SLA performance, team workload, priorities and progress
-Evangelising, leading and taking part in Continual Service Improvement for our customers
-Identifying and leading business development opportunities for your customers
-Monitoring and looking for TOIL/waste that can be reduced
-Conduct resourcing and resource forecasting to ensure we provide coverage for our customers
+Growth opportunities - find out how Dynatrace supports your career development and personal growth journey: https://careers.dynatrace.com/grow-with-us/career-development/
 
-Who are you?
+Flexible working - our flexible and trusting work environment fits your current life situation: https://careers.dynatrace.com/ways-of-work/
 
-Our ideal person will have
+Relocation Support - discover how we can support you if you wish to join us at one of our global locations: https://careers.dynatrace.com/relocation/
 
-ITIL Certification
-A proven track record of delivery in customer facing Service Delivery Management roles
-Demonstrated success in delivering outcomes for cloud customers
-Excellent understanding of AWS Services
-Experience with creating and renewing Managed Services contracts
-Demonstrated effective communication with key client stakeholders
-Experience developing, iterating and documenting ITIL processes
-High-level understanding of DevOps and SRE concepts and why these concepts are important in a support context
+Company Description
 
-Our Values
+Dynatrace exists to make the world’s software work perfectly. Our unified software intelligence platform combines broad and deep observability and continuous runtime application security with the most advanced AIOps to provide answers and intelligent automation from data at an enormous scale. This enables innovators to modernize and automate cloud operations, deliver software faster and more securely, and ensure flawless digital experiences. That is why the world’s largest organizations trust Dynatrace® to accelerate digital transformation.
 
-Our Values are intrinsic in everything we do
+We're an equal opportunity employer and embrace all applicants. Dynatrace wants YOU—your diverse background, talents, values, ideas, and expertise. These qualities are what make our global team stronger and more seasoned. We're fueled by the diversity of our talented employees.
 
-ONE TEAM - Everything we achieve we achieve as ONE TEAM
-We're CURIOUS
-RE-IMAGINE the possible
-PEOPLE are the heart of Cevo
-OWN IT & GET IT DONE
-
-Benefits
-
-Company perks including a technology allowance of $2,500
-Strong learning and development of t culture - $2,000 per year to spend on professional courses + 2 paid days off to attend course and exams
-The support of the Cevo hive, helping each other to succeed
-We reward and recognize achievements
-Exciting start-up vibe with enterprise-level projects and clients.
-Report job
-Hiring Lab
-Career Advice
-Browse Jobs
-Browse Companies
-Salaries
-Indeed Events
-Work at Indeed
-Countries
-About
-Help Centre
-ESG at Indeed
-© 2023 Indeed
-Accessibility at Indeed
-Privacy Centre
-Cookies
-Privacy
-Terms

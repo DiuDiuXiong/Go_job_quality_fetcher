@@ -1,226 +1,30 @@
-Skip to main content
-LinkedIn
-Jobs
-Dismiss
-Dismiss
-Join now
-Sign in
-Manager, Technology Operations
-Afterpay  Melbourne, Victoria, Australia
-2 weeks ago  112 applicants
+
+Site Reliability Engineer (SRE) - DSS
+Sony India Software Centre  Bangalore, New South Wales, Australia
+1 month ago   Be among the first 25 applicants
   
-See who Afterpay has hired for this role
+See who Sony India Software Centre has hired for this role
 Apply
 Save
-Company Description
-
-Since we opened our doors in 2009, the world of commerce has evolved immensely, and so has Square. After enabling anyone to take payments and never miss a sale, we saw sellers stymied by disparate, outmoded products and tools that wouldn’t work together.
-
-To solve this problem, we expanded into software and built integrated solutions to help sellers sell online, manage inventory, book appointments, engage loyal buyers, and hire and pay staff. Across it all, we’ve embedded financial services tools at the point of sale, so merchants can access a business loan and manage their cash flow in one place. Afterpay furthers our goal to provide omnichannel tools that unlock meaningful value and growth, enabling sellers to capture the next generation shopper, increase order sizes, and compete at a larger scale.
-
-Today, we are a partner to sellers of all sizes – large, enterprise-scale businesses with complex operations, sellers just starting, as well as merchants who began selling with Square and have grown larger over time. As our sellers grow, so do our solutions. There is a massive opportunity in front of us. We’re building a significant, meaningful, and lasting business, and we are helping sellers worldwide do the same.
-
-Job Description
-
-This role sits within Technology Operations (TechOps), which is a global operational team managing the service level of the Afterpay platform coordinating between engineering teams (our internal vendors) and external vendors. This team is an operational hybrid incorporating elements of Incident Management, Operations, SRE, Problem Management and Observability. Serving as Engineering’s external customer layer, TechOps acts to ensure that customer SLAs are sustained throughout internal and external change; and that the organisation continues to learn from incidents.
-
-As an Engineering Manager in TechOps you will be responsible for end-to-end coordination of both proactive and reactive change responses - deployments, rollbacks, migrations, scheduled maintenance, degradations, service interruptions and outages. You will lead the coordination of response, resolution and communication of incidents; as well as subsequent problem management. This line of responsibility runs from first-line investigation and diagnosis through to incident management and on to post-incident review and closure.
-
-Leading one of TechOps’ three teams of incident managers, you are leading the team in coordinating operational responses to incidents as they arise, supplemented with a portfolio of proactive improvement initiatives. Initiatives include evolving severity definitions, maintaining functionality mapping, problem tracking, escalation process design, stakeholder tracking etc.
-
-You will lead the team in collaborating with a cross-section of internal engineering / product teams, compliance and operations teams as well as external vendors in all areas of platform service.
-
-Key responsibilities will include:
-
-Problem Management | Incident Management
-
-Leading incident managers in managing the lifecycle of multiple incidents of varying severities, service capabilities and markets
-Guiding the team’s coordination between internal and / or external vendor teams. Serving as senior representative in influencing and gaining consensus across stakeholders in incident response
-Overseeing and coordinating communication streams from the team and serving as the team’s escalation point for items for decision
+We look for the risk-takers, the collaborators, the inspired and the inspirational. We want the people who are brave enough to work at the cutting edge and create solutions that will enrich and improve the lives of people across the globe. So, if you want to make the world say wow, let's talk.
 
 
-Service Visibility
-
-Overseeing and contributing to the production of various incident, weekly and monthly reports
-Coordinating and leading the team in the service-related communication with vendors (internal /external) and partners
-Ensuring the team continues building and maintaining operational relationships across the organisation
-Ensure the teams change tracking remains accurate - Deployments, Migrations, Changes, Maintenance, Campaigns, Promotions & Market Events
 
 
-Service Evolution
-
-Continuing to enhance and evolve the operational and incident framework – system, process, assets and practices
-Identifying areas of opportunity for incremental improvements in our operational framework and lead delivery through to the realisation of those improvements
+The conversation starts here. If this role matches your ambitions and skillset, let's get started with your application. Take a look at our other open positions too. Our many opportunities can lead to infinite possibilities.
 
 
-Qualifications
-
-Like us, you’ll get a kick out of seeing and feeling the impact of your work. You will be a naturally curious and self-driven individual who enjoys:
-
-Exceptionally detail-oriented with excellent documentation and written communication skills. Collaborating on Slack, JIRA and across a variety of documents and artifacts
-Experienced people leader, capable of distributing and balancing work across the team
-Systems and Operations background - Environments, SDLC, Branches, Releases, Rollback, Rollforwards, Patches, Hotfixes, Upgrades, Migrations etc
-Working knowledge of request / service / ticketing platforms - JIRA, ServiceNow, Salesforce
-Sound knowledge in using operational toolsets in observability, monitoring, logging, alerting Splunk, SumoLogic, NewRelic, DataDog, LaunchDarkly, OpsGenie, PagerDuty
-Demonstrable track record of successful operational management
-Experience in problem-solving and issue resolution are critical
 
 
-Additional Information
-
-We’re working to build a more inclusive economy where our customers have equal access to opportunity, and we strive to live by these same values in building our workplace. Block is a proud equal opportunity employer. We work hard to evaluate all employees and job applicants consistently, based solely on the core competencies required of the role at hand, and without regard to any legally protected class.
-
-We believe in being fair, and are committed to an inclusive interview experience, including providing reasonable accommodations to disabled applicants throughout the recruitment process. We encourage applicants to share any needed accommodations with their recruiter, who will treat these requests as confidentially as possible. Want to learn more about what we’re doing to build a workplace that is fair and square? Check out our I+D page.
-
-Perks
-
-We want you to be well and thrive. Our global benefits package includes:
-
-Healthcare coverage
-Retirement Plans
-Employee Stock Purchase Program
-Wellness perks
-Paid parental leave
-Paid time off
-Learning and Development resources
-
-
-Block, Inc. (NYSE: SQ) is a global technology company with a focus on financial services. Made up of Square, Cash App, Spiral, TIDAL, and TBD, we build tools to help more people access the economy. Square helps sellers run and grow their businesses with its integrated ecosystem of commerce solutions, business software, and banking services. With Cash App, anyone can easily send, spend, or invest their money in stocks or Bitcoin. Spiral (formerly Square Crypto) builds and funds free, open-source Bitcoin projects. Artists use TIDAL to help them succeed as entrepreneurs and connect more deeply with fans. TBD is building an open developer platform to make it easier to access Bitcoin and other blockchain technologies without having to go through an institution.
+JD attached as per advised templat
 Show more 
 Seniority level
 Mid-Senior level
 Employment type
 Full-time
 Job function
-Information Technology
+Engineering and Information Technology
 Industries
 IT Services and IT Consulting
   
 
-Referrals increase your chances of interviewing at Afterpay by 2x
-
-See who you know
-
-Get notified about new Technology Operations Manager jobs in Melbourne, Victoria, Australia.
-
-Sign in to create job alert
-Similar jobs
-Operations Manager
-Operations Manager
-JIVARO Recruitment
-West Melbourne, Victoria, Australia
-4 days ago
-Operations Manager
-Operations Manager
-Dexus
-Rowville, Victoria, Australia
-2 weeks ago
-Operations Manager
-Operations Manager
-General Carrying
-Laverton North, Victoria, Australia
-1 week ago
-Operations Manager
-Operations Manager
-National Heavy Vehicle Regulator
-Melbourne, Victoria, Australia
-4 days ago
-Operations Manager
-Operations Manager
-Horner Recruitment
-Campbellfield, Victoria, Australia
-1 week ago
-Operations Manager
-Operations Manager
-ABB
-Notting Hill, Victoria, Australia
-1 week ago
-Show more jobs like this 
-People also viewed
-Site Operations Manager
-Site Operations Manager
-
-PeopleScout
-
-Greater Melbourne Area
-2 weeks ago
-Accounting Operations Manager
-Accounting Operations Manager
-
-Perigon Group
-
-Melbourne, Victoria, Australia
-1 day ago
-IT Operations Manager
-IT Operations Manager
-
-CitiPower and Powercor
-
-Melbourne, Victoria, Australia
-4 days ago
-Security & Fraud Operations Manager - Flex/Hybrid/WFH within Australia
-Security & Fraud Operations Manager - Flex/Hybrid/WFH within Australia
-
-Flybuys
-
-Melbourne, Victoria, Australia
-2 weeks ago
-Operational Resilience Manager
-Operational Resilience Manager
-
-Bupa
-
-Melbourne, Victoria, Australia
-2 days ago
-State Operations Manager
-State Operations Manager
-
-Tutt Bryant Group Limited
-
-Melbourne, Victoria, Australia
-3 days ago
-Manager - Event & Venue Operations
-Manager - Event & Venue Operations
-
-Melbourne Convention and Exhibition Centre
-
-Melbourne, Victoria, Australia
-4 days ago
-Activity Planning Manager
-Activity Planning Manager
-
-Coles Group
-
-Hawthorn East, Victoria, Australia
-4 days ago
-National Operations Manager - Transmission Lines
-National Operations Manager - Transmission Lines
-
-Downer
-
-Greater Melbourne Area
-5 days ago
-Assortment Planning Manager
-Assortment Planning Manager
-
-adidas
-
-Melbourne, Victoria, Australia
-1 day ago
-Looking for a job?
-
-Visit the Career Advice Hub to see tips on interviewing and resume writing.
-
-View Career Advice Hub
-LinkedIn
-© 2023
-About
-Accessibility
-User Agreement
-Privacy Policy
-Cookie Policy
-Copyright Policy
-Brand Policy
-Guest Controls
-Community Guidelines
-Language

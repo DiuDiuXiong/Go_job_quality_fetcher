@@ -1,223 +1,77 @@
-Skip to main content
-LinkedIn
-Jobs
-Dismiss
-Dismiss
-Join now
-Sign in
-Site Reliability Engineering Director
-Macquarie Group  Sydney, New South Wales, Australia
-3 days ago  40 applicants
+
+Site Reliability Engineer - RTOS
+Firesoft People  Sydney, New South Wales, Australia
+2 weeks ago   Be among the first 25 applicants
   
-See who Macquarie Group has hired for this role
+See who Firesoft People has hired for this role
 Apply
 Save
-Melbourne, Sydney
+Are you a talented Site Reliability Engineer (SRE) looking for a position where you can truly make an impact and where your voice is heard? Are you looking to work in a mature and relaxed trading environment? Would you like to be very well compensated for the work you do? Then read on, this may be the role for you.
 
-We’re looking for a SRE director and leader that is passionate about reliability and software engineering. We’re seeking an individual that deeply understands software reliability, building at scale and driving strategic and tactical direction for reliability at our bank. This pivotal role is a huge opportunity to establish one of the best SRE teams in financial services.
 
-This is a strategic leadership role, you will be responsible for overseeing the direction, execution and continuous improvement of our SRE initiatives. There will be early focus on building observability & reliability capabilities. Requiring strong influencing skills with development teams.
 
-Define and execute the strategic direction for SRE initiatives
-Establish Observability, SLO’s and error budgets, tools, practices and implementation.
-Establish reliable software development and release engineering patterns
-Implement SRE best practices, guidelines to enable reliability, velocity, performance and scale.
-Responsible for strategically driving initiatives to improve MTTx metrics
-Drive continuous improvement initiatives including adoption of automation, monitoring and incident management tools and practices
-Lead, mentor, coach a team of SREs, software engineers and 24x7 operators
-Foster a culture of collaboration, learning, and knowledge sharing.
-Strong prioritisation skills and driving OKR’s
-Leading and influencing with data insights
-Strong software engineering and release engineering experience
 
-You will have experience in a similar leadership role, having been exposed to multiple different technologies and be passionate about technology. Your role will require you to engage senior business representatives to understand their motivations, using your knowledge of emerging technologies to help shape the combined business and technology strategies
+We are looking for a talented Site Reliability Engineer ( SRE) / Low-Level Systems Engineer for Trading Applications to join a growing Algorithmic Trading company based in Sydney. They work in the world of low-latency, high-frequency trading. The role is suited to a candidate with strong Linux skills and proficiency in many scripting languages.
 
-What’s in it for you:
 
-This is an opportunity to play a pivotal role in shaping Site Reliability Engineering for Macquarie Bank.
-Opportunity to build SRE from the ground up and make a real impact on how SRE is implemented in the financial services industry.
-Learn from the best engineers in Australia and work on market leading products
-Be part of a team that deeply values diversity and creates space for you to be your best
-Being hands-on with the latest cloud technologies including Google Cloud to tackle interesting banking and finance problems
-Our work environment is modern and inclusive with a strong focus on employee experience
-Flexible work options, including working from home
-Ongoing professional development and free technical certification
-Highly competitive remuneration and bonuses
 
-If this role sounds like the right opportunity to further your career, please apply via the link.
 
-About The Corporate Operations Group
+Responsibilities
 
-The Corporate Operations Group brings together specialist support services in Digital Transformation & Data, Technology, Operations, Human Resources, Business Services, Corporate Strategy & Solutions, and the Macquarie Group Foundation. We deliver service excellence to ensure Macquarie is open for business, deliver on transformational change, invest in our people and have deep relationships with our customers.
 
-Our commitment to Diversity, Equity and Inclusion
 
-The diversity of our people is one of our greatest strengths. An inclusive and equitable environment enables us to deliver innovative and sustainable outcomes for our people, clients, shareholders and communities. From day one, you'll be encouraged to be yourself and supported to perform at your best. If our purpose of ‘empowering people to innovate and invest for a better future’ is as inspiring to you as it is to us, please apply. With the right technology, support and resources, our people can work in a range of flexible ways.
 
-We are committed to providing a working environment that embraces and values diversity, equity and inclusion. We encourage candidates to speak with a member of our recruitment team if you require adjustments to our recruitment process to support you, and the type of working arrangements that would help you thrive.
+Support the Software Development Team
+Design and Develop Automation tools to improve overall efficiency
+Continuous improvement of their current trading systems infrastructure
+Collaborate with all development teams to ensure high availability across the board
 
-About Macquarie
 
-A career at Macquarie means you’ll have the opportunity to develop and utilise new skills, explore interesting fields and do challenging work that will impact the lives of people around the world—whether it’s accelerating the green energy transition, helping sustain global food supplies, financing social housing projects or investing in essential infrastructure. At Macquarie, we’re empowering people to innovate and invest for a better future.
 
-Our size and international presence means your work can take you anywhere—across business groups, disciplines, sectors and borders. With 19,200+ employees and offices in 34 markets around the world, we’re a truly global organisation.
 
-You’ll be supported by a diverse team where the unique perspectives, ideas and experiences that all of our people bring are valued. You’ll be empowered to address unmet needs in our communities whilst advising and investing alongside our clients and partners. Working with us, you’ll have the opportunity to make a difference.
+You
 
-Macquarie is a global financial group providing clients with asset management, retail and business banking, wealth management, leasing and asset financing, market access, commodity trading, renewables development, specialist advisory, capital raising and principal investment.
 
-Find out more at www.macquarie.com/careers
 
-Job no: COG-972678
 
-Work type: Permanent - Full time
+A minimum of 5 years of experience with Linux in a Low-Latency environment
+A good understanding of latency, what causes it and how to avoid it in a trading system
+Familiarity with Python collection
+Strong Python or Perl proficiency
+Python scripting and development experience
+Good understanding of life-cycle phases, including testing, development and release
+Discrete event simulation
+Low-Level Network management experience
 
-Location: Melbourne, Sydney
 
-Category: Mid-senior, Technology
 
-Group: Corporate Operations Group
 
-Division: Technology
+Nice to have
 
-Recruiter: Nathan King
 
-Opening Date: 08/5/2023
+
+
+Database querying languages such as SQLite or MySQL.
+Understanding of C and C++, GO, Rust
+DevOps Experience
+
+
+
+
+To apply for the role or to hear more, please click the apply now button. I d be happy to go into more detail.
+
+
+
+
+]]>
 Show more 
 Seniority level
-Not Applicable
+Entry level
 Employment type
 Full-time
 Job function
 Engineering and Information Technology
 Industries
-Banking, Financial Services, and Investment Banking
+IT Services and IT Consulting
   
 
-Referrals increase your chances of interviewing at Macquarie Group by 2x
-
-See who you know
-
-Get notified about new Site Engineer jobs in Sydney, New South Wales, Australia.
-
-Sign in to create job alert
-Similar jobs
-Site Reliability Engineer
-Site Reliability Engineer
-Commonwealth Bank
-Sydney, New South Wales, Australia
-4 days ago
-Site Engineer
-Site Engineer
-Seymour Whyte
-Sydney, New South Wales, Australia
-2 days ago
-Site Engineer
-Site Engineer
-Transport for NSW
-Macquarie Park, New South Wales, Australia
-3 days ago
-Site Reliability Engineer I
-Site Reliability Engineer I
-Apptio
-Sydney, New South Wales, Australia
-2 days ago
-Site Engineer
-Site Engineer
-CPB Contractors
-Sydney, New South Wales, Australia
-1 week ago
-Site Reliability Engineer, Security Engineering
-Site Reliability Engineer, Security Engineering
-TikTok
-Sydney, New South Wales, Australia
-6 days ago
-Show more jobs like this 
-People also viewed
-Senior Site Reliability Engineer
-Senior Site Reliability Engineer
-
-Cboe Global Markets
-
-Sydney, New South Wales, Australia
-1 week ago
-Director for Clean Energy and Decarbonisation
-Director for Clean Energy and Decarbonisation
-
-Turner & Townsend
-
-Sydney, New South Wales, Australia
-1 week ago
-Site Reliability Engineer - Kafka
-Site Reliability Engineer - Kafka
-
-Optiver
-
-Sydney, New South Wales, Australia
-1 week ago
-Senior Site Reliability Engineer
-Senior Site Reliability Engineer
-
-SafetyCulture
-
-Sydney, New South Wales, Australia
-2 weeks ago
-Civil Site Supervisor / Civil Site Foreman
-Civil Site Supervisor / Civil Site Foreman
-
-People Resource Group
-
-Greater Sydney Area
-1 week ago
-Director of Engineering
-Director of Engineering
-
-Freelancer.com
-
-Sydney, New South Wales, Australia
-3 weeks ago
-Linux Site Reliability Engineer
-Linux Site Reliability Engineer
-
-NetSuite
-
-Sydney, New South Wales, Australia
-2 weeks ago
-Engineering Geologist
-Engineering Geologist
-
-Aurecon
-
-Sydney, New South Wales, Australia
-3 days ago
-Senior Associate Engineer – Roads and Highways
-Senior Associate Engineer – Roads and Highways
-
-SMEC
-
-North Sydney, New South Wales, Australia
-1 day ago
-Engineering Reliability Leader
-Engineering Reliability Leader
-
-Bega Cheese Limited
-
-Wetherill Park, New South Wales, Australia
-2 weeks ago
-Looking for a job?
-
-Visit the Career Advice Hub to see tips on interviewing and resume writing.
-
-View Career Advice Hub
-LinkedIn
-© 2023
-About
-Accessibility
-User Agreement
-Privacy Policy
-Cookie Policy
-Copyright Policy
-Brand Policy
-Guest Controls
-Community Guidelines
-Language

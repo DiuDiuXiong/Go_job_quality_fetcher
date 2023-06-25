@@ -1,210 +1,93 @@
-Skip to main content
-LinkedIn
-Jobs
-Dismiss
-Dismiss
-Join now
-Sign in
-Site Reliability Engineer - RTOS
-Firesoft People  Sydney, New South Wales, Australia
-2 weeks ago   Be among the first 25 applicants
+
+100% Remote (AUS) Sr. SysOps Site Reliability Engineer
+Cayuse  Victoria, Australia
+1 week ago  63 applicants
   
-See who Firesoft People has hired for this role
+See who Cayuse has hired for this role
 Apply
 Save
-Are you a talented Site Reliability Engineer (SRE) looking for a position where you can truly make an impact and where your voice is heard? Are you looking to work in a mature and relaxed trading environment? Would you like to be very well compensated for the work you do? Then read on, this may be the role for you.
+
+Direct message the job poster from Cayuse
+
+Amanda Koenig (She/Her)
+Senior Corporate Recruiter at Cayuse
+
+Job Title: Sr. SysOps Site Reliability Engineer
+
+Location: Remote-Australia
+
+Department: IT
+
+Job Type: Full-time
 
 
 
 
-We are looking for a talented Site Reliability Engineer ( SRE) / Low-Level Systems Engineer for Trading Applications to join a growing Algorithmic Trading company based in Sydney. They work in the world of low-latency, high-frequency trading. The role is suited to a candidate with strong Linux skills and proficiency in many scripting languages.
+Cayuse does not accept agency resumes. Please do not forward resumes to our job’s alias or any Cayuse employees. Cayuse is not responsible for any fees related to unsolicited resumes.
 
 
 
 
-Responsibilities
+Cayuse does not sponsor applications for work visas.
 
+Not open to C2C or contractors
 
+100% Remote in Australia
 
+Your Challenge
 
-Support the Software Development Team
-Design and Develop Automation tools to improve overall efficiency
-Continuous improvement of their current trading systems infrastructure
-Collaborate with all development teams to ensure high availability across the board
+A Senior Site Reliability Engineer is responsible for ensuring smooth and efficient operation of our cloud environment. We are currently seeking an engineer with in-depth experience to join our Site Reliability Engineering team. This individual will utilize production metrics and performance to provide expert advice on the platform designs, standards, requirements implementation, and product releases. The ideal candidate for this role will have a deep understanding of practices around automation and SRE principles which includes programs to increase visibility into runtime performance as well as optimizing the systems to meet all our SLAs.
 
+Your Responsibilities
 
+Participate in the day-to-day responsibilities of SRE and Cloud support teams.
+Maintain the cloud operating environments with a focus on quality and resilience aspects in release, system performance, platform availability, operational efficiency, and risk management.
+Automate and operate our platforms and procedures to increase reliability, stability, and scalability as our usage grows and technology transforms.
+Participate in incident response, disaster recovery, and production support testing and implementations.
+Monitor service level objectives to recommend and implement adjustments to ensure the objectives are met.
+Leading new projects and initiatives around site reliability, developing or finding net-new solutions, evaluating products, and leading discussions on technology topics
+Execute software release processes to ensure reliable application deployments across global environments with minimal downtime.
+Manage the patching and updating of the systems in a highly available manner providing secure and resilient systems.
+Review existing processes and recommend changes or institute new processes as needed.
+Work closely with our support and engineering teams to implement standard processes and consistent approaches to issue resolution.
+Collaborate with Compliance & Security teams to implement and maintain controls defined in compliance programs.
+Prepare and present reports of incidents and remediations.
+Assess system data and error logs, along with user reports, to determine areas for improvement or repair.
+Analyze and review implementations to ensure security best practices are implemented.
+Coordination with security operations during high-risk events and incidents
+Manage the processes for securing classified and sensitive information within the Hosted environments.
+Mentoring those around you, showing thought-leadership and helping educate the team on best practices.
+Provide operational KPI metrics and reports to senior management.
+Improve service observability, incident response, and maintain operational excellence.
+Build appropriate tooling, implement metrics and reports to help proactively detect issues and resolve them before impacting our customer experience.
 
+Your Qualifications
 
-You
+3+ years’ experience in a DevOps and/or Site Reliability Engineering position
+3+ years working with public cloud technologies (AWS/GCP)
+3+ years’ experience developing automation tools and implementing Infrastructure as Code
+3+ years of experience managing servers and IT infrastructure.
+Knowledge of Information Security Fundamentals including HIPAA, SOC2, NIST, and ISO 27001 compliance
+Understanding of distributed systems and their commonly associated problems
+Quality first mindset with a strong background and experience with developing products for a global audience at scale.
+Deep understanding of Site Reliability Engineering (SRE) philosophy, platforms and tools, SLA management, incident resolution, and automation
+Proven strategic and tactical thinker, able and comfortable translating business strategy into architectures/plans and equally comfortable rolling-up-your sleeves to problem solve with your team.
+Ability to multi-task and effectively manage multiple projects, competing priorities, and adeptly re-prioritize based on changing needs.
 
+Benefits
 
+25 days annual leave
+Contribution to Medical Insurance
+Fun, innovative, rapidly expanding company with Industrious Spirit
 
-
-A minimum of 5 years of experience with Linux in a Low-Latency environment
-A good understanding of latency, what causes it and how to avoid it in a trading system
-Familiarity with Python collection
-Strong Python or Perl proficiency
-Python scripting and development experience
-Good understanding of life-cycle phases, including testing, development and release
-Discrete event simulation
-Low-Level Network management experience
-
-
-
-
-Nice to have
-
-
-
-
-Database querying languages such as SQLite or MySQL.
-Understanding of C and C++, GO, Rust
-DevOps Experience
-
-
-
-
-To apply for the role or to hear more, please click the apply now button. I d be happy to go into more detail.
-
-
-
-
-]]>
 Show more 
 Seniority level
-Entry level
+Associate
 Employment type
 Full-time
 Job function
-Engineering and Information Technology
+Information Technology, Engineering, and Quality Assurance
 Industries
-IT Services and IT Consulting
+Software Development
   
 
-Referrals increase your chances of interviewing at Firesoft People by 2x
-
-See who you know
-
-Get notified about new Site Reliability Engineer jobs in Sydney, New South Wales, Australia.
-
-Sign in to create job alert
-Similar jobs
-Senior Site Reliability Engineer
-Senior Site Reliability Engineer
-Atlassian
-Sydney, New South Wales, Australia
-5 hours ago
-Site Reliability Engineer
-Site Reliability Engineer
-Optus
-Macquarie Park, New South Wales, Australia
-2 days ago
-Site Reliability Engineer
-Site Reliability Engineer
-Axon
-Sydney, New South Wales, Australia
-2 weeks ago
-Site Reliability Engineer
-Site Reliability Engineer
-Commonwealth Bank
-Sydney, New South Wales, Australia
-4 days ago
-Site Reliability Engineer
-Site Reliability Engineer
-Tribus Technology
-Sydney, New South Wales, Australia
-5 days ago
-Site Reliability Engineer, APAC
-Site Reliability Engineer, APAC
-Canonical
-Sydney, New South Wales, Australia
-2 weeks ago
-Show more jobs like this 
-People also viewed
-Senior DevOps Engineer
-Senior DevOps Engineer
-
-Shine Solutions Group
-
-Sydney, New South Wales, Australia
-4 days ago
-Senior Systems Reliability Engineer
-Senior Systems Reliability Engineer
-
-Nutanix
-
-Sydney, New South Wales, Australia
-2 days ago
-Systems Reliability Engineer
-Systems Reliability Engineer
-
-ThoughtSpot
-
-Sydney, New South Wales, Australia
-2 weeks ago
-DevOps Engineer
-DevOps Engineer
-
-Avetta
-
-Sydney, New South Wales, Australia
-1 week ago
-DevOps Engineer - eTrading
-DevOps Engineer - eTrading
-
-LifeByte Systems
-
-Sydney, New South Wales, Australia
-1 month ago
-*DevOps Engineer*
-*DevOps Engineer*
-
-Accenture Australia
-
-Sydney, New South Wales, Australia
-2 weeks ago
-Software Engineer
-Software Engineer
-
-V2 Digital
-
-Sydney, New South Wales, Australia
-2 days ago
-DevOps Engineer
-DevOps Engineer
-
-TEKsystems
-
-Sydney, New South Wales, Australia
-4 days ago
-DevOps Engineer - Linux/Wintel Servers
-DevOps Engineer - Linux/Wintel Servers
-
-Datacom
-
-Sydney, New South Wales, Australia
-5 days ago
-Senior Site Reliability Engineer
-Senior Site Reliability Engineer
-
-Atlassian
-
-Sydney, New South Wales, Australia
-5 hours ago
-Looking for a job?
-
-Visit the Career Advice Hub to see tips on interviewing and resume writing.
-
-View Career Advice Hub
-LinkedIn
-© 2023
-About
-Accessibility
-User Agreement
-Privacy Policy
-Cookie Policy
-Copyright Policy
-Brand Policy
-Guest Controls
-Community Guidelines
-Language

@@ -1,99 +1,109 @@
-Skip to main content
-LinkedIn
-Jobs
-Dismiss
-Dismiss
-Join now
-Sign in
-DevOps SRE Engineer
-DXC Technology  Macquarie Park, New South Wales, Australia
-2 weeks ago   Be among the first 25 applicants
+
+Linux Site Reliability Engineer
+NetSuite  Sydney, New South Wales, Australia
+2 weeks ago  89 applicants
   
-See who DXC Technology has hired for this role
+See who NetSuite has hired for this role
 Apply
 Save
-Job Description
 
-DXC Technology (NYSE: DXC) helps global companies run their mission-critical systems and operations while modernizing IT, optimizing data architectures, and ensuring security and scalability across public, private and hybrid clouds. The world's largest companies and public sector organizations trust DXC to deploy services to drive new levels of performance, competitiveness, and customer experience across their IT estates. Learn more about how we deliver excellence for our customers and colleagues at DXC.com.
+Site Reliability Engineer – Netsuite GBU
 
-This role is an exciting opportunity to be part of a team that is responsible for maintaining various security platforms for DXC’s Security Business. You will be responsible for the support of all critical systems that support the company's core service delivery platform.
+Salary: circa $100,000 - $110,000 (depending on experience)
 
-As a DevOps SRE engineer you will be responsible for maintaining a high availability infrastructure supporting the DXC Security Services business. This is a very hands-on technical role and would suit someone who has a proven background in supporting a fast paced, complex, 24/7 critical infrastructure. As a DevOps SRE Engineer you would be working closely with the infrastructure designers and developers. The successful candidate for this role will have a real passion for technology and have a broad knowledge across networks and systems for both on prem and cloud environments.
 
-The role will require a proactive approach to gaining knowledge of a complex infrastructure through consulting system SMEs, self-learning and self-discovery.
 
-Responsibilities
 
-Monitor and work the support incident and change requests queues, fixing issues or reassigning to SME’s
-Day to day maintenance of the systems, scheduled tasks, capacity monitoring, business continuity operations
-Perform daily system monitoring, validating both the integrity and availability of all hardware/Cloud server/services, applications and key processes, reviewing system and application logs and confirming the successful completion of scheduled jobs such as backups and reporting
-The application of OS patches and upgrades on a regular basis, including administration tools and utilities
-Perform ongoing system/application performance tuning, hardware upgrades and resource optimisation as required. Configuration of CPU, memory and disk partitions as per requirements
-Create and maintain RCA’s for system outages/incidents
-Collaborate with regional teams to ensure consistent processes and procedures across all instances
-Management of DevOps pipeline tools including Github and Jenkins
-Installation of new or rebuild of existing servers and configure hardware, peripherals, settings, services, directories, storage, etc. In accordance with recognised best practices and company specific project/operational standards
-Ensure that the infrastructure systems are designed, built, maintained and operated in a secure fashion to ensure the availability and usability of the systems and the protection of the data they contain. Secure operation of these systems is essential, and the candidate will need to demonstrate an appreciation of their role and responsibilities for maintaining that security
+A unique opportunity to join a rapidly growing extraordinary organization at NetSuite Global Business Unit (NSGBU) Oracle - Site Reliability Engineering team (SRE) which plays a key role in product availability, stability, performance and security. You will collaborate with many other engineering teams (system engineering, network team, infrastructure engineering, security, maintenance team) to support, design and implementation as well as tooling and automation platforms. NSGBU SRE team also supports the NSGBU application operations in Oracle Cloud Infrastructure, which is a fast growing cloud service.
 
-Qualifications & Experience
 
-Educated to degree level or equivalent
-Eligible to qualify for Australian Baseline Security Clearance
-Evidence of being a member of a team of system and/or network administrators and/or engineers within a fast moving and changing environment
-Ability to identify limitations in systems and to build a solution that you are able to deploy with limited effect on service
 
-Essential Skills
 
-Strong System administration of Linux system skills
-Ability to script in Shell, Perl, or Python or equivalent
-Experience with infrastructure automation tools, such as Puppet or Ansible
-Experience with VMware ESXi
-Experience with AWS or Azure cloud environments
-Experience with building/configuring servers in highly available environments
-Experience with Github and Jenkins
-Experience with DevOps principals, including Continuous Integration and Continuous Deployment
-Understanding of IP protocols and routing. Must be comfortable and competent using tcpdump and packet capture tools to diagnose networking problems
-Comfortable with DNS, DHCP, SMTP, HTTP (including proxies), SSL, SSH
-Writing Technical Documentation (Word/Visio/Excel)
+What Will You Do:
 
-Desirable Skills
 
-System administration Windows
-Database Administration (MySQL & MS SQL Server)
-Understanding of stateful/stateless firewalling with iptables
-CheckPoint Firewall-1 administration experience
-Comfortable with syslog, SNMP, IPv4 address translation (NAT)
-Knowledge of Big data Technologies/Tools such as Hadoop MR, Spark, Vertica, NiFi, Kafka etc.)
-Cloud technologies and automation tools eg. Terraform
-Containerisation and virtualisation
-Infrastructure Monitoring Tools Such as Opsview/Nagios/tickstack
-Experience managing SAN technologies (e.g. Fibre Channel and iSCSI) and storage management tools (e.g. LVM and ZFS)
-Familiarity with NFS, Samba, LDAP, RADIUS, IPIP/GRE tunneling, VPN technologies
-Familiarity of ITIL Processes and ISO 27001 standards
 
-Our culture and benefits: DXC is committed to building better futures for our customers, colleagues, environment, and communities. We take care of each other and foster a culture of inclusion, belonging and corporate citizenship. We put this to action developing and implementing societal initiatives within our Social Impact Practice. #WeAreDXC
 
-As an employer of choice, our “people first” philosophy means we offer competitive remuneration, benefits, training and career opportunities that reflect our commitment to improving the lives of our employees, and the communities in which we live and work. Some of these include;
+As a member of our extraordinary Site Reliability team you will bring your expertise in monitoring, backups, infrastructure, systems architecture, including mean time to resolution of any and all issues that may impact our customer-facing production environment.
 
-Extensive resources to support your onboarding and continual development including DXC University
-DXC Recognition, our global virtual platform that fosters a culture of appreciation and celebration with real-time reward and recognition
-We know that great people refer great people. We will reward you when you bring your friends and family to work at DXC
-More time to do the things you love with flexible leave options, including purchased leave
-Take time to give back with charitable and emergency services volunteer days
-Well-being matters to us and our Employee Assistance Program is there to support you and your family
 
-And of course, all the basics: Novated Leasing, discounted health insurance, paid parental leave and many other discounts
 
-﻿How to apply & our commitment to you in return: If you would like to be part of a culture that drives innovation, delivers results, rewards performance and encourages ideas, then please press the "Apply Now" button to submit your resume.
 
-In return, we agree to ensure a hiring process that is enjoyable, thorough, and fair. We strive to provide an environment that lets you thrive and show off the very best version of yourself, while learning about us at the same time.
+The SRE‘s foremost responsibility is to ensure the Oracle Netsuite NSGBU Cloud Operations systems are operational, eliminating impact to our customers by using all the resources available to identify, resolve, or intensify issues to the appropriate person or team.
 
-Interviews and onboarding are conducted online, as part of us being a virtual-first company.
 
-We are an Equal Opportunity Employer: DXC is proud to be an equal opportunity employer and we welcome submissions from people from all walks of life. We celebrate our diversity and recognise it is the unique contributions of our people that give us our edge. We stand by the ‘bring your whole-self to work’ philosophy. It is our inclusive culture that powers our results, and our company grows only if our people grow.
 
-Accommodation of special needs for qualified candidates may be considered within the framework of the DXC Accommodation Policy. In addition, DXC Technology is committed to working with and providing reasonable accommodation to support qualified individuals with physical and mental disabilities.
 
+Every day resolve site incidents on different levels of infrastructure - from Hardware, Network, OS to Application issues
+Work in linux terminal
+Work with monitoring and analytic tools like Kibana and Icinga to resolve incidents and identify problems
+Agree with multiple teams to build systems and services that improve operational efficiency, drive reliability, scalability, resilience, security, and performance across Oracle NSGBU product
+Participate in NSGBU SRE 24x7 Follow the Sun Operational coverage.
+
+
+
+
+Qualifications and Education Requirements:
+
+
+
+
+As a member of the NSGBU Global SRE team you will need sound knowledge and experience in:
+Linux systems internals, monitoring, networking and core cloud concepts
+Standard internet services, such as DNS, TCP/IP, NFS and Global Load Balancing
+Performance troubleshooting/tuning experience
+Understanding of web technologies, Apache, HTTPS/SSL, Web sessions
+Understand the software lifecycle development process
+Experience with database environments and requirements for high availability environments
+Solid analytical skills for solving problems
+Architectural patterns for distributed systems, the composition of reliable services from unreliable components as well as cloud computing at scale
+Excellent interpersonal skills in English
+BS in Computer Science or related field
+
+
+
+
+Preferred Skills
+
+
+
+
+Excellent troubleshooting skills
+Ability to learn quickly and work independently while taking care of ambiguous situations, with a strong positive demeanor.
+A self-starter who takes pride in job ownership and consistently creates innovative ways to improve efficiency and effectiveness.
+You should value simplicity and scale, work comfortably in a collaborative, agile environment, and be excited to learn. At this level, you are given autonomy to make your own mark, drive things forward and make a difference. We expect you to help us scale and to do this collaboratively across teams, departments, and organizational silos in a streamlined manner.
+Minimum 5 years’ experience working in a large-scale production operations environment providing critically important services to customers
+
+
+
+
+Additional Qualifications and Skills
+
+
+
+
+Scripting experience in Bash, Perl, Python, or similar
+Database knowledge (Oracle, NoSQL such as Cassandra and Redis)
+Networking Monitoring, Networking protocols, SNMP, syslog, network telemetry, REST API
+Experience with orchestration and configuration management tools like SaltStack, Terraform, Kubernetes, Ansible, etc.
+Exposure to Gluster FS, Zookeeper, Kafka, ElasticSearch or other distributed platforms
+Exposure to Oracle Exadata
+Basic knowledge of ITIL concepts
+
+
+
+
+Additional Notes
+
+
+
+
+This Role will require ability to work on weekends.
+
+
+
+
+Please note, due to current restrictions we are unable to sponsor candidates on working Visas and will require Australian Citizens or Permanent Residents only.
 
 Show more 
 Seniority level
@@ -101,135 +111,8 @@ Entry level
 Employment type
 Full-time
 Job function
-Engineering and Information Technology
+Information Technology
 Industries
-IT Services and IT Consulting
+IT Services and IT Consulting and Software Development
   
 
-Referrals increase your chances of interviewing at DXC Technology by 2x
-
-See who you know
-
-Get notified about new DevOps Engineer jobs in Macquarie Park, New South Wales, Australia.
-
-Sign in to create job alert
-Similar jobs
-DevOps Engineer
-DevOps Engineer
-CES (Container Exchange Services)
-Sydney, New South Wales, Australia
-4 days ago
-DevOps Engineer
-DevOps Engineer
-Blackhawk Network Australia
-Sydney, New South Wales, Australia
-4 days ago
-DevOps Engineer
-DevOps Engineer
-Tata Consultancy Services
-Sydney, New South Wales, Australia
-4 days ago
-DevOps Engineer
-DevOps Engineer
-Avetta
-Sydney, New South Wales, Australia
-1 week ago
-DevOps Engineer
-DevOps Engineer
-The Recruitment Company Pty Ltd
-Greater Sydney Area
-2 days ago
-Devops Engineer
-Devops Engineer
-Wipro
-Sydney, New South Wales, Australia
-1 week ago
-Show more jobs like this 
-People also viewed
-DevOps Engineer - eTrading
-DevOps Engineer - eTrading
-
-LifeByte Systems
-
-Sydney, New South Wales, Australia
-1 month ago
-DevOps Engineer
-DevOps Engineer
-
-TEKsystems
-
-Sydney, New South Wales, Australia
-4 days ago
-DevOps Engineer
-DevOps Engineer
-
-Kindred Group plc
-
-Sydney, New South Wales, Australia
-2 weeks ago
-DevOps Engineer (Azure)
-DevOps Engineer (Azure)
-
-Arq Group
-
-Sydney, New South Wales, Australia
-1 week ago
-Parallo Azure DevOps Engineer
-Parallo Azure DevOps Engineer
-
-Parallo
-
-Sydney, New South Wales, Australia
-5 days ago
-Azure DevOps Engineer
-Azure DevOps Engineer
-
-Flare
-
-Sydney, New South Wales, Australia
-1 week ago
-Azure DevOps Engineer
-Azure DevOps Engineer
-
-Kapital Consulting - Fintech Recruitment & Executive Search
-
-Sydney, New South Wales, Australia
-1 week ago
-DevOps Engineer - Linux/Wintel Servers
-DevOps Engineer - Linux/Wintel Servers
-
-Datacom
-
-Sydney, New South Wales, Australia
-5 days ago
-Senior DevOps Engineer - (SRE /Docker /Kubernetes /OpenShift)
-Senior DevOps Engineer - (SRE /Docker /Kubernetes /OpenShift)
-
-Capgemini
-
-Sydney, New South Wales, Australia
-5 days ago
-Senior DevOps Engineer
-Senior DevOps Engineer
-
-TheDriveGroup.
-
-Sydney, New South Wales, Australia
-1 week ago
-Looking for a job?
-
-Visit the Career Advice Hub to see tips on interviewing and resume writing.
-
-View Career Advice Hub
-LinkedIn
-© 2023
-About
-Accessibility
-User Agreement
-Privacy Policy
-Cookie Policy
-Copyright Policy
-Brand Policy
-Guest Controls
-Community Guidelines
-Language

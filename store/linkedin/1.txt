@@ -1,243 +1,66 @@
-Skip to main content
-LinkedIn
-Jobs
-Dismiss
-Dismiss
-Join now
-Sign in
-Senior Engineer, Site Reliability Engineering (SRE)
-OSL  Sydney, New South Wales, Australia
-3 weeks ago   Be among the first 25 applicants
+
+Site Reliability Engineer-Australia
+Oracle  North Ryde, New South Wales, Australia
+1 day ago  39 applicants
   
-See who OSL has hired for this role
+See who Oracle has hired for this role
 Apply
 Save
-Founded in 2018 and backed by Asia's leading public fintech and digital asset company, BC Technology Group (863.HK), OSL has a long history in the sector and is recognized by many as the leader in providing comprehensive regulated and licensed digital asset solutions.
 
+Direct message the job poster from Oracle
 
+Prakash Panda
+Senior Talent Advisor Oracle - OCI
 
+Job Description:-
 
-We offer Markets services (brokerage, exchange, and custody) and SaaS technology solutions, which deliver institutional clients and professional investors access to the best-in-class virtual asset platform, as well as the world's deepest liquidity pools. Our secure and insured hot and cold wallet infrastructure also ensures the safekeeping of digital assets with timely transaction settlements.
+Skills
 
+Good Understanding of Cloud Infrastructure and Virtual Networking
+Experience working in closely held/confidential environments
+Proficient with maintaining CI/CD pipelines
+System Administration including Linux and Windows internals, TCP/IP, DNS, Load balancing technologies
+Good programming experience with Python including Object Oriented programming
+Versatile in cloud related technologies.
+Strong Cloud network experience
+Adept in two of three areas: (1) Python, Go or Java, (2) Kubernetes and (3) Terraform
+3-5 years’ experience in compute, network, storage, database troubleshooting for improving capacity, reliability, scalability, availability working as a site reliability engineer
+Proficient with Git source code management (SCM)
+Working with compute, network, storage, database, troubleshooting for improving capacity, reliability, scalability
+OS image build for Linux, Windows and patch automation using Python, PowerShell
+Cloud network experience
+Familiar with Software Deployment and lifecycle in Cloud
+Experience working with fault tolerant, highly available, high throughput, distributed, scalable systems
+Good understanding of Agile software development principles including using common tools such as JIRA
+Experience working with fault tolerant, highly available, high throughput, distributed, scalable systems
+Aptitude to be a good team player and the desire to learn and implement new Cloud technologies as needed
+Excellent organizational, verbal, and written communication skills
+Good understanding of Agile software development principles including using common tools such as JIRA
 
+General Qualifications
 
+3-8 years of experience in SRE/DEVOPS
+The work can be demanding at times, particularly as deadlines approach, when extra hours may be required based on the candidate's effective deliverable capacities.
 
-For more information, visit: osl.com and bc.group
+Educational Qualifications
 
+Bachelor’s or master’s degree in Computer Science or equivalent related field experience
 
+Certifications Preferred
 
-
-We are a regulated digital asset firm looking for a talented Site Reliability Engineer (SRE) to join our team. The successful candidate will be responsible for ensuring the reliability, availability, and performance of our infrastructure and applications, and will play a critical role in maintaining the trust of our customers.
-
-
-
-
-Responsibilities:
-
-
-
-
-Work with the engineering team to design, build, and maintain our cloud infrastructure on AWS.
-Build and manage Kubernetes clusters for our production and development environments.
-Develop and maintain automation tools and scripts using Python and other languages to improve system reliability and reduce manual effort.
-Design and engineer software release pipelines to enable rapid and reliable deployment of code changes.
-Build and maintain monitoring and alerting systems to ensure the early detection and resolution of issues before they affect customers.
-Help with level 2 support and incident response to ensure high availability and reliability of our systems.
-Participate in on-call rotations to respond to critical issues outside of business hours.
-
-
-
-
-Requirements:
-
-
-
-
-Strong experience with AWS services and infrastructure, including EC2, S3, RDS, and VPC.
-Proficiency with Kubernetes and container orchestration.
-Experience with scripting languages, particularly Python.
-Experience with software release engineering, including CI/CD pipelines (in particular GitLab)
-Understanding of networking principles and protocols (TCP/IP, HTTP, DNS, SSL).
-Experience with monitoring and alerting systems, such as Prometheus or Grafana
-Ability to work collaboratively with engineering and operations teams.
-Strong problem-solving and analytical skills.
-
-
-
-
-Preferred qualifications:
-
-
-
-
-Experience in a regulated environment, ideally with financial services.
-Familiarity with security best practices and regulatory compliance.
-Knowledge of database technologies such as MySQL
-Experience with infrastructure-as-code tools such as Terraform.
-
-
-
-
-If you are a talented and driven SRE with a passion for maintaining high availability and reliability in a fast-paced environment, we would love to hear from you. This is an excellent opportunity to join a leading, regulated digital asset firm and contribute to the success of a rapidly growing business.
-
-
-
-
-In Return You'll Enjoy :
-
-
-
-
-A unique culture in a global organisation
-Great career development opportunities in a growing company
-Competitive salary and bonus structure
-Private Healthcare for you and your dependants
-Open-minded, flexible, and diverse working environments which allows for casual work attire
-
-
-
-
-OSL is an equal opportunity employer. All qualified applicants will receive consideration for employment without regard to race, color, gender, sexual orientation, gender identity or expression, religion, national origin, marital status, age, disability, veteran status, genetic information, or any other protected status.
-
-
-
-
-Unsolicited CV submissions by agencies will not be recognised*
+Python Certifications
+Cloud Certifications - OCI Certified, AWS Certified, Kubernetes certified
+Network Certifications – CCNA
+OS Certifications - OEL certified, RHCE certified
+Security Certifications - Cloud security certs
 Show more 
 Seniority level
 Mid-Senior level
 Employment type
 Full-time
 Job function
-Engineering and Information Technology
+Information Technology
 Industries
-Technology, Information and Internet
+IT Services and IT Consulting
   
 
-Referrals increase your chances of interviewing at OSL by 2x
-
-See who you know
-
-Get notified about new Site Reliability Engineer jobs in Sydney, New South Wales, Australia.
-
-Sign in to create job alert
-Similar jobs
-Senior Site Reliability Engineer
-Senior Site Reliability Engineer
-Atlassian
-Sydney, New South Wales, Australia
-5 hours ago
-Senior Site Reliability Engineer, Kong Konnect
-Senior Site Reliability Engineer, Kong Konnect
-Kong Inc.
-Sydney, New South Wales, Australia
-1 day ago
-Senior Site Reliability Engineer
-Senior Site Reliability Engineer
-Feedzai
-Sydney, New South Wales, Australia
-1 week ago
-Senior Site Reliability Engineer
-Senior Site Reliability Engineer
-CMD Solutions
-Sydney, New South Wales, Australia
-2 weeks ago
-Senior Site Reliability Engineer
-Senior Site Reliability Engineer
-Cboe Global Markets
-Sydney, New South Wales, Australia
-1 week ago
-Senior Site Reliability Engineer
-Senior Site Reliability Engineer
-Macquarie Group
-Sydney, New South Wales, Australia
-2 weeks ago
-Show more jobs like this 
-People also viewed
-Senior DevOps Engineer
-Senior DevOps Engineer
-
-Qcells North America
-
-Sydney, New South Wales, Australia
-2 weeks ago
-Linux Site Reliability Engineer
-Linux Site Reliability Engineer
-
-NetSuite
-
-Sydney, New South Wales, Australia
-2 weeks ago
-Senior DevOps Engineer
-Senior DevOps Engineer
-
-Airwallex
-
-Sydney, New South Wales, Australia
-2 weeks ago
-Senior Software Engineer
-Senior Software Engineer
-
-Spice AI
-
-Sydney, New South Wales, Australia
-5 days ago
-Senior DevOps Engineer
-Senior DevOps Engineer
-
-tekFinder
-
-Sydney, New South Wales, Australia
-2 weeks ago
-Site Reliability Engineer I
-Site Reliability Engineer I
-
-Apptio
-
-Sydney, New South Wales, Australia
-2 days ago
-Senior Engineer - Generator Commissioning
-Senior Engineer - Generator Commissioning
-
-Transgrid
-
-Sydney, New South Wales, Australia
-1 week ago
-Senior Engineer - Cloud & DevOps
-Senior Engineer - Cloud & DevOps
-
-LAB3
-
-Sydney, New South Wales, Australia
-2 days ago
-CLICKSOFT Senior Engineer
-CLICKSOFT Senior Engineer
-
-IDC Technologies, Inc.
-
-Sydney, New South Wales, Australia
-3 weeks ago
-Senior DevOps Engineer
-Senior DevOps Engineer
-
-Field Solutions Group (ASX:FSG)
-
-Sydney, New South Wales, Australia
-1 week ago
-Looking for a job?
-
-Visit the Career Advice Hub to see tips on interviewing and resume writing.
-
-View Career Advice Hub
-LinkedIn
-© 2023
-About
-Accessibility
-User Agreement
-Privacy Policy
-Cookie Policy
-Copyright Policy
-Brand Policy
-Guest Controls
-Community Guidelines
-Language

@@ -1,115 +1,55 @@
-Skip to main content
-Find jobs
-Company reviews
-Search Salary
-Upload your resume
-Sign in
-Employers / Post Job
-Start of main content
-What
-Where
-Find Jobs
-Software Engineer II - Cloud Platform
-Five9
-Melbourne VIC
+Senior DevOps Engineer
+Skydance
+Sydney NSW
+Hybrid remote
+$135,000 - $185,000 a year - Full-time
 Apply now
 Job details
 No matching job preferences
-Shift and Schedule
-On call
-
-Five9 provides businesses reliable, scalable, and secure cloud contact center software designed to create exceptional customer experiences, increase agent productivity, and deliver tangible business results.
-
-We are driven by a passion to transform contact centers into customer engagement centers of excellence. Since 2001, Five9 has led the cloud revolution in contact centers, helping organizations transition from legacy premise-based solutions to the cloud.
-
-The Role
-
-As part of the Cloud Platform engineering team, you will be building Five9's next generation, cutting-edge Modern SaaS platform. An ideal candidate for us is an experienced engineer who is passionate about building high performance cloud platforms with automation first mindset and a brilliant problem solver and a creative self-starter.
-
-
-
-
-Key Responsibilities
-
-
-
-
-Be part of Cloud Platform Team, focused on building the next generation Modern SaaS using public multi-cloud and hybrid-cloud solutions.
-Build automation capabilities towards common abstractions, tools, automation for CI/CD and progressive delivery of Cloud Native applications
-Enable all Five9 development teams with a Cloud Native developer workflow, conduct developer training and toolset to automate software delivery with a focus on Scale, HA
-Design, and build secure, highly scalable, enterprise grade platform services
-Document and communicate clearly of architecture and implementation solutions
-Work closely with product managers, architects, testers and development teams
-Troubleshoot and support current Cloud platform in production
-Expertise to Debug & Support Production issues
-This position requires the ability to be on-call.
-
-
-
-Key Skills
-
-
-
-
-3 - 5 years of professional software development / DevOps / production operations experience
-2+ years of Cloud Native application delivery experience
-Intimate knowledge of public cloud infrastructures (GCP - Preferred, AWS, Azure)
-Hands-on experience working on core Cloud services – compute, storage, network, virtualization, Identity and Access Management (IAM)
-Strong proven experience in Infrastructure as Code (IaC), to be responsible for building robust platforms using automation
-Experience building automation and deploying high quality software with test frameworks and CI/CD, Progressive Delivery
-Strong experience with Kubernetes, Preferably on GKE Experience with CI/CD tools like GitLab, Jenkins, TeamCity
-Experience with CI/CD tools like GitLab, Jenkins, TeamCity
-Advanced knowledge of Linux based systems and runtimes
-Strong development experience in one or more programming languages - Python, Terraform, Golang, Java, etc.
-Expert level in Current technology Stack Helm, K8S, Istio, GCP, AWS, GKE, EKS, Terraform, SRE/DevOps practices or equivalent.
-DevOps mindset and familiarity with the concept of Site Reliability Engineering – inherent sense of ownership through the development and deployment lifecycle
-Some experience working with at least 1 or more Cloud Provider automation tools.
-You understand what it takes to run mission critical software in production.
-Ability to prioritize tasks, work independently and work collaboratively in an agile environment
-
-
-
-What's On Offer
-
-Opportunity to work with the latest technologies
-Unlimited career growth & career planning
-Flexible and friendly working environment
-Great opportunity to be a part of an organization that recognises and rewards achievement with an enticing salary, bonus and equity structure
-
-
-
-#LI-DN1
-
-#LI-Hybrid
-
-
-Five9 embraces diversity and is committed to building a team that represents a variety of backgrounds, perspectives, and skills. The more inclusive we are, the better we are. Five9 is an equal opportunity employer.
-
-View our privacy policy https://www.five9.com/pt-pt/legal.
-California residents, view our Privacy Notice here: https://www.five9.com/legal/candidatenoticeca.
-
-
-
+Salary
+$135,000 - $185,000 a year
+Job Type
+Full-time
+Skydance offers a dynamic, inclusive, and ever-evolving culture where innovative ideas are welcomed, and growth fostered. The partnership between unique creativity and technological advancements are demonstrated within each pillar of the company. At the heart of it all is a commitment to boldly entertaining and relevant storytelling.
+While all Animation studios look to hire people who are creative and hard-working, Skydance Animation is specifically looking for pioneers who seek to push the limits of what the world’s most collaborative art form can achieve, and to give those pioneers the space and the resources to build a new studio that’s doing something different.
+If you’ve ever dreamt of what the early days of Hollywood must have been like, of what it takes to roll up your sleeves and break new ground, figure out a new process, and to one day say, “I was there when it all began,” then welcome aboard…
 
 -
 
-Our headquarters are located in the San Francisco Bay Area with global hubs in the United Kingdom, Germany, Philippines, Portugal, and Australia.
+The Senior DevOps at Skydance Animation is a member of the Information Technology team and will be responsible for globally supporting and expanding, production workflows/pipelines, cloud and on-premise infrastructure, automation of infrastructure delivery, and software development processes. The ideal candidate has an interest in and passion for applying modern DevOps technologies, tooling, best practices, architecting and implementing reliable infrastructure, and continuously and aggressively looking for opportunities to modernize and automate work. The IT team provides a wide range of services including Client Services, Systems Engineering, Media/AV Engineering, Networking, and Information Security. #Animation
+Responsibilities
+Identify normal routines, repeatable tasks, and technical challenges that are candidates for automation, and then create and support the deployment of innovative DevOps solutions using Terraform, Ansible and Python
+Azure/AWS/OCI provisioning, configuration management, storage management, network management, and virtualization
+Develop technical “vision” for projects, translate targeted solutions into end-to end architectural designs, set proper priority and lead implementations
+Maintain a strong understanding of studio workflows/pipeline and collaborate with Production Technology groups to provide proper systems services and automation
+Partner with Engineers and development teams to develop, maintain, and streamline build and release pipeline using automation to test to deploy releases
+Lead efforts with developers, engineers, and security teams to define and implement best in class CI/CD process
+Maintain source control branch strategies, build/release, branch merge process and documentations
+Work with team to design, implement and maintain render farm including configuration, deployment, performance and capacity monitoring, forecasting, and cloud bursting capabilities
+Presenting of technology to leadership including options, cost-benefit breakdown, and integration plans
+Must proactively seek out trends, technologies, and information to keep overall studio current and aware of possible new solutions to studio challenges
+Available to respond to incidents as they come up.
+Foster positive relationships with peers, supervision, stakeholders, 3rd Parties, and mentor less experienced team members
+Requirements
+4+ years working as DevOps Engineer or SRE (or similar) with a strong understanding of and practical experience with automation, virtualization, and cloud engineering
+End-to-end understanding of CI/CD pipelines
+Extensive coding/scripting and debugging experience for building/integrating systems & solutions (Bash, Python, Go, etc.)
+Extensive experience working with automation tools such as Terraform, Puppet, Ansible, etc.
+Hands-on experience architecting and maintaining AWS, Google Cloud, Azure, and/or OCI infrastructure and services
+Experience with Linux Systems Administration/Management, Servers, and Cloud architecture; ability to troubleshoot systematic Linux platform issues
+Experience with identity management infrastructure/architecture with multi-factor authentication (Okta, Duo, etc..) with understanding of standard authentication protocols such as LDAP, Active Directory, SAML, and OAuth
+Experience with NFS/SMB file protocols and how they operate in Mac, Windows, and Linux environments
+Experience implementing and maintaining of Source Control services and infrastructure (i.e. GitHub)
+Experience working in an agile environment, such as Scrum, Kanban, or SAFe
+Experience with containerization/Kubernetes technologies and surrounding ecosystems in production environments a plus
+Experience with administration of file sharing, file transfer infrastructure (e.g. Box, Dropbox, OneDrive, Signiant, Aspera, FTP, Filerunner, etc.) a plus
+Demonstrated ability to explain technical issues clearly and accurately to both technical and non-technical audiences
+Experience in the Visual Effects, Animation, or media and entertainment industries a plus
+Excellent problem solving, analytical skills and technical troubleshooting skills
+Must be a team player
+The annual range for this exempt position in Los Angeles is $135,000-185,000/year. The rate offered may vary based on the candidate’s location, qualifications, experience and relevant expertise, among other factors. The range indicated is for base salary only and does not reflect the total compensation package, including bonus, benefits, etc.
+Skydance is a diversified media company founded by David Ellison in 2010 to create high quality, event-level entertainment for global audiences. The Company brings to life stories of immersive worlds across its feature film, television, interactive, and animation divisions.
+Skydance is proud to be an equal opportunity employer committed to building and fostering a diverse, equitable, and inclusive workforce. We welcome and consider applicants for employment regardless of race, color, religion, age, sex, national origin, citizenship, sexual orientation, gender identity or expression, marital status, pregnancy status, military/veteran status, disability, or any other protected category. Diversity in the workplace is not just a commitment, it is who we are and a reflection of what makes our world special.
 
-Report job
-Hiring Lab
-Career Advice
-Browse Jobs
-Browse Companies
-Salaries
-Indeed Events
-Work at Indeed
-Countries
-About
-Help Centre
-ESG at Indeed
-© 2023 Indeed
-Accessibility at Indeed
-Privacy Centre
-Cookies
-Privacy
-Terms
+Recruitment Fraud Alert
+It has come to our attention that there may be fraudulent activity by individuals impersonating our Talent Acquisition team. Skydance will only contact you from an official “@skydance.com” email address. If you suspect that you are being contacted by an unauthorized person or believe that the correspondence you have received is suspicious, please do not click on any links or attachments in such emails and submit any questions or concerns to our information security team at information.security@skydance.com.

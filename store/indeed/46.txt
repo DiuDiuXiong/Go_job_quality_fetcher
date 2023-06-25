@@ -1,85 +1,88 @@
-Skip to main content
-Find jobs
-Company reviews
-Search Salary
-Upload your resume
-Sign in
-Employers / Post Job
-Start of main content
-What
-Where
-Find Jobs
-Senior SRE Engineer
-BC Group
-Sydney NSW
-$130,000 - $170,000 a year
+Senior IT Operations Specialist (Ordering-focused)
+Optus
+Macquarie Park NSW
+Part-time
 You must create an Indeed account before continuing to the company website to apply
 Apply on company site
 Job details
 No matching job preferences
-Salary
-$130,000 - $170,000 a year
-Shift and Schedule
-On call
-BC Group Sydney, Australia
-
-Posted 1 day ago Permanent AUD130K - AUD170K
-
-We are a regulated digital asset firm looking for a talented Site Reliability Engineer (SRE) to join our team. The successful candidate will be responsible for ensuring the reliability, availability, and performance of our infrastructure and applications, and will play a critical role in maintaining the trust of our customers.
+Job Type
+Part-time
+Senior IT Operations Specialist (Ordering-focused)
 
 
 
+Date: 9 Jun 2023
 
-Responsibilities:
+Location: Macquarie Park, Australia
 
-Work with the engineering team to design, build, and maintain our cloud infrastructure on AWS.
-Build and manage Kubernetes clusters for our production and development environments.
-Develop and maintain automation tools and scripts using Python and other languages to improve system reliability and reduce manual effort.
-Design and engineer software release pipelines to enable rapid and reliable deployment of code changes.
-Build and maintain monitoring and alerting systems to ensure the early detection and resolution of issues before they affect customers.
-Help with level 2 support and incident response to ensure high availability and reliability of our systems.
-Participate in on-call rotations to respond to critical issues outside of business hours.
+Company: Singtel Group
+
+
+Job Summary
 
 
 
-Requirements:
 
-Strong experience with AWS services and infrastructure, including EC2, S3, RDS, and VPC.
-Proficiency with Kubernetes and container orchestration. Experience with scripting languages, particularly Python.
-Experience with software release engineering, including CI/CD pipelines (in particular GitLab)
-Understanding of networking principles and protocols (TCP/IP, HTTP, DNS, SSL).
-Experience with monitoring and alerting systems, such as Prometheus or Grafana
-Ability to work collaboratively with engineering and operations teams.
-Strong problem-solving and analytical skills.
+The Senior IT Operations Specialist (Ordering-focused) role is accountable for serving as Operations Intelligence with Ordering-focused for the IT Operations Rapid Response Team (RRT).
 
 
 
-Preferred qualifications:
 
-Experience in a regulated environment, ideally with financial services.
-Familiarity with security best practices and regulatory compliance.
-Knowledge of database technologies such as MySQL.
-Experience with infrastructure-as-code tools such as Terraform.
+Key Responsibilities
+
+In summary, the goal of the RRT members includes (but is not limited to):
+
+ Major Incident Management area:
+
+o Serve as Subject Matter Expert (SME) for IT Operations (Ordering-focused)
+
+o Investigate and diagnose the Major Incident and provides a regular update to the MIM and ICs.
+
+o Work with other Applications, Infrastructure and/or Network SMEs to assist with the investigation, and diagnosis of issues.
+
+o Provide input to the Major Incident Manager (MIM) for the service restoration action plan.
+
+o Provide guidance and functional escalation to the next level of support when the current level has insufficient knowledge/expertise to diagnose and resolve the issue.
+
+ Major Incident Management area:
+
+o Chair and manage Post Incident Review (PIR).
+
+o Drive Continuous Improvements via the Root Cause Identification and implementation of Permanent Corrective Actions.
+
+ Operation Intelligence area:
+
+o Identify single points of failure and resilience improvements within the IT environment to enhance IT service availability
+
+o Working with SRE Operations, DevOps, and Observability team is looking for opportunities to streamline and improve operations services.
 
 
 
-If you are a talented and driven SRE with a passion for maintaining high availability and reliability in a fast-paced environment, we would love to hear from you. This is an excellent opportunity to join a leading, regulated digital asset firm and contribute to the success of a rapidly growing business.
 
-Report job
-Hiring Lab
-Career Advice
-Browse Jobs
-Browse Companies
-Salaries
-Indeed Events
-Work at Indeed
-Countries
-About
-Help Centre
-ESG at Indeed
-© 2023 Indeed
-Accessibility at Indeed
-Privacy Centre
-Cookies
-Privacy
-Terms
+The Skills to pay the Bills
+
+
+
+
+Minimum 5 years of relevant IT experience with 3 years of Telco experience.
+A proven track record of success as an IT Operations Specialist, ideally in the broad ICT or Telecommunication industry sector, or related (but multiple and publicly listed) service industry sectors (e.g. financial services and utilities)
+Experience in communicating and influencing at senior management and executive level
+Strong experience in managing multiple business stakeholders and vendors
+Strong understanding of architectural principles and industry standards
+Experience in managing incidents in a complex and high-pressure environment
+Strong vendor management experience with a successful track record of driving an outcome
+Solid understanding of Ordering/Order fulfilment technology (preferably Amdocs CRM/OMS).
+Demonstrable background in the design, implementation, measurement and tracking of operational key performance indicators
+Strong customer focus with a commitment to the delivery of quality services
+Detailed understanding of the end-to-end software life cycle, operational and support procedures and processes
+Proven track record of conceptual/strategic thinking ability
+Experience with monitoring systems (Elastic, DynaTrace, Nagios etc.).
+Experience in Operation Intelligence (operations trends analysis).
+
+
+
+We understand that flexibility means different things to different people. We're proud to offer a variety of options to work in different ways, such as our Blended Ways of Working, job share and part-time. Our Blended Ways of Working lets our people work across home and our offices. Please talk to us about how we can make this role work for you!
+
+Curious about our culture? Go behind the scenes with our people by searching #OptusLife on LinkedIn.
+

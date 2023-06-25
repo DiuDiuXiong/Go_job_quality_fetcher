@@ -1,90 +1,111 @@
-Skip to main content
-LinkedIn
-Jobs
-Dismiss
-Dismiss
-Join now
-Sign in
-Platform Engineer
-Optus  Macquarie Park, New South Wales, Australia
-3 days ago   Be among the first 25 applicants
-  
-See who Optus has hired for this role
+
+Site Reliability Engineer - SRE Engineer
+Jobs via eFinancialCareers Melbourne, Victoria, Australia
 Apply
+Email
+Password (8+ characters)
+Site Reliability Engineer - SRE Engineer
+Jobs via eFinancialCareers  Melbourne, Victoria, Australia
+4 days ago   Be among the first 25 applicants
+  
+See who Jobs via eFinancialCareers has hired for this role
+Apply
+Email
+Password (8+ characters)
 Save
-About The Opportunity
+We're seeking a Site Reliability Engineer with a passion for software reliability. We aim to provide the most reliable products and service in financial industry.
 
 
 
 
-We're seeking a Platform Engineer to join Optus’ newest engineering function, the Tech Foundations Tribe!
+In this role you will be responsible for:
 
 
 
 
-As a Platform Engineer within the Tribe, you will work within one of our autonomous squads that build, run and own technical products which our feature teams rely upon to provide innovative experiences for our external customers. You will be empowered to apply your software or systems engineering background to ensure our products are simple to consume and scale in the face of their growing popularity with our internal customers, while helping embed practices like SRE to ensure a healthy balance between innovation and operational excellence.
+Application of Observability principles within our infrastructure, environments and software
+Application of best practice SLI's, SLO's, metrics, and error budgets
+Develop and implement comprehensive monitoring, logging and alerting technologies
+Establish and implement strategies for canary releases, feature toggling and rollback back practices
+Collaboration with feature teams to ensure reliability practices are integrated into development
+Implement continuous learning through blameless postmortems
+Participate in improving incident management and application of best practices.
+Establishing Release Engineering best practices
+Developing reliability software patterns and practices (e.g. circuit breaker, retry etc).
+Help achieve the goal of 'push on green' for deployments
+
+
+Skills required:
 
 
 
 
-Our platform engineers are customer focused, passionate about product-thinking, and love to apply engineering to ensure these achievements are long-lasting. They use their experience and appetite for continuously learning to answer open questions like-
+Strong experience in software engineering
+Strong experience in SLO, metrics, logging, and tracing
+Proven record of accomplishment in automating toil
+Excellent understanding of modern software development practices, tools and technologies
+A passion for getting things done, balancing short- and long-term needs
+Influencing software engineers on reliability
+Influence and technical leadership capabilities to drive change in environments, manage stakeholders and get alignment cross functionally
+Strong DevOps fundamentals with preference for Java, Golang, Microservices and other cloud technologies
+
+
+What is in it for you:
 
 
 
 
-How can we make the experience of our engineers awesome on Day 1, and equally awesome on Day 1000?
-How can we make it easy for developers to securely build and deploy APIs?
-How can we embed security through our software development lifecycle, without loading teams up with more processes and meetings?
+This is an opportunity to play a pivotal role in shaping Engineering for Macquarie Bank
+Enjoy the satisfaction of making a difference and being part of a team that drives positive change in the bank and the industry
+Be part of a forward-thinking organisation that embraces new technologies and modern engineering practices
+Be part of a team that deeply values diversity and creates space for you to be your best, in a modern & inclusive environment with a strong focus on employee experience
+Being hands-on with the latest cloud technologies including Google Cloud to tackle interesting banking and finance problems
+Ongoing professional development and free technical certification
+
+
+About the Corporate Operations Group
 
 
 
 
-If you are inspired to build sustainable solutions to these questions, have a passion for engineering excellence and are experienced in product development, we invite you to join our dedicated team in revolutionising engineering at Optus.
+The Corporate Operations Group brings together specialist support services in Digital Transformation & Data, Technology, Operations, Human Resources, Business Services, Corporate Strategy & Solutions, and the Macquarie Group Foundation. We deliver service excellence to ensure Macquarie is open for business, deliver on transformational change, invest in our people and have deep relationships with our customers.
 
 
 
 
-Key Responsibilities
+Our commitment to Diversity, Equity and Inclusio
 
 
 
 
-Building and operating scalable, reliable, and secure technical products that meet business requirements and maximise the productivity of our feature teams.
-Working with internal customers – developers, builder teams, and engineering leaders - to continuously improve their user experience.
-Identifying opportunities to simplify processes by adopting modern practices and technologies.
+About The Corporate Operations Group
 
 
 
 
-These skills will rocket you to Success!
+The Corporate Operations Group brings together specialist support services in Digital Transformation & Data, Technology, Operations, Human Resources, Business Services, Corporate Strategy & Solutions, and the Macquarie Group Foundation. We deliver service excellence to ensure Macquarie is open for business, deliver on transformational change, invest in our people and have deep relationships with our customers.
 
 
 
 
-Experience working in platform engineering teams and developing technical products to solve business problems and challenges.
-Hands-on experience in software development, with a strong background in one or more programming languages such as Python, Java, or Go.
-A passion for building and supporting interfaces (APIs, Portals, documentation) which encourage and promote self-service.
-Expertise working with cloud and/or container platforms.
-Strong interpersonal skills to navigate complex technical environments with ease.
+Our commitment to Diversity, Equity and Inclusion
 
 
 
 
-We're a highly collaborative workplace, and offer a range of perks such as
+The diversity of our people is one of our greatest strengths. An inclusive and equitable environment enables us to deliver innovative and sustainable outcomes for our people, clients, shareholders and communities. From day one, you'll be encouraged to be yourself and supported to perform at your best. If our purpose of 'empowering people to innovate and invest for a better future' is as inspiring to you as it is to us, please apply. With the right technology, support and resources, our people can work in a range of flexible ways.
 
 
 
 
-Hybrid working (2 days remote).
-Discounts on products and services.
-Ongoing mentoring and accredited training through university partnerships.
-Onsite facilities at Macquarie Park include a GP, gym, mini-mart, cafes, restaurants, post shop, and chill-out zones.
-Private bus service to and from Campus to Epping and Wynyard stations, and discounted car parking onsite.
+We are committed to providing a working environment that embraces and values diversity, equity and inclusion. We encourage candidates to speak with a member of our recruitment team if you require adjustments to our recruitment process to support you, and the type of working arrangements that would help you thrive.
 
 
 
 
-Curious about our culture? Go behind the scenes with our people by searching #OptusLife on LinkedIn.
+<
+
+
 Show more 
 Seniority level
 Entry level
@@ -93,133 +114,6 @@ Full-time
 Job function
 Engineering and Information Technology
 Industries
-Telecommunications
+Staffing and Recruiting
   
 
-Referrals increase your chances of interviewing at Optus by 2x
-
-See who you know
-
-Get notified about new Platform Engineer jobs in Macquarie Park, New South Wales, Australia.
-
-Sign in to create job alert
-Similar jobs
-Platform Engineer
-Platform Engineer
-Dovetail
-Sydney, New South Wales, Australia
-2 weeks ago
-Platform Engineer
-Platform Engineer
-10x Banking
-Sydney, New South Wales, Australia
-2 weeks ago
-Platform Engineer
-Platform Engineer
-Blowfish Studios
-Sydney, New South Wales, Australia
-3 days ago
-Platform Engineer
-Platform Engineer
-Macquarie Group
-Sydney, New South Wales, Australia
-3 days ago
-Platform Engineer
-Platform Engineer
-ResMed
-Sydney, New South Wales, Australia
-1 week ago
-ForgeRock Platform Engineer
-ForgeRock Platform Engineer
-Hays
-Sydney, New South Wales, Australia
-4 days ago
-Show more jobs like this 
-People also viewed
-Software Engineer
-Software Engineer
-
-V2 Digital
-
-Sydney, New South Wales, Australia
-2 days ago
-Principal Engineer - Connections
-Principal Engineer - Connections
-
-Australian Energy Market Operator (AEMO)
-
-Sydney, New South Wales, Australia
-3 days ago
-Senior Software Engineer
-Senior Software Engineer
-
-nbn® Australia
-
-Sydney, New South Wales, Australia
-3 days ago
-DevOps Engineer
-DevOps Engineer
-
-Blackhawk Network Australia
-
-Sydney, New South Wales, Australia
-4 days ago
-Senior Software Engineer - Limits Platform, Health
-Senior Software Engineer - Limits Platform, Health
-
-Cash App
-
-Sydney, New South Wales, Australia
-1 week ago
-EOTE008-Software Engineering - Platform & Product Engineering - Pizza A - DevOps Engineer 1
-EOTE008-Software Engineering - Platform & Product Engineering - Pizza A - DevOps Engineer 1
-
-Accenture Australia
-
-Sydney, New South Wales, Australia
-1 day ago
-Software Engineer
-Software Engineer
-
-SIM Planet
-
-Mascot, New South Wales, Australia
-3 weeks ago
-Cloud Engineer
-Cloud Engineer
-
-Hamilton Barnes 🌳
-
-Sydney, New South Wales, Australia
-2 weeks ago
-Cloud Engineer
-Cloud Engineer
-
-Ensure Recruitment
-
-Sydney, New South Wales, Australia
-1 week ago
-Cloud Platform Engineer
-Cloud Platform Engineer
-
-Macquarie Group
-
-Sydney, New South Wales, Australia
-1 week ago
-Looking for a job?
-
-Visit the Career Advice Hub to see tips on interviewing and resume writing.
-
-View Career Advice Hub
-LinkedIn
-© 2023
-About
-Accessibility
-User Agreement
-Privacy Policy
-Cookie Policy
-Copyright Policy
-Brand Policy
-Guest Controls
-Community Guidelines
-Language

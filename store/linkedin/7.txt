@@ -1,82 +1,94 @@
-Skip to main content
-LinkedIn
-Jobs
-Dismiss
-Dismiss
-Join now
-Sign in
-Site Reliability Engineer
-Tribus Technology  Sydney, New South Wales, Australia
-5 days ago  35 applicants
+
+Senior Site Reliability Engineer
+Atlassian  Sydney, New South Wales, Australia
+19 hours ago   Be among the first 25 applicants
   
-See who Tribus Technology has hired for this role
+See who Atlassian has hired for this role
 Apply
 Save
-
-Direct message the job poster from Tribus Technology
-
-Greg Moore
-Founder | Tribus Technology | Helping organisations hire in Software Engineering & Data
-
-If you're looking to be part of an SRE team that thrives on project-based initiatives, then this opportunity is for you.
+Working at Atlassian
 
 
 
 
-Our client has cultivated a remarkable engineering culture over time, striking the perfect balance that has resulted in exceptional employee retention rates.
+Atlassian can hire people in any country where we have a legal entity. Assuming you have eligible working rights and a sufficient time zone overlap with your team, you can choose to work remotely or from an office (unless it’s necessary for your role to be performed in the office). Interviews and onboarding are conducted virtually, a part of being a distributed-first company.
 
 
 
 
-Here's what you can expect:
-
-Outcome-oriented environment: They tackle project-based initiatives with a well-defined roadmap for the next 2 years, focusing on ensuring the reliability and performance of their systems.
-Hybrid work model: Enjoy the flexibility of remote work for most of the week, while having 1-2 office days dedicated to collaboration sessions.
-Equal opportunity: Regardless of your level of experience, they empower all team members to contribute and provide them with the best tools to succeed in maintaining a robust infrastructure.
-Emphasis on research and development: As a tech-focused company, they continuously innovate and improve their systems to stay ahead in today's competitive market.
-Supportive leadership: The leadership team encourages open communication, welcomes concerns, and values constructive feedback.
+We are looking for a Senior engineer who is passionate about scaling Cloud services to join our growing Confluence SRE team. Confluence SRE team owns the infrastructure, tooling and automation that Confluence Cloud runs on (compute, databases, queues and caches) and has a deep understanding of how Confluence Cloud uses infrastructure to meet customer reliability expectations.
 
 
 
 
-The tech stack is ever-changing but it currently includes;
-
-Jenkins | Terraform | Ansible | Kubernetes | ArgoCD | Prometheus | Grafana | ELK | Node.JS | React | .Net | Kafka
+The ideal candidate is a technical leader who is aware of current industry trends (particularly those related to reliability). You have experience mentoring and growing team members and love to share your knowledge with others. We'd love it if you brought a deep understanding of modern Cloud infrastructure, programming expertise, operational experience and a desire to change the status quo. We're looking for an engineer who can analyse and help improve our services and processes to get us to an even higher level of reliability, performance, scalability, and cost efficiency. You will report directly to the Engineering Manager.
 
 
 
 
-As an SRE, you'll join a team of 4 highly skilled engineers dedicated to ensuring the reliability and scalability of the systems for their global customer base.
+On Your First Day, We'll Expect You To Have
 
 
 
 
-To succeed in this role you will need to be comfortable with at least 3 of the following;
-
-Jenkins or GitLab
-Terraform
-Ansible
-Kubernetes
-Grafana
-Prometheus
-
-
-
-
-Currently, they’re building on-prem but are about to start their cloud journey with AWS.
-
-They value your attitude and passion for growth over specific technology expertise. If you’re eager to learn and develop your skills, they will provide you with the tools and support to succeed.
+3+ years experience operating high-availability, fault-tolerant, scalable, distributed software in production: building monitoring, tweaking dashboards, defining alerts, writing runbooks, etc.
+3+ years of hands on experience with public cloud offerings (AWS components like EC2, CloudFormation, RDS / Aurora, Caches, SQS - or equivalents, e.g. in GCP / Azure).
+Familiarity with Unix / Linux operating systems.
+Strong engagement to debug, improve code, and automate routine tasks.
+Strong backend engineering experience in one or more prominent languages such as Java, Go or Python.
+Excellent communication skills in written and verbal forms, and an ability to communicate complex technical issues to a range of technical and non-technical audiences (management, peers, clients).
+An ability and desire to mentor and coach engineers.
 
 
 
 
-Please apply or email me directly for more information; greg.moore@tribustechnology.com
+It would be great, but not mandatory if you had:
 
 
 
 
-If you don’t quite fit the requirements but are interested in having a conversation with one of our senior consultants please send your resume to careers@tribustechnology.com
+Experience in microservice architecture.
+Experience building web-services and clients using REST/GraphQL.
 
+
+
+
+Compensation
+
+
+
+
+At Atlassian, we tie our base pay ranges to role and level. In the United States, that means your base pay ranges will fall into one of three geographic pay zones depending on your location. Our current base pay ranges for new hires in each zone are:
+
+
+
+
+Our Perks & Benefits
+
+
+
+
+To support you at work and play, our perks and benefits include ample time off, an annual education budget, paid volunteer days, and so much more.
+
+
+
+
+About Atlassian
+
+
+
+
+The world’s best teams work better together with Atlassian. From medicine and space travel, to disaster response and pizza deliveries, Atlassian software products help teams all over the planet. At Atlassian, we're motivated by a common goal: to unleash the potential of every team .
+
+
+
+
+We believe that the unique contributions of all Atlassians create our success. To ensure that our products and culture continue to incorporate everyone's perspectives and experience, we never discriminate based on race, religion, national origin, gender identity or expression, sexual orientation, age, or marital, veteran, or disability status. All your information will be kept confidential according to EEO guidelines.
+
+
+
+
+To learn more about our culture and hiring process, explore our Candidate Resource Hub .
 Show more 
 Seniority level
 Mid-Senior level
@@ -85,133 +97,6 @@ Full-time
 Job function
 Engineering and Information Technology
 Industries
-Staffing and Recruiting
+Software Development
   
 
-Referrals increase your chances of interviewing at Tribus Technology by 2x
-
-See who you know
-
-Get notified about new Site Reliability Engineer jobs in Sydney, New South Wales, Australia.
-
-Sign in to create job alert
-Similar jobs
-Site Reliability Engineer
-Site Reliability Engineer
-Ampersand International
-Sydney, New South Wales, Australia
-1 month ago
-Site Reliability Engineer
-Site Reliability Engineer
-Commonwealth Bank
-Sydney, New South Wales, Australia
-4 days ago
-Lead Site Reliability Engineer
-Lead Site Reliability Engineer
-4Twenty Consulting
-Sydney, New South Wales, Australia
-2 weeks ago
-Site Reliability Engineer
-Site Reliability Engineer
-Optus
-Macquarie Park, New South Wales, Australia
-2 days ago
-Site Reliability Engineer I
-Site Reliability Engineer I
-Apptio
-Sydney, New South Wales, Australia
-2 days ago
-Site Reliability Engineer
-Site Reliability Engineer
-Axon
-Sydney, New South Wales, Australia
-2 weeks ago
-Show more jobs like this 
-People also viewed
-DevOps Engineer
-DevOps Engineer
-
-Spring Professional
-
-Sydney, New South Wales, Australia
-3 weeks ago
-DevOps Engineer
-DevOps Engineer
-
-TEKsystems
-
-Sydney, New South Wales, Australia
-4 days ago
-Cloud Engineer
-Cloud Engineer
-
-Kapital Consulting - Fintech Recruitment & Executive Search
-
-Sydney, New South Wales, Australia
-1 week ago
-Systems Reliability Engineer
-Systems Reliability Engineer
-
-ThoughtSpot
-
-Sydney, New South Wales, Australia
-2 weeks ago
-DevOps Engineer
-DevOps Engineer
-
-Precision Sourcing
-
-Sydney, New South Wales, Australia
-3 days ago
-DevOps Engineer
-DevOps Engineer
-
-Horizon Consulting
-
-Sydney, New South Wales, Australia
-1 week ago
-DevOps Engineer
-DevOps Engineer
-
-Animal Logic
-
-Sydney, New South Wales, Australia
-1 month ago
-DevOps Engineer
-DevOps Engineer
-
-swipejobs
-
-North Sydney, New South Wales, Australia
-2 weeks ago
-DevOps Engineer
-DevOps Engineer
-
-ELMO Software
-
-Greater Sydney Area
-3 weeks ago
-Senior Site Reliability Engineer
-Senior Site Reliability Engineer
-
-Atlassian
-
-Sydney, New South Wales, Australia
-5 hours ago
-Looking for a job?
-
-Visit the Career Advice Hub to see tips on interviewing and resume writing.
-
-View Career Advice Hub
-LinkedIn
-© 2023
-About
-Accessibility
-User Agreement
-Privacy Policy
-Cookie Policy
-Copyright Policy
-Brand Policy
-Guest Controls
-Community Guidelines
-Language

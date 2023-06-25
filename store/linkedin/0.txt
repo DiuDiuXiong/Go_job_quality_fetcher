@@ -1,219 +1,91 @@
-Skip to main content
-LinkedIn
-Jobs
-Dismiss
-Dismiss
-Join now
-Sign in
-Senior Site Reliability Engineer
-Oracle  Melbourne, Victoria, Australia
-3 days ago  62 applicants
+
+Senior DevOps Engineer - (SRE /Docker /Kubernetes /OpenShift)
+Capgemini  Sydney, New South Wales, Australia
+5 days ago   Be among the first 25 applicants
   
-See who Oracle has hired for this role
+See who Capgemini has hired for this role
 Apply
 Save
 
-Do you have a passion for high-scale services and working with Oracle's most critical customers? We are looking for a Senior Mobile Site Reliability Engineer that enjoys applying cutting-edge advances in technology to complex, mind-blowing-scale enterprise systems that help solve real world problems. You will contribute to the architecture, design, development, implementation, and operation of critical and complex systems. You are someone who enjoys learning and shaping the newest industry trends and technologies. You foster and contribute to the creative and collaborative culture to deliver results. You embrace ambiguity and enjoy exploring new technologies delivering robust, scalable solutions.
+Capgemini is a global leader in partnering with companies to transform and manage their businesses by harnessing the power of technology. Recognized by Ethisphere as one of the World's Most Ethical Companies for the last ten years in a row, we are a diverse, values-driven organization of over 325,000 team members in more than 50 countries.
+  
+Now is the time to join our Australian and New Zealand businesses as we rapidly expand - purposefully investing in specific technology capabilities whilst designing and driving integrated strategies and solutions across our business lines.
+  
+This is an opportunity to be at the forefront of finding new ways technology can help us reimagine what’s possible, and collect unique career experiences with global clients and game-changing tech projects.
+  
+Let's talk about the team:
+Capgemini Engineering is an integral part of the Capgemini Group, a global leader in partnering with companies to transform and manage their business by harnessing the power of technology. The Group is guided every day by its purpose of unleashing human energy through technology for an inclusive and sustainable future. It is a responsible and diverse organization of 270,000 team members in nearly 50 countries. With its strong 50-year heritage and deep industry expertise, Capgemini is trusted by its clients to address the entire breadth of their business needs, from strategy and design to operations, fueled by the fast-evolving and innovative world of cloud, data, AI, connectivity, software, digital engineering, and platforms. The Group reported in 2020 global revenues of €16 billion.
+  
+Our Offer:
+At Capgemini, we see things differently.
+  
+Vision – The business value of technology comes from and through people.
+  
+Your career matters to you and is important to us too. Because your goals and needs are constantly
+evolving, we offer visibility, leeway, and support to help you grow and progress in your career.
+  
+We promote a culture of diversity. We believe working with talented individuals from different backgrounds and points of view is a strategic advantage and an ongoing opportunity. Diversity enriches our creative solutions and adds value to our clients.
+  
+Our Shared values have been at the heart of the group since our formation. They are honesty, boldness, trust, freedom, team spirit, modesty, and fun. These values influence the way we meet client needs while respecting the regulatory requirements of each country in which we operate, and the way we promote ethically sound practices within Capgemini and in our partnerships.
+  
+Capgemini is committed to building a workforce of employees with diverse backgrounds and work experiences.
+  
+Let’s talk about the role and responsibilities:
+  
+We are looking for a Containerization/ DevOps Engineer with extensive experience in deploying, testing, and troubleshooting containerized applications in OpenShift or Kubernetes environments. The successful candidate will also have expertise in working with Kea DHCP Server, migration from VM to containerized solutions, and MariaDB admin skills. Telco or Enterprise experience is required, as well as experience working in an Agile environment.
+  
+Key Responsibilities:
 
 
+Work with the development team to design, develop, test, and deploy containerized applications in OpenShift or Kubernetes environments.
+Deploy, manage and troubleshoot Kea DHCP Server and related services in a containerized environment.
+Migrate legacy applications from VM to containerized solutions.
+Administer and maintain MariaDB databases in a containerized environment.
+Collaborate with cross-functional teams to deliver projects on time and within budget.
+Communicate project status, issues, and risks to stakeholders.
+Implement and adhere to Agile methodologies for project delivery.
 
 
-Who are we?
+  
+Required Qualifications and Skills:
+
+Bachelor's or Master's degree in Computer Science or a related field.
+5+ years of experience in containerization technologies such as Docker, Kubernetes, OpenShift, and Helm.
+Hands-on experience in deploying, testing, and troubleshooting containerized applications in production environments.
+Strong understanding of Kea DHCP Server and its services, as well as experience migrating legacy applications to containerized solutions.
+Experience in administering and maintaining MariaDB databases in a containerized environment.
+Telco or Enterprise experience is required.
+Excellent project management skills and experience working in an Agile environment.
+Strong analytical and problem-solving skills.
+Excellent written and verbal communication skills.
+Ability to work independently as well as in a team environment.
 
 
-
-
-We are a world class team of high caliber mobile assurance services site reliability engineer's. We are an inclusive and diverse team with a full spectrum of experience distributed globally. We have the resources of a large enterprise and the energy of a start-up, working on a critical greenfield software assurance project collaboratively with our cloud and mobile engineering teams. The Software Assurance organization has the mission to make application security and software assurance, at scale, a reality. We are a dedicated team, leveraging each other’s insights and abilities to produce cutting edge solutions to difficult problems through automation and CI/CD. Join us to grow your career and create the future of software assurance at scale together.
-
-
-
-
-As a member of our global team, you will:
-
-Deploy and operate large scale mobile build pipelines in a cloud native environment
-Improve our offerings through performance and reliability analysis
-Diagnose and resolve issues in the build pipeline
-Participate in system design consulting, platform management, and capacity planning
-Anticipate the future and deliver those concepts to reality
-Participate in a global break-fix rotation
-
-What you'll bring:
-
-Experience in operating CICD pipelines that build and deliver mobile applications (Android and iOS)
-Your skill in operating and analyzing complex cloud deployed solutions
-Familiarity with mobile build tools, platforms, and artifact repositories
-A history of working with CI/CD related systems (Kubernetes, Terraform, Jenkins, Mavin, Gradle, Ant or similar)
-A mind focused on systems reliability, automation, and improvement
-Scripting finesse in languages like Python, Ruby, or Bash
-Motivation to collaborate with your local and global teams
-Experience with Linux
-5+ years’ experience in Systems Engineering, DevOps or SRE roles running large scale infrastructure, cloud or web services
-Eligibility to work in Australia or New Zealand without sponsorship is essential
-
-
-
-
-Nice to Have:
-
-Experience in designing CICD pipelines that build and deliver mobile applications (Android and iOS)
-Bonus points for development experience of Android or iOS mobile applications
-Experience with Oracle Cloud Infrastructure (OCI) or other cloud services Android
-Comfort with microservices architecture operating in a Kubernetes environment
-Integration experience with database systems
-
-
-
-
-What we'll give you:
-
-Exposure to mind blowing large scale cutting edge systems
-Resources of a large, global operation while still having the small, start-up feel of a smaller team day to day
-New skills and competencies working with our vast cloud product offerings
-Ongoing extensive training and skills development to further your career aspirations
-Incredible benefits and company perks
-An organization filled with smart, enthusiastic, and motivated colleagues
-Opportunity to impact and improve our systems and delight our customers
-
-
-
-
-Location: Sydney or Melbourne or Brisbane
-
+  
+About Capgemini
+  
+At Capgemini, we are more than just a business, we are a diverse global collective of strategic and technological experts who are passionate about finding ways technology can help our clients, our people and our communities get the future they want.
+  
+Our people are the key to making this vision a reality, which is why we have been recognized by the Australian Workplace Equality Index as LGTBQ+ ‘Employer of the Year’ and ‘Inclusion of Trans and Gender Diverse Employees’ for the past two years. We believe in creating a safe, flexible, and inclusive culture where everyone can bring their authentic selves to work, contributing to our inclusive culture and truly belonging, and our staff-led community groups are a testament to this commitment. We are committed to being active allies for everyone.
+  
+We believe by combining the power of the latest technology with our human energy, we can drive sustainable thinking into our operations and the work we do with clients. It's why we are committing to becoming a carbon-neutral business by 2025 and net zero by 2030.
+  
+Empower yourself with the knowledge and skills you need to succeed with our access to premier learning platforms, sought-after certifications and boundless development opportunities. You’ll be encouraged to gain at least 40 hours of training each year.
+For over 50 years our values and ethics have been at the heart of our identity. From our approach to ethics to the way we interact with one another, honesty, boldness, trust, freedom, team spirit, modesty, and fun guide and inspire all we do and have led to us being recognized as one of the World’s Most Ethical Companies by the Ethisphere Institute 10 years in a row.
+Our Commitment to Diversity & Inclusion
+Don’t meet every single requirement for this role? Studies have shown women and people from diverse minority backgrounds are less likely to apply for jobs unless they meet every single requirement. At Capgemini, we are dedicated to building a diverse, inclusive, and authentic workplace, so if you’re excited about this role but your experience doesn’t align perfectly, we encourage you to apply and tell us what you can bring to the role.
+We understand for some people, a standard hiring process can come with challenges. If you are living with a disability, are gender diverse or neurodivergent and we can provide support with access requirements or by making an adjustment to our hiring process, please contact us at talentacquisitionaunz@capgemini.com / aunz@capgemini.com
+  
+Information Security and Compliance
+Capgemini Australia has developed and manages, process-orientated Management Systems compliant with the requirements of ISO9001, ISO27001 and ISO14001. We are committed to delivering security solutions and services through state-of-the-art processes and continual improvement frameworks in line with industry best practices as well as contractual, statutory, and regulatory requirements.
 Show more 
 Seniority level
 Mid-Senior level
 Employment type
 Full-time
 Job function
-Information Technology
+Engineering and Information Technology
 Industries
-IT Services and IT Consulting
+IT Services and IT Consulting and Business Consulting and Services
   
 
-Referrals increase your chances of interviewing at Oracle by 2x
-
-See who you know
-
-Get notified about new Senior Site Reliability Engineer jobs in Melbourne, Victoria, Australia.
-
-Sign in to create job alert
-Similar jobs
-Senior Site Reliability Engineer
-Senior Site Reliability Engineer
-CMD Solutions
-Melbourne, Victoria, Australia
-2 weeks ago
-Senior Site Reliability Engineer
-Senior Site Reliability Engineer
-Macquarie Group
-Melbourne, Victoria, Australia
-2 weeks ago
-Site Reliability Engineer
-Site Reliability Engineer
-Datacom
-Melbourne, Victoria, Australia
-1 week ago
-Site Reliability Engineer
-Site Reliability Engineer
-Aeon Media Group Ltd
-Melbourne, Victoria, Australia
-2 weeks ago
-Site Reliability Engineer I
-Site Reliability Engineer I
-Apptio
-Melbourne, Victoria, Australia
-2 days ago
-DevOps Engineer / SRE (Site Reliability Engineer)
-DevOps Engineer / SRE (Site Reliability Engineer)
-Capgemini
-Melbourne, Victoria, Australia
-5 days ago
-Show more jobs like this 
-People also viewed
-DevOps Engineer
-DevOps Engineer
-
-Collabera Digital
-
-Melbourne, Victoria, Australia
-2 days ago
-Senior Engineer
-Senior Engineer
-
-IAG
-
-Melbourne, Victoria, Australia
-1 week ago
-Senior Software Engineer
-Senior Software Engineer
-
-Sportsbet
-
-Melbourne, Victoria, Australia
-1 week ago
-Senior Software Engineer
-Senior Software Engineer
-
-nbn® Australia
-
-Melbourne, Victoria, Australia
-3 days ago
-Senior Fullstack Engineer
-Senior Fullstack Engineer
-
-Memories Group Limited
-
-Greater Melbourne Area
-2 weeks ago
-ICT Senior DevOps Engineer
-ICT Senior DevOps Engineer
-
-Victoria Police
-
-Melbourne, Victoria, Australia
-2 weeks ago
-Senior Engineer - Connections
-Senior Engineer - Connections
-
-Australian Energy Market Operator (AEMO)
-
-Greater Melbourne Area
-2 days ago
-Senior Engineer - AEM
-Senior Engineer - AEM
-
-Insignia Financial
-
-Melbourne, Victoria, Australia
-1 day ago
-Senior Software Engineer, Trilogy (Remote) - $100,000/year USD
-Senior Software Engineer, Trilogy (Remote) - $100,000/year USD
-
-Crossover
-
-Melbourne, Victoria, Australia
-1 day ago
-Site Reliability Engineer - SRE Engineer
-Site Reliability Engineer - SRE Engineer
-
-Macquarie Group
-
-Melbourne, Victoria, Australia
-2 days ago
-Looking for a job?
-
-Visit the Career Advice Hub to see tips on interviewing and resume writing.
-
-View Career Advice Hub
-LinkedIn
-© 2023
-About
-Accessibility
-User Agreement
-Privacy Policy
-Cookie Policy
-Copyright Policy
-Brand Policy
-Guest Controls
-Community Guidelines
-Language

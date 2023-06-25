@@ -1,17 +1,7 @@
-Skip to main content
-Find jobs
-Company reviews
-Search Salary
-Upload your resume
-Sign in
-Employers / Post Job
-Start of main content
-What
-Where
-Find Jobs
-Site Reliability Engineer
-Cognizant Technology Solutions
-Sydney NSW 2000
+Senior Data Engineer
+REA Group
+Melbourne VIC
+Hybrid remote
 Full-time
 You must create an Indeed account before continuing to the company website to apply
 Apply on company site
@@ -19,83 +9,68 @@ Job details
 No matching job preferences
 Job Type
 Full-time
-Shift and Schedule
-Day shift
-Shift work
+Utilise your experience in Data Catalogue
+Experience Hybrid working arrangements in a flexible environment – ex: Work from the office or home in a rhythm that suits you
+Permanent role based in Sydney, Melbourne or Brisbane
+Sustainability - We are certified carbon neutral and committed to reducing our impact on the environment.
+Charities – We have long-term partnerships with charities working to address homelessness.
+We're REA
+REA Group
+is not your average digital business. From humble beginnings in a garage in Melbourne’s east in 1995, we have grown into a leading global digital business, specialising in property.
 
-What makes Cognizant a unique place to work? The combination of rapid growth and an international and innovative environment! This is creating many opportunities for people like YOU — people with an entrepreneurial spirit who want to make a difference in this world. At Cognizant, together with your colleagues from all around the world, you will collaborate on creating solutions for the world's leading companies and help them become more flexible, more innovative, and successful. Moreover, this is your chance to be part of the success story.
+With bold and ambitious goals, we are changing the way the world experiences property. No matter where you're at on your property journey, we're here to help with every step - whether that's finding or financing your next home.
 
-Job Description:
-
-SRE is a core capability required across all services that has a production responsibility for deployed cloud services hosted on the platform.
-SRE is concerned with several aspects of a service including reliability, resilience, performance, SLA/SLO/SLI measurements, observability, and automation.
-They bridge development and operations by applying a software engineering mindset to the automaton of the cloud services and system administration topics.
-They ensure a solution’s availability, latency, performance, efficiency, change management, monitoring, emergency response, and capacity planning.
-
-Roles and Responsibilities:
-
-Defining a product’s SLA/SLO/SLI agreement.
-Developing, supporting, implementing, and maintaining observability and automation tools to support cloud solutions.
-Engineering in resilient design and implementation practices into solutions as they go through the product life cycle.
-Engineering out manual effort (Toil) through the development of automated processes and services (eg. Automated Management of Systems, CI/CD improvements).
-Introducing observability tools to track, report, and measure a product’s SLA adherence.
-Service analysis and restoration in the event of failure as part of incident management processes.
-Responsible for operationally supporting the product (prior to transition to cloud operations) covering incident and emergency response, operational administrative tasks (compliance reporting etc).
-Review, analysis, and improvement development of deployed products with respect to product architecture and inter-service dependencies.
-
-Mandatory Skills:
-
-3-5 years of experience in software engineering, or cloud infrastructure engineering and administration.
-Experience with cloud automation development tools such as Gitlab CI/CD, Terraform Cloud/Enterprise, Ansible, AWS CloudFormation, Azure DevOps, Python/Bash/PowerShell Scripting.
-Experience in administrating cloud infrastructure with SRE metric-driven reporting.
-Defining a product’s SLA/SLO/SLI agreement.
-Knowledge of agile/iterative development, and test-driven development.
-Mastery of collaborative software development using Git, Jira and Confluence.
-Experience in implementing best practice cybersecurity controls in cloud environments.
-Experience in agile style ways of working.
-Experience in working with multi-cultural and diverse teams.
-Experience in working with virtual teams across different time zones.
-Relentless drive to continuously learn new skills and improve.
-Previous experience in an infrastructure or application development domain such as: Network Engineering, IaaS Engineering, DevSecOps, Automation Tools Engineering, Web Application Development, Mobile Application Development, Data Science is highly desirable.
-
-Salary Range: >$100,000
-
-Next Steps:
-
-If you feel this opportunity suits you, or Cognizant is the type of organization you would like to join, we want to have a conversation with you! Please apply directly with us.
-
-For a complete list of open opportunities with Cognizant, visit http://www.cognizant.com/careers Cognizant is committed to providing Equal Employment Opportunities. Successful candidates will be required to undergo a background check.
-
-About Cognizant:
-
-Cognizant (Nasdaq-100: CTSH) is one of the world's leading professional services companies, transforming clients' business, operating and technology models for the digital era. Our unique industry-based, consultative approach helps clients envision, build, and run more innovative and efficient businesses. Headquartered in the U.S., Cognizant is ranked 185 on the Fortune 500 and is consistently listed among the most admired companies in the world. Learn how Cognizant helps clients lead with digital at www.cognizant.com or follow us @cognizant.
-
-#LI-CTSAPAC
-
-Employee Status : Full Time Employee
-
-Shift : Day Job
-
-Job Posting : Jun 14 2023
-
-About Cognizant
-Cognizant (Nasdaq-100: CTSH) is one of the world's leading professional services companies, transforming clients' business, operating and technology models for the digital era. Our unique industry-based, consultative approach helps clients envision, build and run more innovative and efficient businesses. Headquartered in the U.S., Cognizant is ranked 185 on the Fortune 500 and is consistently listed among the most admired companies in the world. Learn how Cognizant helps clients lead with digital at www.cognizant.com or follow us @Cognizant.
-
-Report job
-Hiring Lab
-Career Advice
-Browse Jobs
-Browse Companies
-Salaries
-Indeed Events
-Work at Indeed
-Countries
-About
-Help Centre
-ESG at Indeed
-© 2023 Indeed
-Accessibility at Indeed
-Privacy Centre
-Cookies
-Privacy
-Terms
+Our people are the key to our success. At the heart of everything we do, is a thriving culture centred around high performance and care. We are purpose driven and collaborative, which drives innovation and our ability to make a real impact. As such, we’re proud to be named in Australia’s “Top 5” Best Workplaces two years in a row, as well as being recognised as a Best Workplace for Women.
+Where the team fits in
+The Data Platform squad is responsible for shaping and delivering the future of our data platform architecture. We build it using a combination of commercial off-the-shelf products and bespoke REA components, including:
+Google BigQuery data warehouse/data lake platform.
+Bespoke batch ETL job orchestration platform built with Apache Airflow.
+Open source based & white-labelled data catalogue + metadata management platform.
+Apache Kafka stream processing platform.
+Our mission is to make it easy to leverage REA Data. These systems are relied on by 50+ engineering teams and 300+ monthly users at REA, including Data Engineers, Data Scientists, Analysts, SQL Developers, Business Analysts, Product Managers and more.
+What the role is all about
+You will be joining a group of wonderful people, function in a distributed team and solve complex problems that have far reaching benefits to the business and Tech community.
+As a Senior Data Engineer you will contribute within Data Platform team in the following ways:
+Provide technical leadership and guidance to the team, serving as a subject matter expert in data engineering and related technologies.
+Contribute to the design and architecture of scalable, efficient, and secure data solutions, considering long-term scalability and maintainability.
+Contribute to the adoption of best practices, coding standards, and engineering principles across the team to ensure a high-quality and maintainable codebase.
+Conduct performance analysis, optimization, and tuning of data processing workflows and systems to enhance efficiency and meet performance targets.
+Stay up-to-date with the latest trends, technologies, and advancements in data engineering and proactively evaluate their potential impact on the organization's data infrastructure.
+Participate in technical discussions, code reviews, and architectural reviews to maintain code quality, identify improvement opportunities, and ensure adherence to standards.
+Mentor and coach junior engineers, fostering their professional growth and assisting them in overcoming technical challenges.
+Collaborate with stakeholders to define data governance policies, data quality standards, and data management processes.
+Drive continuous improvement initiatives, such as automation, tooling enhancements, and process optimizations, to increase productivity and operational efficiency.
+Act as a strong advocate for data-driven decision-making, promoting a data-driven culture within the organization.
+Who we’re looking for
+Extensive experience in designing, coding, and testing data platform/management tools and systems.
+Strong knowledge of software development principles and best practices.
+Proficiency in programming languages commonly used in data engineering, such as Python, Java, or Go.
+Familiarity with agile methodologies and tools.
+Experience with data catalog tools and platforms (e.g., Apache Atlas, Amundsen, Collibra, Alation).
+Understanding of data governance best practices and principles.
+Hands-on experience with cloud-based data platforms and services (e.g., AWS, Azure, Google Cloud).
+Expertise in data architecture, data modeling, and database design.
+Knowledge of data integration techniques, ETL processes, and data pipeline development.
+Ability to ensure operational stability and performance of data systems.
+Excellent communication skills and the ability to collaborate effectively with cross-functional teams.
+Experience with DevOps practices and tools, such as Docker and CI/CD.
+Ability to work collaboratively and autonomously in a fast-paced environment.
+Bonus if you have any of the following
+Experience in using and managing Cloud infrastructure in AWS and/or GCP.
+Experience with Infrastructure as Code techniques, particularly AWS CloudFormation, AWS CDK and Terraform.
+Exposure to platform engineering concepts or developer experience & tooling.
+Knowledge of SRE and observability best practices.
+Willingness to learn new and complex technologies, and ability to share knowledge with the team.
+The REA experience
+The physical, mental, emotional and financial health of our people is something we’ll never stop caring about. This is a place to learn and grow. We’re committed to your development – both professionally and personally. Your experience with us is something we take seriously.
+We offer:
+A hybrid and flexible approach to working -
+https://rea.to/hybrid-working
+Flexible parental leave offering for primary and secondary carers
+Programs to support mental, emotional, financial and physical health & wellbeing
+Our Because We Care program offers employees volunteering leave, community grants, matched payroll giving and our Community Café donates 100% of revenue to charity.
+Hack Days so you can bring your big ideas to life
+Performance recognition programs because hard work should never go unnoticed
+Our commitment to Diversity, Equity, and Inclusion
+We are committed to providing a working environment that embraces and values diversity, equity and inclusion. We believe teams with diverse ideas and experiences are more creative, more eﬀective and fuel disruptive thinking - be it cultural and ethnic backgrounds, gender identity, disability, age, sexual orientation, or any other identity or lived experience. We know diverse teams are critical to maintaining our success and driving new business opportunities. If you've got the skills, dedication and enthusiasm to learn but don't necessarily meet every single point on the job description, please still get in touch.
+If you like the sound of us, then we think you should apply today. We're proud to be Circle Back Initiative Employer and we commit to respond to every applicant. While we're looking at your application, and preparing to come back to you with an update, why not get to know us a bit more through our various social channels?

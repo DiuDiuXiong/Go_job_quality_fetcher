@@ -1,255 +1,102 @@
-Skip to main content
-LinkedIn
-Jobs
-Dismiss
-Dismiss
-Join now
-Sign in
-Cloud/DevOps Engineering - Team Lead (AWS)
-Squiz  Melbourne, Victoria, Australia
-2 weeks ago  42 applicants
+
+DevOps SRE Engineer
+DXC Technology  Macquarie Park, New South Wales, Australia
+2 weeks ago   Be among the first 25 applicants
   
-See who Squiz has hired for this role
+See who DXC Technology has hired for this role
 Apply
 Save
+Job Description
 
-We are looking for a Team Lead for our Cloud Engineering team with experience as a cloud/devops engineer (either looking for a step up or an experienced team lead looking for your next challenge), You have previously spent time building AWS architectures that are deployed utilising solid coding and testing practices, that lean into best practice CI/CD, This is a hands on role, thus will suit someone with solid technical ability willing to get in and roll up the sleeves and actually play a part in building solutions.
+DXC Technology (NYSE: DXC) helps global companies run their mission-critical systems and operations while modernizing IT, optimizing data architectures, and ensuring security and scalability across public, private and hybrid clouds. The world's largest companies and public sector organizations trust DXC to deploy services to drive new levels of performance, competitiveness, and customer experience across their IT estates. Learn more about how we deliver excellence for our customers and colleagues at DXC.com.
 
+This role is an exciting opportunity to be part of a team that is responsible for maintaining various security platforms for DXC’s Security Business. You will be responsible for the support of all critical systems that support the company's core service delivery platform.
 
+As a DevOps SRE engineer you will be responsible for maintaining a high availability infrastructure supporting the DXC Security Services business. This is a very hands-on technical role and would suit someone who has a proven background in supporting a fast paced, complex, 24/7 critical infrastructure. As a DevOps SRE Engineer you would be working closely with the infrastructure designers and developers. The successful candidate for this role will have a real passion for technology and have a broad knowledge across networks and systems for both on prem and cloud environments.
 
-We're location-flexible! This role is open to all candidates on the east coast of Australia.
+The role will require a proactive approach to gaining knowledge of a complex infrastructure through consulting system SMEs, self-learning and self-discovery.
 
+Responsibilities
 
+Monitor and work the support incident and change requests queues, fixing issues or reassigning to SME’s
+Day to day maintenance of the systems, scheduled tasks, capacity monitoring, business continuity operations
+Perform daily system monitoring, validating both the integrity and availability of all hardware/Cloud server/services, applications and key processes, reviewing system and application logs and confirming the successful completion of scheduled jobs such as backups and reporting
+The application of OS patches and upgrades on a regular basis, including administration tools and utilities
+Perform ongoing system/application performance tuning, hardware upgrades and resource optimisation as required. Configuration of CPU, memory and disk partitions as per requirements
+Create and maintain RCA’s for system outages/incidents
+Collaborate with regional teams to ensure consistent processes and procedures across all instances
+Management of DevOps pipeline tools including Github and Jenkins
+Installation of new or rebuild of existing servers and configure hardware, peripherals, settings, services, directories, storage, etc. In accordance with recognised best practices and company specific project/operational standards
+Ensure that the infrastructure systems are designed, built, maintained and operated in a secure fashion to ensure the availability and usability of the systems and the protection of the data they contain. Secure operation of these systems is essential, and the candidate will need to demonstrate an appreciation of their role and responsibilities for maintaining that security
 
-Ideally you will have
+Qualifications & Experience
 
+Educated to degree level or equivalent
+Eligible to qualify for Australian Baseline Security Clearance
+Evidence of being a member of a team of system and/or network administrators and/or engineers within a fast moving and changing environment
+Ability to identify limitations in systems and to build a solution that you are able to deploy with limited effect on service
 
+Essential Skills
 
+Strong System administration of Linux system skills
+Ability to script in Shell, Perl, or Python or equivalent
+Experience with infrastructure automation tools, such as Puppet or Ansible
+Experience with VMware ESXi
+Experience with AWS or Azure cloud environments
+Experience with building/configuring servers in highly available environments
+Experience with Github and Jenkins
+Experience with DevOps principals, including Continuous Integration and Continuous Deployment
+Understanding of IP protocols and routing. Must be comfortable and competent using tcpdump and packet capture tools to diagnose networking problems
+Comfortable with DNS, DHCP, SMTP, HTTP (including proxies), SSL, SSH
+Writing Technical Documentation (Word/Visio/Excel)
 
-Excellent knowledge around infrastructure, infrastructure-as-code and current tooling to support the management and orchestration of AWS architecture
-Excellent knowledge of DevOps/cloud engineering principles and practices that support best practice CI/CD
-Excellent team working and communication skills
-Excellent organisational and time management skills
-Experience in a SaaS based environment - managing costings within multi tenant environments
-Experience/exposure to or even an understanding of observability and monitoring (not looking for an SRE
-Conversant on Agile principles, have previously worked in a Scrum team
-A can do attitude and an understanding that this is a journey and we are at the early stages
+Desirable Skills
 
-Nice to have
+System administration Windows
+Database Administration (MySQL & MS SQL Server)
+Understanding of stateful/stateless firewalling with iptables
+CheckPoint Firewall-1 administration experience
+Comfortable with syslog, SNMP, IPv4 address translation (NAT)
+Knowledge of Big data Technologies/Tools such as Hadoop MR, Spark, Vertica, NiFi, Kafka etc.)
+Cloud technologies and automation tools eg. Terraform
+Containerisation and virtualisation
+Infrastructure Monitoring Tools Such as Opsview/Nagios/tickstack
+Experience managing SAN technologies (e.g. Fibre Channel and iSCSI) and storage management tools (e.g. LVM and ZFS)
+Familiarity with NFS, Samba, LDAP, RADIUS, IPIP/GRE tunneling, VPN technologies
+Familiarity of ITIL Processes and ISO 27001 standards
 
+Our culture and benefits: DXC is committed to building better futures for our customers, colleagues, environment, and communities. We take care of each other and foster a culture of inclusion, belonging and corporate citizenship. We put this to action developing and implementing societal initiatives within our Social Impact Practice. #WeAreDXC
 
+As an employer of choice, our “people first” philosophy means we offer competitive remuneration, benefits, training and career opportunities that reflect our commitment to improving the lives of our employees, and the communities in which we live and work. Some of these include;
 
-Exposure/understanding of container technologies
-Experience exposure to Database platforms
-Experience/exposure to serverless services
-Team lead experience or a desire to be
+Extensive resources to support your onboarding and continual development including DXC University
+DXC Recognition, our global virtual platform that fosters a culture of appreciation and celebration with real-time reward and recognition
+We know that great people refer great people. We will reward you when you bring your friends and family to work at DXC
+More time to do the things you love with flexible leave options, including purchased leave
+Take time to give back with charitable and emergency services volunteer days
+Well-being matters to us and our Employee Assistance Program is there to support you and your family
 
-What you would be doing:
+And of course, all the basics: Novated Leasing, discounted health insurance, paid parental leave and many other discounts
 
+﻿How to apply & our commitment to you in return: If you would like to be part of a culture that drives innovation, delivers results, rewards performance and encourages ideas, then please press the "Apply Now" button to submit your resume.
 
+In return, we agree to ensure a hiring process that is enjoyable, thorough, and fair. We strive to provide an environment that lets you thrive and show off the very best version of yourself, while learning about us at the same time.
 
-Lead and build a team of cloud engineers, providing technical guidance, mentorship, work allocation, define processes, initiative and epic/story refinement.
-Work across Squiz Product Engineering teams to guide and mentor cloud best practices, drive adoption of service oriented architecture.
-Develop high-quality standards for CI/CD, container and artefact management, security and code quality compliance scanning, for the deployment of our products to SaaS environments
-Provide a great developer experience to product teams, through both technology and relationship building
-Lead the team on discussions on roadmap, architecture, and strategy.
-Participate in agile ceremonies including standups, sprint refinements, planning, reviews, and showcases
-Contribute to the team's (and your own) continuous growth and improvement by bringing new ideas to the table
-We are a global company so there will be a need for some 'out of hours' meeting with your counterpart in the UK
+Interviews and onboarding are conducted online, as part of us being a virtual-first company.
 
-Who you would be working with:
+We are an Equal Opportunity Employer: DXC is proud to be an equal opportunity employer and we welcome submissions from people from all walks of life. We celebrate our diversity and recognise it is the unique contributions of our people that give us our edge. We stand by the ‘bring your whole-self to work’ philosophy. It is our inclusive culture that powers our results, and our company grows only if our people grow.
 
-
-
-This is a unique opportunity to lead a team that is transforming our company's approach to Cloud Engineering, reducing complexity with a strong focus on developer and customer enablement by embracing self service practices, and standardised development and deployment models.
-
-
-
-Who we are:
-
-
-
-Squiz helps complex, service-led organisations harness the power of digital, improving the services they offer online.
-
-
-
-Founded in 1998, Squiz grew during the rise of the internet. Since then, we have evolved from a simple web content management system into a full digital experience platform (DXP), helping customers make the shift from being content managers to experience creators.
-
-
-
-The Squiz DXP brings together content, search, data and applications in one place. To get the most out of the platform, customers can collaborate with our digital experts to design solutions and adapt as demands change.
-
-
-
-We are headquartered in Australia, with teams and customers across the globe, and offices in New Zealand, the United States, the United Kingdom and Poland.
-
-
-
-Right now, we are on a very exciting journey. We are transforming into a SaaS organisation, and we're looking for great people to be a part of this reinvention.
-
-
-
-Why work for Squiz?
-
-
-
-You'll work with some of the most intelligent and down to earth people you've ever meet. We are made up of a diverse range of passionate professionals who love challenging the status quo. Every day is different, but what is constant is we all love what we do.
-
-
-
-We have a lived commitment to flexibility, we know the success of our people is dependent on them having a balanced life. You will be offered flexibility as to where and how you work every day. We want you to be able to work in a way that drives productivity, efficiency and outcomes; along with connection and collaboration.
-
-
-
-We celebrate diversity and unite on the elements of our company DNA, starting every customer conversation with "why?" to really understand their needs, working hard to find a way to overcome every challenge, and fighting for better outcomes with the work we do. We also check our egos at door, we don't take ourselves too seriously and we have fun along the way.
-
-
-
-We are a 2023 Circle Back Initiative Employer - we commit to respond to every applicant.
-
-
-
-
-
-
-
+Accommodation of special needs for qualified candidates may be considered within the framework of the DXC Accommodation Policy. In addition, DXC Technology is committed to working with and providing reasonable accommodation to support qualified individuals with physical and mental disabilities.
 
 
 Show more 
 Seniority level
-Mid-Senior level
+Entry level
 Employment type
 Full-time
 Job function
-Information Technology
+Engineering and Information Technology
 Industries
-Software Development
+IT Services and IT Consulting
   
 
-Referrals increase your chances of interviewing at Squiz by 2x
-
-See who you know
-
-Get notified about new Engineering Team Lead jobs in Melbourne, Victoria, Australia.
-
-Sign in to create job alert
-Similar jobs
-Software Engineering Team Lead
-Software Engineering Team Lead
-The Salvation Army Australia
-Blackburn, Victoria, Australia
-4 weeks ago
-Cloud Engineering Lead
-Cloud Engineering Lead
-AustralianSuper
-Melbourne, Victoria, Australia
-2 days ago
-Software Engineering Team Lead
-Software Engineering Team Lead
-Dye & Durham Corporation
-Melbourne, Victoria, Australia
-3 days ago
-Engineering Graduates
-Engineering Graduates
-Danfoss
-Rowville, Victoria, Australia
-1 week ago
-Lead DevOps Consultant
-Lead DevOps Consultant
-Trust In SODA
-Docklands, Victoria, Australia
-2 weeks ago
-DevOps Lead - Cloud Managed Services
-DevOps Lead - Cloud Managed Services
-Deloitte
-Melbourne, Victoria, Australia
-2 days ago
-Show more jobs like this 
-People also viewed
-Engineering Delivery Lead
-Engineering Delivery Lead
-
-Littlepay
-
-Melbourne, Victoria, Australia
-2 weeks ago
-DevOps Engineer
-DevOps Engineer
-
-Collabera Digital
-
-Melbourne, Victoria, Australia
-2 days ago
-Cloud Engineer
-Cloud Engineer
-
-Aware Super
-
-Melbourne, Victoria, Australia
-2 weeks ago
-DevOps Engineer
-DevOps Engineer
-
-Opus Recruitment Solutions
-
-Melbourne, Victoria, Australia
-3 weeks ago
-Service Scheduler
-Service Scheduler
-
-Hays
-
-Mulgrave, Victoria, Australia
-2 days ago
-NBN On the Day Scheduler
-NBN On the Day Scheduler
-
-Service Stream
-
-Melbourne, Victoria, Australia
-2 weeks ago
-DevOps Engineer
-DevOps Engineer
-
-Evolution
-
-Melbourne, Victoria, Australia
-1 week ago
-Development Team Lead
-Development Team Lead
-
-Magentus
-
-Melbourne, Victoria, Australia
-1 week ago
-Concrete Repair Specialist
-Concrete Repair Specialist
-
-TRS Resourcing
-
-Melbourne, Victoria, Australia
-1 week ago
-Software Engineer I - Cloud Platform
-Software Engineer I - Cloud Platform
-
-Five9
-
-Melbourne, Victoria, Australia
-2 days ago
-Looking for a job?
-
-Visit the Career Advice Hub to see tips on interviewing and resume writing.
-
-View Career Advice Hub
-LinkedIn
-© 2023
-About
-Accessibility
-User Agreement
-Privacy Policy
-Cookie Policy
-Copyright Policy
-Brand Policy
-Guest Controls
-Community Guidelines
-Language

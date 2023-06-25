@@ -1,176 +1,82 @@
-Skip to main content
-LinkedIn
-Jobs
-Dismiss
-Dismiss
-Join now
-Sign in
-DevOps Engineer
-CryptoRecruit  Australia
-6 days ago  82 applicants
+
+Cloud SRE - Azure
+Westpac  Melbourne, Victoria, Australia
+2 weeks ago   Be among the first 25 applicants
   
-See who CryptoRecruit has hired for this role
+See who Westpac has hired for this role
 Apply
 Save
-About The Role
+Job Description
 
-The company is looking for a highly reliable and autonomous DevOps Engineer who will be involved in many different phases of the software application lifecycle including Web Apps and Web Services, Games as well as blockchains & NFT's in the near future.
+Westpac Group has a rich heritage and offers employees a multitude of opportunities. We aim to attract the best people inside and outside of the business – building an organisation where the best talent thrives.
 
-Responsibilities
+The Westpac Group has a complex Information Technology environment that needs to deliver to the rapidly changing needs of our customers and employees, the ever-evolving IT landscape, and the Group's regulatory and statutory requirements. In GroupTech we're striving to be game-changing technologists, shaping the future of banking.
 
-Work in a fast-paced DevSecOps environment and deliver our products to market quickly and efficiently
-Implement and maintain CI/CD pipeline for deployment and test automation
-Monitor application health and performance and be proactive in anticipating production issues such as outages, slowness, processing delays, errors, and failures, and take corrective action to prevent them
-Provide continued improvement to the platform infrastructure through automation and standardization
+How will I help?
 
-Requirements
+An Exciting opportunity is available for a Cloud Site Reliability Engineer – Azure within the Enterprise and Compute Storage Services team in Group Technology. This plays an important role in the development and maintenance of technical solutions on the public cloud and ensures that the detailed design, build, and operations are fit for purpose.
 
-Hands-on experience with AWS services (Lambda, ECS, EC2, ALB, ASGs, CW, RDS, SNS, VPC, SG, IAM, SQL/NoSQL, etc but you don't need to know all!)
-Hands-on experience with Infra as Code (CloudFormation, Pulumi, CDK, or Terraform)
-Hands-on experience with Docker
-Experience with monitoring and reliability (this role is more SRE than Sys engineering)
-Ability to build complete CI/CD workflows - GitLab is preferred
-Familiarity with GitOps and DevSecOps
-Basic knowledge in any programming languages: Shell, Bash, Typescript, Go, Python, etc
-Basic knowledge of popular public & enterprise blockchains, cryptocurrency, smart contracts (Solidity), and NFTs.
-Make sure to follow us here to get our most live jobs https://www.linkedin.com/company/cryptorecruit
+This role is accountable for and the security, governance & compliance of Westpac AWS platform. You can work flexibly while training to upskill on new tools and technologies. In addition, this role is open to Sydney based candidates as well.
 
-Cryptorecruit are the worlds leading specialist recruiter for the blockchain/Cryptocurrency industry. We recruit positions from CEO,CTO, Project Manager, Solidity developer, frontend and Backend Blockchain developers to marketing/sales and customer service roles. Please browse our website and at www.cryptorecruit.com to search all our job vacancies.
+Your key responsibilities may include:
+
+Through automation collect Service-Level Indicators (SLIs)
+Through automation contribute to establishing Service-Level Objectives (SLOs)
+Through automation fulfill Service Level Agreements (SLAs)
+Improve performance of SLAs
+Work with application teams to identify opportunities to improve cloud consumption, service reliability and cloud service run costs
+Assist application teams in the effective maintenance and lifecycle of their cloud infrastructure.
+Development and where applicable the codification of operations playbooks
+Level 3 maintenance of cloud platform including change activities
+Level 3 operations for the banks cloud platform including On-Call responsibilities
+Maintain focus on industry and technical trends to enable evaluation and recommend changes to the business strategy/ architecture and Azure offerings, and automation and orchestration of services.
+Apply Agile frameworks, techniques, and processes to deliver value to the business.
+
+What’s in it for me?
+
+You will play an important and significant part in the future of a business that has been around for 200 years. Our vision is to become one of the world’s great service companies. So, we will back you in the development of your career, with internal career prospects and flexible working. You will also be backed by a fantastic team of people in a can-do, supportive structure.
+
+What do I need?
+
+To be successful in this role, you will need excellent and verbal communication skills, strong stakeholder management experience and be self-driven. In addition to this, your skills may include:
+
+Hands-on experience with Azure Technologies with a deep understanding of the foundational platform including Subscriptions, Resource Groups, RBAC etc
+Experience in one or more DevOps automation tools – BitBucket, Jira, Jenkins.
+Experience in IaC and infrastructure management tools – Terraform
+Knowledge in scripting and developing tools including - Bash/Shell, Ruby, JSON, Python, NodeJS, JavaScript.
+Experience in developing CICD pipelines – Jenkins, Artifactory.
+Troubleshooting in Azure technologies and across multiple consumption models (IaaS, PaaS, and SaaS).
+Agile methodologies – Scrum, Kanban, Lean, XP, SAFe, TDD, BDD, customer centric design.
+Customer engagement, relationship development, requirements gathering and delivery planning and scheduling.
+Azure cloud certification is highly desired.
+
+What’s it like to work there?
+
+As well as competitive remuneration and a great culture, joining the Westpac family means you will get some of the best banking, wealth, and insurance benefits in the market.
+
+We back our employees by helping them work towards industry-recognised qualifications, using online learning, training modules and career planning tools for you to grow with us. We will even pay you to do volunteer or community work.
+
+We aim to provide one big, supportive team of people working to achieve our purpose of creating better futures together. As an equal opportunity employer, we’re proud to have created a culture and work environment that values diversity and flexibility – and champions inclusion.
+
+How do I Apply?
+
+Start here. Just click on the APPLY button.
+
+As part of our commitment to creating a diverse and inclusive workplace, this role is open to experienced candidates seeking a discussion around workplace flexibility. We invite candidates of all ages, genders, sexual orientation, cultural backgrounds, people with disability, neurodiverse individuals, and Indigenous Australians to apply. If an adjustment is required to assist you during our recruitment process, please email talentacquisition@westpac.com.au
+
+Do you need reasonable adjustments during the recruitment process?
+
+At Westpac we are committed to providing a supportive culture and creating inclusive and accessible workplaces, branches, products and services for our customers, employees, and community.
+
+We can provide reasonable adjustments for individuals with disability and/or neurodiversity. If you require an adjustment to be made during the recruitment process at any stage, please call 1800 655 592 Option 1.2 or email talentacquisition@westpac.com.au
 Show more 
 Seniority level
-Entry level
+Not Applicable
 Employment type
 Full-time
 Job function
-Engineering
+Engineering and Information Technology
 Industries
-Human Resources Services
+Banking, Financial Services, and Investment Banking
   
 
-Referrals increase your chances of interviewing at CryptoRecruit by 2x
-
-See who you know
-
-Get notified about new DevOps Engineer jobs in Australia.
-
-Sign in to create job alert
-Similar jobs
-DevOps Engineer
-DevOps Engineer
-Discovered People
-Sydney, New South Wales, Australia
-2 days ago
-DevOps Engineer
-DevOps Engineer
-Opus Recruitment Solutions
-Melbourne, Victoria, Australia
-3 days ago
-DevOps Engineer
-DevOps Engineer
-Bizessence Pty Ltd
-Melbourne, Victoria, Australia
-4 days ago
-DevOps Engineer
-DevOps Engineer
-Talenza
-Sydney, New South Wales, Australia
-5 days ago
-DevOps Engineer
-DevOps Engineer
-Elite IT Recruitment
-Melbourne, Victoria, Australia
-2 days ago
-DevOps Engineer
-DevOps Engineer
-BLACKROC™ Group
-Brisbane, Queensland, Australia
-5 days ago
-Show more jobs like this 
-People also viewed
-DevOps Engineer
-DevOps Engineer
-
-Ampstek
-
-Melbourne, Victoria, Australia
-1 day ago
-DevOps Engineer
-DevOps Engineer
-
-Collabera Digital
-
-Victoria, Australia
-2 days ago
-DevOps Engineer
-DevOps Engineer
-
-Precision Sourcing
-
-Sydney, New South Wales, Australia
-3 days ago
-DevOps Engineer
-DevOps Engineer
-
-ELMO Software
-
-Greater Sydney Area
-3 weeks ago
-DevOps Engineer
-DevOps Engineer
-
-Tata Consultancy Services
-
-Sydney, New South Wales, Australia
-4 days ago
-DevOps Engineer
-DevOps Engineer
-
-Accenture Australia
-
-Canberra, Australian Capital Territory, Australia
-2 weeks ago
-DevOps Engineer
-DevOps Engineer
-
-Animal Logic
-
-Sydney, New South Wales, Australia
-1 month ago
-DevOps Engineer
-DevOps Engineer
-
-AIA Australia
-
-Melbourne, Victoria, Australia
-3 weeks ago
-DevOps Engineer
-DevOps Engineer
-
-swipejobs
-
-North Sydney, New South Wales, Australia
-2 weeks ago
-DevOps Engineer
-DevOps Engineer
-
-mx51
-
-Sydney, New South Wales, Australia
-2 weeks ago
-Looking for a job?
-
-Visit the Career Advice Hub to see tips on interviewing and resume writing.
-
-View Career Advice Hub
-LinkedIn
-© 2023
-About
-Accessibility
-User Agreement
-Privacy Policy
-Cookie Policy
-Copyright Policy
-Brand Policy
-Guest Controls
-Community Guidelines
-Language

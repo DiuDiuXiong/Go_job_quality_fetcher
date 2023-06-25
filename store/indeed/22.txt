@@ -1,17 +1,7 @@
-Skip to main content
-Find jobs
-Company reviews
-Search Salary
-Upload your resume
-Sign in
-Employers / Post Job
-Start of main content
-What
-Where
-Find Jobs
-Youth and Families Minister
-Christ Church St Ives
-St Ives NSW
+Site Reliability Engineer I
+Apptio
+Sydney NSW 2000
+Remote
 Full-time
 You must create an Indeed account before continuing to the company website to apply
 Apply on company site
@@ -19,81 +9,53 @@ Job details
 No matching job preferences
 Job Type
 Full-time
-Christ Church St Ives
-Location: St Ives, NSW
-Date advertised: 22nd June 2023
-Job Type: Full time
-Closing Date: 31 July 2023
+Shift and Schedule
+On call
+Overview:
+This position is open to fully-remote work from Australia
 
-Christ Church St Ives is seeking a full-time Youth and Families Minister who has an infectious love for Jesus, is above reproach and is committed to a reformed, evangelical and complementarian theological framework.
+In this role, you will be part of a team that develops and supports the Apptio Kubernetes Platform (AKP) where all Apptio applications are deployed. In a typical day you will interact with Github, Linux, Kubernetes, ArgoCD, Docker, Confluence, Jira, Slack, and AWS.
 
-Christ Church St Ives is a large suburban Anglican Church that exists to build wholehearted disciples of Jesus who will transform the world with his Gospel. Our staff team collaborates in accordance with a purpose driven model as we seek to serve our members who attend both in person and online. More than 200 people are members of our Youth Ministry. Our Youth and Families Minister will take leadership and pastoral responsibility for these people.
+You Are
+You are passionate about problem solving and reliability and have experience in SRE or an adjacent role. Your team can count on you to solve challenging problems across the entire Apptio Portfolio. You collaborate with other SREs, developers, and support teams to help provide value to the broader organization. You take responsibility when fixing problems in an automated code first way and are happy to step outside your comfort zone to develop your skillset.
 
-1. Position Purpose
+You Are Not
+A Kubernetes or cloud expert with many years of experience. This is an early-level position; we want you to help us, and we also want to help you grow.
 
-The role of Youth and Families Minister is to prayerfully grow wholehearted disciples of Jesus, particularly among those in years 6-12. We want to see a generation confident in their identity in Christ and joyously serving him in living out and sharing the gospel. This role is primarily exercised by leading and equipping leaders for our regular weekly youth ministries in partnership with parents.
+We Are
+The Platform and Site Reliability Engineering team - PRE - at Apptio is responsible for enhancing and maintaining our Kubernetes platform and driving the adoption of SRE best practices across our engineering teams. We are a distributed team working across three locations including the United States, Poland and Australia.
+Responsibilities:
+Manage deployments of Apptio services to AKP
+Streamline the deployment process
+Improve observability of the services within your purview by reviewing KPI dashboards and alerting
+Author and maintain documentation of deployment and monitoring processes
+Use runbooks to troubleshoot and triage production issues
+Detect issues and handle Tier 1-2 troubleshooting
+Participate in online “swarm” collaboration sessions
+Collaborate with service developers
+Participate in on-call rotation
+Perform maintenance of the platform (patching, resets, upgrades, etc.)
+Qualifications:
+1-2 years’ experience in an SRE or adjacent role
+Foundational understanding of at least one programming language and source control (Preferably Golang)
+Experience with distributed application deployment and management
+Experience with container technologies (e.g., Kubernetes, Docker)
+Experience with Infrastructure-as-code (IaC) concepts
+Experience with cloud provider services such as AWS, Azure, or Google Cloud Platform
+Familiarity with RESTful systems and their APIs
+Desire working with a remote team
+Fluent English language skills
+AU resident
+The Company
+Apptio is the leading technology spend and value management company for financial and operational decisions across Information Technology (IT), multi-cloud FinOps, and product development. Apptio's mission is to deliver business value with every technology investment. Powered by Apptio’s cloud platform and AI/ML data engine, Apptio’s SaaS applications translate technology spend into clear business outcomes and financial ROI. Apptio applications deliver six key capabilities: cost transparency, actionable insights, planning and forecasting, usage and consumption, value management, and showback/chargeback. As a trusted leader in FinOps and Technology Business Management (TBM) with thousands of customers worldwide, Apptio empowers leaders to cut costs and redirect investments to digital innovation. For more information, please visit www.apptio.com.
 
-2. Key Responsibilities
+As an organization, Apptio has an established culture; it is open, transparent, and very customer focused. Leaders in the organization consistently showcase the following key attributes and look to build teams that embrace these qualities every day:
+Growth Mindset
+Dealing with ambiguity and change
+Take ownership and has accountability
+Customer-focused
+Foster an inclusive environment
 
-The Youth and Families Minister’s key responsibilities are:
-
-Establishing direction for and leading the youth ministry in consultation with the Senior Minister and our purpose directors
-Recruiting, training, discipling and developing youth leaders
-Preaching to and teaching youth and leaders regularly
-Coordinating weekly youth programs (growth groups and services) and annual camps
-Along with the rest of the Children's, Youth and Families (CYF) team, equipping households to disciple their children
-Coordinating High School SRE and support the SRE teacher
-Facilitating clear transitions from youth into the broader church congregations
-Actively participating in a collaborative staff team for the building of wholehearted disciples across our church
-
-Specific and detailed responsibilities and measurable outcomes will be worked out with the preferred candidate. Ongoing attention to personal Christian growth, ministry development, professional standards and WHS responsibilities are expected and encouraged in all members of our team.
-
-3. Qualifications
-
-Candidates for this position will have:
-
-Evidence of a life of discipleship in following Jesus and personal and professional commitment to see the gospel grow
-4 or more years as an employed youth minister with experience leading teams
-High level preaching capacity with excellent verbal and written communications skills
-A qualification from Youthworks College or Moore Theological College
-Ability to relate with a diverse range of people.
-
-Ideally, candidates will have
-
-Used Elvanto in a ministry context
-Experience working within the purposes structure of church
-
-This position is full time and offered with remuneration and benefits as articulated in the Sydney Anglican Diocese Remuneration Guidelines. A formal position description is available.
-
-To apply, please provide your resume along with a statement about your personal growth in faith over the last 12 months and answers to the following questions:
-
-What place does building Christ-like friendships play in your philosophy of youth ministry?
-Is youth ministry discipleship or evangelism?
-What are some of the challenges facing youth today and how would you address these (think content and process) in youth ministry?
-
-Applications should be sent to anna@christchurch.com.au.
-
-Position start date is early January 2024.
-
-Applications close 31 July 2023. Interested candidates are encouraged to apply as soon as possible. Applications may be reviewed prior to the advertised closing date and as such this date may change without notice.
-
-Please be aware that this job ad was placed and authorised only for the sydneyanglicans.net website.
-
-Report job
-Hiring Lab
-Career Advice
-Browse Jobs
-Browse Companies
-Salaries
-Indeed Events
-Work at Indeed
-Countries
-About
-Help Centre
-ESG at Indeed
-© 2023 Indeed
-Accessibility at Indeed
-Privacy Centre
-Cookies
-Privacy
-Terms
+Apptio, Inc. complies with applicable local and federal laws governing nondiscrimination in employment in every location in which the company has facilities.
+Apptio, Inc. provides equal employment opportunities (EEO) to all employees and applicants for employment without regard to race, color, religion, gender, sexual orientation, national origin, age, disability, genetic information, marital status, amnesty, or status as a covered veteran in accordance with applicable US federal, state, and local laws.
+Apptio Inc. is not open to 3rd party solicitation or resumes for our posted FTE positions. Resumes received from 3rd party agencies that are unsolicited will be considered complimentary.

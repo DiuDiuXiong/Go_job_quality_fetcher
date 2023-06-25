@@ -1,63 +1,51 @@
-Site Reliability Engineer - RTOS
-Skip to content
-Jobs
-Courses
-Businesses for sale
-Volunteering
-SEEK
-Job search
-Profile
-Career advice
-Company reviews
-Sign in
-Employer site
-Site Reliability Engineer - RTOS
-FIRESOFT People
-Sydney NSW
-Networks & Systems Administration (Information & Communication Technology)
+
+Senior Site Reliability Engineer
+Harvey Nash
+Melbourne VIC
+Engineering - Software (Information & Communication Technology)
 Full time
-$200k + Super + Bonus
-Posted 15d ago
+170K - 200K + super + bonus + benefits
+Posted 19d ago
 More jobs from this company
-Apply for Site Reliability Engineer - RTOS at FIRESOFT People
+Apply for Senior Site Reliability Engineer at Harvey Nash
 Quick apply
-Save Site Reliability Engineer - RTOS at FIRESOFT People
+Save Senior Site Reliability Engineer at Harvey Nash
 Save
 Share
+- Fully remote in Australia 
+- MUST be an Australian citizen 
+- 170K - 200K + super + bonus + benefits 
 
-Are you a talented Site Reliability Engineer (SRE) looking for a position where you can truly make an impact and where your voice is heard? Are you looking to work in a mature and relaxed trading environment? Would you like to be very well compensated for the work you do? Then read on, this may be the role for you.
+We are seeking a Senior Site Reliability Engineer who is naturally passionate about delivering solutions on real-time problems with mission-critical cloud native services.
 
-We are looking for a talented Site Reliability Engineer ( SRE) / Low-Level Systems Engineer for Trading Applications to join a growing Algorithmic Trading company based in Sydney. They work in the world of low-latency, high-frequency trading. The role is suited to a candidate with strong Linux skills and proficiency in many scripting languages.
+The role:
 
-Responsibilities
-Support the Software Development Team
-Design and Develop Automation tools to improve overall efficiency
-Continuous improvement of their current trading systems infrastructure
-Collaborate with all development teams to ensure high availability across the board
+Build robust, easy-to-use foundational platforms and tools that enable engineering teams to provision services rapidly, consistently, and securely.
+Exemplify cloud-native site reliability best practices.
+Write code that is performant, maintainable, clear, and concise.
+Employ strong problem-solving skills, with the ability to debug problems in cloud native distributed systems.
+Influence and educate the engineering organization to adopt new and improved architectural patterns.
+Provide robust documentation for use by engineers to promote self-service
+Take calculated risks, champion new ideas, and cultivate your craft.
+What You Bring
 
-You
-A minimum of 5 years of experience with Linux in a Low-Latency environment
-A good understanding of latency, what causes it and how to avoid it in a trading system
-Familiarity with Python collection
-Strong Python or Perl proficiency
-Python scripting and development experience
-Good understanding of life-cycle phases, including testing, development and release
-Discrete event simulation
-Low-Level Network management experience
- 
-Nice to have
-Database querying languages such as SQLite or MySQL.
-Understanding of C and C++, GO, Rust
-DevOps Experience
- 
-To apply for the role or to hear more, please click the “apply now” button. I’d be happy to go into more detail.
+3-5+ years of applicable experience
+Strong Operating Systems Skills, preferably Linux (Kernel highly desirable).
+Strong experience operating in Kubernetes platforms like AKS, EKS, or similar.
+Good experience managing cloud platforms ideally Azure (but would be open AWS, GCP or Oracle Cloud) or similar.
+Experience utilizing CI/CD platforms to automate provisioning infrastructure, software builds, tests, and releases.
+Empathy to support the needs of software engineers.
+Advantageous skills
 
- 
-Employer questions
-Your application will include the following questions:
-How many years' experience do you have in a DevOps role?
-Which of the following statements best describes your right to work in Australia?
-How many years' experience do you have as a Site Reliability Engineer?
+Experience administering SQL/NoSQL databases.
+Experience with the Hadoop stack (Cassandra, Zookeeper) would be highly regarded
+knowledge of Configuration Management (Puppet, Salt, Ansible, Terraform, Jenkins, Packer etc.)
+Knowledge, interest or experience of Python, C#, Scala, Java or Golang would be desirable but not essential.
+Experience using observability tools such as APM, logging, and metrics to assist with debugging issues.
+Experience designing tooling to simplify the operational management of SaaS/PaaS systems.
+Familiarity with building flexible and testable Infrastructure as Code modules.
+Apply now for a confidential discussion !! sean.hillier@harveynash.com.au 
+About the recruiter
 Report this job advert
 Be careful
 Don’t provide your bank or credit card details when applying for jobs.
@@ -75,41 +63,3 @@ Online
 
 Start Anytime
 
-Job seekers
-Job search
-Profile
-Recommended jobs
-Saved searches
-Saved jobs
-Applied jobs
-Career advice
-Explore careers
-Company reviews
-Download apps
-SEEK sites
-Employers
-Register for free
-Post a job ad
-Products & prices
-Customer service
-Hiring advice
-Market insights
-Recruitment software partners
-About SEEK
-About SEEK
-Newsroom
-Investors
-Work for SEEK
-International partners
-Partner services
-Contact
-Help centre
-Contact us
-Product & tech blog
-SEEK videos
-Social
-Australia
-Privacy policy
-Terms & conditions
-Protect yourself online
-© SEEK. All rights reserved

@@ -1,109 +1,69 @@
-Skip to main content
-Find jobs
-Company reviews
-Search Salary
-Upload your resume
-Sign in
-Employers / Post Job
-Start of main content
-What
-Where
-Find Jobs
-Cloud Architect
-Technology One Limited
-Brisbane QLD
+Site Reliability Engineer - Australia
+Reveal-Brainspace
+Sydney NSW
+Full-time
 You must create an Indeed account before continuing to the company website to apply
 Apply on company site
+Job details
+No matching job preferences
+Job Type
+Full-time
 
-How you'll make a difference...
+Job Description
 
-As a Cloud Software Architect, you will play a vital role in shaping and implementing our cloud-based software solutions. You will be responsible for designing, developing, and deploying scalable and reliable cloud architectures that meet the needs of our enterprise clients. Collaborating closely with cross-functional teams, you will contribute to the creation and evolution of our cloud infrastructure, ensuring its stability, performance, and security.
+Position: Site Reliability Engineer
 
+Reports to: Director, Software Development
 
-
-
-What you’ll be doing…
-
-Architect and design cloud-based software solutions, considering scalability, reliability, performance, and security.
-
-Collaborate with product managers, software engineers, SRE and DevOps teams to understand business requirements and translate them into technical specifications and architecture.
-
-Develop and maintain a deep understanding of the existing TechnologyOne cloud infrastructure, platforms, and services, and identify opportunities for optimization and enhancement.
-
-Design and implement cloud architecture patterns and best practices, including microservices, serverless, containerization, and event-driven architectures.
-
-Ensure the security and compliance of the cloud infrastructure, implementing robust security controls, monitoring mechanisms, and disaster recovery plans.
-
-Collaborate with software development teams to define and enforce coding standards, delivery processes, and deployment automation.
-
-Provide technical guidance and mentorship to software engineers and other team members, fostering a culture of innovation and continuous learning
+Location: Sydney Australia
 
 
+Job Overview
+
+Join an innovative and fast-paced team-building software and infrastructure that allows litigation professionals to filter millions of documents down to those most essential to their case using advanced techniques and artificial intelligence. You’ll be managing and developing infrastructure that addresses complex challenges such as data visualization, machine learning, distributed systems, large databases, and large-scale data processing.
+
+We are primarily looking for engineers to help us develop our SaaS infrastructure capabilities. This person will assist us in building the next generation of our multi-tenant, scalable infrastructure. If you don’t know it “all,” you won’t be alone! We are seeking generalists that can bring experience and diverse knowledge to our team, not just hyper-focused specialists. Our hiring staff is not focused on playing “technology experience bingo,” but we want to find the best complements for our team.
+
+As far as the process itself, we don’t want to check the boxes to be able to say that we have the most (or even the snazziest) features. Rather, we are thoughtful about our design and focused on ensuring that our clients have software that is both useful and useable. You won’t be buried in a dark corner – you’ll have the opportunity to actively shape the software and architecture while working as an integral part of a dynamic team of individuals who are focused on learning every day and having a lot of fun.
+
+To be successful, you should be able to contribute to all phases of the architecture lifecycle, including specification, design, implementation, and maintenance. You must be willing to learn about the e-discovery industry and quickly integrate new technologies into your repertoire.
+
+Responsibilities & Duties
+Ensuring the reliability, availability, and performance of systems and services by implementing monitoring, incident response, and post-incident analysis (Blameless Retrospective).
+Collaborating with development and operations teams to design, implement, and maintain scalable infrastructure and services that meet performance and capacity requirements.
+Developing and maintaining automation tools, scripts, and frameworks to streamline operational tasks, deployment processes, and monitoring systems.
+Responding to and resolving incidents, performing root cause analysis, and implementing preventive measures to minimize the impact of future incidents.
+Setting up and maintaining monitoring and alerting systems to detect and respond to performance issues, anomalies, and service disruptions.
+Identifying performance bottlenecks, conducting performance tests, and implementing optimizations to improve system performance and efficiency.
+Analyzing usage patterns, forecasting resource requirements, and collaborating with teams to ensure adequate capacity for current and future needs.
+Implementing and maintaining security measures, vulnerability management, and compliance requirements to protect systems and data.
+Collaborating with cross-functional teams, including developers, operations, and other stakeholders, to promote a culture of reliability and effective communication.
+Creating and maintaining documentation, runbooks, and knowledge base articles to ensure the availability of up-to-date information for troubleshooting and incident response.
+Identifying areas for improvement, post-incident reviews, and driving initiatives to enhance system reliability, performance, and operational efficiency.
+Characteristics
+As a SRE, you will play a crucial role in ensuring the reliability and availability of our systems and services. Your technical expertise and problem-solving skills will be essential in maintaining and improving our infrastructure and applications.
+Our team is composed of highly skilled individuals who are passionate about their work and committed to achieving our goals. We believe in collaboration, knowledge sharing, and continuous improvement, and we expect our team culture to be welcoming and supportive.
+Good writing and communication skills.
+An instinctive understanding of networking and fundamental computer science concepts with a focus on Infrastructure As Code (IAC).
+An eagerness to learn, explore and introduce new technologies.
+Driven to build modern systems that are scalable, flexible, and elastic.
+Experience & Education
+4-10 years of experience with infrastructure automation on a DevOps/ DevSecOps/SRE Team.
+BS or MS in Computer Science or equivalent coursework.
+Experience with container templatization/orchestration frameworks such as Docker, Kubernetes, Helm, ArgoCD, etc.
+Experience with CI/CD tools such as GitHub Actions.
+Experience maintaining and developing production Infrastructure as Code deployments, primarily using Terraform.
+Experience in a scripting language, preferably Python, but PowerShell or Bash also works. Experience with Linux and Windows architectures.
+Experience working with AWS.
+Experience deploying and maintaining Kubernetes clusters.
+Experience with version control systems like Git.
 
 
-Your skillset …
+This job description reflects the present requirements of the position. As duties and responsibilities change and develop, the job description will be reviewed and subject to amendment.
 
-Strong experience & expertise in a Cloud platform such as AWS, AZURE or google cloud platform.
+Hiring Policy
 
-Solid understanding of cloud architecture patterns, microservices, serverless computing, containerization and event driven architectures.
+This job description reflects the present requirements of the position. As duties and responsibilities change and develop, the job description will be reviewed and subject to amendment.
 
-Experience defining and shaping products and services in a cloud environment, aligned with market demands and client requirements.
-Excellent leadership and coaching abilities, with a passion for fostering teamwork and driving performance.
+Reveal is an equal-opportunity employer. We celebrate diversity and are committed to creating an inclusive environment for all employees. Reveal does not discriminate in employment on the basis of race, color, religion, sex (including pregnancy and gender identity), national origin, political affiliation, sexual orientation, marital status, disability, genetic information, age, membership in an employee organization, retaliation, parental status, military service, or other non-merit factor.
 
-Relevant degree, qualification or job experience within the industry.
-
-
-
-
-We value diversity and aim to create a vibrant and inclusive workforce. If you meet a number of the requirements (and not all), we encourage you to submit your application.
-
-
-
-
-Benefits …
-
-24 hours on-site Gym in Brisbane (state of the art equipment) or a company paid gym membership in our other HQ offices.
-
-Purchased additional annual leave benefit. Option to extend leave to 6 weeks.
-
-Foundation leave, an additional 2.5 days per year to volunteer with registered charities.
-
-Free breakfast on-site.
-
-TechnologyOne employee share plan.
-
-Salary packaging for devices like mobile phones, tablets & smart watches, as well as novated leases on cars and more.
-
-Professional development allowance benefits for use on courses, conferences, workshops etc.
-
-
-
-
-Who we are ...
-
-TechnologyOne (ASX: TNE) is Australia’s largest enterprise software company and one of Australia’s top 100 ASX-listed companies, with locations across six countries. We provide a global SaaS ERP solution that transforms business and makes life simple for our customers.
-
-Our deeply integrated enterprise SaaS solution is available on any device, anywhere and any time and is incredibly easy to use. Over 1,200 leading corporations, government agencies, local councils and universities are powered by our software.
-
-We pride ourselves on providing our people with earned recognition through career progression, competitive salaries and a supportive environment.
-
-Applicants must have the right to work permanently in Australia.
-
-Report job
-Hiring Lab
-Career Advice
-Browse Jobs
-Browse Companies
-Salaries
-Indeed Events
-Work at Indeed
-Countries
-About
-Help Centre
-ESG at Indeed
-© 2023 Indeed
-Accessibility at Indeed
-Privacy Centre
-Cookies
-Privacy
-Terms

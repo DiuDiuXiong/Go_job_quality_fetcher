@@ -1,215 +1,78 @@
-Skip to main content
-LinkedIn
-Jobs
-Dismiss
-Dismiss
-Join now
-Sign in
-Cloud SRE - Azure
-Westpac  Kogarah, New South Wales, Australia
-2 weeks ago   Be among the first 25 applicants
+
+Senior Site Reliability Engineer
+Axon ANZ  Australia
+1 week ago   Be among the first 25 applicants
   
-See who Westpac has hired for this role
+See who Axon ANZ has hired for this role
 Apply
 Save
-Job Description
 
-Westpac Group has a rich heritage and offers employees a multitude of opportunities. We aim to attract the best people inside and outside of the business – building an organisation where the best talent thrives.
+JOIN AXON AND BE A FORCE FOR GOOD.
 
-The Westpac Group has a complex Information Technology environment that needs to deliver to the rapidly changing needs of our customers and employees, the ever-evolving IT landscape, and the Group's regulatory and statutory requirements. In GroupTech we're striving to be game-changing technologists, shaping the future of banking.
+At Axon, we’re on a mission to Protect Life. We’re explorers, pursuing society’s most critical safety and justice issues with our ecosystem of devices and cloud software. Like our products, we work better together. We connect with candor and care, seeking out diverse perspectives from our customers, communities and each other.
 
-How will I help?
 
-An Exciting opportunity is available for a Cloud Site Reliability Engineer – Azure within the Enterprise and Compute Storage Services team in Group Technology. This plays an important role in the development and maintenance of technical solutions on the public cloud and ensures that the detailed design, build, and operations are fit for purpose.
 
-This role is accountable for and the security, governance & compliance of Westpac AWS platform. You can work flexibly while training to upskill on new tools and technologies. In addition, this role is open to Melbourne candidates as well.
 
-Your key responsibilities may include:
+Life at Axon is fast-paced, challenging and meaningful. Here, you’ll take ownership and drive real change. Constantly grow as you work hard for a mission that matters at a company where you matter.
 
-Through automation collect Service-Level Indicators (SLIs)
-Through automation contribute to establishing Service-Level Objectives (SLOs)
-Through automation fulfill Service Level Agreements (SLAs)
-Improve performance of SLAs
-Work with application teams to identify opportunities to improve cloud consumption, service reliability and cloud service run costs
-Assist application teams in the effective maintenance and lifecycle of their cloud infrastructure.
-Development and where applicable the codification of operations playbooks
-Level 3 maintenance of cloud platform including change activities
-Level 3 operations for the banks cloud platform including On-Call responsibilities
-Maintain focus on industry and technical trends to enable evaluation and recommend changes to the business strategy/ architecture and Azure offerings, and automation and orchestration of services.
-Apply Agile frameworks, techniques, and processes to deliver value to the business.
 
-What’s in it for me?
 
-You will play an important and significant part in the future of a business that has been around for 200 years. Our vision is to become one of the world’s great service companies. So, we will back you in the development of your career, with internal career prospects and flexible working. You will also be backed by a fantastic team of people in a can-do, supportive structure.
 
-What do I need?
+Your Impact
 
-To be successful in this role, you will need excellent and verbal communication skills, strong stakeholder management experience and be self-driven. In addition to this, your skills may include:
+As a contributor in the SRE organization, you are passionate about delivering solutions to the real-time problems our mission-critical cloud native services encounter. You are also obsessed about achieving the high quality and reliability our customers demand. You will work closely not only with the SRE division, but your technical deliverables will reach the entire engineering organization to enable product teams to continuously deliver features on the vanguard of innovation.
 
-Hands-on experience with Azure Technologies with a deep understanding of the foundational platform including Subscriptions, Resource Groups, RBAC etc
-Experience in one or more DevOps automation tools – BitBucket, Jira, Jenkins.
-Experience in IaC and infrastructure management tools – Terraform
-Knowledge in scripting and developing tools including - Bash/Shell, Ruby, JSON, Python, NodeJS, JavaScript.
-Experience in developing CICD pipelines – Jenkins, Artifactory.
-Troubleshooting in Azure technologies and across multiple consumption models (IaaS, PaaS, and SaaS).
-Agile methodologies – Scrum, Kanban, Lean, XP, SAFe, TDD, BDD, customer centric design.
-Customer engagement, relationship development, requirements gathering and delivery planning and scheduling.
-Azure cloud certification is highly desired.
 
-What’s it like to work there?
 
-As well as competitive remuneration and a great culture, joining the Westpac family means you will get some of the best banking, wealth, and insurance benefits in the market.
 
-We back our employees by helping them work towards industry-recognised qualifications, using online learning, training modules and career planning tools for you to grow with us. We will even pay you to do volunteer or community work.
+What You’ll Do
 
-We aim to provide one big, supportive team of people working to achieve our purpose of creating better futures together. As an equal opportunity employer, we’re proud to have created a culture and work environment that values diversity and flexibility – and champions inclusion.
+Location: Remote anywhere in Australia
 
-How do I Apply?
 
-Start here. Just click on the APPLY button.
 
-As part of our commitment to creating a diverse and inclusive workplace, this role is open to experienced candidates seeking a discussion around workplace flexibility. We invite candidates of all ages, genders, sexual orientation, cultural backgrounds, people with disability, neurodiverse individuals, and Indigenous Australians to apply. If an adjustment is required to assist you during our recruitment process, please email talentacquisition@westpac.com.au
 
-Do you need reasonable adjustments during the recruitment process?
+Build robust, easy-to-use foundational platforms and tools that enable engineering teams to provision services rapidly, consistently, and securely.
+Exemplify cloud-native site reliability best practices.
+Write code that is performant, maintainable, clear, and concise.
+Employ strong problem-solving skills, with the ability to debug problems in cloud native distributed systems.
+Influence and educate the engineering organization to adopt new and improved architectural patterns.
+Provide robust documentation for use by engineers to promote self-service
+Take calculated risks, champion new ideas, and cultivate your craft.
 
-At Westpac we are committed to providing a supportive culture and creating inclusive and accessible workplaces, branches, products and services for our customers, employees, and community.
 
-We can provide reasonable adjustments for individuals with disability and/or neurodiversity. If you require an adjustment to be made during the recruitment process at any stage, please call 1800 655 592 Option 1.2 or email talentacquisition@westpac.com.au
+
+
+What You Bring
+
+5+ years of applicable experience
+Australian government security clearance, or ability to obtain clearance (AUS citizenship) required
+Strong Operating Systems Skills, preferably Linux
+Experience managing cloud platforms such as Azure, AWS, or similar.
+Experience operating in Kubernetes platforms like AKS, EKS, or similar.
+Experience using managed languages such as Python, Go, C#, Java, or similar.
+Experience utilizing CI/CD platforms to automate provisioning infrastructure, software builds, tests, and releases.
+Experience using observability tools such as APM, logging, and metrics to assist with debugging issues.
+Experience designing tooling to simplify the operational management of SaaS/PaaS systems.
+Familiarity with building flexible and testable Infrastructure as Code modules.
+Empathy to support the needs of software engineers.
+
+
+
+
+ Benefits that Benefit You
+
+Competitive Salary
+Annual Bonus and Restricted Stock Unit Eligibility
+Monthly Stipend for Medical Insurance
+Emotional & Mental Wellness Support
+Learning & Development Programs
+
+*Benefits listed herein may vary depending on the nature of your employment and the location where you work.
+
 Show more 
-Seniority level
-Not Applicable
 Employment type
 Full-time
-Job function
-Engineering and Information Technology
-Industries
-Banking, Financial Services, and Investment Banking
   
 
-Referrals increase your chances of interviewing at Westpac by 2x
-
-See who you know
-
-Get notified about new Site Reliability Engineer jobs in Kogarah, New South Wales, Australia.
-
-Sign in to create job alert
-Similar jobs
-Azure Engineer
-Azure Engineer
-Reserve Bank of Australia
-Sydney, New South Wales, Australia
-2 weeks ago
-Cloud Engineer
-Cloud Engineer
-Optiver
-Sydney, New South Wales, Australia
-20 hours ago
-Azure DevOps and IT Cloud Engineer
-Azure DevOps and IT Cloud Engineer
-Achmea Australia
-Sydney, New South Wales, Australia
-1 day ago
-Cloud Engineer (AWS)
-Cloud Engineer (AWS)
-Commonwealth Bank
-Sydney, New South Wales, Australia
-2 days ago
-Azure Cloud Engineer- Customer Experience
-Azure Cloud Engineer- Customer Experience
-Microsoft
-Sydney, New South Wales, Australia
-1 week ago
-Cloud Engineer
-Cloud Engineer
-Ensure Recruitment
-Sydney, New South Wales, Australia
-1 week ago
-Show more jobs like this 
-People also viewed
-DevOps SRE Engineer
-DevOps SRE Engineer
-
-DXC Technology
-
-Macquarie Park, New South Wales, Australia
-2 weeks ago
-Senior Cloud Engineer - GCP
-Senior Cloud Engineer - GCP
-
-Riley
-
-Sydney, New South Wales, Australia
-3 weeks ago
-Cloud Platforms Engineer
-Cloud Platforms Engineer
-
-Perpetual Limited
-
-Sydney, New South Wales, Australia
-2 weeks ago
-*AWS Cloud Native Developer*
-*AWS Cloud Native Developer*
-
-Accenture Australia
-
-Sydney, New South Wales, Australia
-3 days ago
-Infrastructure & Cloud Delivery Engineer
-Infrastructure & Cloud Delivery Engineer
-
-CSR Limited
-
-North Ryde, New South Wales, Australia
-2 weeks ago
-Senior Cloud Consultant
-Senior Cloud Consultant
-
-Slalom
-
-Sydney, New South Wales, Australia
-1 week ago
-Dotnet Developer (Azure)
-Dotnet Developer (Azure)
-
-CareCone Group
-
-Sydney, New South Wales, Australia
-2 days ago
-Senior DevOps Engineer - (SRE /Docker /Kubernetes /OpenShift)
-Senior DevOps Engineer - (SRE /Docker /Kubernetes /OpenShift)
-
-Capgemini
-
-Sydney, New South Wales, Australia
-5 days ago
-Cloud Engineer
-Cloud Engineer
-
-Hamilton Barnes 🌳
-
-Sydney, New South Wales, Australia
-4 days ago
-Azure DevOps Engineer
-Azure DevOps Engineer
-
-Kapital Consulting - Fintech Recruitment & Executive Search
-
-Sydney, New South Wales, Australia
-1 week ago
-Looking for a job?
-
-Visit the Career Advice Hub to see tips on interviewing and resume writing.
-
-View Career Advice Hub
-LinkedIn
-© 2023
-About
-Accessibility
-User Agreement
-Privacy Policy
-Cookie Policy
-Copyright Policy
-Brand Policy
-Guest Controls
-Community Guidelines
-Language
