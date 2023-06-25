@@ -1,0 +1,68 @@
+Systems Operations Engineer (Maternity Cover)
+Intercontinental Exchange
+Melbourne VIC
+Full-time
+You must create an Indeed account before continuing to the company website to apply
+Apply on company site
+Job details
+No matching job preferences
+Job Type
+Full-time
+Shift and Schedule
+On call
+
+Job Purpose
+
+At Intercontinental Exchange (NYSE:ICE), we engineer technology, exchanges and clearing houses that connect companies around the world to global capital and derivative markets. With a leading-edge approach to developing technology platforms, we have built market infrastructure in all major trading centers, offering customers the ability to manage risk and make informed decisions globally. By leveraging our core strengths in technology, we continue to identify new ways to serve our customers and transform global markets. We're looking for motivated, results-oriented people to join our team.
+
+Intercontinental Exchange is seeking an Automation Engineer .
+
+We are seeking an individual to be service oriented, delivery focused, and can build rapport with key members of the Operations and SRE teams specifying and implementing automation changes, fixes, and improvement projects. The ideal candidate will have excellent time and customer management skills combined with a range of technical skills and knowledge.
+
+Responsibilities
+
+Building and maintain tools and solutions for our operations platform, ensuring that we meet our customer service standards and reduce errors
+Actively troubleshoot any issues that arise during testing and production
+Update existing processes and design new processes as needed to optimize performance
+Work with the customers to understand their infrastructure automation solution requirements
+Understanding customer requirements and project KPIs
+Actively participate in or own continuous improvement projects driven by automation
+Any other activities as directed by management
+Work closely with the other team members to improve existing projects.
+Create quality measurements to track improvement in projects.
+Provide technical analysis, resolve problems, and propose solutions in a 24/7 production environment
+Participate in an on-call rotation
+
+Knowledge and Experience
+
+3+ years functional experience working as a DevOps Engineer
+Prior experience with software development, infrastructure development, or development and operations
+Strong experience with Microsoft Windows Server and Linux Administration
+Experience with scripting languages such as Python or PowerShell
+Experience in architecting an automation framework
+Proficiency in Configuration Management, CI, and automation tools such as â€“ Jenkins, Chef, Puppet, Ansible or similar
+Experience with Agile methods (Scrum/Kanban) to organize project deliverables, to track and to report progress (Jira)
+Experience with git, git repo services (BitBucket, GitHub), and branching strategies
+Experience with open-source technologies and cloud services (AWS/Azure)
+Experience with monitoring and alerting tools (Splunk, Nagios, BigPanda, PagerDuty)
+Experience with infrastructure as code (Terraform, CloudFormation)
+Experience with automation of business continuity/disaster recovery
+Knowledge of and exposure to container technology and orchestration is a plus.
+Experience interacting with REST APIs (GET/POST requests), webhooks, and API client tools (Postman)
+Excellent problem-solving and troubleshooting skills
+Process-oriented with great documentation skills (Confluence)
+Experience with data structures/formats such as XML, JSON, YAML, and HCL
+
+Preferred Skills
+
+Experience with Rundeck and/or Cisco Tidal Enterprise Scheduler
+Experience with BigPanda
+Experience with PagerDuty
+Experience with AI Ops
+
+Schedule
+
+This role offers work from home flexibility of up to 2 days per week.
+
+
+

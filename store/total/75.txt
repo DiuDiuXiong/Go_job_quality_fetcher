@@ -1,0 +1,67 @@
+
+DevSecOps Engineer
+Bunnings Limited
+3.5
+•
+846 reviews
+Melbourne VIC
+Engineering - Software (Information & Communication Technology)
+Full time
+Posted 6d ago
+More jobs from this company
+Apply for DevSecOps Engineer at Bunnings Limited
+Apply
+Save DevSecOps Engineer at Bunnings Limited
+Save
+Share
+
+At Bunnings, you'll make a positive difference to our business and beyond.
+
+Bunnings is the leading retailer of home improvement and lifestyle products in Australia and New Zealand and a major supplier to project builders, commercial tradespeople and the housing industry. Operating from a network of stores, trade centres, frame and truss sites, and online, Bunnings caters for consumer and commercial customers.
+
+By joining our passionate and diverse team, you will have the opportunity to grow, develop, have fun and make a positive difference - to our customers and the communities where we live and work.
+
+We are seeking an experienced DevSecOps Engineer to join our Technology team.
+
+About the Role
+
+Working within a passionate team you will support and enable Delivery Team outcomes through the automation of tasks and processes within the System Development Life Cycle. You will be responsible for developing high quality and highly secure, scalable, reliable, consistent and performant DevSecOps tools and practices that can help teams automate security tooling and shift security left in the development/delivery lifecycle.
+
+You will be working closely with the Cyber Security and Engineering teams to drive the DevSecOps Strategy ranging from tool selection, implementation, automation to delivery. You will additionally be the internal champion and advocate for all things DevSecOps related.
+
+About you
+
+You will be joining a passionate team of experienced DevOps engineers who are passionate about automation and improving the developer experience and journey through building self-serve platforms and components to assist with the same. Highly supportive of learning and professional development our team is consistently encouraged to constantly upskill and try new tools & technologies to innovate the way they work. Possessing excellent communication and stakeholder management skills combined with your passion for DevOps will stand you in good stead for this role.
+
+You will also have:
+
+Proven experience working with DevSecOps
+Extensive experience in hardening Kubernetes environments, adding security controls and best security practices for Docker images
+Extensive experience with SAST and DAST tools, integrating these tools with Ci/Cd pipelines and creating workflows that help team shift security practices to the left of their delivery lifecycle
+Experience of automating certificate rotation process and streamlining the certificate management lifecycle
+Experience of provisioning and managing cloud services principles and creation/automation of access controls in the cloud (Azure preferred).
+Experience of managing secrets through Hashicorp Vault.
+Broad understanding of tools and technologies such as Source Control: Git Continuous Integration: GitHub Actions (or Azure Devops), Team City Continuous delivery: Octopus Deploy Infrastructure Automation: Terraform Container Concepts, Orchestration and Cloud
+Good working knowledge of Kubernetes (Ideally Azure AKS).
+Extensive experience with Bash and PowerShell Scripting
+Package Management: Nuget, NPM,
+Maintain an in-depth understanding of DevSecOps technologies/best practices and stay abreast of current industry trends and emerging technologies
+Ideally have experience in software engineering/development (.NET, etc.)
+
+You'll be part of a workplace where you'll feel like you belong.
+
+There's so much on offer when you're part of the team. Our flexible and informal work environment helps bring balance between work and home. Then there's the fun stuff like team discount at Bunnings and other Wesfarmers brands, incentives, discounts from corporate partners (such as private health insurance) and cost price food and drinks at the Bunnings café. We also offer 12 weeks paid parental leave, regardless of gender, and you will have the opportunity to create a real difference in your community and environment. Join us and experience Bunnings from the other side of the counter.
+
+Please note that if your application progresses to the reference check stage, you may be required to submit a police check. If your search returns a criminal record, Bunnings will assess whether the record impacts your ability to perform the key requirements of the role.
+
+Report this job advert
+Be careful
+Don’t provide your bank or credit card details when applying for jobs.
+Learn how to protect yourself
+Report this job ad 
+Computer Science courses
+Courses that get you job-ready
+Industry recognised providers
+Explore courses
+Benefits of study
+Study & career advice

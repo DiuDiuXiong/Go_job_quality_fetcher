@@ -1,0 +1,101 @@
+
+Site Reliability Engineer
+Commonwealth Bank
+3.4
+•
+1048 reviews
+Sydney NSW
+Other (Information & Communication Technology)
+Full time
+Posted 6d ago
+More jobs from this company
+Apply for Site Reliability Engineer at Commonwealth Bank
+Apply
+Save Site Reliability Engineer at Commonwealth Bank
+Save
+Share
+
+Do work that matters
+
+Here at CommBank we believe when people are free to move anything is possible. Joining our team is your opportunity to join an established company where there is a focus on personal and professional development. As an organization, we foster an innovative and dynamic culture and a genuine commitment to drive diversity and inclusion.
+
+You will apply Site Reliability Engineering principles and practices, coupled with core technology and domain expertise to effectively develop software solutions which maximise the operational reliability of the group's IT services and meet business needs.
+
+You're responsible for the world-leading application of technology across every aspect of CommBank. We are putting customers at the Centre of everything we do. Together we will use technology to drive efficient and timely processing, an essential component of great customer service.
+
+You will work alongside a fantastic team of people, and highly invested managers focused on your career progression.
+
+We're interested in hearing from people who are:
+
+
+Passionate about building software and systems to manage platform infrastructure and applications
+
+Ready to Improve reliability, quality, and time-to-market of our suite of software solutions
+
+Prepared to measure and optimise system performance, with an eye toward pushing our capabilities forward, getting ahead of customer needs, and innovating for continual improvement
+
+Equipped to provide primary operational support and engineering for multiple large-scale distributed software applications
+
+Well versed to review code developed by other engineers and provide feedback to ensure best practices (e.g., style guidelines, checking code in, accuracy, testability, and efficiency).
+
+Ready to contribute to existing documentation or educational content and adapt content based on product/program updates and user feedback.
+
+
+We are also interested in hearing from people who:
+
+
+Gather and analyse metrics from operating systems as well as applications to assist in performance tuning and fault finding
+
+Partner with development teams to improve services through rigorous testing and release procedures
+
+Participate in system design consulting, platform management, and capacity planning
+
+Create sustainable systems and services through automation and uplifts
+
+Perform daily system and security monitoring, verify the integrity and availability of all hardware, server resources, systems and key processes, review system and application logs, and verify completion of scheduled jobs
+
+
+Tech Skills
+
+We use a broad range of tools, languages, and frameworks. We do not expect you to know them all but experience or exposure with some of these, or a willing to learn these skillsets (or equivalents) will set you up for success in this team!
+
+
+Design / Develop PowerShell Scripts for Automation of Operational Process
+
+One or more high-level languages, such as Python, Java, C/C++, Ruby, Yaml, and JavaScript
+
+(PowerShell / VBScript / Python, Yaml etc.)
+
+Splunk, AppDynamics, AWS cloudwatch, AWS Grafana and Prometheus
+
+Github, teamcity, AWS cloud formation
+
+
+Working with us
+
+Whether you're passionate about customer service, driven by data, or called by creativity, a career with CommBank is for you.
+
+Our people bring their diverse backgrounds and unique perspectives to build a respectful, inclusive, and flexible workplace with flexible work locations. One where we're driven by our values, and supported to share ideas, initiatives, and energy. One where making a positive impact for customers, communities and each other is part of our every day.
+
+Here, you'll thrive. You'll be supported when faced with challenges and empowered to tackle new opportunities. We're hiring engineers from across all of Australia, you'll be empowered to do your best work and be given the choice on when and where that work happens. We really love working here, and we think you will too.
+
+Whether you're passionate about customer service, driven by data, or called by creativity, a career here is for you.
+
+Our people bring their diverse backgrounds and unique perspectives to build a respectful, inclusive and flexible workplace. One where we're driven by our values, and supported to share ideas, initiatives, and energy. One where making a positive impact for customers, communities and each other is part of our every day.
+
+Here, you'll thrive. You'll be supported when faced with challenges, and empowered to tackle new opportunities. We really love working here, and we think you will too.
+
+We're determined to make a real difference for Australia's first peoples. We encourage all interested applicants to apply. If you're already part of the Commonwealth Bank Group (including Bankwest), you'll need to apply through Sidekick to submit a valid application. We're keen to support you with the next step in your career.
+
+Report this job advert
+Be careful
+Don’t provide your bank or credit card details when applying for jobs.
+Learn how to protect yourself
+Report this job ad 
+Courses that get you job-ready
+Industry recognised providers
+Experts in career related education
+Explore courses
+TAFE
+Online
+Courses by industry

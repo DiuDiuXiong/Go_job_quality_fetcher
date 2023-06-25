@@ -1,0 +1,71 @@
+
+Software Engineer
+CurveBeam AI  Melbourne, Victoria, Australia
+5 days ago   Over 200 applicants
+  
+See who CurveBeam AI has hired for this role
+Apply
+Save
+
+Direct message the job poster from CurveBeam AI
+
+Yu Peng
+CTO(AI) at CurveBeam AI | Visiting Professor at UTS | We're hiring!
+
+Australian public company, CurveBeam AI Limited, is an innovative medical device business providing a leading-edge global medical CT platform, and offering SaaS-based AI solutions to key orthopedic and bone health conditions.
+
+
+
+
+We are targeting the setting of a new standard of care, improving outcomes while reducing healthcare costs, in major underserved areas of healthcare. We value our people, their values, and foster a culture of teamwork, innovation and a focus on creating outcomes that make a difference.
+
+
+
+
+About The Job
+
+As a cloud application engineer, you will work in a rapidly growing team to:
+
+Develop well-designed, maintainable and tested AI-powered back-end code using Go, Python or C++.
+Collaborate with other engineers to develop, manage and deploy the scalable, highly available, and secure micro-service platform in the cloud.
+Contribute to the product roadmap plan and architectural design; promote new techniques to the team.
+Drive and enhance the CICD workflow to support deploying our AI platform in a consistent and rapid way in multiple regions all over the world.
+Perform critical bottleneck and root cause analysis on the AI platform to bring forward any potential issues that can be improved or solved.
+Propose and contribute new solutions for the futureproof AI platform to support the development of new medical applications rapidly and reliably.
+Provide guidance to other engineers and actively participate in our hiring process.
+
+
+
+
+About You
+
+To be successful in this role, you will have the following:
+
+At least 3 years of experience in commercial development with Go, Python or C++. Coding proficiency in at least two languages above is preferred.
+At least 2 years of experience in developing applications on the cloud, including but not limited to AWS, GCP, or Azure.
+Advanced working experience in Infrastructure as Code (IoC), e.g., AWS CloudFormation, Terraform, or CDK.
+Highly proficient in container techniques, including Kubernetes, docker and its related tools.
+Working experience in logging and monitoring tools, e.g., ELK, datadog, Prometheus, or Grafana.
+Extensive hands-on experience in agile project management, preferably based on Atlassian tools (Jira and Confluence).
+Bachelor's degree or equivalent experience in computer science or a similar area.
+
+
+
+
+The followings are nice to have but not required:
+
+General understanding of computer vision and image processing algorithms
+General understanding of the machine learning training, validation, and test process.
+Experience with the MLOps.
+Experience with SRE.
+Show more 
+Seniority level
+Mid-Senior level
+Employment type
+Full-time
+Job function
+Engineering and Information Technology
+Industries
+IT Services and IT Consulting, Medical Equipment Manufacturing, and Software Development
+  
+

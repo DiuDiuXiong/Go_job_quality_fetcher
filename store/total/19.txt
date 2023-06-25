@@ -1,0 +1,76 @@
+
+Senior Site Reliability Engineer
+Harvey Nash
+Brisbane QLD
+Engineering - Software (Information & Communication Technology)
+Full time
+170K - 200K + super + bonus
+Posted 6d ago
+More jobs from this company
+Apply for Senior Site Reliability Engineer at Harvey Nash
+Quick apply
+Save Senior Site Reliability Engineer at Harvey Nash
+Save
+Share
+They started in a small room at home & are now working with more than 17k clients globally!
+  
+An exciting time to join as they continue their journey to shape & build their presence in the APAC Region where you can 100% work from home anywhere in Australia!  If you want to work for a global, fast growing, mission-driven Tech company who are highly collaborative with a fun with challenging work environment, keep reading!   
+
+Australia – Remote anywhere in Australia
+170K - 200K + super + bonus 
+Senior Site Reliability Engineer
+MUST be Australian Citizen
+Base Line Clearance advantageous (but you will be sponsored)
+  
+What You’ll Do / Job Description
+As a key SRE contributor, you are naturally passionate about delivering solutions on real-time problems with mission-critical cloud native services.  People might describe you as obsessed about achieving the high quality and reliability for customers demand!
+
+Scaling the SRE team further, I am looking for a Senior Engineer to ensure cloud systems, software & databases are highly available & performing optimally. Working in an environment where 24/7 up-time is critical, you will be proactive in identifying opportunities for automation. 
+You will work closely not only with the SRE division, but your technical deliverables will reach the entire engineering organization to enable product teams to continuously deliver features on the vanguard of innovation.
+
+Build robust, easy-to-use foundational platforms and tools that enable engineering teams to provision services rapidly, consistently, and securely.
+Exemplify cloud-native site reliability best practices.
+Write code that is performant, maintainable, clear, and concise.
+Employ strong problem-solving skills, with the ability to debug problems in cloud native distributed systems.
+Influence and educate the engineering organization to adopt new and improved architectural patterns.
+Provide robust documentation for use by engineers to promote self-service
+Take calculated risks, champion new ideas, and cultivate your craft.
+
+What You Bring
+
+3-5+ years of applicable experience
+Strong Operating Systems Skills, preferably Linux (Kernel highly desirable).
+Strong experience operating in Kubernetes platforms like AKS, EKS, or similar.
+Good experience managing cloud platforms ideally Azure (but would be open AWS, GCP or Oracle Cloud) or similar.
+Experience utilizing CI/CD platforms to automate provisioning infrastructure, software builds, tests, and releases.
+Empathy to support the needs of software engineers.
+Advantageous skills
+
+Experience administering SQL/NoSQL databases.
+Experience with the Hadoop stack (Cassandra, Zookeeper) would be highly regarded
+knowledge of Configuration Management (Puppet, Salt, Ansible, Terraform, Jenkins, Packer etc.)
+Knowledge, interest or experience of Python, C#, Scala, Java or Golang would be desirable but not essential.
+Experience using observability tools such as APM, logging, and metrics to assist with debugging issues.
+Experience designing tooling to simplify the operational management of SaaS/PaaS systems.
+Familiarity with building flexible and testable Infrastructure as Code modules.
+ Benefits that Benefit You
+
+Competitive Salary
+Annual Bonus and Stock Unit Eligibility
+Medical Insurance
+Enhanced Maternity and Paternity Leave for All Employees
+Emotional & Mental Wellness Support
+Learning & Development Programs
+  
+Apply now for a confidential conversation!
+Report this job advert
+Be careful
+Don’t provide your bank or credit card details when applying for jobs.
+Learn how to protect yourself
+Report this job ad 
+Computer Science courses
+Courses that get you job-ready
+Industry recognised providers
+Explore courses
+Benefits of study
+Study & career advice

@@ -1,0 +1,116 @@
+
+DevOps SRE Engineer
+DXC Technology Australia & New Zealand
+2.7
+•
+238 reviews
+Sydney NSW
+Networks & Systems Administration (Information & Communication Technology)
+Full time
+Posted 2d ago
+More jobs from this company
+Apply for DevOps SRE Engineer at DXC Technology Australia & New Zealand
+Apply
+Save DevOps SRE Engineer at DXC Technology Australia & New Zealand
+Save
+Share
+
+DXC Technology (NYSE: DXC) helps global companies run their mission-critical systems and operations while modernizing IT, optimizing data architectures, and ensuring security and scalability across public, private and hybrid clouds. The world's largest companies and public sector organizations trust DXC to deploy services to drive new levels of performance, competitiveness, and customer experience across their IT estates. Learn more about how we deliver excellence for our customers and colleagues at DXC.com.
+
+This role is an exciting opportunity to be part of a team that is responsible for maintaining various security platforms for DXC’s Security Business. You will be responsible for the support of all critical systems that support the company's core service delivery platform.
+
+As a DevOps SRE engineer you will be responsible for maintaining a high availability infrastructure supporting the DXC Security Services business. This is a very hands-on technical role and would suit someone who has a proven background in supporting a fast paced, complex, 24/7 critical infrastructure. As a DevOps SRE Engineer you would be working closely with the infrastructure designers and developers. The successful candidate for this role will have a real passion for technology and have a broad knowledge across networks and systems for both on prem and cloud environments.
+
+The role will require a proactive approach to gaining knowledge of a complex infrastructure through consulting system SMEs, self-learning and self-discovery.
+
+Responsibilities
+
+Monitor and work the support incident and change requests queues, fixing issues or reassigning to SME’s.
+Day to day maintenance of the systems, scheduled tasks, capacity monitoring, business continuity operations.
+Perform daily system monitoring, validating both the integrity and availability of all hardware/Cloud server/services, applications and key processes, reviewing system and application logs and confirming the successful completion of scheduled jobs such as backups and reporting.
+The application of OS patches and upgrades on a regular basis, including administration tools and utilities.
+Perform ongoing system/application performance tuning, hardware upgrades and resource optimisation as required. Configuration of CPU, memory and disk partitions as per requirements.
+Create and maintain RCA’s for system outages/incidents.
+Collaborate with regional teams to ensure consistent processes and procedures across all instances.
+Management of DevOps pipeline tools including Github and Jenkins.
+Installation of new or rebuild of existing servers and configure hardware, peripherals, settings, services, directories, storage, etc. In accordance with recognised best practices and company specific project/operational standards.
+Ensure that the infrastructure systems are designed, built, maintained and operated in a secure fashion to ensure the availability and usability of the systems and the protection of the data they contain. Secure operation of these systems is essential, and the candidate will need to demonstrate an appreciation of their role and responsibilities for maintaining that security.
+
+Qualifications & Experience
+
+Educated to degree level or equivalent.
+Eligible to qualify for Australian Baseline Security Clearance.
+Evidence of being a member of a team of system and/or network administrators and/or engineers within a fast moving and changing environment.
+Ability to identify limitations in systems and to build a solution that you are able to deploy with limited effect on service.
+
+Essential Skills
+
+Strong System administration of Linux system skills.
+Ability to script in Shell, Perl, or Python or equivalent
+Experience with infrastructure automation tools, such as Puppet or Ansible.
+Experience with VMware ESXi.
+Experience with AWS or Azure cloud environments.
+Experience with building/configuring servers in highly available environments
+Experience with Github and Jenkins.
+Experience with DevOps principals, including Continuous Integration and Continuous Deployment
+Understanding of IP protocols and routing. Must be comfortable and competent using tcpdump and packet capture tools to diagnose networking problems.
+Comfortable with DNS, DHCP, SMTP, HTTP (including proxies), SSL, SSH.
+Writing Technical Documentation (Word/Visio/Excel)
+
+Desirable Skills
+
+System administration Windows
+Database Administration (MySQL & MS SQL Server)
+Understanding of stateful/stateless firewalling with iptables.
+CheckPoint Firewall-1 administration experience.
+Comfortable with syslog, SNMP, IPv4 address translation (NAT).
+Knowledge of Big data Technologies/Tools such as Hadoop MR, Spark, Vertica, NiFi, Kafka etc.)
+Cloud technologies and automation tools eg. Terraform.
+Containerisation and virtualisation
+Infrastructure Monitoring Tools Such as Opsview/Nagios/tickstack
+Experience managing SAN technologies (e.g. Fibre Channel and iSCSI) and storage management tools (e.g. LVM and ZFS).
+Familiarity with NFS, Samba, LDAP, RADIUS, IPIP/GRE tunneling, VPN technologies.
+Familiarity of ITIL Processes and ISO 27001 standards
+
+ 
+
+Our culture and benefits: DXC is committed to building better futures for our customers, colleagues, environment, and communities. We take care of each other and foster a culture of inclusion, belonging and corporate citizenship. We put this to action developing and implementing societal initiatives within our Social Impact Practice. #WeAreDXC 
+
+As an employer of choice, our “people first” philosophy means we offer competitive remuneration, benefits, training and career opportunities that reflect our commitment to improving the lives of our employees, and the communities in which we live and work. Some of these include; 
+
+ 
+
+Extensive resources to support your onboarding and continual development including DXC University 
+DXC Recognition, our global virtual platform that fosters a culture of appreciation and celebration with real-time reward and recognition 
+We know that great people refer great people. We will reward you when you bring your friends and family to work at DXC 
+More time to do the things you love with flexible leave options, including purchased leave 
+Take time to give back with charitable and emergency services volunteer days 
+Well-being matters to us and our Employee Assistance Program is there to support you and your family 
+
+And of course, all the basics: Novated Leasing, discounted health insurance, paid parental leave and many other discounts 
+
+ 
+
+﻿How to apply & our commitment to you in return: If you would like to be part of a culture that drives innovation, delivers results, rewards performance and encourages ideas, then please press the "Apply Now" button to submit your resume. 
+
+In return, we agree to ensure a hiring process that is enjoyable, thorough, and fair. We strive to provide an environment that lets you thrive and show off the very best version of yourself, while learning about us at the same time.  
+
+Interviews and onboarding are conducted online, as part of us being a virtual-first company. 
+
+ 
+
+We are an Equal Opportunity Employer: DXC is proud to be an equal opportunity employer and we welcome submissions from people from all walks of life. We celebrate our diversity and recognise it is the unique contributions of our people that give us our edge. We stand by the ‘bring your whole-self to work’ philosophy. It is our inclusive culture that powers our results, and our company grows only if our people grow.  
+
+Accommodation of special needs for qualified candidates may be considered within the framework of the DXC Accommodation Policy. In addition, DXC Technology is committed to working with and providing reasonable accommodation to support qualified individuals with physical and mental disabilities.
+
+Report this job advert
+Be careful
+Don’t provide your bank or credit card details when applying for jobs.
+Learn how to protect yourself
+Report this job ad 
+Salary lookup
+What can I earn as an Engineer?
+
+Find out the average salary for an Engineer across Australia
+
+See more detailed salary information

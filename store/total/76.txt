@@ -1,0 +1,82 @@
+
+Senior Systems Reliability Engineer
+Nutanix
+Sydney NSW
+Networks & Systems Administration (Information & Communication Technology)
+Full time
+Posted 24d ago
+More jobs from this company
+Apply for Senior Systems Reliability Engineer at Nutanix
+Quick apply
+Save Senior Systems Reliability Engineer at Nutanix
+Save
+Share
+
+Senior Systems Reliability Engineer
+
+Sydney, New South Wales 
+
+ 
+
+Hungry, Honest, Humble, with Heart!
+ 
+
+The Opportunity
+
+This role is hybrid
+ 
+
+Nutanix is a global leader in cloud software and a pioneer in hyperconverged infrastructure solutions, making computing invisible anywhere. We are excited to bring in a new wave of talented Technical Support Engineers into our company! If you are someone that: loves technology and innovation; have a customer-first mindset; has an eagerness to learn and wants to enhance your skillset in our leading Hyperconverged Infrastructure (HCI) technology and Hybrid-Cloud solutions, come be part of the family and help us provide our customers with an exceptional support experience.
+
+ 
+
+Sound like you? Read on!
+
+Technical Support at Nutanix
+
+Here at Nutanix we drive the success of our customers through passion and teamwork, ensuring quick response times and unparalleled customer satisfaction; our 90/100 NPS score is a testament to such objective.  Our diverse, multicultural team of top-notch engineers act as our customers champions, working closely with Engineering, Field, and Sales teams. Our teams love to have constant learning opportunities and aim to become experts in Virtualization, Networking and Storage.
+
+ 
+
+Your Role
+
+Troubleshoot, debug, and diagnose customer issues encountered in the field.
+Improve the serviceability of the product by testing new features and developing tools to scale our field deployment and auto-support infrastructure.
+Provide analysis of our existing customer base to avoid and minimize risks in the field.
+Define and lead changes to our product with our development engineering team based on feedback from customers and field implementations.
+Work with technology partners (e.g. VMware, Citrix, Microsoft) to resolve issues and push improvements in our ecosystem.
+Develop and work on internal and external knowledge bases.
+Provide support on weekdays and also off hours on an as-needed and scheduled rotational basis.
+Be a champion for our customers. Go above and beyond to support their business and use of the Nutanix stack.
+
+ 
+
+What You´ll Bring
+
+Proven work experience in troubleshooting at least two of the following: Virtualization (preferably VMware ESXi), Networking (preferably layer 2/3), Linux Systems (preferably CLI administration), Storage Analysis
+Experience supporting external customers and a customer first mindset.
+Multilingual (Korean / Mandarin) will be highly regarded
+Passion and ability to learn new things.
+
+ 
+
+How We Work
+
+We are a fully hybrid team based in Kent Street, Sydney. We operate three days from the office and meet up as a full team to reconnect, share ideas and to socialize outside of working hours! We organize our working shifts and aim towards the appropriate work-life balance for all our team members.  
+
+ 
+
+Employer questions
+Your application will include the following questions:
+Which of the following statements best describes your right to work in Australia?
+Do you have customer service experience?
+How would you rate your Mandarin language skills?
+Report this job advert
+Be careful
+Don’t provide your bank or credit card details when applying for jobs.
+Learn how to protect yourself
+Report this job ad 
+Thinking about a career as a Reliability Engineer?
+Insights on salary & in-demand skills
+Reviews from people working in the industry
+Explore career

@@ -1,0 +1,100 @@
+
+Trading Systems Engineer - Python, DevOps, Automation, Linux, and Low Latency Systems
+Jobs via eFinancialCareers  Sydney, New South Wales, Australia
+1 month ago   Be among the first 25 applicants
+  
+See who Jobs via eFinancialCareers has hired for this role
+Apply
+Save
+High Frequency Trading (HFT) firms are thriving in these volatile markets!
+Linux, Python, Spark, DevOps, Ansible, Puppet, Docker, Hadoop, AWS, S3.
+Aggressive hiring, huge profits / bonuses - Excellent Culture, Elite Engineers.
+
+
+
+
+Company
+
+
+
+
+Our client is a leading proprietary / high frequency trading firm that is renowned for hiring some of the best technologists in the country to capture financial markets opportunities. They provide Google style working conditions (casual dress, lots of perks) with the financial benefits of working in financial markets. Due to ongoing growth they require a Trading Systems / Data Engineer with deep knowledge on Linux, advanced Python skills and a strong focus on system automation.
+
+
+
+
+Team
+
+
+
+
+This team brings together an elite group of technologists working with lean, low latency trading systems (Linux platforms). The team is responsible for keeping abreast of latest technological innovations and bringing them to bear in a highly automated (Python, Ansible, Puppet) environment with a view to maintaining high availability, reliability and performance of complex trading platforms and related systems.
+
+
+
+
+Role (x2 specialisations)
+
+
+
+
+Your remit will be to leverage your considerable skills in Linux systems engineering (Ops focus, not Infra) along with advanced Python scripting skills and a strong focus on systems automation (DevOps, CI/CD) across technologies such as Puppet, Ansible, Docker, Jenkins et al to ensure this complex technical environment is optimized for lightning fast performance and unshakable stability.
+
+
+
+
+The role could, in addition to the above requirements, also be more Data Engineering centric working across a Hadoop ecosystem, Dask, Spark, S3 depending on your preference / skillset.
+
+
+
+
+Requirements:
+
+
+
+
+Advanced Linux Engineering skills & modern x64 based server hardware.
+Solid Python coding skills for Automation (you will be tested).
+CI/CD (any/all): Puppet, Ansible, Docker, Jenkins, SaltStack et al.
+Fundamental networking skills (TCP, VLAN, Multicast, DNS, DHCP).
+Fundamental database skills (MySQL, NoSQL, PostgreSQL).
+Site Reliability, High Availability, Performance, Scalability, Low-Latency.
+Strong / Polished Communication and Interpersonal skills.
+A Technology or Finance related degree / diploma.
+Experience with financial services or better still trading systems (ideal)
+For Data Engineer centric: Hadoop, PySpark, Scala Spark, Dask, S3.
+
+
+
+
+This role would be suited for people coming from an IT operations / infrastructure (Linux) base where they’ve had broad access & exposure to the complete tech environment along with strong automation / CI/CD technologies in an IT performance reliant organisation (ideally financial markets).
+
+
+
+
+#DevOps #SRE #Site Reliability Engineer #Linux #Low-Level #Low-Latency #Automation #Docker #Python #Puppet # Ansible #SaltStack #Trading Systems #Python #Nanosecond #Kernel #Networking #Connectivity #Performance
+
+
+
+
+LONDON : NEW YORK : SINGAPORE : SYDNEY
+
+
+
+
+www.westbury-partners.com
+
+
+
+
+Show more 
+Seniority level
+Entry level
+Employment type
+Full-time
+Job function
+Information Technology
+Industries
+Staffing and Recruiting
+  
+

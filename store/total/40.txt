@@ -1,0 +1,64 @@
+
+Platform SRE
+Talent.Realised Pty Ltd  Australia
+1 week ago  70 applicants
+  
+See who Talent.Realised Pty Ltd has hired for this role
+Apply
+Save
+
+Direct message the job poster from Talent.Realised Pty Ltd
+
+Josh Kitchin
+Managing Consultant | Software | Cloud | Infrastructure | DevOps/SRE Specialist 🚀 | 0423 461 061 |
+
+This media company is looking for Mid to Senior level Platform Reliability Engineers with a Platform, SRE or DevOps background.
+
+
+
+
+As part of the platform team, you will develop and maintain the audience facing digital products across mobile, connected TV, desktop, and smart speakers. Your work will be appreciated by millions of audiences across Australia.
+
+
+
+
+Platform Reliability Engineer (SRE)
+
+FTC - Up to $135k base + super (15%)
+
+Remote friendly with preference for East Coast Australia
+
+You will be involved in designing, implementing and automating delivery systems for digital services on web, mobile and streaming media.
+You will provide a high level of availability and reliability to users and collaborate with software development & DevOps teams to design and implement scalable, fault-tolerant systems.
+You will also improve system reliability and quality through monitoring, reporting and fault
+resolution.
+
+
+
+
+Skills, knowledge & experience needed;
+
+Highly developed problem-solving skills
+Experience using Amazon Web Services (AWS) products and supporting Linux and “LAMP” based systems is highly desirable.
+Experience supporting and managing products delivered by CDN services such as Akamai for the delivery of streaming media
+Experience with common DevOps tools such as Datadog, Puppet, New Relic, JIRA, Confluence, Bamboo, Maven or Jenkins is highly desirable.
+Self-advocating mentality of always looking to build new processes and tools within the wider organisation.
+Complete understanding of “SRE”, “Reliability Engineering” & “availability” meanings
+Knowledge and experience of SLA, SLO, SLI & MTTR
+
+
+
+
+Does this sound like the kind of role you've been looking for? Register your interest by applying or contacting me direct on josh@talentrealised.com.au or 0423461061
+
+Show more 
+Seniority level
+Mid-Senior level
+Employment type
+Full-time
+Job function
+Engineering and Information Technology
+Industries
+Online Audio and Video Media and Broadcast Media Production and Distribution
+  
+

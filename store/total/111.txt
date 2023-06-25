@@ -1,0 +1,107 @@
+
+Site Reliability Engineer II
+Ping Identity  Australia
+1 day ago  90 applicants
+  
+See who Ping Identity has hired for this role
+Apply
+Save
+At Ping Identity we're changing the way people think about enterprise security technology. With our innovative Identity Defined Security platform we're building a borderless world where people have total freedom to work wherever and however they want. Without friction. Without fear.
+
+
+
+
+We call this digital freedom. And it's not just something we provide our customers. It's something that drives our company. People don't come here to join a culture that's built on digital freedom. They come to cultivate it.
+
+
+
+
+We're headquartered in Denver, Colorado, and we have offices and employees around the globe. We serve the largest, most demanding enterprises worldwide, including over half of the Fortune 100. Because even in the most complex enterprise environments, security shouldn't be a source of anxiety; It is your greatest competitive advantage.
+
+
+
+
+As a Ping Identity SRE you will be involved in every facet of our On-Demand SaaS services and will develop the infrastructure of one of the largest identity platforms in the world. You will report to the Australian Site Reliability Engineering Manager. A fundamental part of our perspective is that the product is not just the applications; We have a holistic approach to our entire stack, and recognise that every part of the pipeline, from the application developer & QA process, through to the infrastructure design and management, inform the product as it is experienced by our customers.
+
+
+
+
+We're looking for engineers from a variety of backgrounds that are interested to bring their experience and skills to the team. It's not essential that you've worked as an SRE before (although we are looking for experienced SREs too); we can provide coached, hands-on, experience to grow you in to the role, as well as assistance obtaining industry recognized certifications. If you have a background in any of the following fields, we're interested to talk:
+
+
+
+
+SRE
+DevOps / Release Management and Automation
+System Administration
+Software Engineering / Application Development
+
+
+
+
+You Will:
+
+
+
+
+Run and maintain our production infrastructure hosted on AWS
+Building out our codebase of parameterized, reusable, Infrastructure-as-Code
+Design and build robust workflows and automation that provide deep, on-going, value to the business
+Linux systems administration, configuration, troubleshooting and automation
+Administer platforms built on top of containers, virtual machines, and AWS native offerings
+Capacity analysis and planning, traffic routing, and security policies for Ping's market leading Single Sign-On SaaS applications
+Analyze complex system behavior, performance and application issues
+Develop observability solutions and analysis across multiple geographic regions
+
+
+
+
+You Have:
+
+
+
+
+Cloud Computing Services (AWS, GCP, Azure)
+Observability Strategies and Tools
+Infrastructure-as-code (Terraform, Cloud Formation)
+Experience using Git in a team environment (merge requests, branching, deploying or using branching strategies)
+Experience with Docker and container orchestration (Kubernetes)
+Application Development, test strategies (unit, integration, mocks, end-to-end), defensive coding, dependency management
+Continuous Integration / Delivery / Deployment. Experience with tooling, paradigms, workflows, advocacy
+Release Management. Versioning, signing, packaging, artifact management and distribution
+Solid scripting skills
+IP networking, including familiarity with the functionality, operating, and failure modes of networks
+Experience in a high-volume or mission-critical service environment
+
+
+
+
+Our Benefits:
+
+
+
+
+Parental Leave
+Australia Health Insurance
+Technology Allowance
+Fitness Reimbursement
+
+
+
+
+Ping Identity is an equal opportunity employer. Qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability or protected veteran status.
+
+
+
+
+Show more 
+Seniority level
+Mid-Senior level
+Employment type
+Full-time
+Job function
+Information Technology
+Industries
+Software Development
+  
+

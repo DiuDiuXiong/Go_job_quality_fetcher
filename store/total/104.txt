@@ -1,0 +1,97 @@
+
+Senior DevOps Engineer
+Qcells North America  Sydney, New South Wales, Australia
+2 weeks ago   Over 200 applicants
+  
+See who Qcells North America has hired for this role
+Apply
+Save
+This is a remote position based out of Sydney, Australia - Geli is headquartered in San Francisco, California, USA and has a growing Australia team.
+
+About Geli
+
+Geli (Growing Energy Labs, Inc.) provides software and business solutions to design, connect, and operate energy storage systems ranging in size from residential to utility-scale, as well as grid-tied, microgrid, and off-grid systems. Geli’s suite of products creates an ecosystem where project developers, OEMs, financiers, and project operators can deploy advanced energy projects using a seamless hardware-agnostic software platform.
+
+Geli is a subsidiary of Hanwha Q CELLS, one of the world’s largest photovoltaic manufacturers most recognized for its high-performance, high-quality solar cells and modules.
+
+OUR VISION
+
+Geli is committed to helping make the planet a cleaner, better place to live, both with our software products and through our everyday actions.
+
+Imagine a world where there is less reliance on non-renewable power, where you source your electricity from your neighbors rather than from power stations hundreds of miles away and software makes the best possible use of the solar, wind, and battery storage available. This is our vision.
+
+We are looking for enthusiastic colleagues that are not only fluent in technology, but also share our vision of a world running on 100% renewable energy.
+
+About The Job
+
+The Senior DevOps Engineer will design and manage and operate our cloud and on-site Linux systems. They will build tools and systems that make it easy to deploy, monitor, and report on usage and performance of our components, and will troubleshoot and resolve issues in production. The right candidate will be broadly capable of effectively utilizing modern open-source cloud technology and will have a very strong focus on security and reliability.
+
+Primary Responsibilities
+
+Manage production, development, and data analytics AWS infrastructure
+Implement automated, high-availability, high-performance infrastructure as code
+Build scalable solutions that anticipate growth and performance needs
+Identify opportunities for proactive monitoring and alerting to identify issues early
+Participate in incident response including creating fixes and improving systems
+Improve continuous CI/CD automation that includes simulation and potentially hardware environments as part of functional testing of software components
+Enhance disaster-recovery and operations continuity
+Collaboration, documentation, and knowledge sharing with team members
+Gather metrics and generate reports on performance, uptime, utilization, and cost
+Participate in on-call rotation for critical production environment issues
+Evaluate new technologies, services and software upgrades to improve our systems
+Ensure systems are secure and access is audited
+
+
+Minimum Qualifications
+
+Strong experience with container orchestration (Kubernetes, EKS, and Docker)
+Experience with infrastructure as code tooling such as Terraform or CloudFormation
+Experience with Ansible
+Scripting or programming skills in Python, Java, and Bash
+Strong experience in DevOps or SRE
+Strong experience deploying to and managing Amazon Web Services infrastructure - S3, EKS, VPC, ECS, IAM, Load Balancers
+Linux/UNIX system administration and security
+Experience configuring and managing HAProxy, RabbitMQ, Kafka, Cassandra, and Postgres, OpenLDAP, ElasticSearch, and Airflow
+Thorough knowledge of IP networking
+Experience building durable, scalable, multi-region infrastructure
+
+
+Preferred Qualifications
+
+Experience with CI/CD and Automation frameworks
+Experience with IoT style infrastructure including OTA update systems
+Experience with embedded operating systems, IoT, sensor networks, or power systems
+
+
+Benefits Of Working At Geli
+
+Competitive salary commensurate with experience
+
+Competitive benefits offerings
+
+WORK ENVIRONMENT
+
+Make a difference: join a group of people who are passionate about renewable energy
+
+Have an impact: the company is still small enough that everyone’s contribution has a significant impact to the success of the company
+
+Many opportunities to lead teams, projects, and contribute to development
+
+Casual professional working environment: there’s no need to dress up, just present your best self
+
+Work collaboratively in a diverse environment- we commit to reaching better decisions by respecting opinions and working through disagreements
+
+DIVERSITY
+
+We value the insights that a diverse team can bring. We encourage applications from members of groups that have been traditionally underrepresented in tech.
+Show more 
+Seniority level
+Mid-Senior level
+Employment type
+Full-time
+Job function
+Engineering and Information Technology
+Industries
+Renewable Energy Semiconductor Manufacturing
+  
+

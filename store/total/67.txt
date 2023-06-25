@@ -1,0 +1,82 @@
+
+Cloud SRE - Azure
+Westpac  Melbourne, Victoria, Australia
+2 weeks ago   Be among the first 25 applicants
+  
+See who Westpac has hired for this role
+Apply
+Save
+Job Description
+
+Westpac Group has a rich heritage and offers employees a multitude of opportunities. We aim to attract the best people inside and outside of the business – building an organisation where the best talent thrives.
+
+The Westpac Group has a complex Information Technology environment that needs to deliver to the rapidly changing needs of our customers and employees, the ever-evolving IT landscape, and the Group's regulatory and statutory requirements. In GroupTech we're striving to be game-changing technologists, shaping the future of banking.
+
+How will I help?
+
+An Exciting opportunity is available for a Cloud Site Reliability Engineer – Azure within the Enterprise and Compute Storage Services team in Group Technology. This plays an important role in the development and maintenance of technical solutions on the public cloud and ensures that the detailed design, build, and operations are fit for purpose.
+
+This role is accountable for and the security, governance & compliance of Westpac AWS platform. You can work flexibly while training to upskill on new tools and technologies. In addition, this role is open to Sydney based candidates as well.
+
+Your key responsibilities may include:
+
+Through automation collect Service-Level Indicators (SLIs)
+Through automation contribute to establishing Service-Level Objectives (SLOs)
+Through automation fulfill Service Level Agreements (SLAs)
+Improve performance of SLAs
+Work with application teams to identify opportunities to improve cloud consumption, service reliability and cloud service run costs
+Assist application teams in the effective maintenance and lifecycle of their cloud infrastructure.
+Development and where applicable the codification of operations playbooks
+Level 3 maintenance of cloud platform including change activities
+Level 3 operations for the banks cloud platform including On-Call responsibilities
+Maintain focus on industry and technical trends to enable evaluation and recommend changes to the business strategy/ architecture and Azure offerings, and automation and orchestration of services.
+Apply Agile frameworks, techniques, and processes to deliver value to the business.
+
+What’s in it for me?
+
+You will play an important and significant part in the future of a business that has been around for 200 years. Our vision is to become one of the world’s great service companies. So, we will back you in the development of your career, with internal career prospects and flexible working. You will also be backed by a fantastic team of people in a can-do, supportive structure.
+
+What do I need?
+
+To be successful in this role, you will need excellent and verbal communication skills, strong stakeholder management experience and be self-driven. In addition to this, your skills may include:
+
+Hands-on experience with Azure Technologies with a deep understanding of the foundational platform including Subscriptions, Resource Groups, RBAC etc
+Experience in one or more DevOps automation tools – BitBucket, Jira, Jenkins.
+Experience in IaC and infrastructure management tools – Terraform
+Knowledge in scripting and developing tools including - Bash/Shell, Ruby, JSON, Python, NodeJS, JavaScript.
+Experience in developing CICD pipelines – Jenkins, Artifactory.
+Troubleshooting in Azure technologies and across multiple consumption models (IaaS, PaaS, and SaaS).
+Agile methodologies – Scrum, Kanban, Lean, XP, SAFe, TDD, BDD, customer centric design.
+Customer engagement, relationship development, requirements gathering and delivery planning and scheduling.
+Azure cloud certification is highly desired.
+
+What’s it like to work there?
+
+As well as competitive remuneration and a great culture, joining the Westpac family means you will get some of the best banking, wealth, and insurance benefits in the market.
+
+We back our employees by helping them work towards industry-recognised qualifications, using online learning, training modules and career planning tools for you to grow with us. We will even pay you to do volunteer or community work.
+
+We aim to provide one big, supportive team of people working to achieve our purpose of creating better futures together. As an equal opportunity employer, we’re proud to have created a culture and work environment that values diversity and flexibility – and champions inclusion.
+
+How do I Apply?
+
+Start here. Just click on the APPLY button.
+
+As part of our commitment to creating a diverse and inclusive workplace, this role is open to experienced candidates seeking a discussion around workplace flexibility. We invite candidates of all ages, genders, sexual orientation, cultural backgrounds, people with disability, neurodiverse individuals, and Indigenous Australians to apply. If an adjustment is required to assist you during our recruitment process, please email talentacquisition@westpac.com.au
+
+Do you need reasonable adjustments during the recruitment process?
+
+At Westpac we are committed to providing a supportive culture and creating inclusive and accessible workplaces, branches, products and services for our customers, employees, and community.
+
+We can provide reasonable adjustments for individuals with disability and/or neurodiversity. If you require an adjustment to be made during the recruitment process at any stage, please call 1800 655 592 Option 1.2 or email talentacquisition@westpac.com.au
+Show more 
+Seniority level
+Not Applicable
+Employment type
+Full-time
+Job function
+Engineering and Information Technology
+Industries
+Banking, Financial Services, and Investment Banking
+  
+

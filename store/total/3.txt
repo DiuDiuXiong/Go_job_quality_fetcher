@@ -1,0 +1,120 @@
+
+DevOps Engineer
+mx51  Sydney, New South Wales, Australia
+2 weeks ago  135 applicants
+  
+See who mx51 has hired for this role
+Apply
+Save
+mx51 is a payments-as-a-service solution for banks, non-bank acquirers, and other merchant service providers. We are building a payment platform that allows merchants to accept payments in-store, in-app and online, whilst consolidating all their data on a real-time business management dashboard.
+
+
+
+
+We have an exciting DevOps Engineer role within our infrastructure team, we’re looking for someone to help us scale our operations and to further compliment the team’s skills and experience. This role will be ideal for an Engineer who enjoys collaboration with different business areas, enjoys learning (self-learning included) and is seeking a role which encourages innovation.
+
+
+
+
+We’re looking for someone who’s keen to learn and grow with us in the Site Reliability Engineering/DevOps space. Using a best in class AWS stack centred around Kubernetes (EKS) and Go microservices, CI/CD driven, and using great tools like Terraform, join a team that makes a true impact.
+
+
+
+
+We're a remote first organisation, with the rest of the team based in Sydney. As a location, Sydney would be our preference but we are also open to people working across Australia and New Zealand. If you're working remote, we just ask that you commit to meeting with the team in Sydney 3-4 times a year.
+
+
+
+
+Are you curious to learn more about how our tech team works, our tech stack or what we do day to day? We've shared our Technology Handbook here: https://mx51.tech/handbook
+
+
+
+
+A bit more of the detail:
+
+
+
+
+Augment and improve our applications’ and platforms’ monitoring and observability capabilities
+Ensure our runtime platforms on EKS remain healthy
+Identify bottlenecks for scale and research alternative technologies
+Enrich our Infrastructure-as-code repository with new functionality and improvements
+Automate build and release processes through build pipelines
+Rotate responsibilities as SRE/Devops BAU role during business hours for internal issues/blockers
+
+
+
+
+What we'd love to see in an applicant (but don't be put off if you don't have everything):
+
+
+
+
+Experience monitoring and troubleshooting large-scale distributed systems running on Kubernetes
+Demonstrated experience with cloud computing vendors and services
+Advanced networking on Linux platforms/containers
+Experience automating everything through pipelines e.g. Azure DevOps and Github
+Experience with Kubernetes as an end-user/developer
+Proficient writing Terraform modules and implementations
+Experience working with a strong security mindset when building systems/processes
+
+
+
+
+Nice to have (but certainly not essential):
+
+
+
+
+Previous experience in the fintech industry or a fast-growth technology company
+
+
+
+
+LI-Remote
+
+
+
+
+What We Offer
+
+
+
+
+You will be joining an incredible team who are committed, customer focused, adaptable and curious. Our innovative culture gives you opportunities to make real contributions that will shape the future of the business. In addition to a fun and flexible work environment, we also offer:
+
+
+
+
+Work from anywhere up to 4 weeks per year
+Flexible work practices and tools to help you set up your remote workstation
+Access to co-working facilities across 3 states
+Annual team offsite
+Social events run by our social committee
+Swap a public holiday and take an alternative day off
+Paid leave for volunteering
+Employee Share Option Plan (subject to invitation)
+Paid parental leave for primary and secondary carers
+Novated lease and salary sacrifice options
+
+
+
+
+mx51 is an equal opportunity employer that is committed to creating a diverse and inclusive environment. All qualified applicants will receive consideration for this role without bias to race, religion, gender, gender identity or expression, sexual orientation, national origin, genetics, disability or age.
+
+
+
+
+Note: mx51 does not accept unsolicited resumes or applications from recruitment agencies.
+Show more 
+Seniority level
+Entry level
+Employment type
+Full-time
+Job function
+Engineering and Information Technology
+Industries
+Financial Services
+  
+

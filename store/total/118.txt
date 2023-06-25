@@ -1,0 +1,96 @@
+
+Data Engineer
+Alinta Energy
+3.6
+•
+83 reviews
+Adelaide SA
+Database Development & Administration (Information & Communication Technology)
+Full time
+Competitive package with annual bonus
+Posted 15d ago
+More jobs from this company
+Apply for Data Engineer at Alinta Energy
+Apply
+Save Data Engineer at Alinta Energy
+Save
+Share
+
+About Alinta Energy:
+
+At Alinta Energy, we’re constantly striving to do better. Whether it’s lowering customers costs, providing world class local service or sustainable energy, our aim is to be better. And to keep getting better day after day. Better for our customers. Better for Australia. And better for our environment.
+
+We’re a leading Australian utility with an owned and contracted generation portfolio of 3,000MW, over 1 million combined electricity and gas retail customers, and around 1,000 employees across Australia and New Zealand. Supplying energy in Australia for over 20 years, today we’re a vertically integrated energy company providing generation, retail and wholesale supply of gas and electricity across Australia. We support the development of renewable energy generation and offer local customer service through support hubs in Perth, Western Australia and Morwell in Victoria.
+
+Our Culture:
+
+It’s an exciting time to become a part of our growing team at Alinta Energy. Our people are our greatest asset and we’re committed to a culture that’s focussed on being better at providing great service externally and internally. An organisation where people truly matter. That’s better.
+
+About the role:
+
+We are looking for two experienced Data Engineers to join our collaborative and innovative Data and Analytics team.  As a valued member of the team, you will work on building out the new, Azure-hosted data and analytics environment and deploying and operating data pipelines against it. 
+
+This a great opportunity for candidates who are looking to work in a supportive and easy-going team that offers flexibility, on the job learning, and exposure to different projects across the business. 
+
+Duties:
+
+Work with project and end-user teams to build and define backlogs of work
+Design solutions to meet business, technical and user requirements
+Support the operation of Data & Analytics assets and data pipelines
+Maintain, extend and document the metadata framework with an aim of minimising developer time, toil and cloud costs and maximising data quality
+Build end-to-end data pipelines across the Azure Data Lake and Synapse Warehouse, with activities including data staging, ELT/ETL, data quality, archiving, and testing
+Work as part of the Data Engineering team on profiling, sourcing, management and use of data
+
+Skills & Experience:
+
+Extensive Data Engineering pipeline design and implementation experience within a commercial environment
+Experience working with metadata-based ELT/ETL frameworks
+Experience using Databricks, Python, Scala or Java code against large-scale, cloud-based data warehouses that make use of big-data frameworks like Spark, Kafka, Hive and Map-Reduce 
+Prior experience working in/with DevOps teams and comfortable with DevOps/SRE thinking
+Skilled in data modelling and in designing Data Vaults and Kimball-based data models 
+Previous experience in working with legacy data warehouses and reverse-engineering designs from undocumented code 
+
+Experience with reverse engineering legacy code (Microsoft SSIS/SSRS), and/or Microsoft Azure Certified Data Engineer accreditation will be highly regarded.
+
+Benefits:
+
+Hybrid working arrangements for most roles, combining office-based and work from home
+Staff energy discount offer (where products are available)
+Generous employee referral bonus
+Salary Packaging options
+Wellness programs including our Employee Assistance Program and free full access to the Headspace application
+Paid community volunteer leave
+Access to LinkedIn learning
+Discount program for a range of products and services 
+14 weeks of fully paid parental leave
+Company paid salary continuance insurance
+Ability to purchase additional leave
+Modern offices with free snacks, drinks, and coffee
+
+Let’s spread the positive energy together…
+
+Alinta Energy is a 2023 Circle Back Initiative employer - we commit to respond to every applicant.
+
+Please note that if your application progresses you will be required to complete background/pre-employment checks. These checks may include but are not limited to - right to work/immigration checks, reference checks, criminal background checks, qualification checks and additional finance checks for finance related positions.
+
+How to apply:
+
+Click “APPLY” to submit your application.
+
+Report this job advert
+Be careful
+Don’t provide your bank or credit card details when applying for jobs.
+Learn how to protect yourself
+Report this job ad 
+Upskill in python programming language to better prepare for this job
+
+Python
+
+The Learning People
+
+Up to 55 hours self-paced
+
+Online
+
+Start Anytime
+

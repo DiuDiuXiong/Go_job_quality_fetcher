@@ -1,0 +1,51 @@
+
+Tech Lead, Video Platform SRE
+TikTok  Sydney, New South Wales, Australia
+3 days ago   Be among the first 25 applicants
+  
+See who TikTok has hired for this role
+Apply
+Save
+Responsibilities
+
+TikTok is the leading destination for short-form mobile video. Our mission is to inspire creativity and bring joy. TikTok has global offices including Los Angeles, New York, London, Paris, Berlin, Dubai, Singapore, Jakarta, Seoul and Tokyo.
+
+Why Join Us
+At TikTok, our people are humble, intelligent, compassionate and creative. We create to inspire - for you, for us, and for more than 1 billion users on our platform. We lead with curiosity and aim for the highest, never shying away from taking calculated risks and embracing ambiguity as it comes. Here, the opportunities are limitless for those who dare to pursue bold ideas that exist just beyond the boundary of possibility. Join us and make impact happen with a career at TikTok.
+
+Team Introduction
+Video Cloud Infra team, facing business experience and cost, builds a competitive video transmission network and multimedia processing platform, builds data foundation and analysis capabilities, drives product refined operation, reduces costs and increases efficiency.
+
+Responsibilities
+- Lead the global SRE team on the technical side that manages video platform production systems at scale, which serves billions of TikTok users.
+- Responsible for managing production systems for Video on demand and Live Streaming systems, including deployments, resource and capacity management, monitoring, incident management and traffic management.
+- Participate in design reviews for new features to ensure the design's readiness for production.
+- Build automations, tools and platforms for production management to improve production maintainablity and operation efficiency.
+- Implement all kinds of strategies in systems and processes to ensure production stability.
+
+Qualifications
+
+Requirements
+- Bachelor's degree in Computer Science or a related technical background involving software/system engineering, or equivalent working experience.
+- Extensive knowledge of networking, operation systems, database systems and container technology.
+- Hands on experience in common open-source systems such as Linux, MySQL, MongoDB, Redis and ELK.
+- Experience in building solutions with AWS, Google, Azures and other cloud services is a plus.
+- Passionate, self-motivated and good teamwork skills.
+- Experience in Internet-scale systems is a requirement.
+- Strong project management skills that involve many roles and participants to ensure project goal and timeline requirement.
+- Experience of managing a technical team for 3+ years with proven results in both business outcome and team management.
+
+TikTok is committed to creating an inclusive space where employees are valued for their skills, experiences, and unique perspectives. Our platform connects people from across the globe and so does our workplace. At TikTok, our mission is to inspire creativity and bring joy. To achieve that goal, we are committed to celebrating our diverse voices and to creating an environment that reflects the many communities we reach. We are passionate about this and hope you are too.
+
+In the spirit of reconciliation, TikTok acknowledges the Traditional Custodians of country throughout Australia and their connections to land, sea and community. We pay our respect to their Elders past and present and extend that respect to all Aboriginal and Torres Strait Islander peoples today.
+Show more 
+Seniority level
+Not Applicable
+Employment type
+Full-time
+Job function
+Research, Information Technology, and Engineering
+Industries
+Entertainment Providers
+  
+

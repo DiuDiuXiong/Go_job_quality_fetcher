@@ -1,0 +1,66 @@
+
+Site Reliability Engineers - Mid to Senior - AWS / K8's
+Talent Realised
+North Sydney, Sydney NSW
+Engineering - Software (Information & Communication Technology)
+Full time
+$120k to $160k + super + benefits & extra leave
+Posted 25d ago
+More jobs from this company
+Apply for Site Reliability Engineers - Mid to Senior - AWS / K8's at Talent Realised
+Quick apply
+Save Site Reliability Engineers - Mid to Senior - AWS / K8's at Talent Realised
+Save
+Share
+Senior Site Reliability Engineer
+
+We are an Australian born startup and we are making a positive impact on the lives of millions of Australians every year. 
+
+We have $40+ million in funding and 2-3 years of runway with more rounds to come and so much more room to grow!
+
+We are looking for Mid & Senior Site Reliability Engineers who have transitioned from into SRE or DevOps from a Software Engineering background.
+
+Salary ballpark is $120k to $160k base + super + benefits (including +7 days leave, paid personal & professional development and novated leasing)
+
+More information on the role;
+
+You wont be expected to be a full time programmer but they aren't looking for a SysAdmin either.
+You will be spending your time building, maintaining & monitoring AWS infrastructure & building tooling that allows product teams to go faster.
+CloudFormation & Terraform Infrastructure as Code tooling experience required.
+Kubernetes experience would be ideal as they are looking to move to prod.
+Previous experience of tight collaboration with developers & product teams would be highly beneficial.
+We are looking for experienced Site Reliability Engineers who have;
+3 to 5 years or more experience in and SRE or DevOps role.
+A deep understanding of SRE best practices and processes.
+Hands-on experience writing code & building tools.
+Deep AWS experience & understanding.
+Experience collaborating & working closely with software developers and development teams.
+Experience with containerised and serverless architectures.
+A few of the things we off our employees;
+
+Flexible working arrangements (hybrid/remote)
++7 days of extra leave entitlements
+Novated leasing arrangements
+Learning and Development initiatives
+An annual contribution for you to invest in your continued education
+Regular social events to relax and connect with teammates
+How to apply:
+
+If you have just read this top to bottom and thought to yourself "holly sh!t, I need to work there" then I would suggest you click on apply (risky) OR email Josh with a quick bit on why you need to be considered; josh@talentrealised.com.au and follow him up with a phone call to discuss; 0423461061 (Safer option)
+Report this job advert
+Be careful
+Don’t provide your bank or credit card details when applying for jobs.
+Learn how to protect yourself
+Report this job ad 
+Upskill in site reliability engineering to better prepare for this job
+
+Site Reliability Engineering (SRE) Foundation
+
+Lumify Work
+
+2 days full-time
+
+Online, On-campus
+
+Start February
+

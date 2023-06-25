@@ -1,0 +1,61 @@
+
+DevOps Tech Lead - AWS - Hands on - Remote (East Coast)
+Talent Realised
+Sydney NSW
+Networks & Systems Administration (Information & Communication Technology)
+Full time
+$210k total package inc super & benefits
+Posted 17d ago
+More jobs from this company
+Apply for DevOps Tech Lead - AWS - Hands on - Remote (East Coast) at Talent Realised
+Quick apply
+Save DevOps Tech Lead - AWS - Hands on - Remote (East Coast) at Talent Realised
+Save
+Share
+We are an Australian Enterprise Service Provider. We are looking for a DevOps Technical Lead to join and lead our team in a large scale and complex AWS environment.
+
+The main part of this role will be taking ownership of our AWS environment, including; assessment, design, and implementation of AWS based services and tools to support our AWS Platform and deployment pipeline's.
+
+This is a hands-on role requires both strong technical knowledge and leadership skills.
+
+Responsibilities:
+
+Technical leadership of a team of AWS engineers
+Champion technical solutions both internally in the team and externally to other teams
+Enhancing, maintaining, and updating AWS Platform, CI/CD framework, core infrastructure, service offerings and automation framework
+Identify and promote areas of improvement in policies, processes, and tooling
+Knowledge & Experience:
+
+In depth knowledge of AWS technologies
+Python programming experience at DevOps or SRE standard
+Infrastructure-As-Code hands on experience preferably (CloudFormation and CDK)
+CI/CD pipelines (AWS Code Build, Code Deploy, Code Pipeline)
+Building highly available, scalable and resilient platforms
+Observability knowledge and tooling
+Benefits And Perks:
+
+1 office day per month (perfect for anyone on the Aussie East Coast)
+Free Mobile and Internet
+Additional 4 days of leave
+Learning platform and internal development opportunities
+Access to Corporate Partner Discounts
+
+
+Does this sound like the kind of DevOps you've been looking for? Register your interest by applying or contacting me direct on josh@talentrealised.com.au or 0423461061
+Report this job advert
+Be careful
+Don’t provide your bank or credit card details when applying for jobs.
+Learn how to protect yourself
+Report this job ad 
+Upskill in amazon web services to better prepare for this job
+
+AWS Cloud Architect
+
+Upskilled
+
+7 months part-time
+
+Online
+
+Start Anytime
+

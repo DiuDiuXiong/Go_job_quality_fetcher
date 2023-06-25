@@ -1,0 +1,99 @@
+
+Site Reliability Engineer - SRE Engineer
+Macquarie Group  Sydney, New South Wales, Australia
+2 days ago   Be among the first 25 applicants
+  
+See who Macquarie Group has hired for this role
+Apply
+Save
+Melbourne, Sydney
+
+We're seeking a Site Reliability Engineer with a passion for software reliability. We aim to provide the most reliable products and service in financial industry.
+
+In this role you will be responsible for:
+
+Application of Observability principles within our infrastructure, environments and software
+Application of best practice SLI’s, SLO’s, metrics, and error budgets
+Develop and implement comprehensive monitoring, logging and alerting technologies
+Establish and implement strategies for canary releases, feature toggling and rollback back practices
+Collaboration with feature teams to ensure reliability practices are integrated into development
+Implement continuous learning through blameless postmortems
+Participate in improving incident management and application of best practices.
+Establishing Release Engineering best practices
+Developing reliability software patterns and practices (e.g. circuit breaker, retry etc).
+Help achieve the goal of ‘push on green’ for deployments
+
+Skills required:
+
+Strong experience in software engineering
+Strong experience in SLO, metrics, logging, and tracing
+Proven record of accomplishment in automating toil
+Excellent understanding of modern software development practices, tools and technologies
+A passion for getting things done, balancing short- and long-term needs
+Influencing software engineers on reliability
+Influence and technical leadership capabilities to drive change in environments, manage stakeholders and get alignment cross functionally
+Strong DevOps fundamentals with preference for Java, Golang, Microservices and other cloud technologies
+
+What is in it for you:
+
+This is an opportunity to play a pivotal role in shaping Engineering for Macquarie Bank
+Enjoy the satisfaction of making a difference and being part of a team that drives positive change in the bank and the industry
+Be part of a forward-thinking organisation that embraces new technologies and modern engineering practices
+Be part of a team that deeply values diversity and creates space for you to be your best, in a modern & inclusive environment with a strong focus on employee experience
+Being hands-on with the latest cloud technologies including Google Cloud to tackle interesting banking and finance problems
+Ongoing professional development and free technical certification
+
+About The Corporate Operations Group
+
+The Corporate Operations Group brings together specialist support services in Digital Transformation & Data, Technology, Operations, Human Resources, Business Services, Corporate Strategy & Solutions, and the Macquarie Group Foundation. We deliver service excellence to ensure Macquarie is open for business, deliver on transformational change, invest in our people and have deep relationships with our customers.
+
+Our commitment to Diversity, Equity and Inclusio
+
+About The Corporate Operations Group
+
+The Corporate Operations Group brings together specialist support services in Digital Transformation & Data, Technology, Operations, Human Resources, Business Services, Corporate Strategy & Solutions, and the Macquarie Group Foundation. We deliver service excellence to ensure Macquarie is open for business, deliver on transformational change, invest in our people and have deep relationships with our customers.
+
+Our commitment to Diversity, Equity and Inclusion
+
+The diversity of our people is one of our greatest strengths. An inclusive and equitable environment enables us to deliver innovative and sustainable outcomes for our people, clients, shareholders and communities. From day one, you'll be encouraged to be yourself and supported to perform at your best. If our purpose of ‘empowering people to innovate and invest for a better future’ is as inspiring to you as it is to us, please apply. With the right technology, support and resources, our people can work in a range of flexible ways.
+
+We are committed to providing a working environment that embraces and values diversity, equity and inclusion. We encourage candidates to speak with a member of our recruitment team if you require adjustments to our recruitment process to support you, and the type of working arrangements that would help you thrive.
+
+About Macquarie
+
+A career at Macquarie means you’ll have the opportunity to develop and utilise new skills, explore interesting fields and do challenging work that will impact the lives of people around the world—whether it’s accelerating the green energy transition, helping sustain global food supplies, financing social housing projects or investing in essential infrastructure. At Macquarie, we’re empowering people to innovate and invest for a better future.
+
+Our size and international presence means your work can take you anywhere—across business groups, disciplines, sectors and borders. With 19,200+ employees and offices in 34 markets around the world, we’re a truly global organisation.
+
+You’ll be supported by a diverse team where the unique perspectives, ideas and experiences that all of our people bring are valued. You’ll be empowered to address unmet needs in our communities whilst advising and investing alongside our clients and partners. Working with us, you’ll have the opportunity to make a difference.
+
+Macquarie is a global financial group providing clients with asset management, retail and business banking, wealth management, leasing and asset financing, market access, commodity trading, renewables development, specialist advisory, capital raising and principal investment.
+
+Find out more at www.macquarie.com/careers
+
+Job no: COG-972681
+
+Work type: Permanent - Full time
+
+Location: Melbourne, Sydney
+
+Category: Senior, Technology
+
+Group: Corporate Operations Group
+
+Division: Technology
+
+Recruiter: Mimi Huynh
+
+Opening Date: 30/5/2023
+Show more 
+Seniority level
+Not Applicable
+Employment type
+Full-time
+Job function
+Engineering and Information Technology
+Industries
+Banking, Financial Services, and Investment Banking
+  
+

@@ -1,0 +1,106 @@
+
+Senior SRE Cloud Engineer
+Yarra Valley Water
+4.0
+•
+30 reviews
+Mitcham, Melbourne VIC
+Other (Information & Communication Technology)
+Government - State (Government & Defence)
+Full time
+$168,000k p.a.
+Posted 19d ago
+More jobs from this company
+Apply for Senior SRE Cloud Engineer at Yarra Valley Water
+Apply
+Save Senior SRE Cloud Engineer at Yarra Valley Water
+Save
+Share
+
+$168,000 Total Remuneration Package
+For-purpose organisation with award-winning culture - 86% employee engagement
+True hybrid working environment - no set mandated days in the office
+
+The Role
+
+The SRE/ITOM Engineer is a hands-on role responsible for maintaining a best-in-class, secure, highly available, and resilient environment that meets the organisation's changing needs. The position will ensure that our IT Environment remains highly available, reliable, and scalable. The role works closely with Infra and Cloud, development, and SNOW teams. The primary responsibilities include automation, monitoring and incident response. It will also be responsible for implementing good engineering practices and capability, including security, networking, monitoring, scaling, and factors contributing to overall reliability.
+
+This role is essential in establishing end-to-end monitoring/Observability, Reliability and incident response, and integration events/alerts with SNOW. Configuration and management of rules, modern services, processes and supporting platforms.
+
+About Us
+Yarra Valley Water provides essential water and sanitation services to over two million people. We are one of Australia's largest water utilities, with more than 30% of Victoria's population relying on us 24/7. We're future-focused and continually work to anticipate the changing needs of our customers and stay ahead of evolving community expectations. We're shifting to a regenerative approach in our work to actively contribute to improving the natural environment we all rely on.
+
+Key Responsibilities
+Key areas of responsibility include:
+
+Design, development, and implementation of SRE processes, tools
+Producing solution architectures and proposals for new projects
+Experience managing and supporting monitoring tools, setup, configuration/rules, and all events and alerts in Service Now.
+Automation and experience with Terraform and Ansible tools
+Advanced troubleshooting skills to improve site reliability, monitoring, alerting and resource management.
+Create a positive customer support experience and build strong relationships.
+Drive DevOps/DevSecOps thinking to ensure safe automation practices.
+Maintain a secure environment and monitor compliance with IT service delivery framework.
+Foster a culture of continuous improvement, manage process improvements, develop capacity plans, provide knowledge transfer, and maintain daily interaction with ServiceNow and ITOM services.
+Maintain daily interaction with ServiceNow and ITOM configuration management database (CMDB) services in an enterprise production environment.
+
+About you
+
+Experience in SRE/ITOM, Strong cloud platforms, Azure
+Deep understanding of DevOps, CI/CD and automation
+Experience building CI pipelines, both design and implementation
+End-End monitoring experience of Infrastructure and Application systems
+Experience setting rules, integration of Alerts and Events Management in SNOW
+Technical knowledge of software development frameworks incorporating tools such as DevOps, Azure DevOps and Service Now
+Infrastructure as Code (Terraform, Ansible)
+Experience with Azure Monitoring, Elastic Cluster, CISCO DNAC, SolarWinds, SCOM etc.
+ServiceNow ITOM Support or implementation
+Demonstrated hands-on experience with multiple implementations of the core suite of ServiceNow ITOM applications (Discovery, Service Mapping & Event Management. Certificate & Cloud Management will be a plus).
+
+More details on responsibilities and core capabilities can be found in the linked position description.
+
+Why work with us?
+
+The role is classified as a Senior Manager, and the Total Remuneration Package (TRP) is $168,000 (inclusive of 10.5% superannuation)
+An inclusive culture that cares deeply about people and their professional growth
+Flexibility for real. For us, it starts with trust. We're committed to creating a truly hybrid workforce - where our people are empowered to design their days with their teams around where their work is best done - click to learn more about our hybrid working principles.
+Home office set up allowance of $650
+Laptop and headset provided
+14 weeks of paid parental leave for primary carers
+15 personal leave days per year
+Training and development opportunities
+Onsite parking, canteen, social events, skill-sharing and networking opportunities
+
+Please keep reading
+
+Research shows that while men apply to jobs when they meet an average of 60% of the criteria, women and other marginalized folks tend to only apply when they check every box. So if you think you have what it takes, but don't necessarily meet every single point on the job description, please apply or get in touch. We'd love to have a chat and see if you could be a great fit.
+
+Here at YVW, we are truly committed to supporting the health and wellbeing of our customers and our staff. This is not just a purpose statement, it does drive action here. One such action is to ensure our employees are paid fairly regardless of gender. We do this by having what we call our "best and final offer approach" to salary. This means that our salary offer will be firm (with no negotiation) because our offer is based solely on the value of the role you are employed to perform. This is our way of ensuring our people are paid the same salary for roles of similar value and that there is no unconscious bias when we set pay. If this approach is new to you please chat to one of the Talent Team about it further.
+
+How to apply
+Applications should include a supporting Cover Letter and Resume.
+If you want to learn more, please get in touch with Manish Bharadwaj at +61 398721553.
+
+Closing date: Monday, 19 June 2023
+
+Yarra Valley Water is committed to creating an inclusive and diverse workplace. We welcome applications from Aboriginal people, young people and people from culturally diverse backgrounds. We welcome applications from people with disability and aim to provide an inclusive and accessible workplace. If you need any help with the application process or would like to discuss your reasonable adjustments during interviews, please contact: recruitment@yvw.com.au.
+
+
+
+This position is available for Yarra Valley Water employees and external applicants.
+
+Successful applicants must be eligible to work in Australia and agree to provide information for pre-employment checks, if required for the position (which may include police records checks).
+
+
+
+
+
+Report this job advert
+Be careful
+Don’t provide your bank or credit card details when applying for jobs.
+Learn how to protect yourself
+Report this job ad 
+Thinking about a career as a Cloud Engineer?
+Insights on salary & in-demand skills
+Reviews from people working in the industry
+Explore career

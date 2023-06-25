@@ -1,0 +1,104 @@
+
+Senior Cyber Security Engineer
+Wrkr Limited
+Melbourne VIC
+Security (Information & Communication Technology)
+Full time
+Posted 26 May 2023
+More jobs from this company
+Apply for Senior Cyber Security Engineer at Wrkr Limited
+Quick apply
+Save Senior Cyber Security Engineer at Wrkr Limited
+Save
+Share
+
+Senior Cyber Security Engineer
+
+The safety and wellbeing of our employees and potential employees is important to us. We want to assure candidates that there is no expectation from Wrkr to meet face-to-face and a virtual interview will not adversely impact your application. Therefore we will conduct interviews with candidates via Google Meets. If you have any questions or concerns, please don’t hesitate to contact us.
+
+Who we are
+
+Wrkr Ltd is a recently merged ASX listed business with the passion and energy of a start-up, with our award winning Platform, that currently helps close to 3 million Australian workers resolve their compliance moments in partnership with many of Australia’s leading payrolls, superannuation funds and accountants.
+
+Our purpose is to make “Compliance, Simple.” and we’re embarking on our next phase of growth. So if you’re looking for a front row seat in an inclusive and supportive environment, and want to make a real impact on our award winning product, then this is the role for you.
+
+We are born out of a startup with an impressive track record of delivering value in the Superannuation, business and citizen compliance industry. With us, you’ll ignite a meaningful career while being supported by a flexible working culture, innovative learning and development opportunities, policies and benefits of a progressive tech business.
+
+Please keep reading... Research shows that while men apply to jobs when they meet an average of 60% of the criteria, women and other marginalised folk tend to only apply when they check every box. So if you think you have what it takes, but don’t necessarily meet every single point on the job description, please still get in touch. We’d love to have a chat and see if you could be a great fit.
+
+What you’ll be doing
+
+We are seeking a Senior Cyber Security Engineer to join our amazing Technology Engineering team. Reporting to the Head of SRE & Security, you will be playing a vital role in our team and will be responsible for the implementation of security best practices using the latest technology and tools available on running resources in our cloud environments AWS and Azure. 
+
+Responsibilities include, but not limited to:
+
+Provide technical security leadership to ensure successful execution of our “Zero Trust” and “Secure By Design” security strategy
+Provide hands on engineering capability for securing cloud services using continuous delivery practices through Infrastructure as Code patterns
+Plan, design and build security improvements on our AWS and Azure Cloud Platforms
+Set up firewalls and systems to identify intrusion, configuring these to suit the needs of Wrkr
+Conduct security testing and deliver reports based on findings
+Work with all teams to ensure cloud assets are configured and administered securely throughout their entire lifecycle
+Investigate and respond to security incidents, providing insights into the nature of the attack and potential impact to the organisation
+Conduct forensic investigations to identify the root cause of security incidents and provide recommendations for remediation
+Proactively search or hunt for advanced and persistent security threats that may have evaded traditional security measures
+Work with stakeholders across the organisation to mitigate the impact of security incidents and develop plans for business continuity
+Maintain security management principles, policies, standards and processes
+Monitor ongoing compliance to security and privacy-related regulatory standards and requirements
+Provide guidance and reporting to the management on a range of security risk and control issues
+Contribute to the development of our security roadmap and practices
+Keep up to date with modern security approaches, the latest threat intelligence and emerging trends  
+
+What skills and experience we're after
+
+With demonstrated experience in a DevOps, DevSecOps or Cloud Security Engineering role (or similar), you will also have experience working in a public cloud environment (AWS and/or Azure). In addition, you will also have a proven ability to learn new systems.
+
+Skills
+
+Tertiary qualifications in computer science, cyber security, computer/electronic engineering, or a technology-related field
+Minimum 5 years experience
+Strong experience working in a SOC environment
+Strong experience with cloud security hardening
+AWS ELB, S3 storage, Cloudfront and Container security troubleshooting and remediation
+WAF rules configuration and management
+AWS patch management
+Strong cyber security experience with Security Information and Event Monitoring (SIEM), Security Orchestration and Automated Response (SOAR) and/or Splunk
+Experience working in an Infrastructure as Code environment (Terraform) 
+Experience with Vulnerability and patch management tools (Tenable)
+Experience with Secure code practices and secure code automation pipelines
+Experience with Identity and access management tools
+Experience with cyber security standards, regulations, policies and processes (ISO 27002, SOC2, GNGB, NIST Cybersecurity Framework, ISM & CDR) 
+Experience in business continuity or disaster recovery planning
+Proven ability to analyse failures and identify root causes in conjunction with developers
+Cybersecurity industry certifications such as CISSP, OSCP, GIAC Incident Handler are highly desirable but not essential
+
+What values we're after
+
+Passionate about security technologies, you’re ready to help our team defend and protect our award winning experiences and expand our business
+You’re a problem solver by nature and want to join a business that values the kind of people who reimagine the possible for their clients and stakeholders
+Someone who can work collaboratively, adapt and thrive in a constantly evolving and innovative environment
+Self-led and motivated with the ability to manage your own day-to-day tasks
+Most importantly, you act with integrity and show care for the people you work with
+
+What we offer
+
+A competitive remuneration package
+A flexible working environment meaning we strike the balance of what you need and what works for the business 
+Working with a company that is refreshed and set for growth
+Learn from truly inspiring entrepreneurs and industry leaders
+Report this job advert
+Be careful
+Don’t provide your bank or credit card details when applying for jobs.
+Learn how to protect yourself
+Report this job ad 
+Upskill in cyber security to better prepare for this job
+
+Cyber Security Risk and Strategy
+
+Rmit Online
+
+6 weeks full-time
+
+Online
+
+Start August
+

@@ -1,0 +1,67 @@
+
+Site Reliability Engineer - (Japanese & English speaking)
+Halcyon Knights Pty Ltd
+Melbourne VIC
+Engineering - Software (Information & Communication Technology)
+Full time
+$140k - 180k per year + Super
+Posted 13d ago
+More jobs from this company
+Apply for Site Reliability Engineer - (Japanese & English speaking) at Halcyon Knights Pty Ltd
+Quick apply
+Save Site Reliability Engineer - (Japanese & English speaking) at Halcyon Knights Pty Ltd
+Save
+Share
+
+Job Title: Customer-Focused Systems Reliability Engineer (Fluent in Japanese) (REMOTE) Australia - 
+
+Job Description: We are seeking a versatile and customer-centric professional to join our dynamic Systems Reliability team. As a Customer-Focused Systems Reliability Engineer, you will have a unique opportunity to assist customers in deploying, maintaining, and troubleshooting our advanced distributed services and applications across both cloud and on-premise infrastructure. Your expertise and commitment to exceptional customer support will play a crucial role in ensuring customer satisfaction and success. If you are passionate about resolving complex issues and enjoy taking ownership of customer challenges, this role is perfect for you.
+
+Responsibilities:
+
+Embrace a customer-first approach, leveraging your technical expertise to identify, troubleshoot, and resolve product issues.
+Provide top-notch technical support in Japanese to our valued customers based in Japan.
+Demonstrate agility in delivering prompt and accurate updates, meeting SLAs, and providing timely resolutions for customer issues.
+Contribute to the creation of comprehensive knowledge-base articles, enabling customers to self-serve and access valuable resources.
+Deepen your understanding of data centers and public cloud environments (VMware, AWS, Azure, GCP) to effectively support customers' diverse requirements.
+Maintain, monitor, and troubleshoot our cutting-edge cloud infrastructure.
+Collaborate closely with Engineering teams to define and implement innovative tools and strategies that enhance debuggability, supportability, availability, scalability, and performance.
+Cultivate expertise in cloud and on-premise infrastructure through the development of automation solutions and adherence to best practices.
+Participate actively in the on-call rotation for critical SRE systems, lead comprehensive incident reviews, and conduct thorough root cause analyses.
+Foster a comprehensive understanding of cloud NetOps and SecOps aspects, ensuring robust and secure infrastructure operations.
+
+Requirements:
+
+Fluent in both Japanese and English, enabling effective communication with our Japanese-speaking customers.
+Possess a B.S. degree in Computer Science or relevant industry experience, showcasing your strong technical foundation.
+Demonstrate proficiency in troubleshooting Linux Systems, underscoring your hands-on experience.
+Exhibit familiarity with virtualization and Cloud technologies, enabling you to effectively navigate and support cloud-based environments.
+Showcase a track record of excellence in enterprise customer support, including participation in on-call rotations for critical SRE systems and leading incident reviews and root cause analyses.
+Proven ability to diagnose technical problems and collaborate closely with Engineering teams to resolve escalated issues.
+Strong problem-solving skills, emphasizing algorithmic thinking and a holistic understanding of system architecture and behavior.
+Possess a comprehensive understanding of tools and frameworks necessary to operate and manage Cloud infrastructure.
+Showcase exceptional customer service skills, including the ability to empathize with customer challenges and provide effective solutions.
+Strong communication skills and the ability to work autonomously, demonstrating self-motivation and proactive problem-solving abilities.
+Proficiency in leveraging automation, monitoring, and data analysis to ensure high availability and optimal performance.
+Familiarity with programming languages such as C/C++, Python, Go, or Java, demonstrating your versatility.
+Exposure to infrastructure and service monitoring tools, allowing you to effectively monitor and optimize system performance.
+
+If you are a customer-focused professional who thrives on tackling complex challenges and enjoys working with cutting-edge technologies, we invite you to join our team. Contribute to our customers' success while furthering your own career growth.
+
+Report this job advert
+Be careful
+Don’t provide your bank or credit card details when applying for jobs.
+Learn how to protect yourself
+Report this job ad 
+Upskill in python programming language to better prepare for this job
+
+Python
+
+The Learning People
+
+Up to 55 hours self-paced
+
+Online
+
+Start Anytime
+

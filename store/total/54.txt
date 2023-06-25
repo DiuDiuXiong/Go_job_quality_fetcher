@@ -1,0 +1,105 @@
+
+DevOps/IT Operations Engineer
+Elula
+Sydney NSW
+Engineering - Software (Information & Communication Technology)
+Full time
+Posted 23d ago
+More jobs from this company
+Apply for DevOps/IT Operations Engineer at Elula
+Quick apply
+Save DevOps/IT Operations Engineer at Elula
+Save
+Share
+Who we are
+
+Elula was founded in 2017 by a bunch of talented people with years of experience in enterprise and passions for technologies that deliver smarter decision making through the intelligent use of data.
+
+Our vision from the start has been making real, positive differences to businesses of all sizes, through AI. We work with some of Australia’s most well-known companies, both locally and internationally, to solve all sorts of business problems. And we partner with Amazon Web Services to make it all happen.
+
+Today, Elula includes some of the smartest data scientists and engineers in our region. We continually develop new ways to add value via an evolving understanding of customers—and how to respond to their ever-changing needs.
+
+We have a vibrant culture with an emphasis on teamwork, action, learning, creativity, and a can-do attitude. It is fast paced but a fun and supportive environment. At Elula you will always be pushed to be the best version of you and will be working in an exceptional team at the forefront of AI product development.
+
+Our products utilise machine learning algorithms, productionised models, data pipelines, explainable AI, visualisations, and technical-into-plain-English translation. We are focused on helping the financial services industry deliver personalised customer experiences and transform customer engagement and retention.
+
+Find out more about us at https://elula.ai/team/.
+
+ 
+
+About the role
+
+We are looking for an DevOps/IT Operations Engineer who is passionate about building, releasing, and operating our products, focuses on improving the engineering efficiency, and ensures the highest levels of availability, reliability, and performance of our products.
+
+You’ll perform release management, maintain CI/CD pipelines, improve engineering efficiency through development, test, and release cycles, as well as contribute to code reviews and documentation. In addition, you will develop and maintain automation tools to manage reliability and performance of our products, perform routine tasks, and continuously monitor our internal and external services using industry standard tools.
+
+ 
+
+Skills and Experience
+
+If you have the following skills and experience, we encourage you to apply:
+
+Automating routine system administration tasks to specifications using standard tools and basic scripting.
+Using software and tools to collect performance statistics. Monitoring, measuring, and reporting on infrastructure load, performance, and security events. Identifying operational issues and contributing to their resolution.
+Provisioning, configuring, and maintaining infrastructure services and components.
+Carrying out agreed operational procedures, including backup/restore, using supplied infrastructure tools and scripts. Carrying out agreed system software maintenance and administration tasks.
+Following agreed standards and techniques to devise and execute test cases and scenarios based on pre-defined acceptance criteria. 
+Leveraging knowledge of a specialism to capture and classify content, taking expert advice when required.
+Designing test cases and test scripts under own direction, mapping back to pre-determined criteria, recording and reporting test outcomes. Participating in requirement, design, and specification reviews, and using this information to design test plans and test conditions.
+Two years or more as IT Operations Engineer, DevOps Engineer, or similar
+
+ 
+
+Knowledge
+
+While the following knowledge is not required, they are highly valued:
+
+Broad knowledge of a range of software development and delivery lifecycles
+Relevant applications (Tableau, Datadog), languages (Python), and environments (AWS)
+Knowledge of different DevOps products, pros & cons of industry DevOps tools 
+Agile software product development techniques 
+System administration, including hardening, patching, and backup
+University degree in computer science or similar
+
+We are looking for people with the ability to apply their existing skills and knowledge in different areas to solve new and interesting problems while expanding their technical capabilities. People which develop quality outcomes to abstract problems, collaborate, embrace a start-up mindset, and have an appetite to personally develop alongside our experienced team.
+
+ 
+
+Benefits
+Work with talented people – we have high standards and hire the best and the brightest
+Learn and develop at pace – we have great people leaders and actively support growth through training and education, with exposure to real-world problems
+We believe can do better by being together – we spend 4 days per week in the office, building culture face-to-face
+Inclusivity and equality – all are welcome to apply for our roles because we truly believe that diversity is a game changer for Elula
+
+ 
+
+Interested?
+
+If you are excited about working with a close-knit team of highly motivated people, submit your CV and a cover letter telling us specifically what draws you to Elula, what draws you to the job, and what distinguishes you from others.
+
+Flexible work arrangements are available as are internal career development opportunities to any other role within the company.
+
+ 
+
+Employer questions
+Your application will include the following questions:
+Which of the following statements best describes your right to work in Australia?
+What's your expected annual base salary?
+How much notice are you required to give your current employer?
+Report this job advert
+Be careful
+Don’t provide your bank or credit card details when applying for jobs.
+Learn how to protect yourself
+Report this job ad 
+Upskill in amazon web services to better prepare for this job
+
+AWS Cloud Architect
+
+Upskilled
+
+7 months part-time
+
+Online
+
+Start Anytime
+

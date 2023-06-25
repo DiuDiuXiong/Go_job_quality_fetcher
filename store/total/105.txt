@@ -1,0 +1,102 @@
+
+Platform Engineer - Reliability, Middleware and Integration
+Griffith University
+3.6
+•
+178 reviews
+Nathan, Brisbane QLD
+Engineering - Software (Information & Communication Technology)
+Full time
+$93,854 - $101,608 per annum + 17% superannuation.
+Posted 9d ago
+More jobs from this company
+Apply for Platform Engineer - Reliability, Middleware and Integration at Griffith University
+Apply
+Save Platform Engineer - Reliability, Middleware and Integration at Griffith University
+Save
+Share
+
+Company Description
+
+Creating a brighter future for all
+Griffith University is a progressive, values-led university dedicated to learning, leadership, and innovation. This is your chance to help us achieve our vision to transform lives and add to human knowledge and understanding in a way that creates a future that benefits all.
+
+Since opening in 1975, Griffith has grown from one campus and 451 students to become a comprehensive, multi-campus institution, with 50,000 students and more than 200,000 graduates.
+
+Job Description
+
+We are seeking a Platform Engineer to join our Reliability, Middleware and Integration team. Reporting directly to the Lead Platform Engineer the Platform Engineer works as part of a team to ensure the successful operation of application and integration technology platforms, minimising any disruptions that can impact client experience. 
+ 
+The Reliability, Middleware and Integration Team works to delivers secure, highly available, and observable application and integration platforms in conjunction with other infrastructure teams. In this role, you’ll be working with Infrastructure, Cloud, Cyber Security and Product Teams to support applications, integrations and release management. 
+
+Key responsibilities include: 
+
+Work with a diverse and broad range of technologies including PeopleSoft, Fusion Middleware, Oracle Data Integrator, UiPath RPA, Tableau, custom .NET and PHP applications and many more  
+Help to support the implementation of our Enterprise Integration strategy at Griffith as we move into Azure cloud
+Support the Lead and Senior Platform Engineer as a technical SME in the development of product roadmaps, consultation with projects and product teams and in forging our direction in the DevOps, Site Reliability, Integration and Observability space
+Support, monitoring and provisioning of pre-production and production application and integration environments/platforms  
+Work with projects, product teams and/or vendors to implement and/or support integrations between on prem systems or hybrid integrations with third party solutions 
+Support, installation, configuration, upgrades and patching of applications 
+Use observability tools to create checks, dashboards and surface key metrics to support product teams 
+Use automated tools like Octopus Deploy and PHIRE for release management including pipeline creation/maintenance and migrations on key delivery platforms including UiPath, Peoplesoft, .NET and PHP applications, Fusion Middleware and Oracle Data Integrator
+Get hands on and help us get the best out of observability tooling like New Relic and release tools like Octopus Deploy 
+Automate repeatable processes 
+Work with projects and product teams to support and enhance their software delivery processes 
+
+What we can offer 
+This is a full-time continuing position based at our Nathan campus. As Griffith is a multi-campus University you may be required to work across other campus locations.
+
+HEW Level 7 range $93,854 - $101,608 per annum + 17% superannuation. The total FTE package is in the range $109,809 - $118,966 per annum. 
+
+About you
+You’re a team player who likes to innovate and improve things. You possess the following skills and attributes: 
+
+A can do attitude and like working as part of a fun, supportive team 
+A desire to work with and learn a broad range of technologies and platforms, with the ability to specialise in a few key areas 
+A versatile IT professional with a background as either an Enterprise Applications Engineer, Integration Specialist, DevOps Engineer or similar 
+Demonstrated technical competency, analytical and problem-solving skills 
+Familiarity with change management processes 
+Strong communication skills, both written and verbal along with the ability to liaise with a range of stakeholders 
+
+The following would be highly regarded: 
+
+Integration engineers/specialists with experience using Azure Integration Services or integration platforms like Mulesoft (desirable) 
+API developers (desirable) 
+Experience with CI/CD tools like Octopus Deploy, GIT and Azure DevOps (desirable) 
+Experience with Ansible (desirable) 
+
+Additional Information
+
+How to apply  
+Please submit your application online and ensure your application includes the following:  
+
+A covering statement outlining your suitability for the referring to the requirements above and the position description 
+Current curriculum vitae, including name and contact details.   
+
+Applicants must have unrestricted work rights.  
+Successful candidates may be subject to a criminal history check.  
+ 
+Further information 
+For further information about this role, please contact Patricia Villalva, Lead Platform Engineer at p.villalva@griffith.edu.au  
+
+For application support, please contact People Services on +61 (0) 7 3735 4011 quoting REF2489D.
+
+Closing date: Open until filled. We review applications as they are submitted. We encourage you to submit your application as soon as possible. All applications must be submitted online.
+
+Report this job advert
+Be careful
+Don’t provide your bank or credit card details when applying for jobs.
+Learn how to protect yourself
+Report this job ad 
+Upskill in git version control system to better prepare for this job
+
+Full-Stack Plus
+
+The Learning People
+
+Up to 286 hours self-paced
+
+Online
+
+Start Anytime
+

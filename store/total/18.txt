@@ -1,0 +1,105 @@
+
+Site Reliability Engineer
+Smarsh Bangalore, New South Wales, Australia
+Apply
+Email
+Password (8+ characters)
+Site Reliability Engineer
+Smarsh  Bangalore, New South Wales, Australia
+1 day ago   Be among the first 25 applicants
+  
+See who Smarsh has hired for this role
+Apply
+Email
+Password (8+ characters)
+Save
+Who are we?
+
+
+
+
+Smarsh empowers its customers to manage risk and unleash intelligence in their digital communications. Our growing community of over 6500 organizations in regulated industries counts on Smarsh every day to help them spot compliance, legal or reputational risks in 80+ communication channels before those risks become regulatory fines or headlines. Relentless innovation has fueled our journey to consistent leadership recognition from analysts like Gartner and Forrester, and our sustained, aggressive growth has landed Smarsh in the annual Inc. 5000 list of fastest-growing American companies since 2008.
+
+
+
+
+About The Team
+
+
+
+
+As a member of our SaaS Operations team, your role will be crucial in enabling the development team to deliver software solutions for Smarsh's Cyber Compliance service offering. You'll have the chance to leverage cutting-edge SaaS technologies and tools to scale the product, all while maintaining strict adherence to change control processes and InfoSec security policies for both internal and external environments.
+
+
+
+
+This is a challenging yet fulfilling SRE opportunity that requires a detail-oriented individual with a passion for complex problem-solving. If you're up for the challenge and are looking for a fun and rewarding role, we encourage you to apply for this position.
+
+
+
+
+Essential Functions
+
+
+
+
+Attend and actively participate in team ceremonies (stand-ups, retros, and planning meetings).
+Coordinate efforts with globally dispersed teams.
+Respond to incidents coordinated by SRE and Incident Response teams.
+Document decisions regarding technology choices, best practices and process.
+Manage operations code bases using Smarsh engineering practices.
+Creatively solve problems in the SaaS Operations space, collaborating with SRE, Platform, Delivery, and Engineering team members.
+Develop tools and libraries for broader use by SaaS Operations and Engineering teams.
+Contribute to architectural conversations and plans.
+
+
+
+
+Education And Experience
+
+
+
+
+4-6+ years industry experience.
+BS in CS/Masters in CS or equivalent.
+
+
+
+
+Technology Requirements
+
+
+
+
+Experience with AWS, both console and CLI – EC2, RDS, Lambda, S3, CloudWatch, Networking/Security (VPC, ELB, NAT, SG)
+Experience with AWS administration of multi-tier architecture.
+Experience with containerization (Docker), including creating Linux backend host/containers with the following services: Drupal, NGNIX Proxy, RabbitMQ, LDAP, OpenVPN, IPSEC.
+Broad range of scripting experience (i.e. Python, Bash).
+Strong background in managing and releasing code with Git/Github and Docker Hub.
+Experience monitoring degree of performance and uptime (Datadog, Grafana)
+Experience managing continuous integration systems and CI/CD build pipelines (Jenkins, Github Actions, GitLab, CircleCI)
+Experience with automated configuration management and deployment tools or scripts (DuploCloud, terraform).
+Background in Linux administration (RedHat/CentOS, Ubuntu), including patching and maintenance.
+Background working in a multi-platform environment (Linux, Windows).
+Experience with builds and packaging in a Linux/Java and Windows/.NET environment strongly preferred (Maven, msbuild, rpm, etc).
+
+
+
+
+About Our Culture
+
+
+
+
+Smarsh hires lifelong learners with a passion for innovating with purpose, humility and humor. Collaboration is at the heart of everything we do. We work closely with the most popular communications platforms and the world’s leading cloud infrastructure platforms. We use the latest in AI/ML technology to help our customers break new ground at scale. We are a global organization that values diversity, and we believe that providing opportunities for everyone to be their authentic self is key to our success. Smarsh leadership, culture, and commitment to developing our people have all garnered Comparably.com Best Places to Work Awards. Come join us and find out what the best work of your career looks like.
+Show more 
+Seniority level
+Entry level
+Employment type
+Full-time
+Job function
+Engineering and Information Technology
+Industries
+Software Development
+  
+

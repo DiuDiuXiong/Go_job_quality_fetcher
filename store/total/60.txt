@@ -1,0 +1,49 @@
+
+Kubernetes Engineer (On Premise) - Market rate salary - Hybrid Working
+Allura Partners
+Sydney NSW
+Engineering - Software (Information & Communication Technology)
+Full time
+Posted 24d ago
+More jobs from this company
+Apply for Kubernetes Engineer (On Premise) - Market rate salary - Hybrid Working at Allura Partners
+Quick apply
+Save Kubernetes Engineer (On Premise) - Market rate salary - Hybrid Working at Allura Partners
+Save
+Share
+Kubernetes Engineer (On Premise) - Market rate salary - Hybrid Working 
+
+Our client is seeking a highly skilled Kubernetes Platform Engineer to join their dynamic team. As a Kubernetes Platform Engineer, you will be responsible for designing, deploying, and maintaining the latest Kubernetes platform technologies to ensure optimal performance and scalability. The current platform is on prem with a plan to migrate to a mutli-cloud platform.
+
+Offices in Brisbane/Sydney and they work very flexibly, preference is 2-3 days per week in the office.
+
+
+The role
+
+Support Application Development and Infrastructure teams
+Maintaining and developing the Kubernetes platforms. 
+Contributing to comprehensive Operations.
+Assisting in remediating risks and writing policy as per Cybersecurity and Compliance guidance.
+The promotion of continuous improvement.
+Arranging outage windows with technical services and business contacts as required.
+Participating in after-hours maintenance and support activities as required.
+Experience
+
+Containerisation solutions (On-prem Kubernetes, Docker, VMware TKG& associated products)
+Containerisation Security principles
+Assisting with developing and troubleshooting CI/CD Pipelines. Eg. Azure DevOps(On-premise), Tanzu Application Platform
+VMware Virtualisation (VMware vSphere, NSX-T& associated products)
+Basic/Intermediate Linux Administration 
+Intermediate networking concepts 
+Splunk Monitoring 
+Report this job advert
+Be careful
+Don’t provide your bank or credit card details when applying for jobs.
+Learn how to protect yourself
+Report this job ad 
+Computer Science courses
+Courses that get you job-ready
+Industry recognised providers
+Explore courses
+Benefits of study
+Study & career advice

@@ -1,0 +1,135 @@
+
+DevOps Engineer
+ANZ  Docklands, Victoria, Australia
+1 day ago   Be among the first 25 applicants
+  
+See who ANZ has hired for this role
+Apply
+Save
+About The Role
+
+
+
+
+Role location: Docklands VIC 3008
+
+
+
+
+Role Type: Permanent full-time
+
+
+
+
+Team: Digital Sales Experience
+
+
+
+
+We’ve changed the way we run the Australia business, adopted a new way of working and introduced design thinking approaches so we can build a better ANZ for our customers today and in the future.
+
+
+
+
+Working within the Digital Sales Experience Tribe, you will be joining a team who are passionate about attracting & activating customers through Digital Channels, as well as defining and developing sales & engagement strategies across all channels. 
+
+
+
+
+From a customer perspective, we want to ensure our customers can easily find, learn about, buy and activate our products & services digitally.
+
+
+
+
+Adapt and evolve DevOps and SRE practice to build Faster , Better , Smarter platforms in order to support fast changing business functions and improve our service reliability for our customer.
+
+
+
+
+What Will Your Day Look Like
+
+
+
+
+Advocate for automation and use code to solve manual tasks
+Use engineering mindset and skillset to resolve repetitive tasks/processes
+Build CI/CD pipelines and manage Cloud infrastructure
+Contribute system architectural design driven by system reliability and security
+Manage, monitor, measure and maintain availability and health of our infrastructure and platform including VM, Cloud
+Proven analytical skills and data-driven decision maker
+Great communication skill required to liaise with stakeholders
+
+
+
+
+What will you bring?
+
+
+
+
+Understand Containerisation (Docker) and Container management Platforms (Kubernetes, OpenShift, GKE etc.)
+Experience in Python, Shell, and at least one of the main stream programming language. We currently use Golang, Java, NodeJS.
+Experience with virtualisation and cloud technologies, infrastructure as code or
+
+
+
+
+other infrastructure automation technologies. We currently use TerraForm for systems in GCP, AWS.
+
+
+
+
+Experience in application development and understand the development methodologies
+Experience in building CI/CD pipeline using various tools. We currently use Codefresh, Jenkins.
+Experience in implementing monitoring and alerting tools. We currently use NewRelic, Splunk.
+Understand micro-service architecture and distributed system as a bonus
+
+
+
+
+We’re making ANZ a great place for our people to grow. You’ll learn and innovate, because underpinning everything we do is a Growth Mindset. We’ll challenge you to become an industry-leading engineer, while supporting you in a friendly work environment.
+
+
+
+
+So, why join us?
+
+
+
+
+At ANZ, everything we do boils down to ‘why’ – our purpose – to shape a world where people and communities thrive. We're focused on seeing our people thrive just as well as our customers. We'll give you every opportunity to develop your career. We are responding faster to changing customer requirements, focusing on the things that matter most, energising our people, eliminating waste and reducing bureaucracy. A happy workplace is a thriving one. So in order to attract and keep the best talent, and say thanks for the hard work, we make sure all our employees are rewarded.
+
+
+
+
+We work flexibly at ANZ and encourage you to talk to us about how this role can be flexible for you and any adjustments you may require to our recruitment process or the role itself. If you are a candidate with a disability, let us know how we can provide you with additional support.
+
+
+
+
+To find out more about working at ANZ or to view other opportunities visit www.anz.com/careers. You may apply for this role by visiting ANZ Careers and searching for reference number 35172
+
+
+
+
+Job Posting End Date
+
+
+
+
+09/07/2023
+
+
+
+
+Show more 
+Seniority level
+Not Applicable
+Employment type
+Full-time
+Job function
+Engineering and Information Technology
+Industries
+Banking, Financial Services, and Accounting
+  
+

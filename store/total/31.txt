@@ -1,0 +1,92 @@
+
+Senior Platform Engineer
+Optus  Macquarie Park, New South Wales, Australia
+3 days ago   Be among the first 25 applicants
+  
+See who Optus has hired for this role
+Apply
+Save
+About The Opportunity
+
+
+
+
+We're seeking a Senior Platform Engineer to join Optus’ newest engineering function, the Tech Foundations Tribe!
+
+
+
+
+As a Platform Engineer within the Tribe, you will work within one of our autonomous squads that build, run and own technical products which our feature teams rely upon to provide innovative experiences for our external customers. You will be empowered to apply your software or systems engineering background to ensure our products are simple to consume and scale in the face of their growing popularity with our internal customers, while helping embed practices like SRE to ensure a healthy balance between innovation and operational excellence.
+
+
+
+
+Our platform engineers are customer focused, passionate about product-thinking, and love to apply engineering to ensure these achievements are long-lasting. They use their experience and appetite for continuously learning to answer open questions like-
+
+
+
+
+How can we make the experience of our engineers awesome on Day 1, and equally awesome on Day 1000?
+How can we make it easy for developers to securely build and deploy APIs?
+How can we embed security through our software development lifecycle, without loading teams up with more processes and meetings?
+
+
+
+
+If you are inspired to build sustainable solutions to these questions, have a passion for engineering excellence and are experienced in product development, we invite you to join our dedicated team in revolutionising engineering at Optus.
+
+
+
+
+Key Responsibilities
+
+
+
+
+Building and operating scalable, reliable, and secure technical products that meet business requirements and maximise the productivity of our feature teams.
+Working with internal customers – developers, builder teams, and engineering leaders - to continuously improve their user experience.
+Identifying opportunities to simplify processes by adopting modern practices and technologies.
+
+
+
+
+These skills will rocket you to Success!
+
+
+
+
+Experience working in platform engineering teams and developing technical products to solve business problems and challenges.
+Hands-on experience in software development, with a strong background in one or more programming languages such as Python, Java, or Go.
+A passion for building and supporting interfaces (APIs, Portals, documentation) which encourage and promote self-service.
+Expertise working with cloud and/or container platforms.
+Strong interpersonal skills to navigate complex technical environments with ease.
+
+
+
+
+We're a highly collaborative workplace, and offer a range of perks such as
+
+
+
+
+Hybrid working (2 days remote).
+Discounts on products and services.
+Ongoing mentoring and accredited training through university partnerships.
+Onsite facilities at Macquarie Park include a GP, gym, mini-mart, cafes, restaurants, post shop, and chill-out zones.
+Private bus service to and from Campus to Epping and Wynyard stations, and discounted car parking onsite.
+
+
+
+
+Curious about our culture? Go behind the scenes with our people by searching #OptusLife on LinkedIn.
+Show more 
+Seniority level
+Mid-Senior level
+Employment type
+Full-time
+Job function
+Engineering and Information Technology
+Industries
+Telecommunications
+  
+

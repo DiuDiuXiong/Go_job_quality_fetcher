@@ -1,0 +1,65 @@
+
+Site Reliability Engineer - RTOS
+FIRESOFT People
+Sydney NSW
+Networks & Systems Administration (Information & Communication Technology)
+Full time
+$200k + Super + Bonus
+Posted 16d ago
+More jobs from this company
+Apply for Site Reliability Engineer - RTOS at FIRESOFT People
+Quick apply
+Save Site Reliability Engineer - RTOS at FIRESOFT People
+Save
+Share
+
+Are you a talented Site Reliability Engineer (SRE) looking for a position where you can truly make an impact and where your voice is heard? Are you looking to work in a mature and relaxed trading environment? Would you like to be very well compensated for the work you do? Then read on, this may be the role for you.
+
+We are looking for a talented Site Reliability Engineer ( SRE) / Low-Level Systems Engineer for Trading Applications to join a growing Algorithmic Trading company based in Sydney. They work in the world of low-latency, high-frequency trading. The role is suited to a candidate with strong Linux skills and proficiency in many scripting languages.
+
+Responsibilities
+Support the Software Development Team
+Design and Develop Automation tools to improve overall efficiency
+Continuous improvement of their current trading systems infrastructure
+Collaborate with all development teams to ensure high availability across the board
+
+You
+A minimum of 5 years of experience with Linux in a Low-Latency environment
+A good understanding of latency, what causes it and how to avoid it in a trading system
+Familiarity with Python collection
+Strong Python or Perl proficiency
+Python scripting and development experience
+Good understanding of life-cycle phases, including testing, development and release
+Discrete event simulation
+Low-Level Network management experience
+ 
+Nice to have
+Database querying languages such as SQLite or MySQL.
+Understanding of C and C++, GO, Rust
+DevOps Experience
+ 
+To apply for the role or to hear more, please click the “apply now” button. I’d be happy to go into more detail.
+
+ 
+Employer questions
+Your application will include the following questions:
+How many years' experience do you have in a DevOps role?
+Which of the following statements best describes your right to work in Australia?
+How many years' experience do you have as a Site Reliability Engineer?
+Report this job advert
+Be careful
+Don’t provide your bank or credit card details when applying for jobs.
+Learn how to protect yourself
+Report this job ad 
+Upskill in python programming language to better prepare for this job
+
+Python
+
+The Learning People
+
+Up to 55 hours self-paced
+
+Online
+
+Start Anytime
+

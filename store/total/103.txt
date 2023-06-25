@@ -1,0 +1,58 @@
+
+Site Reliability Engineer, Security Engineering
+TikTok Sydney, New South Wales, Australia
+Apply
+Email
+Password (8+ characters)
+Site Reliability Engineer, Security Engineering
+TikTok  Sydney, New South Wales, Australia
+6 days ago  60 applicants
+  
+See who TikTok has hired for this role
+Apply
+Email
+Password (8+ characters)
+Save
+Responsibilities
+
+About TikTok
+TikTok is the leading destination for short-form mobile video. Our mission is to inspire creativity and bring joy. TikTok has global offices including Los Angeles, New York, London, Paris, Berlin, Dubai, Singapore, Jakarta, Seoul and Tokyo.
+
+Why Join Us
+At TikTok, our people are humble, intelligent, compassionate and creative. We create to inspire - for you, for us, and for more than 1 billion users on our platform. We lead with curiosity and aim for the highest, never shying away from taking calculated risks and embracing ambiguity as it comes. Here, the opportunities are limitless for those who dare to pursue bold ideas that exist just beyond the boundary of possibility. Join us and make impact happen with a career at TikTok.
+
+About the Team
+As part of the Security Engineering team, we are responsible for supporting the company's construction of security capabilities and platform services, combining other teams to create efficient and high-quality service docking capabilities, enhancing interactive experience, and lowering the user's barriers to understanding and using security services.
+
+Responsibilities
+1. Design and implement the security maintenance framework for the company's security infrastructure, and build cutting-edge SRE technologies for system deployment, upgrade, capacity planning and rapid troubleshooting and disaster recovery.
+2. Design and develop the SRE infrastructure and maintenance tools for the full lifecycle of security system development; support the rapid iteration and system reliability for the company's security services.
+3. Improve the automation and the intelligence of the SRE infrastructure and evolve it into a platform, and improve the overall reliability and efficiency of the company's security systems.
+
+Qualifications
+
+1. Bachelor's degree in Computer Science or related fields, with minimum 3 years of relevant experience.
+2. Solid programming skills, mastering at least one of the programming skills such as Go/Java/Python, and being able to deliver high quality code.
+3. Familiar with at least one of the web frameworks, such as Gin/Django/Spring, with a decent understanding of their design principles.
+4. Deep understanding of Linux OS, sound knowledge of TCP/IP, HTTP, with good exposure to network, storage, as well as computer architecture.
+5. Familiar with cloud native framework with experience in Kubernetes. Good experience with SRE tools such as Ansible, Argo CD, Promethues, and Grafana.
+6. Passionate about self-studying cutting edge technologies and staying relevant. Strong communication and collaboration skills, and willing to take ownership.
+
+Preferred Qualifications:
+1. Track record in developing large-scale SRE platform/tooling.
+2. Experience in building and operating large-scale distributed systems with automation.
+
+TikTok is committed to creating an inclusive space where employees are valued for their skills, experiences, and unique perspectives. Our platform connects people from across the globe and so does our workplace. At TikTok, our mission is to inspire creativity and bring joy. To achieve that goal, we are committed to celebrating our diverse voices and to creating an environment that reflects the many communities we reach. We are passionate about this and hope you are too.
+
+In the spirit of reconciliation, TikTok acknowledges the Traditional Custodians of country throughout Australia and their connections to land, sea and community. We pay our respect to their Elders past and present and extend that respect to all Aboriginal and Torres Strait Islander peoples today.
+Show more 
+Seniority level
+Not Applicable
+Employment type
+Full-time
+Job function
+Research, Information Technology, and Engineering
+Industries
+Entertainment Providers
+  
+
