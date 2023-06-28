@@ -4,10 +4,13 @@ import (
 	"bytes"
 	"encoding/json"
 	"fmt"
+	"github.com/vbauerster/mpb/v7"
+	"github.com/vbauerster/mpb/v7/decor"
 	"io/ioutil"
 	"net/http"
 	"os"
 	"path"
+	"path/filepath"
 	"regexp"
 	"strconv"
 	"strings"
@@ -117,21 +120,34 @@ func splitAndTrim(input string) string {
 }
 
 func (api *OpenAIClient) GetTechnicalQualitiesForJobs(folderPath string, outputFile string) error {
-	files, err := ioutil.ReadDir(folderPath)
+	allFiles, err := ioutil.ReadDir(folderPath)
 	if err != nil {
 		return err
 	}
+	files := make([]string, 0)
+	for _, file := range allFiles {
+		if filepath.Ext(file.Name()) == ".txt" {
+			files = append(files, file.Name())
+		}
+	}
+
 	wg := sync.WaitGroup{}
 	sb := strings.Builder{}
 	buffer := make([]string, completionThread)
 	errs := make([]error, completionThread)
 	wg.Add(completionThread)
+
+	p := mpb.New()
+	b := p.AddBar(int64(len(files)), mpb.PrependDecorators(
+		decor.Name("Extracting key job qualities: "),
+		decor.CountersNoUnit("%d / %d", decor.WCSyncSpace),
+	))
 	for start := 0; start < completionThread; start++ {
 		startIdx := start
 		go func(int) {
 			res := strings.Builder{}
 			for idx := startIdx; idx < len(files); idx += completionThread {
-				dt, err := ioutil.ReadFile(path.Join(folderPath, files[idx].Name()))
+				dt, err := ioutil.ReadFile(path.Join(folderPath, files[idx]))
 				if err != nil {
 					errs[startIdx] = err
 					wg.Done()
@@ -145,6 +161,7 @@ func (api *OpenAIClient) GetTechnicalQualitiesForJobs(folderPath string, outputF
 				}
 				res.WriteString(resp)
 				res.WriteString("\n")
+				b.Increment()
 			}
 			buffer[startIdx] = res.String()
 			wg.Done()
@@ -187,7 +204,7 @@ func (api *OpenAIClient) GetChatCompletion(txt string) (*http.Request, error) {
 		return nil, err
 	}
 
-	sysMessageContent := `You are an HR who is responsible for finding the top 10 technical requirements in short phrases that occurred most often and their corresponding counts and rank based on that. Similar technical qualities can be combined to  a single one with higher level of summarisation. Return the results in a csv format with header "Category Summarisation", "Count". Note only return top 10 results.`
+	sysMessageContent := `You are an HR who is responsible for finding the top 10 technical requirements in short phrases that occurred most often and their corresponding counts and rank based on that. Similar technical qualities can be combined to a single one with higher level of summarization followed by brackets includes examples for that category, there should be at least 5 examples for each category if available. Return the results in a csv format with header "Category Summarisation", "Count". Note only return top 10 results. Your results should only based on text given.`
 	userMessageContent := txt
 
 	messages := []Message{

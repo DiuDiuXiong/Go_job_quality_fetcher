@@ -93,7 +93,6 @@ func (fetcher *SeekFetcher) FetchTargetJobUrls(fc *FetchCriteria) ([]string, err
 	pageNumber := 2
 	for len(jobDescriptionUrls) < jobFoundCount && pageNumber <= 3 { //ToDo: More adaptive way to detect stopping point instead of magic number way
 		url, _ = fetcher.FetchCriteriaToUrl(fc, pageNumber)
-		fmt.Println(url)
 		html, err := fetcher.htmlCrawler.FetchOnePage(url)
 		if err != nil {
 			return nil, err
