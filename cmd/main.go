@@ -5,7 +5,6 @@ import (
 	"github.com/DiuDiuXiong/Go_job_quality_fetcher/internal/summarisation"
 	"io/ioutil"
 	"path"
-	"strconv"
 )
 
 func main() {
@@ -68,12 +67,8 @@ func main() {
 			0.55)*/
 
 	openai := summarisation.NewOpenAIClient()
-
-	for i := 0; i < 1; i++ {
-		txt, _ := ioutil.ReadFile(path.Join("store", "total", strconv.Itoa(i)+".txt"))
-		jobQualities, _ := openai.GetTechnicalQualitiesForAJob(txt)
-		fmt.Println(jobQualities)
-	}
+	dt, _ := ioutil.ReadFile(path.Join("store", "result.txt"))
+	fmt.Println(openai.GetTechnicalQualitiesCountSummary(dt))
 }
 
 func ContainsDuplicates(nums []string) bool {
