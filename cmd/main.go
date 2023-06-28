@@ -1,7 +1,9 @@
 package main
 
 import (
-	"github.com/DiuDiuXiong/Go_job_quality_fetcher/internal/duplicateremover"
+	"fmt"
+	"github.com/DiuDiuXiong/Go_job_quality_fetcher/internal/summarisation"
+	"io/ioutil"
 	"path"
 )
 
@@ -58,10 +60,15 @@ func main() {
 
 		wg.Wait()
 	*/
-	duplicateremover.RemoveDuplicates(
-		[]string{path.Join("store", "linkedin"), path.Join("store", "seek"), path.Join("store", "indeed")},
-		path.Join("store", "total"),
-		0.55)
+	/*
+		duplicateremover.RemoveDuplicates(
+			[]string{path.Join("store", "linkedin"), path.Join("store", "seek"), path.Join("store", "indeed")},
+			path.Join("store", "total"),
+			0.55)*/
+
+	openai := summarisation.NewOpenAIClient()
+	dt, _ := ioutil.ReadFile(path.Join("store", "result.txt"))
+	fmt.Println(openai.GetTechnicalQualitiesCountSummary(dt))
 }
 
 func ContainsDuplicates(nums []string) bool {

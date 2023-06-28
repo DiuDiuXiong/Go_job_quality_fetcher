@@ -1,0 +1,1293 @@
+
+Highly developed problem-solving skills
+Experience using Amazon Web Services (AWS) products and supporting Linux and “LAMP” based systems
+Experience supporting and managing products delivered by CDN services such as Akamai for the delivery of streaming media
+Experience with common DevOps tools such as Datadog, Puppet, New Relic, JIRA, Confluence, Bamboo, Maven or Jenkins
+Self-advocating mentality of always looking to build new processes and tools within the wider organisation
+Complete understanding of “SRE”, “Reliability Engineering” & “availability” meanings
+Knowledge and experience of SLA, SLO, SLI & MTTR
+
+Knowledge of ITIL (information technology infrastructure library), monitoring, DevOps, SRE (site reliability engineering), and disaster recovery.
+Knowledge of common financial topics, including financial markets, equity trading, derivatives, currency, treasury, regulation, and risk.
+Ability to write a basic computer program in Python, including user input, common data structures, and flow of control.
+Ability to use MySQL to perform CRUD (create, read, update and delete) operations on a relational database stored in a MySQL Server.
+Excellent spoken and written English communication skills.
+
+Knowledge of integration technologies such as Azure Integration Services, Mulesoft, and API development
+Familiarity with CI/CD tools such as Octopus Deploy, GIT, and Azure DevOps
+Experience with Ansible
+Knowledge of observability tools such as New Relic
+Experience with release management and pipeline creation/maintenance
+Knowledge of application and integration platforms such as PeopleSoft, Fusion Middleware, Oracle Data Integrator, UiPath RPA, Tableau, custom .NET and PHP applications
+Ability to automate repeatable processes
+Strong communication skills, both written and verbal
+Expertise in analyzing and troubleshooting distributed systems.
+Experience programming in at least one of the following languages: Python or Golang.
+Excellent communication skills and ability to collaborate cross-functionally with data science and infrastructure teams.
+Hands-on in designing, building, scaling, and troubleshooting platform solutions.
+Strong understanding of code optimizing and routine tasks automation.
+Extensive knowledge in systems for Electrical Engineering including LV & HV electrical systems, switchboards and equipment selection, earthing and bonding, and protection systems
+Knowledge of communications systems including fibre optics, RF communications and other various comms systems
+At least 5 years’ experience in the design and implementation of LV and HV Electrical systems
+Ability to provide a safe, supportive, and positive workplace
+Ability to empower a united and collaborative culture
+Ability to deliver technical excellence and create efficient, innovative solutions
+Genuine concern for safety
+
+-Strong programming skills in one or more IaaC-related languages or frameworks, such as JavaScript, YAML, Terraform, Pulumi, ArgoCD, etc.
+-Experience with the AWS cloud platform
+-Good analytical and problem-solving skills
+-Experience in Site Reliability and Observability Engineering, debugging, diagnosing and correcting errors and resolving high-severity incidents
+-Deep understanding of software development, infrastructure management, and operations
+-Ability to automate and optimise processes to improve system performance and availability
+-Experience with configuration management tools
+-Experience with backup and recovery strategies
+-Experience with automated testing and deployment processes
+-Experience with incident response and post-mortem analysis
+
+10+ years of experience in a professional services environment (software engineering)
+Strong understanding of architectural patterns
+Commercial experience with AWS Cloud Architecture (SRE)
+Demonstrated contribution to internal tech culture
+Interest and knowledge in current AI trends
+Experience with some of the following languages - .net C# core/5+, JS/TS, Python, Go
+Broad technical knowledge and a passionate interest in the latest tech trends
+Comfortable having C-suite level conversations
+Proficient in creating initial shape for client engagements, outcomes, and team dynamics
+Able to build PoC’s and communicate vision with clients
+Experience in or knowledge about cyber security
+Capable of writing business-level documentation, costing profiles, and reports
+Adaptable to work in large enterprise and scaleup environments
+A passion for upskilling and driving engineering capabilities
+The ability to work comfortably across a range of technologies and are flexible to adapt to the shifting demands of the role
+A proactive, solutions-oriented mindset and a willingness to take on new challenges as they arise.
+
+Expertise in both machine learning and software engineering
+Experience in building production-grade machine learning systems
+Development experience in Python, SQL, Go, and/or other programming languages
+Knowledge in at least one of the following areas - Bayesian methods, Econometrics, Reinforcement learning, Gradient boosting machine, Natural language processing, Computer vision, etc.
+Experience in DevOps, MLOps and SRE is a plus
+Experience with Kubernetes, Kubeflow, TFX and Feature Store in a production environment is a plus.
+
+1. In-depth knowledge of high-performance website optimization techniques commonly used in eCommerce platforms and/or ticketing software, such as CDN, caching, load balancing, etc.
+2. Proficiency in programming frameworks such as JavaScript, .NET, JAVA, or PHP.
+3. Knowledge of eCommerce platforms such as SAP Hybris, SalesForce, Magento, Shopify, etc. and/or ticketing technology.
+4. Experience with CDNs such as Akamai, Cloudflare and/or CloudFront.
+5. Ability to interface at all levels in an organization, particularly at the Executive level.
+6. Great troubleshooting and analytical skills.
+7. Project/self-management skills and proficiency in handling multiple customers and projects simultaneously.
+8. Excellent communication skills in English; Japanese skills would be a strong advantage.
+
+1. Experience with scripting languages such as Python or PowerShell
+2. Experience in architecting an automation framework
+3. Proficiency in Configuration Management, CI, and automation tools such as Jenkins, Chef, Puppet, Ansible or similar
+4. Experience with Agile methods (Scrum/Kanban) to organize project deliverables, to track and to report progress (Jira)
+5. Experience with git, git repo services (BitBucket, GitHub), and branching strategies
+6. Experience with open-source technologies and cloud services (AWS/Azure)
+7. Experience with monitoring and alerting tools (Splunk, Nagios, BigPanda, PagerDuty)
+8. Experience with infrastructure as code (Terraform, CloudFormation)
+9. Experience with automation of business continuity/disaster recovery
+10. Knowledge of and exposure to container technology and orchestration
+11. Experience interacting with REST APIs (GET/POST requests), webhooks, and API client tools (Postman)
+12. Excellent problem-solving and troubleshooting skills
+13. Process-oriented with great documentation skills (Confluence)
+14. Experience with data structures/formats such as XML, JSON, YAML, and HCL
+15. Experience with Rundeck and/or Cisco Tidal Enterprise Scheduler
+16. Experience with BigPanda
+17. Experience with PagerDuty
+18. Experience with AI Ops
+
+Experience working in a DevOps role as a senior, principal or technical lead.
+Technical leadership experience with the ability to drive the technical direction and prioritisation of our core DevOps team.
+Experience with software build tools and automation tools.
+Experience working and supporting infrastructure in a highly available environment, and working within large-scale cloud environments.
+Experience with modern SRE practices in a cloud-native environment.
+Experience working with cross-functional teams, with the ability to communicate with technical and non-technical stakeholders effectively.
+Passion for internal tooling, CICD and compliance.
+Team-centric leadership and willingness to help others succeed.
+
+Knowledge of Amazon Web Services (AWS) and its core services
+Experience with AWS CloudFormation and AWS CLI
+Knowledge of AWS best practices
+Experience with scripting languages such as Python, Bash, or PowerShell
+Experience with automation/configuration management using Chef, Puppet, or an equivalent
+Experience with monitoring and logging tools such as CloudWatch, ELK, or Splunk
+Knowledge of networking concepts such as VPCs, subnets, routing, and gateways
+Experience with containerization technologies such as Docker and Kubernetes
+Knowledge of security best practices and tools such as IAM, KMS, and CloudTrail
+Experience with CI/CD tools such as Jenkins, CodePipeline, or CodeBuild
+
+Experience working in platform engineering teams and developing technical products to solve business problems and challenges.
+Hands-on experience in software development, with a strong background in one or more programming languages such as Python, Java, or Go.
+A passion for building and supporting interfaces (APIs, Portals, documentation) which encourage and promote self-service.
+Expertise working with cloud and/or container platforms.
+Strong interpersonal skills to navigate complex technical environments with ease.
+
+Extensive experience in systems integration and Environment Management.
+Considerable experience in Enterprise Information Management.
+Demonstrated ability to define, plan, and shape strategies and initiatives into tactical plans for successful delivery.
+Exposure to Greenplum or Managing MPP systems (desirable).
+Exposure to acquisition tools like INFORMATICA, Kafka (desirable).
+Experience building data management applications, storage solutions and scalable infrastructures.
+Bachelor's degree in business Analysis, Analytics/Data Science, Management Information Systems, or related field Industry and/or field experience.
+ITIL or similar qualification (desirable).
+Expertise in Unix/Linux and Bash
+Software development experience using Python, Java, C++ or similar
+Knowledge of Git, CI/CD tooling (e.g. Jenkins)
+Hands on experience with Cloud technologies (e.g. AWS, GCP, etc.)
+Knowledge of good software design and application architectural practices
+Ability to troubleshoot and debug complex systems
+Experience with monitoring and alerting tools
+Ability to work in a fast-paced environment
+Excellent communication and collaboration skills
+ITIL Certification
+Proven track record of delivery in customer facing Service Delivery Management roles
+Demonstrated success in delivering outcomes for cloud customers
+Excellent understanding of AWS Services
+Experience with creating and renewing Managed Services contracts
+Demonstrated effective communication with key client stakeholders
+Experience developing, iterating and documenting ITIL processes
+High-level understanding of DevOps and SRE concepts and why these concepts are important in a support context
+
+Strong experience in software engineering
+Strong experience in SLO, metrics, logging, and tracing
+Proven record of accomplishment in automating toil
+Excellent understanding of modern software development practices, tools and technologies
+A passion for getting things done, balancing short- and long-term needs
+Influencing software engineers on reliability
+Influence and technical leadership capabilities to drive change in environments, manage stakeholders and get alignment cross functionally
+Strong DevOps fundamentals with preference for Java, Golang, Microservices and other cloud technologies
+
+Experience with Infrastructure as Code (IaC) and software development practices such as CI/CD pipelines.
+Knowledge of open source infrastructure as code software.
+Experience with Linux networking, routing, and firewalls.
+Knowledge of cloud computing concepts and technologies.
+Python software development experience.
+Ability to troubleshoot from kernel to web.
+Ability to communicate clearly and effectively in English.
+Ability to be flexible and learn new things quickly.
+Passion and familiarity with open-source, especially Ubuntu or Debian.
+
+-1-2 years of experience working with AWS services in a production environment
+-Coding experience in any primary programming language
+-Interest in continuously learning new technologies and AWS services
+-Strong technical problem-solving skills
+-Attention to detail and a focus on delivering quality
+-Understanding of VPC and networking concepts within AWS
+-Experience with Infrastructure as Code (CloudFormation or Terraform)
+-Experience with CI/CD: AWS CodePipeline, TeamCity, Jenkins, Puppet (at least one)
+-Strong communication skills both written and verbal
+-Associate or higher AWS Certifications desirable (Dev, SA, SysOps)
+
+Extensive experience in designing, coding, and testing data platform/management tools and systems.
+Strong knowledge of software development principles and best practices.
+Proficiency in programming languages commonly used in data engineering, such as Python, Java, or Go.
+Familiarity with agile methodologies and tools.
+Experience with data catalog tools and platforms (e.g., Apache Atlas, Amundsen, Collibra, Alation).
+Understanding of data governance best practices and principles.
+Hands-on experience with cloud-based data platforms and services (e.g., AWS, Azure, Google Cloud).
+Expertise in data architecture, data modeling, and database design.
+Knowledge of data integration techniques, ETL processes, and data pipeline development.
+Ability to ensure operational stability and performance of data systems.
+Excellent communication skills and the ability to collaborate effectively with cross-functional teams.
+Experience with DevOps practices and tools, such as Docker and CI/CD.
+Ability to work collaboratively and autonomously in a fast-paced environment.
+
+Strong knowledge of Kubernetes and containerisation solutions such as Docker, VMware TKG, and associated products.
+Experience with developing and troubleshooting CI/CD pipelines such as Azure DevOps (on-premise) and Tanzu Application Platform.
+Knowledge of VMware virtualisation, NSX-T, and associated products.
+Basic to intermediate Linux administration skills.
+Intermediate networking concepts.
+Experience with Splunk monitoring.
+
+In-depth knowledge of application systems and operating environments
+Ability to install, configure, and support business applications
+Advanced execution capabilities and ability to adjust quickly to changes and re-prioritization
+Effective written and verbal communication skills
+Ability to identify and assess risk and impact of production issues
+Ability to develop and maintain technical support documentation
+Ability to maximize the potential of applications used
+Ability to develop and maintain application contingency plans
+Ability to review and develop system designs and functionalities
+Ability to engage in post-implementation analysis
+Ability to consider implications of the application of technology to the current environment
+Ability to identify risks, vulnerabilities, and security issues
+Ability to ensure essential procedures are followed and help define operating standards and processes
+Ability to act as a liaison between users/traders, internal technology groups, and vendors
+Ability to adhere to Service Level Agreements
+Ability to provide evaluative judgment based on analysis of factual information
+Ability to exercise independence of judgement and autonomy
+Ability to act as a Subject Matter Expert to senior stakeholders and/or other team members
+
+Experience in operating CICD pipelines that build and deliver mobile applications (Android and iOS)
+Skill in operating and analyzing complex cloud deployed solutions
+Familiarity with mobile build tools, platforms, and artifact repositories
+History of working with CI/CD related systems (Kubernetes, Terraform, Jenkins, Mavin, Gradle, Ant or similar)
+Mind focused on systems reliability, automation, and improvement
+Scripting finesse in languages like Python, Ruby, or Bash
+Motivation to collaborate with local and global teams
+Experience with Linux
+5+ years’ experience in Systems Engineering, DevOps or SRE roles running large scale infrastructure, cloud or web services
+Eligibility to work in Australia or New Zealand without sponsorship is essential
+
+Strong experience with AWS services and infrastructure, including EC2, S3, RDS, and VPC.
+Proficiency with Kubernetes and container orchestration.
+Experience with scripting languages, particularly Python.
+Experience with software release engineering, including CI/CD pipelines (in particular GitLab).
+Understanding of networking principles and protocols (TCP/IP, HTTP, DNS, SSL).
+Experience with monitoring and alerting systems, such as Prometheus or Grafana.
+Ability to work collaboratively with engineering and operations teams.
+Strong problem-solving and analytical skills.
+Experience in a regulated environment, ideally with financial services.
+Familiarity with security best practices and regulatory compliance.
+Knowledge of database technologies such as MySQL.
+Experience with infrastructure-as-code tools such as Terraform.
+
+Experience working with DevSecOps
+Extensive experience in hardening Kubernetes environments, adding security controls and best security practices for Docker images
+Extensive experience with SAST and DAST tools, integrating these tools with Ci/Cd pipelines and creating workflows that help team shift security practices to the left of their delivery lifecycle
+Experience of automating certificate rotation process and streamlining the certificate management lifecycle
+Experience of provisioning and managing cloud services principles and creation/automation of access controls in the cloud (Azure preferred).
+Experience of managing secrets through Hashicorp Vault.
+Broad understanding of tools and technologies such as Source Control: Git Continuous Integration: GitHub Actions (or Azure Devops), Team City Continuous delivery: Octopus Deploy Infrastructure Automation: Terraform Container Concepts, Orchestration and Cloud
+Good working knowledge of Kubernetes (Ideally Azure AKS).
+Extensive experience with Bash and PowerShell Scripting
+Package Management: Nuget, NPM,
+
+Passion for children’s ministry and a desire to lead and mentor teams of leaders
+Ability to plan, program and serve in various children’s ministries
+Excellent communication and interpersonal skills
+Ability to work collaboratively with other staff and volunteers
+Ability to work with a range of ages and backgrounds
+Ability to work with a range of technology and software
+Knowledge of Anglican liturgy and theology
+Knowledge of child protection policies and procedures
+A current Working with Children Check
+Experience with AWS or Azure
+Experience with Automation, Infrastructure-as-Code, Terraform, Ansible, Runbooks and Troubleshooting guides
+Programming skills (Go, Python, or similar languages)
+Experience with CI/CD pipelines
+Experience with monitoring, troubleshooting and guiding on incidents
+Knowledge of Kubernetes, Cloud, and Hashicorp certifications or equivalent
+Experience with GCP is a plus
+Knowledge of Amazon Web Services (AWS) products and supporting Linux and “LAMP” based systems
+Experience supporting and managing products delivered by CDN services such as Akamai for the delivery of streaming media and web assets
+Experience with common DevOps tools such as Datadog, Puppet, New Relic, JIRA, Confluence, Bamboo, Maven or Jenkins
+Highly developed problem-solving skills including the ability to investigate, diagnose and solve complex web content and streaming media delivery problems
+Demonstrated experience in supporting the online delivery of content and applications including content management systems, search engines, message boards and other web site services
+Well-developed communication skills with proven ability to communicate effectively with stakeholders at a number of levels
+Demonstrated highly developed ability to work in a team environment. An understanding of Agile project management processes is desirable.
+
+Experience with infrastructure automation on a DevOps/ DevSecOps/SRE Team.
+BS or MS in Computer Science or equivalent coursework.
+Experience with container templatization/orchestration frameworks such as Docker, Kubernetes, Helm, ArgoCD, etc.
+Experience with CI/CD tools such as GitHub Actions.
+Experience maintaining and developing production Infrastructure as Code deployments, primarily using Terraform.
+Experience in a scripting language, preferably Python, but PowerShell or Bash also works.
+Experience with Linux and Windows architectures.
+Experience working with AWS.
+Experience deploying and maintaining Kubernetes clusters.
+Experience with version control systems like Git.
+Good writing and communication skills.
+An instinctive understanding of networking and fundamental computer science concepts with a focus on Infrastructure As Code (IAC).
+An eagerness to learn, explore and introduce new technologies.
+Driven to build modern systems that are scalable, flexible, and elastic.
+
+Experience with scripting languages such as Python, Bash, and Ansible
+Experience with Infrastructure as Code (IaC) tools such as Terraform
+Experience with AWS cloud security services
+Experience with SIEM logging & event management tools such as Splunk, Appdynamics & DataDog
+Experience with monitoring highly available applications and core systems
+Experience with administering Linux at scale
+Knowledge of industry compliance and security standards such as PCI DSS, CIS
+Experience with CI/CD, DevOps automation engineering and processes
+
+Extensive knowledge of networking, operation systems, database systems and container technology.
+Hands on experience in common open-source systems such as Linux, MySQL, MongoDB, Redis and ELK.
+Experience in building solutions with AWS, Google, Azures and other cloud services is a plus.
+Passionate, self-motivated and good teamwork skills.
+Experience in Internet-scale systems is a requirement.
+Strong project management skills that involve many roles and participants to ensure project goal and timeline requirement.
+Experience of managing a technical team for 3+ years with proven results in both business outcome and team management.
+
+Strong technical coding skills in C, C++, Java, Go, or Python.
+Experience in problem-solving and analyzing global scale distributed systems.
+Experience in Unix/Linux systems, IP networking, performance, and application issues.
+Experience with recruiting and managing a team of engineers on large-scale projects.
+Experience in algorithms, data structures, and software design.
+Knowledge of technical coding, networking, operating systems and storage.
+Excellent stakeholder management and communication skills.
+
+Demonstrated experience with AI and ML using Python
+Good understanding of Elastic, Logstash and Kibana (ELK) stack
+Experience with big data systems such as Splunk
+Experience in developing datasets used for training systems
+Understanding of IT infrastructure operations and event management
+Experience of building solutions hosted on AWS
+Due to the secure nature of this role, Australian Citizens with a federal government security clearance will be preferred.
+
+Knowledge of software development and testing processes and methodologies
+Experience with at least one of the following: ELK stack, Splunk, AWS solutions, database systems (Microsoft SQL, Oracle RDBMS, mySQL)
+Knowledge of DevOps delivery teams
+Ability to work in a fast-paced environment
+Ability to troubleshoot and debug software
+Knowledge of scripting languages such as Python, Bash, and PowerShell
+Knowledge of automation and CI/CD tools
+Knowledge of version control systems such as Git
+Ability to work with stakeholders to ensure quality and accuracy of deliverables
+Ability to work with cross-functional teams to ensure successful delivery of projects
+
+Knowledge of security best practices and standards such as ISO 27001, NIST Cybersecurity Framework, and SOC2
+Experience with cloud security hardening, AWS ELB, S3 storage, Cloudfront, and Container security
+Experience with Security Information and Event Monitoring (SIEM), Security Orchestration and Automated Response (SOAR), and/or Splunk
+Experience with Vulnerability and patch management tools (Tenable)
+Experience with Secure code practices and secure code automation pipelines
+Experience with Identity and access management tools
+Experience with cyber security standards, regulations, policies and processes
+Experience in business continuity or disaster recovery planning
+Proven ability to analyse failures and identify root causes in conjunction with developers
+Cybersecurity industry certifications such as CISSP, OSCP, GIAC Incident Handler
+
+Knowledge of cloud architecture patterns, microservices, serverless computing, containerization and event-driven architectures.
+Experience with cloud platforms such as AWS, Azure or Google Cloud Platform.
+Understanding of security and compliance requirements for cloud infrastructure.
+Ability to design and implement cloud architectures that meet the needs of enterprise clients.
+Ability to collaborate with cross-functional teams to develop and maintain cloud infrastructure.
+Knowledge of coding standards, delivery processes, and deployment automation.
+Ability to provide technical guidance and mentorship to software engineers and other team members.
+
+At least 3 years of experience in commercial development with Go, Python or C++. Coding proficiency in at least two languages above is preferred.
+At least 2 years of experience in developing applications on the cloud, including but not limited to AWS, GCP, or Azure.
+Advanced working experience in Infrastructure as Code (IoC), e.g., AWS CloudFormation, Terraform, or CDK.
+Highly proficient in container techniques, including Kubernetes, docker and its related tools.
+Working experience in logging and monitoring tools, e.g., ELK, datadog, Prometheus, or Grafana.
+Extensive hands-on experience in agile project management, preferably based on Atlassian tools (Jira and Confluence).
+Bachelor's degree or equivalent experience in computer science or a similar area.
+
+Experience with containerisation (Docker) and container management platforms (Kubernetes, OpenShift, GKE, etc.)
+Experience with Python, Shell, and at least one of the main stream programming languages (Golang, Java, NodeJS, etc.)
+Experience with virtualisation and cloud technologies, infrastructure as code, or other infrastructure automation technologies (TerraForm, GCP, AWS, etc.)
+Experience in application development and understanding of development methodologies
+Experience in building CI/CD pipelines using various tools (Codefresh, Jenkins, etc.)
+Experience in implementing monitoring and alerting tools (NewRelic, Splunk, etc.)
+Understanding of micro-service architecture and distributed systems (bonus)
+
+Proficiency in writing clean and efficient code in Python and other programming languages.
+Experience in configuring and deploying monitoring/measurement systems such as Prometheus, Nagios, Zabbix, Graylog, Logstash or other relevant systems.
+Experience in cloud services such as Terraform, Pulumi or other relevant services.
+Experience in Linux and scripting.
+Experience with Kubernetes (k8s) and/or Nomad.
+Knowledge of enterprise-level technologies, including cloud platforms, virtualization, networking, security, and databases.
+Experience with Agile and Waterfall project methodologies.
+Knowledge of software development lifecycle (SDLC) and project management principles.
+Ability to use situational leadership skills to work collaboratively and influence key stakeholders.
+Strong analytical problem-solving skills and attention to detail.
+Excellent verbal and written communication skills.
+Demonstrated ability to work collaboratively with cross-functional teams.
+Ability to prioritize and manage multiple projects simultaneously.
+Ability to work within a fast-paced, consulting environment.
+Ability to motivate and deliver results.
+Self-starter / Team Leader.
+
+Experience with AWS, both console and CLI – EC2, RDS, Lambda, S3, CloudWatch, Networking/Security (VPC, ELB, NAT, SG)
+Experience with AWS administration of multi-tier architecture.
+Experience with containerization (Docker), including creating Linux backend host/containers with the following services: Drupal, NGNIX Proxy, RabbitMQ, LDAP, OpenVPN, IPSEC.
+Broad range of scripting experience (i.e. Python, Bash).
+Strong background in managing and releasing code with Git/Github and Docker Hub.
+Experience monitoring degree of performance and uptime (Datadog, Grafana)
+Experience managing continuous integration systems and CI/CD build pipelines (Jenkins, Github Actions, GitLab, CircleCI)
+Experience with automated configuration management and deployment tools or scripts (DuploCloud, terraform).
+Background in Linux administration (RedHat/CentOS, Ubuntu), including patching and maintenance.
+Background working in a multi-platform environment (Linux, Windows).
+Experience with builds and packaging in a Linux/Java and Windows/.NET environment strongly preferred (Maven, msbuild, rpm, etc).
+
+3+ years experience operating high-availability, fault-tolerant, scalable, distributed software in production
+3+ years of hands-on engineering experience with public cloud offerings (AWS components like EC2, CloudFormation, RDS / Aurora, Caches, SQS - or equivalents, e.g. in GCP / Azure)
+2+ years experience of hands-on familiarity with Unix / Linux operating systems
+2+ years experience of production troubleshooting, debugging, code improvement, and routine tasks automation
+Strong backend engineering experience in one or more prominent languages such as Java, Go or Python
+Excellent communication skills in written and verbal forms, and an ability to communicate complex technical issues to a range of technical and non-technical audiences (management, peers, clients)
+Ability to handle regular on-call shift
+An ability and desire to mentor and coach engineers
+Experience in microservice architecture
+Experience in advanced understanding on performance and scalability
+Deep understanding and hands-on experience of database performance, database libraries and client libraries, especially with Postgres and Aurora Read Replicas.
+
+Expertise in Kubernetes, IAC, GitLab, Linux, and Containerisation
+Experience working in a DevOps role as a senior, principal or technical lead
+Technical leadership experience with the ability to drive the technical direction and prioritisation of our core DevOps team
+Experience with software build tools and automation tools
+Experience working and supporting infrastructure in a highly available environment, and working within large-scale cloud environments
+Experience with modern SRE practices in a cloud-native environment
+Experience working with cross-functional teams, with the ability to communicate with technical and non-technical stakeholders effectively
+Passion for internal tooling, CICD and compliance
+Team-centric leadership and willingness to help others succeed
+Tertiary qualifications in Computer Science, Engineering, or Information Technology (or equivalent)
+
+Experience with public cloud (AWS preferred, Azure advantageous)
+Knowledge of AWS services such as ECS, EC2, Autoscaling Groups, EKS, RDS Aurora (Postgres), Elasticache, Lambda
+Knowledge of Azure services such as AKS, Flexible Servers (Postgres)
+Experience in infrastructure-as-code using Terraform/Ansible
+Software development experience with Java
+Engineering CI/CD pipeline automation, tooling (e.g., GitHub, Jenkins, Harness, Artifactory, Docker, Gradle)
+Ability to write efficient scripts with languages such as such as Python, Bash and Groovy
+Serverless, microservice & container-based pattern development
+Knowledge of Confluence, Rally, SharePoint for workflow & collaboration, or similar
+Critical thinking and problem-solving skills
+
+-Strong experience with AWS services and infrastructure, including EC2, S3, RDS, and VPC.
+-Proficiency with Kubernetes and container orchestration.
+-Experience with scripting languages, particularly Python.
+-Experience with software release engineering, including CI/CD pipelines (in particular GitLab)
+-Understanding of networking principles and protocols (TCP/IP, HTTP, DNS, SSL).
+-Experience with monitoring and alerting systems, such as Prometheus or Grafana
+-Ability to work collaboratively with engineering and operations teams.
+-Strong problem-solving and analytical skills.
+-Experience in a regulated environment, ideally with financial services.
+-Familiarity with security best practices and regulatory compliance.
+-Knowledge of database technologies such as MySQL
+-Experience with infrastructure-as-code tools such as Terraform.
+Knowledge of DevOps and Continuous Integration tools such as Jira, Bitbucket, and Bamboo
+Experience with Incident and Problem Management
+Experience writing SQL queries and interacting with databases (Sybase/Oracle)
+Good working knowledge of Unix
+Experience with Agile development lifecycle and Scrum
+Ability to self-manage and work with minimal supervision
+Excellent communication and problem-solving skills
+
+Five-plus (5+) years of commercial experience working with developing complex, distributed web applications.
+Experience working with a mainstream programming language.
+Solid understanding of resiliency techniques and patterns – load balancing, throttling, back pressure, circuit breaking, etc.
+Disciplined coding practices, experience with code reviews and pull requests, and a creative and conceptual problem-solving approach.
+Strong communication and team collaboration skills, both written and verbal.
+Experience working with microservice architectures in large distributed cloud environments (ideally AWS).
+Experience with RPC Frameworks, Finagle, Thrift or gRPC.
+Knowledge of networking protocols such as TCP, HTTP/2, WebSockets, etc.
+Previous experience of working as a reliability/chaos engineer and/or strong knowledge of Google SRE corpus et. al.
+
+Strong knowledge of Linux/Unix systems and scripting languages such as Bash, Python, and/or Ruby
+Experience with configuration management tools such as Chef, Puppet, Ansible, or Salt
+Experience with cloud computing platforms such as AWS, Azure, or Google Cloud Platform
+Experience with container technologies such as Docker, Kubernetes, or Mesos
+Experience with monitoring and logging tools such as Nagios, Graphite, or Splunk
+Experience with version control systems such as Git
+Experience with automation and scripting
+Strong problem-solving and troubleshooting skills
+Excellent communication and collaboration skills
+Ability to work independently and as part of a team
+Ability to work in a fast-paced environment
+Ability to work with minimal supervision
+
+Highly developed problem-solving skills
+Experience using Amazon Web Services (AWS) products and supporting Linux and “LAMP” based systems
+Experience supporting and managing products delivered by CDN services such as Akamai for the delivery of streaming media
+Experience with common DevOps tools such as Datadog, Puppet, New Relic, JIRA, Confluence, Bamboo, Maven or Jenkins
+Self-advocating mentality of always looking to build new processes and tools within the wider organisation
+Complete understanding of “SRE”, “Reliability Engineering” & “availability” meanings
+Knowledge and experience of SLA, SLO, SLI & MTTR
+
+Expert level knowledge of public cloud infrastructures (GCP - Preferred, AWS, Azure)
+Hands-on experience working on core Cloud services – compute, storage, network, virtualization, Identity and Access Management (IAM)
+Strong proven experience in Infrastructure as Code (IaC), to be responsible for building robust platforms using automation
+Experience building automation and deploying high quality software with test frameworks and CI/CD, Progressive Delivery
+Strong experience with Kubernetes, Preferably on GKE
+Experience with CI/CD tools like GitLab, Jenkins, TeamCity
+Advanced knowledge of Linux based systems and runtimes
+Strong development experience in one or more programming languages - Python, Terraform, Golang, Java, etc.
+Expert level in Current technology Stack Helm, K8S, Istio, GCP, AWS, GKE, EKS, Terraform, SRE/DevOps practices or equivalent.
+DevOps mindset and familiarity with the concept of Site Reliability Engineering – inherent sense of ownership through the development and deployment lifecycle
+Some experience working with at least 1 or more Cloud Provider automation tools.
+Ability to prioritize tasks, work independently and work collaboratively in an agile environment.
+
+Knowledge of AWS services such as EC2, S3, Lambda, CloudFormation, and CloudWatch
+Experience with scripting languages such as Python, Bash, and PowerShell
+Understanding of networking concepts such as IP addressing, subnets, routing, and security groups
+Ability to design and implement secure and resilient cloud architectures
+Knowledge of DevOps principles and best practices
+Experience with automation and configuration management tools such as Ansible, Chef, and Puppet
+Understanding of container technologies such as Docker and Kubernetes
+Knowledge of monitoring and logging tools such as CloudWatch, ELK, and Splunk
+
+Strong system administration of Linux system skills
+Ability to script in Shell, Perl, or Python or equivalent
+Experience with infrastructure automation tools, such as Puppet or Ansible
+Experience with VMware ESXi
+Experience with AWS or Azure cloud environments
+Experience with building/configuring servers in highly available environments
+Experience with Github and Jenkins
+Experience with DevOps principals, including Continuous Integration and Continuous Deployment
+Understanding of IP protocols and routing
+Writing Technical Documentation (Word/Visio/Excel)
+System administration Windows
+Database Administration (MySQL & MS SQL Server)
+Understanding of stateful/stateless firewalling with iptables
+CheckPoint Firewall-1 administration experience
+Comfortable with syslog, SNMP, IPv4 address translation (NAT)
+Knowledge of Big data Technologies/Tools such as Hadoop MR, Spark, Vertica, NiFi, Kafka etc.)
+Cloud technologies and automation tools eg. Terraform
+Containerisation and virtualisation
+Infrastructure Monitoring Tools Such as Opsview/Nagios/tickstack
+Experience managing SAN technologies (e.g. Fibre Channel and iSCSI) and storage management tools (e.g. LVM and ZFS)
+Familiarity with NFS, Samba, LDAP, RADIUS, IPIP/GRE tunneling, VPN technologies
+Familiarity of ITIL Processes and ISO 27001 standards
+
+Knowledge of RedHat Linux and/or Microsoft Windows Server operating systems
+Experience using DevOps practices and tools to deliver and manage infrastructure
+Experience with infrastructure-as-code and configuration management tools (Puppet, Terraform, Git) to provision both on-premises and cloud infrastructure and applications
+Experience working in a complex environment supporting multiple parallel projects
+Experience in the banking and payments industry
+Relevant industry certifications (RedHat, Microsoft, Azure, Kubernetes)
+
+In-depth experience with public cloud technologies (AWS/GCP)
+Experience developing automation tools and implementing Infrastructure as Code
+Experience managing servers and IT infrastructure
+Knowledge of Information Security Fundamentals including HIPAA, SOC2, NIST, and ISO 27001 compliance
+Understanding of distributed systems and their commonly associated problems
+Quality first mindset with a strong background and experience with developing products for a global audience at scale
+Deep understanding of Site Reliability Engineering (SRE) philosophy, platforms and tools, SLA management, incident resolution, and automation
+Proven strategic and tactical thinker, able and comfortable translating business strategy into architectures/plans and equally comfortable rolling-up-your sleeves to problem solve with your team
+Ability to multi-task and effectively manage multiple projects, competing priorities, and adeptly re-prioritize based on changing needs.
+
+Experience with IT monitoring tools like DataDog / Grafana Cloud and alerting tools like Opsgenie
+Experience with Docker, Kafka, Logstash, and Elasticsearch
+Familiarity with Linux, cloud infrastructure and services, and networking
+Good programming skills - Ability to script in any shell/python/ansible
+Experience with incident and alert management, and problem triage
+Familiarity interfacing at all levels of the company, from customers to support to engineers
+Excellent organization and communication skills
+Strong sense of urgency, ownership, and willingness to go above and beyond
+
+Knowledge of the Nicene Creed and statement of faith
+Ability to teach SRE
+Ability to provide pastoral care
+Ability to work with children
+Ability to work with staff and parents
+Ability to work with a range of stakeholders
+Ability to work with a range of cultures
+Ability to work with a range of ages
+Ability to work with a range of abilities
+Ability to work with a range of religious backgrounds
+Ability to work with a range of learning styles
+Ability to work with a range of learning needs
+Ability to work with a range of learning difficulties
+Ability to work with a range of learning disabilities
+Ability to work with a range of learning challenges
+Ability to work with a range of learning goals
+Ability to work with a range of learning objectives
+Ability to work with a range of learning strategies
+Ability to work with a range of learning resources
+Ability to work with a range of learning materials
+Ability to work with a range of learning technologies
+Ability to work with a range of learning tools
+Ability to work with a range of learning activities
+Ability to work with a range of learning environments
+Ability to work with a range of learning outcomes
+Ability to work with a range of learning styles
+Ability to work with a range of learning approaches
+Ability to work with a range of learning techniques
+Ability to work with a range of learning processes
+Ability to work with a range of learning systems
+Ability to work with a range of learning models
+Ability to work with a range of learning theories
+Ability to work with a range of learning methods
+Ability to work with a range of learning styles
+Ability to work with a range of learning objectives
+Ability to work with a range of learning materials
+Ability to work with a range of learning technologies
+Ability to work with a range of learning tools
+Ability to work with a range of learning activities
+Ability to work with a range of learning environments
+Ability to work with a range of learning outcomes
+Ability to work with a range of learning strategies
+Ability to work with a range of learning resources
+Ability to work with a range of learning processes
+Ability to work with a range of learning systems
+Ability to work with a range of learning models
+Ability to work with a range of learning theories
+
+
+Knowledge of virtualization, networking, Linux systems, and storage analysis
+Experience troubleshooting and debugging customer issues
+Ability to develop and work on internal and external knowledge bases
+Excellent customer service skills
+Multilingual (Korean/Mandarin) skills are a plus
+Passion and ability to learn new things
+
+Experience operating high-availability, fault-tolerant, scalable, distributed software in production: building monitoring, tweaking dashboards, defining alerts, writing runbooks, etc.
+Hands on experience with public cloud offerings (AWS components like EC2, CloudFormation, RDS / Aurora, Caches, SQS - or equivalents, e.g. in GCP / Azure).
+Familiarity with Unix / Linux operating systems.
+Strong engagement to debug, improve code, and automate routine tasks.
+Strong backend engineering experience in one or more prominent languages such as Java, Go or Python.
+Excellent communication skills in written and verbal forms, and an ability to communicate complex technical issues to a range of technical and non-technical audiences (management, peers, clients).
+An ability and desire to mentor and coach engineers.
+
+Fluency in Japanese and English
+B.S. degree in Computer Science or relevant industry experience
+Relevant work experience troubleshooting Linux Systems
+Experience in virtualization and Cloud technologies
+Experience in enterprise customer support, on-call rotation for critical SRE systems, leading incident review and root cause analysis
+Ability to diagnose technical problems and work with Engineering on escalated issues
+Strong problem solving skills, algorithmic thinking and a strong foundation in how systems should work
+Understanding of tools & frameworks required to Operate and manage Cloud infrastructure
+Strong customer service skills
+Solid communication skills and ability to work independently
+Ability to leverage automation, monitoring and data analysis to ensure high availability
+Familiarity with programming languages like C/C++, Python, Go or Java
+Exposure to infrastructure and service monitoring tools
+
+Strong knowledge of software engineering principles and practices
+Experience with scripting languages such as PowerShell, Python, Bash, etc.
+Experience with cloud technologies such as AWS, Azure, GCP, etc.
+Experience with configuration management tools such as Chef, Puppet, Ansible, etc.
+Experience with monitoring and logging tools such as Splunk, AppDynamics, etc.
+Experience with container technologies such as Docker, Kubernetes, etc.
+Experience with version control systems such as Git, SVN, etc.
+Experience with automation and orchestration tools such as Jenkins, TeamCity, etc.
+Strong problem-solving and troubleshooting skills.
+Excellent communication and collaboration skills.
+
+Expertise with modern software continuous integration and continuous deployment practices and an ability to research, critically appraise and evaluate new technologies and approaches.
+Proven experience establishing DevOps and Operational Support practices and processes focused on delivering scalable, reliable and secure services within a cloud-based environment.
+Proven track record in building and evolving software development teams that are responsible for large scale digital products, preferably in a media environment.
+Strategic and creative thinking skills, along with the ability to and inspire creativity and innovation and to drive results.
+Proven ability to manage, liaise and influence decisions at senior executive level.
+Ability to develop and maintain key relationships with stakeholders involved in content distribution and cloud hosting, ensuring successful collaboration and alignment of goals.
+Ability to own cost modelling and estimation process for digital platforms, driving greater efficiencies and cost savings.
+Ability to both lead and contribute to contract negotiations with external partners, ensuring favourable terms and maximizing value for the company.
+Ability to effectively manage key PaaS, IaaS and SaaS vendors including content delivery networks and cloud computing to ensure effective and efficient delivery of ABC digital platforms.
+
+Strong experience with public cloud platforms such as GCP or AWS
+Deep working experience on open source software like Kubernetes, Prometheus, Istio, etc.
+Experience deploying large scale distributed systems and performance, reliability, scalability issues that arise in such systems
+Experience maintaining top level SLA when operating such complex systems
+Ability to work productively with the rest of the development team
+A desire to solve challenging problems
+Bachelor’s Degree in computer science or equivalent experience
+
+Expertise in Linux in a Low-Latency environment
+Knowledge of latency, what causes it and how to avoid it in a trading system
+Proficiency in Python, Perl, and other scripting languages
+Experience with Python scripting and development
+Understanding of life-cycle phases, including testing, development, and release
+Knowledge of discrete event simulation
+Low-Level Network management experience
+Database querying languages such as SQLite or MySQL
+Understanding of C and C++, GO, Rust
+DevOps Experience
+
+-Solid experience in setting up large production platforms using Kubernetes, preferably Redhat OpenShift, for applications in public cloud, preferably Azure
+-Excellent Linux OS administration, networking and troubleshooting skills
+-Experience in configuration management and automation using scripting tools such as Python/Ansible while following software development best practices
+-Familiarity with common DevOps technologies such as Git, Jenkins, Ansible, Terraform, Prometheus and Grafana
+-Embracing SRE philosophy, with a drive to automate any manual action, enabling stability, consistency and resilience at scale
+1. Strong programming skills, with expertise in at least one of the programming languages such as Go/Java/Python.
+2. Familiarity with at least one of the web frameworks, such as Gin/Django/Spring, with a good understanding of their design principles.
+3. Deep understanding of Linux OS, sound knowledge of TCP/IP, HTTP, with good exposure to network, storage, as well as computer architecture.
+4. Familiarity with cloud native framework with experience in Kubernetes.
+5. Good experience with SRE tools such as Ansible, Argo CD, Promethues, and Grafana.
+6. Passion for self-studying cutting edge technologies and staying relevant.
+7. Strong communication and collaboration skills, and willingness to take ownership.
+
+- Experience with CI/CD tools and platforms (Azure DevOps, GibHub etc.)
+- Knowledge of Docker, Kubernetes and cloud VM provisioning (AWS, Azure)
+- Infrastructure automation with ansible or terraform
+- Mocking and automated testing
+- Git pipelines and hooks
+- Database configuration and management (SQL or Non-SQL)
+- Message bus services (RabbitMQ, NATS, Kafka etc)
+- OpenTelemetry collectors (e.g., ELK APM)
+- Infrastructure monitoring solutions (e.g., ELK, Prometheus)
+- Scripting (Bash, Python, etc)
+
+- Strong Operating Systems Skills, preferably Linux (Kernel highly desirable).
+- Strong experience operating in Kubernetes platforms like AKS, EKS, or similar.
+- Good experience managing cloud platforms ideally Azure (but would be open AWS, GCP or Oracle Cloud) or similar.
+- Experience utilizing CI/CD platforms to automate provisioning infrastructure, software builds, tests, and releases.
+- Experience administering SQL/NoSQL databases.
+- Experience with the Hadoop stack (Cassandra, Zookeeper).
+- Knowledge of Configuration Management (Puppet, Salt, Ansible, Terraform, Jenkins, Packer etc.).
+- Knowledge, interest or experience of Python, C#, Scala, Java or Golang.
+- Experience using observability tools such as APM, logging, and metrics to assist with debugging issues.
+- Experience designing tooling to simplify the operational management of SaaS/PaaS systems.
+- Familiarity with building flexible and testable Infrastructure as Code modules.
+Strong knowledge of Linux operating systems, storage, network IO, and other related principles.
+Proficiency in one or more programming languages, such as Python, Go, and Java.
+Experience with storage systems, such as KV, Table, Graph, Redis, MySQL, MongoDB, MQ, and Kafka.
+Experience with computing & big data systems, such as Kubernetes, Docker/Containers, AIops, Spark, Flink, Function as a service, RPC Framework, and Service Mesh.
+Ability to design and set up new IDC and data protection plans to meet standard requirements.
+Ability to build automated operation solutions for large-scale systems.
+Ability to troubleshoot and locate technical issues, and manage system high availability architecture transformation and upgrading.
+Ability to partner with system development teams for system iteration.
+Ability to design and implement software platforms and monitoring frameworks for efficient, automated, and intelligent service-oriented architecture (SOA) governance.
+Ability to monitor and budget systems to optimize the cost of the company.
+Extensive Data Engineering pipeline design and implementation experience within a commercial environment
+Experience working with metadata-based ELT/ETL frameworks
+Experience using Databricks, Python, Scala or Java code against large-scale, cloud-based data warehouses that make use of big-data frameworks like Spark, Kafka, Hive and Map-Reduce
+Prior experience working in/with DevOps teams and comfortable with DevOps/SRE thinking
+Skilled in data modelling and in designing Data Vaults and Kimball-based data models
+Previous experience in working with legacy data warehouses and reverse-engineering designs from undocumented code
+
+Proficiency in troubleshooting Linux Systems
+Familiarity with virtualization and Cloud technologies
+Proven ability to diagnose technical problems
+Strong problem-solving skills
+Comprehensive understanding of tools and frameworks necessary to operate and manage Cloud infrastructure
+Exceptional customer service skills
+Strong communication skills
+Ability to work autonomously
+Proficiency in leveraging automation, monitoring, and data analysis
+Familiarity with programming languages such as C/C++, Python, Go, or Java
+Exposure to infrastructure and service monitoring tools
+Extensive knowledge of networking, operation systems, database systems and container technology.
+Hands on experience in common open-source systems such as Linux, MySQL, MongoDB, Redis and ELK.
+Experience in building solutions with AWS, Google, Azures and other cloud services is a plus.
+Passionate, self-motivated and good teamwork skills.
+Experience in Internet-scale systems is a requirement.
+Strong project management skills that involve many roles and participants to ensure project goal and timeline requirement.
+Experience of managing a technical team for 3+ years with proven results in both business outcome and team management.
+
+Strong Operating Systems Skills, preferably Linux (Kernel highly desirable).
+Strong experience operating in Kubernetes platforms like AKS, EKS, or similar.
+Good experience managing cloud platforms ideally Azure (but would be open AWS, GCP or Oracle Cloud) or similar.
+Experience utilizing CI/CD platforms to automate provisioning infrastructure, software builds, tests, and releases.
+Empathy to support the needs of software engineers.
+Experience administering SQL/NoSQL databases.
+Experience with the Hadoop stack (Cassandra, Zookeeper).
+Knowledge of Configuration Management (Puppet, Salt, Ansible, Terraform, Jenkins, Packer etc.).
+Knowledge, interest or experience of Python, C#, Scala, Java or Golang.
+Experience using observability tools such as APM, logging, and metrics to assist with debugging issues.
+Experience designing tooling to simplify the operational management of SaaS/PaaS systems.
+Familiarity with building flexible and testable Infrastructure as Code modules.
+
+Extensive coding/scripting and debugging experience for building/integrating systems & solutions (Bash, Python, Go, etc.)
+Extensive experience working with automation tools such as Terraform, Puppet, Ansible, etc.
+Hands-on experience architecting and maintaining AWS, Google Cloud, Azure, and/or OCI infrastructure and services
+Experience with Linux Systems Administration/Management, Servers, and Cloud architecture; ability to troubleshoot systematic Linux platform issues
+Experience with identity management infrastructure/architecture with multi-factor authentication (Okta, Duo, etc..) with understanding of standard authentication protocols such as LDAP, Active Directory, SAML, and OAuth
+Experience with NFS/SMB file protocols and how they operate in Mac, Windows, and Linux environments
+Experience implementing and maintaining of Source Control services and infrastructure (i.e. GitHub)
+Experience working in an agile environment, such as Scrum, Kanban, or SAFe
+Experience with containerization/Kubernetes technologies and surrounding ecosystems in production environments a plus
+Experience with administration of file sharing, file transfer infrastructure (e.g. Box, Dropbox, OneDrive, Signiant, Aspera, FTP, Filerunner, etc.) a plus
+Demonstrated ability to explain technical issues clearly and accurately to both technical and non-technical audiences
+Experience in the Visual Effects, Animation, or media and entertainment industries a plus
+Excellent problem solving, analytical skills and technical troubleshooting skills
+Must be a team player
+
+Strong experience in software engineering
+Strong experience in SLO, metrics, logging, and tracing
+Proven record of accomplishment in automating toil
+Excellent understanding of modern software development practices, tools and technologies
+A passion for getting things done, balancing short- and long-term needs
+Influencing software engineers on reliability
+Influence and technical leadership capabilities to drive change in environments, manage stakeholders and get alignment cross functionally
+Strong DevOps fundamentals with preference for Java, Golang, Microservices and other cloud technologies
+
+Experience monitoring and troubleshooting large-scale distributed systems running on Kubernetes
+Demonstrated experience with cloud computing vendors and services
+Advanced networking on Linux platforms/containers
+Experience automating everything through pipelines e.g. Azure DevOps and Github
+Experience with Kubernetes as an end-user/developer
+Proficient writing Terraform modules and implementations
+Experience working with a strong security mindset when building systems/processes
+Previous experience in the fintech industry or a fast-growth technology company
+
+Strong background in selling SaaS solutions and understanding all phases of the sales cycle.
+Ability to partner with the field team to drive high sales growth in Australia and New Zealand Region (primarily ACT).
+Comfort engaging early in a deal to help set sales strategy, understand how to lead discovery, craft a solution to solve a customer’s business need, and get deep in validating how Dynatrace’s solutions address that need in real time.
+Understanding of a customer’s IT infrastructure and software architecture.
+Experience with application performance management technologies and techniques.
+Experience with new innovative technologies like Azure, AWS, Docker, OpenShift, Cloud Computing, Analytics solutions etc.
+Hands-on experience working with programming languages including Java, .NET, PHP, Node.js, Python, JavaScript frameworks including jQuery, React, Dojo, AngularJS etc.
+Experience with Java technology including Servlets, Struts, Spring, Web Services, EJB, JMS etc.
+Experience selling and working with SaaS solutions in multi-tenant architectures.
+Deep understanding of Dynatrace or other accredited Observability tools.
+Experience as a Software Engineer, DevOps Engineer, SRE and proficient in at least one programming language.
+Experience with Statement of Work delivery.
+Experience with Cloud Technologies, Data platforms, Agile and waterfall methodologies etc.
+Hold a current Security Clearance or have the ability and willingness to obtain it.
+Comprehensive understanding of cyber defence and service operations & delivery in large enterprises.
+Experience as a technical writer or public speaker to large audiences.
+
+Experience with AWS services such as EC2, S3, RDS, CloudFormation, Lambda, and VPC
+Knowledge of DevOps tools such as Jenkins, Ansible, and Terraform
+Understanding of containerization technologies such as Docker and Kubernetes
+Experience with system monitoring and logging tools such as AppDynamics, Splunk, and CloudWatch
+Proficiency in scripting languages such as Bash and PowerShell
+Knowledge of version control systems such as Git and Bitbucket
+Understanding of security best practices and IAM
+Ability to troubleshoot and solve complex technical problems
+
+Highly developed problem-solving skills
+Experience using Amazon Web Services (AWS) products and supporting Linux and “LAMP” based systems
+Experience supporting and managing products delivered by CDN services such as Akamai for the delivery of streaming media
+Experience with common DevOps tools such as Datadog, Puppet, New Relic, JIRA, Confluence, Bamboo, Maven or Jenkins
+Self-advocating mentality of always looking to build new processes and tools within the wider organisation
+Complete understanding of “SRE”, “Reliability Engineering” & “availability” meanings
+Knowledge and experience of SLA, SLO, SLI & MTTR
+
+-Experience with SRE/Devops/Platform engineering
+-Experience working in a cloud environment
+-Experience with agile teams (Scrum or Kanban)
+-Experience with scripting and writing automations
+-Experience with CI/CD systems
+-Understanding of Kubernetes and the software development lifecycle
+
+Expertise in containerization technologies such as Docker, Kubernetes, OpenShift, and Helm.
+Hands-on experience in deploying, testing, and troubleshooting containerized applications in production environments.
+Strong understanding of Kea DHCP Server and its services, as well as experience migrating legacy applications to containerized solutions.
+Experience in administering and maintaining MariaDB databases in a containerized environment.
+Telco or Enterprise experience is required.
+Excellent project management skills and experience working in an Agile environment.
+Strong analytical and problem-solving skills.
+Excellent written and verbal communication skills.
+Ability to work independently as well as in a team environment.
+
+Experience in problem-solving and issue resolution
+Systems and Operations background - Environments, SDLC, Branches, Releases, Rollback, Rollforwards, Patches, Hotfixes, Upgrades, Migrations etc.
+Working knowledge of request / service / ticketing platforms - JIRA, ServiceNow, Salesforce
+Sound knowledge in using operational toolsets in observability, monitoring, logging, alerting Splunk, SumoLogic, NewRelic, DataDog, LaunchDarkly, OpsGenie, PagerDuty
+Demonstrable track record of successful operational management.
+Exceptionally detail-oriented with excellent documentation and written communication skills.
+Collaborating on Slack, JIRA and across a variety of documents and artifacts.
+Experienced people leader, capable of distributing and balancing work across the team.
+
+Knowledge of SRE best practices and processes
+Hands-on experience writing code and building tools
+Deep AWS experience and understanding
+Experience collaborating and working closely with software developers and development teams
+Experience with containerized and serverless architectures
+Understanding of DevOps principles and practices
+
+Strong problem-solving skills and the ability to think critically and logically.
+Expertise in multiple layers such as infrastructure, platforms, and networking.
+Proficiency in both Windows and Linux system administration.
+Familiarity with system monitoring tools such as Nagios, OpManager, FrameFlow, and others.
+Ability to effectively monitor and optimize system performance.
+Ability to work in a fast-paced environment and handle high-pressure scenarios.
+Proactive initiative and strong customer orientation.
+Excellent communication and interpersonal skills.
+Strong experience in software engineering, with focus on platform engineering
+Excellent understanding of modern software development practices, tools and technologies
+Proven track record in automating test environments
+A passion for getting things done, balancing short term and long term
+Experience with containerisation technologies (Docker & Kubernetes)
+Experience creating and establishing environments based on cloud best practices
+Experience with quality engineering tools and practices
+Experience with implementing capacity & performance automation and tools
+Strong DevOps fundamentals with preference for Java, Golang, Microservices and other cloud technologies
+
+Experience in platform engineering, including technologies such as TypeScript, GraphQL, Aurora PostgreSQL, AWS, containerization (EKS or ECS), serverless technologies, developer tooling, and infrastructure-as-code (Pulumi and Terraform).
+Experience managing platform projects, including the ability to own the delivery of complex features, break down requirements and provide reasonable estimates.
+Pragmatic and flexible approach to software development, including the ability to adjust to shifting deadlines and project goals.
+Ability to maintain and foster a pragmatic approach to software development while also collaborating towards establishing detailed guidelines and standards for product development processes based on industry best practices and experience.
+Excellent, concise communication skills, including the ability to convey thoughts, opinions, and feelings with the platform team and articulate effort vs impact tradeoffs.
+A keen eye for quality, with the ability to cut scope before cutting quality.
+Mentoring and support skills, including the ability to assist in optimizing the team to continually improve their software practices through code review, pair programming, design sparring, etc. to support career growth.
+Experience with operational health, including the ability to bring an SRE mindset to help develop operational practices within the platform and product teams.
+
+Strong knowledge of Pega (v7.x/v8.x) and Pega Cloud
+Experience with performance management tools, such as AppDynamics and PDC
+Proficiency in building, implementing and supporting model-driven, enterprise Pega case management business solutions
+Experience in flows, activities, user interface, flow actions, agents, SLA, external authentication, PRPC security, reports, listeners (file, MQ), connectors, REST and SOAP services
+Proficiency in Pega database design and issue triage and root cause analysis by going through the Pega logs
+PCSA (PEGA Certified Systems Architect); preferred PCSSA (Pega Certified Senior System Architect) on Pega version 7.x or 8.x
+Experience in a fast paced DevOps environment while contributing in Pega design review and code review sessions
+Ability to identify and implement automation opportunities to drive down operational toil and technical debt
+Ability to participate and lead calls for resolution of incidents to production Pega services
+Excellent communication skills, able to negotiate and drive outcomes with various stakeholders
+Ability to drive innovation and process improvements using new concepts
+Ability to assist with the transition of Pega application to cloud
+Good understanding of Cloud Infrastructure and Virtual Networking
+Experience working in closely held/confidential environments
+Proficient with maintaining CI/CD pipelines
+System Administration including Linux and Windows internals, TCP/IP, DNS, Load balancing technologies
+Good programming experience with Python including Object Oriented programming
+Versatile in cloud related technologies.
+Strong Cloud network experience
+Adept in two of three areas: (1) Python, Go or Java, (2) Kubernetes and (3) Terraform
+3-5 years’ experience in compute, network, storage, database troubleshooting for improving capacity, reliability, scalability, availability working as a site reliability engineer
+Proficient with Git source code management (SCM)
+Working with compute, network, storage, database, troubleshooting for improving capacity, reliability, scalability
+OS image build for Linux, Windows and patch automation using Python, PowerShell
+Cloud network experience
+Familiar with Software Deployment and lifecycle in Cloud
+Experience working with fault tolerant, highly available, high throughput, distributed, scalable systems
+Good understanding of Agile software development principles including using common tools such as JIRA
+Experience working with fault tolerant, highly available, high throughput, distributed, scalable systems
+Aptitude to be a good team player and the desire to learn and implement new Cloud technologies as needed
+Excellent organizational, verbal, and written communication skills
+Good understanding of Agile software development principles including using common tools such as JIRA
+
+Strong knowledge of Amazon Web Services (AWS)
+Experience in software application analysis, design, development, and deployment
+Experience in writing ad hoc scripts and tools, utilising HTML, JavaScript, Bash, PowerShell, AWS CLI, Python, SQL, and Lambda
+Proven analytical and problem-solving skills
+Experience working with networking components and related architectures
+Knowledge of tools and technologies such as source control, Continuous Integration (CI), Infrastructure as Code (IaC), deployment automation, and container concepts
+
+Experience with distributed application deployment and management
+Experience with container technologies (e.g., Kubernetes, Docker)
+Experience with Infrastructure-as-code (IaC) concepts
+Experience with cloud provider services such as AWS, Azure, or Google Cloud Platform
+Familiarity with RESTful systems and their APIs
+Foundational understanding of at least one programming language and source control (Preferably Golang)
+Fluent English language skills
+Strong knowledge of Windows Platform or Linux, developer tools and ability to diagnose and debug user code.
+Fluency in one or more automation languages (PowerShell, CLI etc.).
+Excellent problem resolution, judgment, negotiating and decision-making skills.
+Ability to meet Microsoft, customer and/or government security screening requirements.
+Excellent written and oral communication skills.
+Ability to manage and prioritize multiple tasks in accordance with high level objectives/projects.
+Demonstrates strategic thinking, quantitative and analytical skills, team leadership, and collaboration.
+Understanding of High Availability, Disaster Recovery, Business Continuity, Performance Tuning.
+
+3 to 5 years or more experience in an SRE or DevOps role.
+A deep understanding of SRE best practices and processes.
+Hands-on experience writing code & building tools.
+Deep AWS experience & understanding.
+Experience collaborating & working closely with software developers and development teams.
+Experience with containerised and serverless architectures.
+Knowledge of CloudFormation & Terraform Infrastructure as Code tooling.
+Kubernetes experience would be ideal.
+
+1. Self-motivation and a passion for quality and SRE/DevOps principles.
+2. Exposure to Windows, Linux, and Azure administration.
+3. Strong technical, networking, and infrastructure fundamentals.
+4. A recognized Degree in a computer science related field or the experience to show you don't need one.
+5. Strong analytical and problem-solving skills enabling issues resolution.
+6. Experience in software development in one or more high level language.
+7. Experience with AWS administration.
+8. Experience running highly resilient systems.
+9. Cloud architecture experience.
+10. Experience with IT automation systems like Ansible.
+11. Cybersecurity experience.
+
+Knowledge in the design of network systems at enterprise-level, datacentres, or large distributed systems with understanding of new and emerging networking and security technologies.
+Ability to assure compliance with SKAO security policies and applicable legislation and regulation.
+Experience in the procurement, management, and delivery of network contracts in a complex, high value environment.
+Knowledge and understanding of long-haul networking technologies, software-defined networking systems, zero-trust networking principles, system information and event management (SIEM) systems and syslog tools, and high-performance computing (HPC) environments.
+Cisco certifications/qualifications such as CCNA or higher.
+
+High-level experience in .Net, .Net Core/5
+AWS Cloud Architecture (SRE)
+Strong knowledge of AI trends
+Experience or knowledge of Cyber Security
+Python, Go is a bonus!
+Analytical thinking
+Systematic
+Proactive
+Collaborative
+
+Knowledge of Linux in a Low-Latency environment
+Understanding of latency, what causes it and how to avoid it in a trading system
+Familiarity with Python collection
+Strong Python or Perl proficiency
+Python scripting and development experience
+Good understanding of life-cycle phases, including testing, development and release
+Discrete event simulation
+Low-Level Network management experience
+Database querying languages such as SQLite or MySQL
+Understanding of C and C++, GO, Rust
+DevOps Experience
+
+Expertise in container orchestration (Kubernetes, EKS, and Docker)
+Experience with infrastructure as code tooling such as Terraform or CloudFormation
+Experience with Ansible
+Scripting or programming skills in Python, Java, and Bash
+Strong experience in DevOps or SRE
+Strong experience deploying to and managing Amazon Web Services infrastructure - S3, EKS, VPC, ECS, IAM, Load Balancers
+Linux/UNIX system administration and security
+Experience configuring and managing HAProxy, RabbitMQ, Kafka, Cassandra, and Postgres, OpenLDAP, ElasticSearch, and Airflow
+Thorough knowledge of IP networking
+Experience building durable, scalable, multi-region infrastructure
+Experience with CI/CD and Automation frameworks
+Experience with IoT style infrastructure including OTA update systems
+Experience with embedded operating systems, IoT, sensor networks, or power systems
+Strong software engineering and release engineering experience
+Experience in a similar leadership role
+Knowledge of emerging technologies
+Ability to engage senior business representatives
+Strategic direction for SRE initiatives
+Establishing observability, SLO’s and error budgets
+Implementing SRE best practices
+Driving continuous improvement initiatives
+Leading and influencing with data insights
+Strong prioritisation skills and driving OKR’s
+Mentoring and coaching a team of SREs, software engineers and 24x7 operators
+Fostering a culture of collaboration, learning, and knowledge sharing.
+
+Cloud Computing Services (AWS, GCP, Azure)
+Observability Strategies and Tools
+Infrastructure-as-code (Terraform, Cloud Formation)
+Experience using Git in a team environment (merge requests, branching, deploying or using branching strategies)
+Experience with Docker and container orchestration (Kubernetes)
+Application Development, test strategies (unit, integration, mocks, end-to-end), defensive coding, dependency management
+Continuous Integration / Delivery / Deployment. Experience with tooling, paradigms, workflows, advocacy
+Release Management. Versioning, signing, packaging, artifact management and distribution
+Solid scripting skills
+IP networking, including familiarity with the functionality, operating, and failure modes of networks
+Experience in a high-volume or mission-critical service environment
+
+Expertise in Linux systems internals, monitoring, networking and core cloud concepts
+Knowledge of standard internet services, such as DNS, TCP/IP, NFS and Global Load Balancing
+Performance troubleshooting/tuning experience
+Understanding of web technologies, Apache, HTTPS/SSL, Web sessions
+Knowledge of the software lifecycle development process
+Experience with database environments and requirements for high availability environments
+Solid analytical skills for solving problems
+Architectural patterns for distributed systems, the composition of reliable services from unreliable components as well as cloud computing at scale
+Scripting experience in Bash, Perl, Python, or similar
+Database knowledge (Oracle, NoSQL such as Cassandra and Redis)
+Networking Monitoring, Networking protocols, SNMP, syslog, network telemetry, REST API
+Experience with orchestration and configuration management tools like SaltStack, Terraform, Kubernetes, Ansible, etc.
+Exposure to Gluster FS, Zookeeper, Kafka, ElasticSearch or other distributed platforms
+Exposure to Oracle Exadata
+Basic knowledge of ITIL concepts
+
+Expertise in software engineering, cloud infrastructure engineering and administration.
+Experience with cloud automation development tools such as Gitlab CI/CD, Terraform Cloud/Enterprise, Ansible, AWS CloudFormation, Azure DevOps, Python/Bash/PowerShell Scripting.
+Knowledge of agile/iterative development, and test-driven development.
+Mastery of collaborative software development using Git, Jira and Confluence.
+Experience in implementing best practice cybersecurity controls in cloud environments.
+Experience in agile style ways of working.
+Experience in working with multi-cultural and diverse teams.
+Experience in working with virtual teams across different time zones.
+Relentless drive to continuously learn new skills and improve.
+Previous experience in an infrastructure or application development domain such as: Network Engineering, IaaS Engineering, DevSecOps, Automation Tools Engineering, Web Application Development, Mobile Application Development, Data Science is highly desirable.
+
+Evidence of a life of discipleship in following Jesus and personal and professional commitment to see the gospel grow
+4 or more years as an employed youth minister with experience leading teams
+High level preaching capacity with excellent verbal and written communications skills
+A qualification from Youthworks College or Moore Theological College
+Ability to relate with a diverse range of people
+Experience using Elvanto in a ministry context
+Experience working within the purposes structure of church
+
+Strong analytical and problem-solving skills
+Knowledge of reliability engineering principles and practices
+Ability to develop and implement predictive maintenance programs
+Ability to develop and monitor condition monitoring programs
+Knowledge of asset management and maintenance strategies
+Ability to analyse cost effectiveness of various management options for asset care
+Excellent communication and interpersonal skills
+Ability to work autonomously and proactively
+Creative problem-solving skills with the tenacity and resilience to implement solutions
+Tertiary qualifications in Engineering or similar
+
+Experience with Infrastructure as Code tools such as Terraform or CloudFormation
+Experience with Continuous Integration/Deployment tools such as GitHub Actions, Jenkins, or BuildKite
+Experience with cloud computing across one or more major public cloud providers such as GCP, AWS, or Azure
+Proficiency with Kubernetes or equivalent container orchestration tooling
+Experience working with engineers, operations, and architecture groups developing scalable and supportable solutions
+Experience with common monitoring and observability tooling such as Honeycomb, Splunk, Dynatrace, etc.
+
+Experience delivering technical solutions and driving business outcomes.
+Deep understanding of either DevOps or DevSecOps or Application Development.
+A passion for all things Azure and broad knowledge of Azure technologies.
+Excellent communication skills, great soft skills, and an upbeat attitude.
+Previous exposure to building CI/CD or IaC pipelines and deploying code using Bicep or ARM templates or Terraform.
+Experience running applications using Azure platform services.
+Experience running, maintaining Infrastructure services.
+Ability to create tools and frameworks to enable dev teams.
+Knowledge of applying SRE principals to monitor and measure what’s important.
+Ability to automate customer platforms for reliability at scale.
+Proactively seeking platform and application improvement opportunities for customers.
+
+Hands-on experience with AWS services (Lambda, ECS, EC2, ALB, ASGs, CW, RDS, SNS, VPC, SG, IAM, SQL/NoSQL, etc but you don't need to know all!)
+Hands-on experience with Infra as Code (CloudFormation, Pulumi, CDK, or Terraform)
+Hands-on experience with Docker
+Experience with monitoring and reliability (this role is more SRE than Sys engineering)
+Ability to build complete CI/CD workflows - GitLab is preferred
+Familiarity with GitOps and DevSecOps
+Basic knowledge in any programming languages: Shell, Bash, Typescript, Go, Python, etc
+Basic knowledge of popular public & enterprise blockchains, cryptocurrency, smart contracts (Solidity), and NFTs.
+Knowledge and skills in Microsoft Windows 2012/2016/2019 Operating system and SQL Server
+Experience working with cloud platforms (AWS)
+Have a good understanding of Window-based software
+Good knowledge of at least one scripting language
+Good Understanding of CI/CD processes and tools such as BuildKite, Jenkins or any other similar tool
+Knowledge in IaC patterns and tools such as Terraform / Cloud formation
+Knowledge in docker container management
+
+Strong knowledge of Linux/Unix systems
+Experience with automation and configuration management tools such as Ansible, Terraform, and Jenkins
+Experience with container orchestration tools such as Kubernetes
+Experience with monitoring and logging tools such as Prometheus, Grafana, and ELK
+Experience with scripting languages such as Bash, Python, and Node.js
+Experience with cloud technologies such as AWS
+Strong problem-solving and troubleshooting skills
+Excellent communication and collaboration skills
+Ability to work independently and as part of a team
+
+Advanced Linux engineering skills and experience with modern x64 based server hardware.
+Solid Python coding skills for automation.
+Experience with CI/CD technologies such as Puppet, Ansible, Docker, Jenkins, SaltStack, etc.
+Fundamental networking skills such as TCP, VLAN, Multicast, DNS, DHCP.
+Fundamental database skills such as MySQL, NoSQL, PostgreSQL.
+Experience with site reliability, high availability, performance, scalability, and low-latency.
+Strong communication and interpersonal skills.
+A technology or finance related degree or diploma.
+Experience with financial services or trading systems (ideal).
+Experience with Hadoop, PySpark, Scala Spark, Dask, and S3 (for Data Engineer centric roles).
+
+Expertise in fullstack JavaScript development, with a focus on React, Next.js, TypeScript, Express, Node, MongoDB, and AWS
+Experience with data-driven decision making
+Ability to advise and contribute to technical decision making
+Experience with agile sprints and OKRs
+Knowledge of tooling and technologies such as AI, Stripe, GraphQL and Apollo, Mongoose, and Turborepo
+Ability to collaborate closely with the product team to define the scope and complexity of new projects
+Ability to contribute to engineering strategies and help co-create a culture of continuous improvement, engineering excellence, creativity, and innovation
+
+3+ years’ experience in a DevOps and/or Site Reliability Engineering position
+3+ years working with public cloud technologies (AWS/GCP)
+3+ years’ experience developing automation tools and implementing Infrastructure as Code
+3+ years of experience managing servers and IT infrastructure.
+Knowledge of Information Security Fundamentals including HIPAA, SOC2, NIST, and ISO 27001 compliance
+Understanding of distributed systems and their commonly associated problems
+Quality first mindset with a strong background and experience with developing products for a global audience at scale.
+Deep understanding of Site Reliability Engineering (SRE) philosophy, platforms and tools, SLA management, incident resolution, and automation
+Proven strategic and tactical thinker, able and comfortable translating business strategy into architectures/plans and equally comfortable rolling-up-your sleeves to problem solve with your team.
+Ability to multi-task and effectively manage multiple projects, competing priorities, and adeptly re-prioritize based on changing needs.
+
+Experience in SRE/ITOM, Strong cloud platforms, Azure
+Deep understanding of DevOps, CI/CD and automation
+Experience building CI pipelines, both design and implementation
+End-End monitoring experience of Infrastructure and Application systems
+Experience setting rules, integration of Alerts and Events Management in SNOW
+Technical knowledge of software development frameworks incorporating tools such as DevOps, Azure DevOps and Service Now
+Infrastructure as Code (Terraform, Ansible)
+Experience with Azure Monitoring, Elastic Cluster, CISCO DNAC, SolarWinds, SCOM etc.
+ServiceNow ITOM Support or implementation
+Demonstrated hands-on experience with multiple implementations of the core suite of ServiceNow ITOM applications (Discovery, Service Mapping & Event Management. Certificate & Cloud Management will be a plus).
+
+-Experience in Technical/ Functional support roles with Customer-facing and Scripting experience
+-Computing Scripting experience, preferably in Python along with Webservices, SoapUI, Edifact, Unix, Linux, Java
+-Automation skills required
+-Must have an automation mindset and to understand the language to recommend changes and implementation to create new scripts.
+-Project management skills preferred
+-Previous experience in an enterprise environment is required.
+-Previous experience in problem management and change management is required.
+-Must have knowledge and experience on how to do a test plan
+-Experience in Amadeus and/or Travel industry domain is a “nice to have”
+
+- Experience with Jenkins or GitLab
+- Experience with Terraform
+- Experience with Ansible
+- Experience with Kubernetes
+- Experience with Grafana
+- Experience with Prometheus
+
+Strong technical expertise in software engineering principles and practices, specifically for trading and portfolio systems.
+Knowledge of agile development practices and experience managing diverse delivery teams.
+Ability to provide innovative thought leadership, shape architecture, product design, and drive continuous improvement.
+Experience with Continuous Integration, Continuous Delivery, and Cloud capabilities.
+Familiarity with .NET, Azure, Terraform, and Azure DevOps.
+Excellent stakeholder relationship development skills, with the ability to pitch technology solutions to leadership stakeholders.
+Passion for emerging technologies and their potential to drive strategic outcomes and solve complex business problems.
+Ability to lead and manage individuals within the delivery team, acting as their advisor, guide, mentor, and coach.
+Drive and influence to spearhead cultural change and promote innovation.
+
+Strong Operating Systems Skills, preferably Linux
+Experience managing cloud platforms such as Azure, AWS, or similar.
+Experience operating in Kubernetes platforms like AKS, EKS, or similar.
+Experience using managed languages such as Python, Go, C#, Java, or similar.
+Experience utilizing CI/CD platforms to automate provisioning infrastructure, software builds, tests, and releases.
+Experience using observability tools such as APM, logging, and metrics to assist with debugging issues.
+Experience designing tooling to simplify the operational management of SaaS/PaaS systems.
+Familiarity with building flexible and testable Infrastructure as Code modules.
+Empathy to support the needs of software engineers.
+Hands-on experience with Azure Technologies with a deep understanding of the foundational platform including Subscriptions, Resource Groups, RBAC etc
+Experience in one or more DevOps automation tools – BitBucket, Jira, Jenkins.
+Experience in IaC and infrastructure management tools – Terraform
+Knowledge in scripting and developing tools including - Bash/Shell, Ruby, JSON, Python, NodeJS, JavaScript.
+Experience in developing CICD pipelines – Jenkins, Artifactory.
+Troubleshooting in Azure technologies and across multiple consumption models (IaaS, PaaS, and SaaS).
+Agile methodologies – Scrum, Kanban, Lean, XP, SAFe, TDD, BDD, customer centric design.
+Customer engagement, relationship development, requirements gathering and delivery planning and scheduling.
+Azure cloud certification is highly desired.
+
+Experience in a Production Support role/environment
+Experience with technical tools and systems and a willingness and ability to learn new technologies - SQL and Linux
+Experience installing, configuring and/or supporting business applications
+Knowledge and experience of Problem Management Tools
+Ability to engage senior stakeholders and lead discussions with clear, articulate, and highly assertive communication skills
+Experience working in a fast-paced environment whilst demonstrating practical problem solving and strategic thinking skills
+Bachelor’s/University degree or equivalent experience
+
+Platform Engineering experience (Software Engineering/AppSecurity Engineering/DevOps/SRE/Observability)
+Programming skills: Python, Java, C#, TypeScript, and JavaScript, Yml, helm
+Experience with virtualization technologies such as Docker and virtual machines, as well as cloud platforms like AWS and Azure.
+Dynamic Configuration Management tools and Integration Experience (ServiceNow, Ansible, Score, LaunchDarkly, Kafka, Confluent, Snyk, SonarQube, Jmeter, New Relic, Splunk. etc) GitOps, ChatOps, OPA, Deployment Gating and Release Management Automation
+Scripting and shell scripting: Bash, PowerShell, and Python scripting.
+Proven ability to work effectively with development and operations teams to align processes and implement automation solutions.
+Understanding of security best practices and experience implementing security measures, such as network segmentation, access control, and encryption.
+
+Knowledge of Linux/Unix/Windows operating systems and networking principles.
+Experience with cloud platforms (e.g., AWS, Google Cloud, Azure) and infrastructure-as-code tools (e.g., CDK, CloudFormation).
+Familiarity with containerization technologies (e.g., Docker, Kubernetes) and orchestration tools.
+Knowledge of monitoring and logging systems (e.g., Splunk, Prometheus, ELK stack).
+Experience with DevOps practices and CI/CD pipelines.
+Knowledge of database management systems (e.g., MS SQL, Oracle, PostgreSQL).
+Understanding of security best practices and experience implementing security measures.
+Certification in relevant technologies (e.g., AWS Certified DevOps Engineer, Google Cloud Professional DevOps Engineer).
+
+Deep knowledge in two areas of expertise and general knowledge of all areas of expertise.
+Experience supporting PostgreSQL in large production environments.
+Experience with infrastructure automation and configuration management, using tools such as Chef, Ansible, Terraform, etc.
+Think about systems: edge cases, failure modes, behaviors, specific implementations.
+Know your way around Linux and the Unix Shell.
+Have an urge to collaborate and communicate asynchronously.
+Have an urge to document all the things so you don’t need to learn the same thing twice.
+Have an enthusiastic, go-for-it attitude. When you see something broken, you can’t help but fix it.
+Have an urge for delivering quickly and effectively, and iterating fast.
+Share our values, and work in accordance with those values.
+Ability to use GitLab.
+Bonus: Strong programming skills as a (former) backend engineer - Preferably with Ruby and/or Go.
+Strong system administration of Linux system skills
+Ability to script in Shell, Perl, or Python or equivalent
+Experience with infrastructure automation tools, such as Puppet or Ansible
+Experience with VMware ESXi
+Experience with AWS or Azure cloud environments
+Experience with building/configuring servers in highly available environments
+Experience with Github and Jenkins
+Experience with DevOps principals, including Continuous Integration and Continuous Deployment
+Understanding of IP protocols and routing
+Writing Technical Documentation (Word/Visio/Excel)
+System administration Windows
+Database Administration (MySQL & MS SQL Server)
+Understanding of stateful/stateless firewalling with iptables
+CheckPoint Firewall-1 administration experience
+Comfortable with syslog, SNMP, IPv4 address translation (NAT)
+Knowledge of Big data Technologies/Tools such as Hadoop MR, Spark, Vertica, NiFi, Kafka etc.)
+Cloud technologies and automation tools eg. Terraform
+Containerisation and virtualisation
+Infrastructure Monitoring Tools Such as Opsview/Nagios/tickstack
+Experience managing SAN technologies (e.g. Fibre Channel and iSCSI) and storage management tools (e.g. LVM and ZFS).
+Familiarity with NFS, Samba, LDAP, RADIUS, IPIP/GRE tunneling, VPN technologies.
+Familiarity of ITIL Processes and ISO 27001 standards
+
+Demonstrated experience in cloud networking/system administration, in Azure
+Strong experience in system administration in Windows and Linux environments
+Practical knowledge of provisioning and maintaining Azure cloud services using Terraform
+Demonstrated experience in administering objects in Active Directory, Azure AD, ADFS and Exchange 2016 / Exchange On-line
+Knowledge of GitHub and Azure DevOps pipeline deployments
+
+Knowledge of AWS core services such as EC2, S3, VPC, IAM, CloudFormation, Lambda, and CloudWatch
+Experience with designing, deploying, and managing AWS cloud-based applications
+Understanding of networking concepts such as IP addressing, DNS, and routing
+Ability to create and maintain automation scripts for cloud deployments
+Understanding of security best practices for cloud-based applications
+Knowledge of DevOps principles and practices such as CI/CD pipelines, automation, and infrastructure as code
+
+Expertise in IT Operations (Ordering-focused)
+Experience in Major Incident Management
+Experience in Operation Intelligence (operations trends analysis)
+Experience in communicating and influencing at senior management and executive level
+Strong vendor management experience with a successful track record of driving an outcome
+Solid understanding of Ordering/Order fulfilment technology (preferably Amdocs CRM/OMS)
+Demonstrable background in the design, implementation, measurement and tracking of operational key performance indicators
+Strong customer focus with a commitment to the delivery of quality services
+Detailed understanding of the end-to-end software life cycle, operational and support procedures and processes
+Proven track record of conceptual/strategic thinking ability
+Experience with monitoring systems (Elastic, DynaTrace, Nagios etc.)
